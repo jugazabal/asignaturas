@@ -1,0 +1,47 @@
+# Archivos temporales de Quarto
+/.quarto/
+_site/
+_book/
+_output/
+*.html
+.Rproj.user
+
+# Archivos LaTeX temporales
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.tex
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de Office
+~$*
+*.tmp
+
+# Archivos de respaldo
+*_RESPALDO.*
+*_backup.*
+
+# Node modules (si usas herramientas npm)
+node_modules/
+
+# Entornos virtuales de Python (si usas)
+venv/
+env/
+.venv/
+
+# Cache
+__pycache__/
+*.pyc
+.cache/
