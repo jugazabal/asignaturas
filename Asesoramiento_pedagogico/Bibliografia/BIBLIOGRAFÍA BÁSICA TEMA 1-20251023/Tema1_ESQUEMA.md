@@ -117,13 +117,15 @@ ASESORAMIENTO
 ```
 PERSPECTIVA SOCIAL
 │
-├─ ORIGEN
-│   ├─ Servicios sociales (mediados s. XX)
-│   └─ Frank (1936): Problemas = modelos imperfectos organización social
+├─ a) ASESORAMIENTO COMPROMETIDO
+│   ├─ Compromiso ético (justicia social, derechos del menor)
+│   ├─ Defensa y abogacía frente a estructuras injustas
+│   ├─ Trabajo crítico y reflexivo sobre contextos
+│   └─ Colaboración orientada a transformación institucional
 │
-├─ FUNDAMENTOS
-│   ├─ Intervención indirecta
-│   ├─ Asesor apoya a profesionales e instituciones
+├─ b) ENFOQUE COMUNITARIO
+│   ├─ ORIGEN: Servicios sociales (mediados s. XX)
+│   ├─ FUNDAMENTOS: Intervención indirecta; apoyo a profesionales e instituciones
 │   ├─ Enfoque intersectorial (trasciende límites escolares)
 │   └─ Colaboración multiprofesional indispensable
 │
