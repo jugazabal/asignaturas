@@ -222,7 +222,28 @@ Acto de aprendizaje mutuo. El asesor potencia capacidades y autonomía, no susti
 
 ---
 
-## 📖 APLICACIÓN A LA EDUCACIÓN SOCIAL
+## � PERSPECTIVA: ASESORAMIENTO COMPROMETIDO
+
+La perspectiva del asesoramiento comprometido subraya la dimensión ética y política de la intervención profesional. No se limita a ofrecer técnicas o conocimientos: implica una implicación responsable con las realidades sociales y una toma de postura informada frente a desigualdades y situaciones de riesgo.
+
+Principales rasgos:
+
+- Compromiso ético: la intervención incorpora valores explícitos (justicia social, defensa de los derechos del menor, equidad) y los convierte en criterios de acción.
+- Defensa y abogacía: el asesor no es neutral ante estructuras que perpetúan desventajas; actúa también como agente que visibiliza problemas y promueve cambios en políticas o prácticas institucionales.
+- Trabajo reflexivo y crítico: integra la evidencia técnica con el análisis crítico de contextos socioestructurales y del marco normativo que condiciona la intervención.
+- Colaboración transformadora: la cooperación entre profesionales se orienta no sólo a resolver problemas puntuales, sino a transformar condiciones institucionales y sociales que los generan.
+
+Implicaciones prácticas:
+
+- Las acciones de asesoramiento incorporan estrategias de incidencia (coordinación con servicios sociales, elaboración de informes para políticas, formación dirigida a mandatarios) además del apoyo técnico a profesionales.
+- El inicio a demanda sigue siendo relevante, pero el asesor comprometido puede impulsar mecanismos de detección y denuncia cuando hay riesgo evidente para menores.
+- Requiere formación en ética profesional, conocimientos jurídicos básicos y competencia para el trabajo intersectorial.
+
+Esta perspectiva complementa y profundiza las otras (social, pedagógica, psicológica) al situar la práctica asesora en un horizonte de responsabilidad pública y transformación social.
+
+---
+
+## �📖 APLICACIÓN A LA EDUCACIÓN SOCIAL
 
 Para educadores sociales, el asesoramiento implica:
 
