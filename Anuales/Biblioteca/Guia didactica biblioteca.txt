@@ -1,0 +1,368 @@
+
+12
+Colour:
+
+100%
+
+Automatic Zoom
+2
+1. Piensa antes de buscar. Dedica tiempo a planificar la búsqueda.
+• Redacta una frase que resuma el tema de interés.
+• Define el tópico, extrae las palabras clave e identifica sinónimos.
+2. Reconoce las fuentes de información. Pueden tratarse de una base de datos, una
+persona, un grupo o una organización.
+• Identifica qué tipo de información produce cada fuente para realizar las
+preguntas adecuadas en el lugar idóneo.
+• Describe la fuente para determinar el punto de vista de la información.
+• Selecciona información de fuentes primarias, evitando la información de
+segunda mano.
+3. Trabaja con precisión. Diseña estrategias de búsqueda precisas que ayuden a
+identificar y recuperar información de interés.
+• Utiliza las opciones de búsqueda avanzada.
+• Realiza búsquedas exactas encerrando frases entre comillas.
+4. Organízate. Casi toda la información está disponible a texto completo en Internet.
+• Usa software que facilite la gestión de todo tipo de contenidos (enlaces a
+páginas web, documentos, fotos, etc.).
+• Comprueba que el programa dispone de un buscador interno que facilite la
+recuperación de la información almacenada de forma sencilla.
+5. Cuestiona lo que lees. Contrasta distintas fuentes y presta atención a qué aspectos
+se han destacado y cuáles se han omitido en cada una de ellas.
+• Evalúa la calidad y la veracidad de la información.
+• Recuerda que cualquier persona puede publicar contenido en Internet.
+6. Repite. Hasta estar seguro de no haber excluido información valiosa.
+• Prueba diferentes ecuaciones de búsqueda.
+• Consulta con expertos que puedan aportar otros puntos de vista.
+7. Innova. Aprovecha el conocimiento existente para resolver problemas. Trata de ver
+más allá de lo que ya se ha hecho y aporta conocimiento propio sobre el tema en
+cuestión.
+• Idea soluciones distintas para un mismo problema.
+• Adopta medidas eficientes e innovadoras para resolver problemas.
+• Justifica los resultados obtenidos por la investigación.
+8. Cultiva la honestidad. Respeta las ideas de terceras personas y reconoce su labor.
+3
+• Cita la información independientemente del formato en el que se presente
+(web, fotografía, libro, etc.).
+• Estudia las formas de reconocer el trabajo ajeno de manera adecuada para
+evitar el plagio.
+9. Publicita tu aportación. Comparte los nuevos conocimientos con la sociedad.
+• Elige el medio y el formato más adecuado a la audiencia, al producto y al
+objetivo perseguido con la comunicación pública.
+• Reflexiona sobre si la aportación constituye una buena práctica extensible a
+otras unidades.
+• Participa en debates, foros y eventos que traten sobre el tema.
+10. Manténgase al día. Revisa periódicamente las tendencias en el campo de
+conocimiento.
+• Usa los servicios de alertas que ofrecen los buscadores para simplificar la
+recogida de información.
+• Dedica entre 30 y 45 minutos diarios a la lectura de documentación
+especializada.
+• Comparte información valiosa.
+2. Descripción del curso
+Es una actividad formativa de contenido teórico-práctico, en la que se presentan un conjunto de
+herramientas tecnológicas relacionadas con la información que resultan imprescindibles para
+afrontar una investigación académica de manera eficaz. Junto a las más importantes fuentes de
+información especializadas, se utilizarán gestores bibliográficos como Mendeley, RefWorks o
+Zotero, y se accederá a herramientas de evaluación cualitativa de publicaciones como Journal
+Citation Reports (JCR), Scopus-CiteScore o Scimago Journal & Country Rank (SJR), entre otras.
+Este curso tiene como propósito que el estudiantado adquiera una comprensión sólida del
+proceso de búsqueda, evaluación y uso de la información científica, haciendo hincapié en el
+marco legal y ético en que se produce y usa esta información. Además, se fomentará una
+actitud crítica que permita una evaluación cualitativa de las fuentes de información, con el
+objetivo de incorporar la información más pertinente y fiable al trabajo de investigación.
+Para la realización del curso no son necesarios conocimientos previos, pero sí se precisa
+conexión a Internet y son deseables conocimientos de la lengua inglesa, a nivel de comprensión
+lectora.
+4
+3. Resultados de aprendizaje
+Según la metodología del Plan Bolonia, para una mejor asimilación de los contenidos de cada
+tema, el alumnado debe tener en cuenta los resultados de aprendizaje para cada materia, así
+como las competencias que se deben adquirir y aplicar en cada módulo. El logro de los
+resultados de aprendizaje de cada unidad contribuye a la adquisición de las competencias del
+curso. A continuación, se presenta una lista de resultados en la adquisición de competencias de
+aprendizaje del curso.
+• Capacidad de localización y selección adecuada de información científica en cualquier
+soporte.
+• Capacidad para la elaboración, organización y gestión eficiente de una base de datos
+bibliográfica de forma automática.
+• Capacidad de evaluación crítica de la información científica y constatación de que los
+datos obtenidos son seguros, apropiados y pertinentes.
+• Capacidad para la publicación y difusión de la información científica respetando las
+normas éticas y legales.
+4. Descripción de las actividades de
+aprendizaje y estructura del curso.
+Las actividades de aprendizaje que se presentan en el siguiente plan de estudio se han diseñado
+para ayudar al alumnado a conseguir los resultados de aprendizaje requeridos en esta acción
+formativa.
+Estructura: el curso se compone de:
+• Seis lecturas obligatorias, una por módulo, con los siguientes títulos y epígrafes:
+1. La ciencia en la actualidad. Determinar las necesidades de información
+científica. Evolución histórica de la investigación científica. El planteamiento de
+la investigación. Palabras clave. Tesauros.
+2. Fuentes de información especializada. El buscador de la Biblioteca. Bases de
+datos. Revistas electrónicas. Bibliografía recomendada en formato electrónico.
+Repositorios institucionales.
+3. Estrategias avanzadas de búsqueda y recuperación de la información. Búsqueda
+y recuperación de la información. Localizar información y fuentes en el buscador
+de la Biblioteca. Búsquedas en Internet. Acceso al documento.
+4. Herramientas de gestión de la información: los gestores bibliográficos. Gestión
+de la información. Gestores bibliográficos. Citas y referencias.
+5. Evaluación de la información. Introducción a la evaluación de la información.
+Criterios de evaluación. La evaluación mediante indicadores bibliométricos.
+6. Uso ético y legal de la información. Derechos de autor y propiedad intelectual. El
+plagio académico. La publicación de los resultados de la investigación.
+• Dos anexos a las lecturas 2 y 4.
+• Seis cuestionarios de autoevaluación. Uno al final de cada lectura o tema. No son
+obligatorios ni son tenidos en cuenta en la calificación final.
+5
+• Una actividad práctica obligatoria y evaluable.
+• Foro para dudas sobre el contenido de los módulos, actividades prácticas y para
+interactuar con el equipo docente y con el alumnado
+• La bibliografía básica está formada por las seis unidades didácticas que forman el curso.
+• Como material complementario se enlazan guías de recursos y servicios de la Biblioteca,
+videoclases, tutoriales, etc.
+5. Orientaciones para el estudio
+Con el objetivo de garantizar un correcto aprovechamiento del curso se recomienda la:
+• Lectura atenta de la información que se facilita en esta guía de estudio para cada uno
+de los módulos.
+• Asimilación de la información contenida en cada tema.
+• Realización de actividades prácticas recomendadas1.
+• Interacción con el equipo docente y participación en el foro.
+• Compleción de las pruebas de autoevaluación2.
+Además, se recuerda al estudiantado que deberán entregar en el periodo indicado la actividad
+práctica obligatoria.
+A continuación, se detallan las orientaciones de estudio para cada uno de los temas.
+Tema 1. La ciencia en la actualidad. Determinar las necesidades de información
+científica. Evolución histórica de la investigación científica. El planteamiento de la
+investigación. Palabras clave. Tesauros.
+Introducción:
+El primer módulo está dedicado a presentar el estado de la
+investigación científica, a la reflexión sobre la tarea investigadora y a la
+identificación de las palabras clave.
+Resultados de aprendizaje específicos:
+- Competencia a adquirir:
+1 La propuesta de actividades prácticas recomendadas está encaminada a que el alumnado pueda aplicar
+los conocimientos adquiridos al análisis y reflexión de sus propias necesidades informativas y a la
+resolución de estas. Deberá ser capaz de dar respuesta a estos planteamientos e integrar lo aprendido en
+su propia generación de conocimiento. No son obligatorias ni evaluables, pero sí recomendables para su
+futuro como investigador o investigadora.
+2 Estas pruebas sirven para que el alumnado compruebe el nivel de aprendizaje obtenido. No son
+obligatorios ni inciden en la nota final. Se ofrecen al final de cada tema para que el discente pueda valorar
+su progreso antes de acceder a nuevas tareas. Se realizarán mediante test de evaluación de respuestas
+verdadero/falso, con feedback en las respuestas erróneas, y serán de carácter teórico y aplicado. La
+evaluación se hará en línea y podrá utilizarse todo tipo de material.
+6
+o Determinar la naturaleza y el nivel de información
+necesaria.
+- Habilidades a desarrollar:
+o Definir las necesidades de información, revisándolas a
+lo largo del proceso de investigación.
+o Identificar los términos y los conceptos clave de la
+investigación.
+o Reconocer una variada tipología documental.
+Contenido práctico:
+- Ejecutar búsquedas en tesauros.
+Ejercicios:
+- Actividades prácticas recomendadas:
+o Clasificar por tipologías los documentos de una
+bibliografía.
+o Definir un tema de investigación utilizando palabras
+clave.
+- Autoevaluación:
+o Test de conocimientos teóricos.
+Tema 2. Fuentes de información especializada.
+Introducción:
+La comunidad universitaria de la UNED tiene a su disposición un amplio
+elenco de fuentes de información científica, entre las que se encuentran
+las bases de datos más consultadas por la comunidad científica
+internacional. El discente debe familiarizarse con estas fuentes, que
+utilizará regularmente en su labor investigadora.
+Resultados de aprendizaje específicos:
+- Competencia a adquirir:
+o Identificar las principales fuentes de información de la
+materia de estudio o investigación.
+- Habilidades a desarrollar:
+o Acceder a la herramienta de búsqueda de bases de
+datos de la Biblioteca.
+Contenido práctico:
+- Reconocer las distintas fuentes de información y su cobertura
+temática y documental.
+Ejercicios:
+- Actividades prácticas recomendadas:
+o Consultar el conjunto de bases de datos suscritas por
+la Biblioteca.
+o Acceder a Recolecta y visualizar el conjunto de
+recursos recolectados.
+o Visualizar la guía del buscador de la Biblioteca.
+7
+- Autoevaluación:
+o Test de conocimientos teóricos.
+Tema 3. Estrategias avanzadas de búsqueda y recuperación de la información.
+Introducción:
+Este es un tema eminentemente práctico en el que cada estudiante
+debe familiarizarse con las interfaces de búsqueda, lenguajes de
+consulta, etc., de las diferentes fuentes de información. La competencia
+en la búsqueda de información se adquiere de forma práctica, mediante
+la realización de distintas pruebas de búsqueda de información hasta
+alcanzar resultados satisfactorios.
+Resultados de aprendizaje específicos:
+- Competencia a adquirir:
+o Ejecutar búsquedas en fuentes de información y
+obtención de resultados pertinentes.
+o Distinguir entre acceso a la información y acceso al
+documento.
+- Habilidades a desarrollar:
+o Adaptar la estrategia de búsqueda a la fuente de
+información.
+Contenido práctico:
+- Acceder al texto completo de los documentos.
+Ejercicios:
+- Actividades prácticas recomendadas:
+o Reconocer las opciones para limitar búsquedas
+disponibles en Scopus.
+o Realizar una búsqueda utilizando operadores
+booleanos en Web of Science
+o Ejecutar una búsqueda por frase exacta en Google
+Scholar (por ejemplo, entrecomille "career choice") y
+compare los resultados obtenidos con la misma frase
+sin entrecomillar.
+- Autoevaluación:
+o Test de conocimientos teóricos.
+Tema 4. Herramientas de gestión de la información: los gestores bibliográficos.
+Introducción:
+Este es un tema eminentemente práctico en el que cada estudiante
+debe familiarizarse con el funcionamiento de al menos un gestor
+bibliográfico, y conocer las ventajas que proporciona su uso de cara a la
+realización de trabajos académicos o de investigación.
+8
+Resultados de aprendizaje específicos:
+- Competencia a adquirir:
+o Organizar la información obtenida mediante un gestor
+bibliográfico.
+- Habilidades a desarrollar:
+o Describir las ventajas del uso de software de gestión
+bibliográfica en el proceso de investigación.
+o Crear una base de datos de referencias bibliográficas y
+utilizarlas en la creación de nuevo conocimiento.
+Contenido práctico:
+- Clasificar referencias con ayuda de un gestor bibliográfico.
+- Crear y editar bases de datos referenciales.
+- Añadir citas y referencias en un documento.
+Ejercicios:
+- Actividades prácticas recomendadas:
+o Exportar referencias desde diferentes fuentes de
+información, por ejemplo: Web of Science, Scopus y
+Google Scholar.
+o Crear carpetas para incluir las referencias obtenidas.
+o Realizar y, en su caso, corregir una bibliográfica
+utilizando un gestor bibliográfico.
+o Insertar citas y referencias en documentos de texto.
+- Autoevaluación:
+o Test de conocimientos teóricos.
+Tema 5. Evaluación de la información.
+Introducción:
+Este tema está dedicado a evaluar la información obtenida y a analizar
+su utilidad en relación con el trabajo de investigación. En este tema
+también se aborda la evaluación mediante indicadores bibliométricos.
+Resultados de aprendizaje específicos:
+- Competencia a adquirir:
+o Evaluar la información (y las fuentes) de forma crítica e
+incorporarla a la propia base del conocimiento.
+- Habilidades a desarrollar:
+o Comparar la información obtenida en distintas fuentes
+de información aplicando criterios de evaluación.
+o Distinguir entre la información resultado de un
+proceso de investigación y la información manipulada
+que sirve a otros intereses.
+o Analizar de forma crítica la información obtenida,
+cuestionando las fuentes utilizadas y la propia
+estrategia de búsqueda.
+9
+o Determinar el valor añadido que proporciona la nueva
+información a los conocimientos previos para su
+posible inclusión en el trabajo de investigación.
+Contenido práctico:
+- Aplicar de criterios de evaluación a una página web.
+- Manejar JCR, Scopus y otras herramientas para la evaluación
+de revistas y libros.
+Ejercicios
+- Actividades prácticas recomendadas:
+o Buscar en JCR la categoría temática (Subject Category)
+en la que se incluye el itinerario investigador del
+alumnado. Comprobar las revistas de mayor impacto.
+o Localizar en Scopus el CiteScore de las revistas de la
+categoría temática de interés.
+- Autoevaluación:
+o Test de conocimientos teóricos.
+Tema 6. Uso ético y legal de la Información.
+Introducción:
+En la elaboración de trabajos académicos y de investigación es
+fundamental utilizar correctamente la información recopilada. En esta
+unidad se abordan las cuestiones éticas y legales referidas al uso de la
+información científica y se ofrecen directrices claras para evitar el plagio
+académico. Además, se incluyen una serie de recomendaciones que
+pueden resultar de utilidad para publicar los resultados de la
+investigación realizada.
+Resultados de aprendizaje específicos:
+- Competencia a adquirir:
+o Utilizar de forma ética y legal la información.
+- Habilidades a desarrollar:
+o Identificar qué es el plagio, tanto intencional como
+inadvertido, y aprender a evitarlo.
+o Determinar cuándo y cómo reconocer las fuentes de
+información utilizadas para sus trabajos de
+investigación.
+o Reconocer, como personal investigador, los derechos y
+limitaciones que impone la Ley de Propiedad
+Intelectual.
+o Identificar las normas y políticas institucionales en el
+acceso y uso de los recursos de la Universidad.
+Contenido práctico:
+- Diferenciar el plagio intencional del no intencional.
+Ejercicios
+10
+- Actividades prácticas recomendadas:
+o Buscar en Google noticias sobre “consecuencias del
+plagio académico”.
+o Consultar presentaciones sobre publicación científica
+en SlideShare y valorar su impacto a través del número
+de visualizaciones.
+- Autoevaluación:
+o Test de conocimientos teóricos.
+6. Orientaciones acerca de la tutorización y
+evaluación.
+Tutorización: para asegurar que la experiencia del aprendizaje a distancia sea positiva y eficaz,
+los discentes pueden contactar con el equipo docente del curso a través del foro virtual. El
+equipo de formadores le ayudará a resolver cualquier pregunta relacionada con el temario que
+requiera una explicación en profundidad para afrontar sus necesidades específicas. El equipo
+tutor motivará al alumnado a desarrollar una actitud crítica y a incentivar su interés por la
+materia objeto de estudio.
+Además, cada estudiante podrá remitir al equipo docente sus consultas individualizadas a través
+del correo electrónico que se publicará en el curso virtual.
+Evaluación: La evaluación se basa en la superación de una actividad práctica obligatoria en la
+que cada estudiante demostrará las competencias adquiridas. El objetivo de la actividad
+práctica es que el alumnado adquiera el conocimiento de manera organizada, siguiendo un
+proceso de aprendizaje gradual. Realizar esta actividad proporciona al discente la oportunidad
+de evaluar su comprensión, asimilación y habilidad para analizar y discutir los contenidos de los
+temas.
+La evaluación de los conocimientos y de las destrezas y habilidades obtenidas se enfoca como
+parte de la actividad formativa del estudiantado.
+La realización de los trabajos debe abordarse de forma individualizada, con respeto a las normas
+de honestidad académica e integridad intelectual. Quien cometa fraude académico en los
+trabajos será calificado con un cero.
+La actividad práctica debe entregarse, en formato .pdf, .odt, .rtf, .doc, .docx, y otros
+compatibles con Microsoft Office, a través de la plataforma virtual.
+Las convocatorias para la entrega de la actividad práctica se publicarán en el curso virtual.
+7. Requisitos técnicos
+Para la correcta visualización de los materiales didácticos incluidos en la plataforma virtual de
+aprendizaje es necesario disponer del siguiente software:
+11
+• Adobe Reader y un navegador web actualizado (Google Chrome, Microsoft Edge,
+Mozilla Firefox, etc.).
+8. ¿Qué puedes ganar si dominas estas
+competencias?
+Las competencias informacionales son transversales y se adquieren con la práctica, su dominio
+aporta valor diferenciador al personal investigador y es un potenciador del éxito académico.
+La gestión e intercambio de información y conocimiento es un valor al alza y que no está sujeto
+a modas. Este intercambio tiene como objetivo contribuir a la supervivencia de la universidad
+por medio de la creación continua de valor.
+Actualizado a 18 de agosto de 2024
