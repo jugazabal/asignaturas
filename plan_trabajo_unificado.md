@@ -147,6 +147,35 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 | **Competencias** | Comprender marco epistemológico, analizar sistema cognitivo, aplicar estrategias, implementar procesos, desarrollar modelos, evaluar artículos. |
 | **Checklist**    | Estudiar temas, completar informe, preparar pruebas, participar en foros. |
 
+### Sistema de evaluación
+
+**SIN PRUEBA PRESENCIAL** - Evaluación a través de plataforma virtual
+
+| Componente | Ponderación | Descripción |
+|------------|-------------|-------------|
+| **Prueba Objetiva** | 50% | 20 preguntas de elección múltiple (tipo test, con tres alternativas) |
+| **Prueba de Desarrollo** | 50% | Análisis y reflexión sobre un artículo científico |
+
+**Criterios:**
+- Prueba objetiva: Corrección de azar (Aciertos - Errores/2)
+- Prueba de desarrollo: Nivel de elaboración y conocimiento
+- Calificación final: Media de ambas pruebas
+
+### Temporalización
+
+**Convocatoria ordinaria:**
+- Inicio del curso: Octubre
+- Pruebas: Enero-Febrero
+- Fechas concretas: Se notificarán oportunamente en la plataforma
+
+**Distribución de horas:**
+- Tema 1: 20 horas
+- Tema 2: 20 horas
+- Tema 3: 20 horas
+- Tema 4: 20 horas
+- Tema 5: 20 horas
+- Informe Final: 25 horas
+
 ---
 
 ## Atención Temprana y Orientación Familiar
