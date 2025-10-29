@@ -74,6 +74,7 @@ Proporciona la formación pedagógica y didáctica necesaria para el ejercicio d
 ```
 Asignaturas/
 ├── Anuales/
+│   ├── Biblioteca e informacion/
 │   ├── Innovacion_investigacion/
 │   ├── Practicum/
 │   └── TFM/
