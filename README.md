@@ -73,25 +73,30 @@ Proporciona la formación pedagógica y didáctica necesaria para el ejercicio d
 
 ```
 Asignaturas/
-├── Asesoramiento_pedagogico/
-│   ├── Bibliografia/
-│   ├── Tareas/
-│   └── instrucciones.md
-├── Atencion_temprana/
-├── Desarrollo_aprendizaje_educacion/
-│   └── BibliografiaBasica/
-├── Diagnostico/
-│   ├── Actividades/
-│   └── textos/
-├── Dificultades aprendizaje/
-│   └── textos/
-├── Innovacion_investigacion/
-│   ├── Actividades/
-│   └── textos/
-├── Politicas_sistemas/
-├── Practicum/
-├── TFM/
-└── README.md
+├── Anuales/
+│   ├── Innovacion_investigacion/
+│   ├── Practicum/
+│   └── TFM/
+├── Primer cuatrimestre/
+│   ├── Asesoramiento_psicopedagogico/
+│   ├── Atencion_temprana/
+│   ├── Desarrollo_aprendizaje_educacion/
+│   ├── Diagnostico/
+│   └── Politicas_sistemas/
+├── Segundo cuatrimestre/
+│   ├── Intervencion_psicoeducativa_trastornos_desarrollo/
+│   ├── Orientacion_academica_profesional/
+│   ├── Orientacion_inclusiva_dificultades_aprendizaje/
+│   └── Orientacion_inclusiva_necesidades_socioculturales_alta_capacidad/
+├── plan_trabajo_unificado.md
+├── README.md
+├── lista_asignaturas.md
+├── Guía genIA Estudiantes.pdf
+├── Guía_master_fpes.pdf
+├── guia_master_fpes.txt
+├── informeDocumentoMatriculaEEES.pdf
+├── informeDocumentoMatriculaEEES.txt
+└── Asignaturas.code-workspace
 ```
 
 ## 📝 Sistema de Evaluación
