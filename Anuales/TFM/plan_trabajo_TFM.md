@@ -53,6 +53,45 @@ Otras actividades:
 Evaluación:
 La evaluación del TFM se fundamenta en la calidad de la memoria final, el seguimiento y supervisión realizada por el tutor/a del Centro Asociado y las evidencias recogidas (diario, entregas parciales, actividades obligatorias). El profesorado tutor del Centro Asociado y el equipo docente del TFM realizan la valoración final.
 
+### Tutoría y asignación del tutor
+
+- Cada estudiante contará con un/a tutor/a académico/a (director/a) que orientará el desarrollo del TFM y deberá aprobar el tema y la estructura antes de iniciar el trabajo.
+- La asignación del/de la tutor/a se comunicará por correo electrónico a mediados de diciembre. Además, en el curso virtual (apartado Contenidos / FASE III) se publicará un "Listado tutor-a asignado-a" que permitirá localizar al tutor/a por las últimas letras del DNI/NIE.
+- El primer contacto con el/la tutor/a es responsabilidad del docente asignado, pero se recomienda que el estudiante escriba al tutor/a en cuanto se publique la asignación.
+
+### Requisitos para la defensa (detallados)
+
+Para poder presentarse al acto de defensa es necesario reunir los siguientes requisitos:
+
+- Haber superado el resto de las asignaturas del Máster.
+- Contar con el visto bueno formal del/de la tutor/a académico/a.
+- Entregar en plazo la documentación requerida:
+	- Versión definitiva del TFM.
+	- DNI por las dos caras (o documento de identidad equivalente).
+	- Solicitud de defensa (Anexo I).
+	- Declaración jurada de autoría.
+
+### Defensa (modalidad y logística)
+
+- La defensa se realizará de forma telemática, a través de Microsoft Teams. Si el estudiante no dispone de recursos técnicos adecuados, podrá realizar la defensa desde su Centro Asociado.
+- El estudiante recibirá la convocatoria oficial (fecha, hora y enlace) por correo electrónico con al menos 10 días de antelación.
+- La presentación se recomienda ocupe aproximadamente 10 minutos; es recomendable preparar una presentación visual (PowerPoint o similar) que resuma objetivo, metodología, resultados y conclusiones.
+- El tribunal estará formado por dos docentes de la asignatura.
+
+### Contactos y trámites administrativos
+
+- Coordinadores de la asignatura y correos electrónicos: consultar el curso virtual o la guía. Para trámites administrativos relacionados con el TFM, utilizar: `tfm-formacionprofesorado@adm.uned.es`.
+- En todas las comunicaciones con profesorado y administración utilice siempre la dirección de correo electrónico de estudiante de la UNED.
+
+### Consejos prácticos y checklist accionable (para el estudiante)
+
+- Contactar con el/la tutor/a en cuanto se publique la asignación (mediados de diciembre).
+- Revisar la vinculación del tema con el Prácticum para aprovechar datos o experiencias prácticas.
+- Planificar las 150 horas estimadas (lecturas, curso de Biblioteca, redacción, revisiones).  
+- Descargar y revisar los anexos/formularios (Anexo I, declaración de autoría) al inicio del proceso.
+- Preparar una presentación visual de unas 10 diapositivas para la defensa: objetivo, metodología, resultados, conclusiones y aportación práctica.
+- Verificar recursos técnicos para la defensa (cámara, micrófono y conexión) o solicitar el uso del Centro Asociado si procede.
+
 ---
 
 **Última actualización:** 30 de octubre de 2025
