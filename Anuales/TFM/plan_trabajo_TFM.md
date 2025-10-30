@@ -22,21 +22,29 @@ Este documento resume los apartados principales del Trabajo Fin de Máster (TFM)
 
 ### Temporalización y actividades de evaluación continua
 
-**Temporalización de entregas:**
-- Tarea 1 (Fichas resumen enfoques teóricos): Apertura 1/10/2025, cierre 22/12/2025. Hasta 5 intentos permitidos.
-- Tarea 2 (Comentario artículo 1): Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
-- Tarea 3 (Comentario artículo 2): Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
-- Tarea 4 (Prueba de evaluación a distancia): Apertura 1/10/2025, cierre 26/01/2026. Hasta 5 intentos permitidos.
+El Trabajo Fin de Máster (TFM) tiene carácter anual y una carga de 10 ECTS (250 horas). La temporalización y las actividades de evaluación continua siguen las orientaciones de la guía de la asignatura y dependen, en algunos plazos concretos, de la normativa y procedimientos del Centro Asociado que gestiona la asignación y el calendario.
 
-**Contenido de las actividades:**
-- Tarea 1: Elaboración de fichas resumen sobre los enfoques teóricos de asesoramiento psicopedagógico. Instrucciones y entrega en PDF.
-- Tarea 2: Comentario crítico sobre el artículo MONTANERO (2014). Instrucciones y entrega en PDF o Word.
-- Tarea 3: Comentario crítico sobre el artículo MOLINER Y FABREGAT (2021). Instrucciones y entrega en PDF o Word.
-- Tarea 4: Prueba de evaluación a distancia sobre los contenidos del curso. Instrucciones y entrega en PDF.
+Fases y entregas (orientativas):
+- Contacto inicial con el profesorado tutor del Centro Asociado: al inicio del curso académico (es imprescindible para la correcta asignación y planificación del TFM).
+- Plan Inicial de Trabajo (PIP) / Proyecto Formativo (PF): el/la estudiante debe redactar y subir el PIP a la plataforma antes de la incorporación al periodo de trabajo práctico o de la ejecución intensa del TFM. El PIP debe ser aprobado por el profesorado tutor del Centro Asociado. El PF (cuando se genere desde la aplicación de prácticas) debe subirse en el buzón correspondiente como documento independiente del PIP. Ambos documentos (PIP y PF) deben tener el visto bueno antes de empezar las actividades presenciales o de campo.
+- Desarrollo del trabajo y supervisión: trabajo continuo a lo largo del periodo anual con entregas parciales y revisión por parte del tutor/a. Se recomienda planificar entregas intermedias (borradores, avances del marco teórico y metodología) según las indicaciones del tutor/a.
+- Entrega final de la memoria del TFM: al finalizar el periodo establecido por el Centro Asociado y/o la coordinación del TFM. Fecha concreta fijada en el curso virtual o por el Centro Asociado.
 
-**Evaluación continua:**
-La evaluación se basa en la realización y entrega de las actividades anteriores dentro de los plazos establecidos. Todas las tareas deben ser entregadas y aprobadas (mínimo 5 puntos en cada una) para superar la asignatura. La calificación se realiza a través del aula virtual y puede consultarse el estado de cada entrega en la plataforma.
+Actividades obligatorias y evaluación continua:
+- Diario / Registro de trabajo: se mantendrá un diario o registro de la actividad y reflexiones sobre la práctica y el trabajo de investigación, con entregas periódicas a convenir con el profesorado tutor y el equipo docente.
+- Memoria final: documento evaluable presentado al concluir el TFM; su estructura y criterios están en el curso virtual.
+- Cuestionarios de competencias (Inicial y Final): actividad obligatoria (no evaluable en nota) destinada a reflexionar sobre el grado de dominio de las competencias profesionales. El/la estudiante deberá cumplimentar un cuestionario inicial antes de incorporarse al periodo activo del trabajo/prácticas y un cuestionario final al término de su estancia o del trabajo. Las reflexiones derivadas de la comparación inicial/final deben incorporarse en la valoración crítica de la memoria.
+
+Notas legales y administrativas relevantes:
+- Alta en la Seguridad Social: según la normativa vigente (DA 52ª, Ley General de la Seguridad Social, aplicable desde 01/01/2024), el alumnado que realice periodos de prácticas debe incluirse en el sistema de la Seguridad Social cuando proceda. La Tesorería General de la Seguridad Social facilita información sobre "Prácticas Formativas" en su web.
+- Certificación negativa del Registro Central de Delincuentes Sexuales: requisito para actividades que impliquen contacto habitual con menores. La UNED verificará, en el marco de la Administración electrónica, la información pertinente. Si el/la estudiante deniega la autorización o no cumple los requisitos, no podrá incorporarse a centros con contacto habitual con menores.
+
+Otras actividades:
+- Cuestionario de Competencias - Inicial y Final (estimado 2 horas en total). Actividad obligatoria no evaluable, cuya realización es requisito para la superación administrativa de la asignatura.
+
+Evaluación:
+La evaluación del TFM se fundamenta en la calidad de la memoria final, el seguimiento y supervisión realizada por el tutor/a del Centro Asociado y las evidencias recogidas (diario, entregas parciales, actividades obligatorias). El profesorado tutor del Centro Asociado y el equipo docente del TFM realizan la valoración final.
 
 ---
 
-**Última actualización:** 29 de octubre de 2025
+**Última actualización:** 30 de octubre de 2025
