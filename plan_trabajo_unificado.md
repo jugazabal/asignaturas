@@ -47,6 +47,17 @@ La evaluación del TFM se fundamenta en la calidad de la memoria final, el segui
 
 ---
 
+### Checklist
+
+- [ ] Contactar con el profesorado tutor del Centro Asociado y asistir a la tutoría inicial
+- [ ] Acceder y familiarizarse con el curso virtual y consultar recursos y calendarios
+- [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) y, si procede, el Proyecto Formativo (PF); comprobar su aprobación
+- [ ] Realizar las actividades obligatorias indicadas por el equipo docente y el tutor/a del centro
+- [ ] Mantener el diario o registro de trabajo y revisar entregas parciales con el tutor/a
+- [ ] Elaborar y entregar la memoria final dentro del plazo establecido
+- [ ] Cumplimentar el Cuestionario de Competencias (inicial y final)
+- [ ] Asegurar el cumplimiento de requisitos legales y administrativos (Alta Seguridad Social, certificado negativo del Registro Central de Delincuentes Sexuales cuando proceda)
+
 
 ## Biblioteca e Información
 
