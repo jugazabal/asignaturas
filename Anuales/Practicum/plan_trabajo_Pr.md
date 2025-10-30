@@ -60,30 +60,22 @@ Permitir al estudiantado poner en práctica los conocimientos adquiridos en las 
 
 ## 🗂️ Temporalización y actividades de evaluación continua
 
-### Fechas y requisitos clave
-- Contacto y asignación del centro de prácticas: obligatorio al inicio del curso. El profesorado tutor del Centro Asociado gestiona la asignación y debe confirmarse la incorporación al centro.
-- Plan Inicial de Prácticas (PIP) y Proyecto Formativo (PF): el PIP debe diseñarse y consensuarse con el tutor/a de la entidad de prácticas antes del comienzo de la estancia; el PIP y el PF deben subirse al buzón correspondiente del curso virtual y ser aprobados por el profesorado tutor del Centro Asociado antes de iniciar las prácticas.
-- Cuestionario de competencias (inicial): obligatorio y de carácter previo a la incorporación al centro de prácticas (debe completarse antes de iniciar la estancia).
+### Temporalización de entregas
+- Plan Inicial de Prácticas (PIP): Apertura 1/10/2025, cierre 22/12/2025. Hasta 5 intentos permitidos.
+- Actividades obligatorias: Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
+- Diario de prácticas: Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
+- Memoria final: Apertura 1/10/2025, cierre 26/01/2026. Hasta 5 intentos permitidos.
+- Cuestionario de competencias (inicial y final): Apertura 1/10/2025, cierre 26/01/2026. Hasta 5 intentos permitidos.
 
-### Temporalización de entregas (ventanas orientativas)
-- Plan Inicial de Prácticas (PIP) / Proyecto Formativo (PF): apertura 01/10/2025 — revisión y aprobación antes de la incorporación al centro.
-- Actividades obligatorias propuestas por el equipo docente: apertura 01/10/2025 — cierre 15/01/2026. Hasta 5 intentos permitidos donde proceda.
-- Diario de prácticas (entregas periódicas y versión final): apertura 01/10/2025 — cierre 15/01/2026. Hasta 5 intentos permitidos.
-- Memoria final de prácticas: entrega final al término de la estancia práctica; plazo orientativo de cierre 26/01/2026.
-- Cuestionario de competencias (final): cierre coincidente con la entrega de la memoria (plazo orientativo 26/01/2026).
+### Contenido de las actividades
+- PIP: Diseño y planificación de la estancia en el centro de prácticas. Entrega en PDF o Word.
+- Actividades obligatorias: Ejercicios y tareas propuestas por el equipo docente, relacionadas con la intervención psicopedagógica. Entrega en PDF o Word.
+- Diario de prácticas: Registro reflexivo de la experiencia y competencias desarrolladas. Entrega en PDF o Word.
+- Memoria final: Informe global sobre la estancia y aprendizajes realizados. Entrega en PDF o Word.
+- Cuestionario de competencias: Reflexión inicial y final sobre el grado de dominio de las competencias profesionales. Entrega en PDF o Word.
 
-### Contenido y orientaciones
-- PIP / PF: diseño y planificación de la estancia en el centro de prácticas. Debe incluir objetivos, tareas y calendario, y contar con la firma/aceptación del tutor/a de la entidad, del profesorado tutor y del estudiante.
-- Actividades obligatorias: ejercicios y tareas propuestas por el equipo docente para el desarrollo de competencias profesionales. Entrega en PDF o Word según instrucciones.
-- Diario de prácticas: registro reflexivo y acreditación de actividades realizadas en el centro; se supervisa mediante entregas periódicas en el curso virtual.
-- Memoria final: informe global sobre la estancia, con valoración crítica y evidencias de competencias desarrolladas.
-- Cuestionarios de competencias (inicial y final): instrumentos de diagnóstico y seguimiento para comparar la evolución del estudiante; completarlos es obligatorio.
-
-### Evaluación continua y criterios administrativos
-- La evaluación incluye la valoración del PIP/PF, las actividades obligatorias, el diario, la memoria final, los cuestionarios y la valoración del tutor/a de la entidad de prácticas.
-- Es responsabilidad del estudiante comprobar la aprobación del PIP/PF en la plataforma antes de incorporarse al centro.
-- Requisitos administrativos: certificación negativa del Registro Central de Delincuentes Sexuales (si procede), y alta en la Seguridad Social conforme a la normativa vigente; sin estos requisitos no se podrá iniciar la estancia en centros con actividad habitual con menores.
-
+### Evaluación continua
+La evaluación se basa en la realización y entrega de las actividades anteriores dentro de los plazos establecidos. Todas las tareas deben ser entregadas y aprobadas para superar la asignatura. La calificación se realiza a través del aula virtual y puede consultarse el estado de cada entrega en la plataforma.
 
 ---
 
