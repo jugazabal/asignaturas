@@ -53,15 +53,6 @@ Otras actividades:
 Evaluación:
 La evaluación del TFM se fundamenta en la calidad de la memoria final, el seguimiento y supervisión realizada por el tutor/a del Centro Asociado y las evidencias recogidas (diario, entregas parciales, actividades obligatorias). El profesorado tutor del Centro Asociado y el equipo docente del TFM realizan la valoración final.
 
----
-### Checklist (TFM)
-
-- [ ] Contactar con el profesorado tutor del Centro Asociado y asistir a la tutoría inicial
-- [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) / PF y obtener su aprobación
-- [ ] Mantener el diario/registro de trabajo y entregar borradores intermedios según indicaciones
-- [ ] Elaborar y entregar la memoria final en la convocatoria correspondiente
-- [ ] Cumplimentar el Cuestionario de Competencias (inicial y final)
----
 
 ### Checklist (TFM) — listado completo y accionable
 
@@ -69,7 +60,10 @@ La evaluación del TFM se fundamenta en la calidad de la memoria final, el segui
 - [ ] Localizar en el curso virtual el "Listado tutor-a asignado-a" por las últimas letras del DNI/NIE y establecer primer contacto por correo institucional
 - [ ] Proponer tema y estructura al/la tutor/a y obtener su visto bueno antes de iniciar el desarrollo
 - [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) / Proyecto Formativo (PF) y obtener la aprobación correspondiente
-- [ ] Realizar el curso “Competencias Genéricas en Información” (Biblioteca UNED) si aplica
+- [ ] Realizar el curso “Competencias Genéricas en Información” (Biblioteca UNED).
+	- Importante: la realización del curso es obligatoria dentro del marco del TFM.
+	- Duración estimada: 25 horas.
+	- Acceso: el curso estará disponible en la plataforma Ágora, en el apartado "Mis cursos" junto al resto de asignaturas del Máster.
 - [ ] Mantener un diario/registro de prácticas con entregas periódicas y evidencias (borradores, avances, reflexiones)
 - [ ] Planificar entregas intermedias y enviar borradores al/de la tutor/a para revisión
 - [ ] Elaborar y entregar la versión definitiva de la memoria del TFM en la convocatoria indicada

@@ -89,7 +89,10 @@ Para poder presentarse al acto de defensa es necesario reunir los siguientes req
 - [ ] Localizar en el curso virtual el "Listado tutor-a asignado-a" por las últimas letras del DNI/NIE y establecer primer contacto por correo institucional
 - [ ] Proponer tema y estructura al/la tutor/a y obtener su visto bueno antes de iniciar el desarrollo
 - [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) / Proyecto Formativo (PF) y obtener la aprobación correspondiente
-- [ ] Realizar el curso “Competencias Genéricas en Información” (Biblioteca UNED) si aplica
+ - [ ] Realizar el curso “Competencias Genéricas en Información” (Biblioteca UNED).
+	 - Importante: la realización del curso es obligatoria dentro del marco del TFM.
+	 - Duración estimada: 25 horas.
+	 - Acceso: el curso estará disponible en la plataforma Ágora, en el apartado "Mis cursos" junto al resto de asignaturas del Máster.
 - [ ] Mantener un diario/registro de prácticas con entregas periódicas y evidencias (borradores, avances, reflexiones)
 - [ ] Planificar entregas intermedias y enviar borradores al/de la tutor/a para revisión
 - [ ] Elaborar y entregar la versión definitiva de la memoria del TFM en la convocatoria indicada
