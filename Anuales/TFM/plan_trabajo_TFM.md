@@ -20,33 +20,6 @@ Este documento resume los apartados principales del Trabajo Fin de Máster (TFM)
 
 ---
 
-### Checklist
-
-- [ ] Contactar con el profesorado tutor del Centro Asociado y asistir a la tutoría inicial
-- [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) / PF y obtener su aprobación
-- [ ] Mantener el diario/registro de trabajo y entregar borradores intermedios según indicaciones
-- [ ] Elaborar y entregar la memoria final en la convocatoria correspondiente
-- [ ] Cumplimentar el Cuestionario de Competencias (inicial y final)
-
----
-
-### Checklist (TFM) — listado completo y accionable
-
-- [ ] Contactar con el/la tutor/a asignado/a y asistir a la tutoría inicial (comprobar listado en el curso virtual; asignaciones a mediados de diciembre)
-- [ ] Localizar en el curso virtual el "Listado tutor-a asignado-a" por las últimas letras del DNI/NIE y establecer primer contacto por correo institucional
-- [ ] Proponer tema y estructura al/la tutor/a y obtener su visto bueno antes de iniciar el desarrollo
-- [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) / Proyecto Formativo (PF) y obtener la aprobación correspondiente
-- [ ] Realizar el curso “Competencias Genéricas en Información” (Biblioteca UNED) si aplica
-- [ ] Mantener un diario/registro de prácticas con entregas periódicas y evidencias (borradores, avances, reflexiones)
-- [ ] Planificar entregas intermedias y enviar borradores al/de la tutor/a para revisión
-- [ ] Elaborar y entregar la versión definitiva de la memoria del TFM en la convocatoria indicada
-- [ ] Cumplimentar el Cuestionario de Competencias (Inicial y Final)
-- [ ] Descargar y preparar la documentación necesaria para la defensa: versión definitiva del TFM, DNI (dos caras), solicitud de defensa (Anexo I) y declaración jurada de autoría
-- [ ] Preparar una presentación visual para la defensa (aprox. 10 diapositivas: objetivo, metodología, resultados, conclusiones y aportación práctica)
-- [ ] Verificar recursos técnicos para la defensa telemática (cámara, micrófono, conexión) o solicitar el uso del Centro Asociado si procede
-- [ ] Comprobar requisitos legales y administrativos (alta en la Seguridad Social para prácticas, certificación negativa del Registro Central de Delincuentes Sexuales si procede)
-
-
 ### Temporalización y actividades de evaluación continua
 
 El Trabajo Fin de Máster (TFM) tiene carácter anual y una carga de 10 ECTS (250 horas). La temporalización y las actividades de evaluación continua siguen las orientaciones de la guía de la asignatura y dependen, en algunos plazos concretos, de la normativa y procedimientos del Centro Asociado que gestiona la asignación y el calendario.
@@ -110,14 +83,22 @@ Para poder presentarse al acto de defensa es necesario reunir los siguientes req
 - Coordinadores de la asignatura y correos electrónicos: consultar el curso virtual o la guía. Para trámites administrativos relacionados con el TFM, utilizar: `tfm-formacionprofesorado@adm.uned.es`.
 - En todas las comunicaciones con profesorado y administración utilice siempre la dirección de correo electrónico de estudiante de la UNED.
 
-### Consejos prácticos y checklist accionable (para el estudiante)
+### Checklist (TFM) — listado completo y accionable
 
-- Contactar con el/la tutor/a en cuanto se publique la asignación (mediados de diciembre).
-- Revisar la vinculación del tema con el Prácticum para aprovechar datos o experiencias prácticas.
-- Planificar las 150 horas estimadas (lecturas, curso de Biblioteca, redacción, revisiones).  
-- Descargar y revisar los anexos/formularios (Anexo I, declaración de autoría) al inicio del proceso.
-- Preparar una presentación visual de unas 10 diapositivas para la defensa: objetivo, metodología, resultados, conclusiones y aportación práctica.
-- Verificar recursos técnicos para la defensa (cámara, micrófono y conexión) o solicitar el uso del Centro Asociado si procede.
+- [ ] Contactar con el/la tutor/a asignado/a y asistir a la tutoría inicial (comprobar listado en el curso virtual; asignaciones a mediados de diciembre)
+- [ ] Localizar en el curso virtual el "Listado tutor-a asignado-a" por las últimas letras del DNI/NIE y establecer primer contacto por correo institucional
+- [ ] Proponer tema y estructura al/la tutor/a y obtener su visto bueno antes de iniciar el desarrollo
+- [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) / Proyecto Formativo (PF) y obtener la aprobación correspondiente
+- [ ] Realizar el curso “Competencias Genéricas en Información” (Biblioteca UNED) si aplica
+- [ ] Mantener un diario/registro de prácticas con entregas periódicas y evidencias (borradores, avances, reflexiones)
+- [ ] Planificar entregas intermedias y enviar borradores al/de la tutor/a para revisión
+- [ ] Elaborar y entregar la versión definitiva de la memoria del TFM en la convocatoria indicada
+- [ ] Cumplimentar el Cuestionario de Competencias (Inicial y Final)
+- [ ] Descargar y preparar la documentación necesaria para la defensa: versión definitiva del TFM, DNI (dos caras), solicitud de defensa (Anexo I) y declaración jurada de autoría
+- [ ] Preparar una presentación visual para la defensa (aprox. 10 diapositivas: objetivo, metodología, resultados, conclusiones y aportación práctica)
+- [ ] Verificar recursos técnicos para la defensa telemática (cámara, micrófono, conexión) o solicitar el uso del Centro Asociado si procede
+- [ ] Comprobar requisitos legales y administrativos (alta en la Seguridad Social para prácticas, certificación negativa del Registro Central de Delincuentes Sexuales si procede)
+
 
 ---
 
