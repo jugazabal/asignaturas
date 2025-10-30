@@ -56,45 +56,23 @@ El asesoramiento psicopedagógico es una **intervención indirecta** donde el or
 
 **Calificación Final = PED (35%) + Tarea 1 (25%) + Tarea 2 (20%) + Tarea 3 (20%)**
 
-### ⚠️ IMPORTANTE
-- **ES NECESARIO APROBAR TODAS LAS TAREAS** (mínimo 5 puntos en cada una)
-- Las tareas se suben en formato Word o PDF
-- Consultar plazos específicos en el curso virtual (apartado EVALUACIÓN CONTINUA)
 
----
+## 🗂️ Temporalización y actividades de evaluación continua
 
-## 📅 TEMPORALIZACIÓN
+### Temporalización de entregas
+- Tarea 1 (Fichas resumen enfoques teóricos): Apertura 1/10/2025, cierre 22/12/2025. Hasta 5 intentos permitidos.
+- Tarea 2 (Comentario artículo 1): Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
+- Tarea 3 (Comentario artículo 2): Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
+- Tarea 4 (Prueba de evaluación a distancia): Apertura 1/10/2025, cierre 26/01/2026. Hasta 5 intentos permitidos.
 
-### **CONVOCATORIA ORDINARIA (Febrero 2026)**
-- **Inicio del curso:** Octubre 2025
-- **Entrega de tareas:** Consultar fechas específicas en curso virtual
-- **Plazo final:** Febrero 2026
+### Contenido de las actividades
+- Tarea 1: Elaboración de fichas resumen sobre los enfoques teóricos de asesoramiento psicopedagógico. Instrucciones y entrega en PDF.
+- Tarea 2: Comentario crítico sobre el artículo MONTANERO (2014). Instrucciones y entrega en PDF o Word.
+- Tarea 3: Comentario crítico sobre el artículo MOLINER Y FABREGAT (2021). Instrucciones y entrega en PDF o Word.
+- Tarea 4: Prueba de evaluación a distancia sobre los contenidos del curso. Instrucciones y entrega en PDF.
 
-**Distribución recomendada:**
-- **Octubre-Noviembre:** Tema 1 + preparación PED y Tarea 1
-- **Diciembre:** Tema 2 + preparación Tarea 2
-- **Enero:** Tema 3 + preparación Tarea 3
-- **Febrero:** Revisión y entrega final de todas las tareas
-
-### **CONVOCATORIA EXTRAORDINARIA (Septiembre 2026)**
-- **Plazo de entrega:** 8 de septiembre de 2026
-- Las tareas son las mismas que en la convocatoria ordinaria
-- Las tareas aprobadas en febrero se guardan para septiembre
-- Solo hay que presentar las tareas pendientes o suspendidas
-
----
-
-## 📖 MATERIALES DE ESTUDIO
-
-**Todo el material está disponible en el curso virtual (carpeta CONTENIDOS)**
-
-Para cada tema se incluye:
-1. Descripción del tema con orientaciones para el estudio
-2. Material básico de estudio (lecturas, documentos, artículos)
-
-**Nota:** No hay libros obligatorios de compra. Todo el material necesario está en el campus virtual.
-
----
+### Evaluación continua
+La evaluación se basa en la realización y entrega de las actividades anteriores dentro de los plazos establecidos. Todas las tareas deben ser entregadas y aprobadas (mínimo 5 puntos en cada una) para superar la asignatura. La calificación se realiza a través del aula virtual y puede consultarse el estado de cada entrega en la plataforma.
 
 ## ⚠️ ADVERTENCIAS IMPORTANTES
 
@@ -143,25 +121,6 @@ Al finalizar la asignatura serás capaz de:
 - [ ] Completar y aprobar Tarea 3 (mínimo 5 puntos)
 - [ ] Revisar trabajos con herramientas antiplagio propias antes de entregar
 - [ ] Entregar todas las tareas en plazo (febrero o septiembre)
-
----
-
-## 🗂️ Temporalización y actividades de evaluación continua
-
-### Temporalización de entregas
-- Tarea 1 (Fichas resumen enfoques teóricos): Apertura 1/10/2025, cierre 22/12/2025. Hasta 5 intentos permitidos.
-- Tarea 2 (Comentario artículo 1): Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
-- Tarea 3 (Comentario artículo 2): Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
-- Tarea 4 (Prueba de evaluación a distancia): Apertura 1/10/2025, cierre 26/01/2026. Hasta 5 intentos permitidos.
-
-### Contenido de las actividades
-- Tarea 1: Elaboración de fichas resumen sobre los enfoques teóricos de asesoramiento psicopedagógico. Instrucciones y entrega en PDF.
-- Tarea 2: Comentario crítico sobre el artículo MONTANERO (2014). Instrucciones y entrega en PDF o Word.
-- Tarea 3: Comentario crítico sobre el artículo MOLINER Y FABREGAT (2021). Instrucciones y entrega en PDF o Word.
-- Tarea 4: Prueba de evaluación a distancia sobre los contenidos del curso. Instrucciones y entrega en PDF.
-
-### Evaluación continua
-La evaluación se basa en la realización y entrega de las actividades anteriores dentro de los plazos establecidos. Todas las tareas deben ser entregadas y aprobadas (mínimo 5 puntos en cada una) para superar la asignatura. La calificación se realiza a través del aula virtual y puede consultarse el estado de cada entrega en la plataforma.
 
 ---
 

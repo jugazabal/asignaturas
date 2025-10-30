@@ -44,11 +44,40 @@ La asignatura Políticas y Sistemas de Orientación Educativa tiene como objetiv
 
 ---
 
-## 📅 TEMPORALIZACIÓN
+## ️ Actividades y evaluación continua
 
-- **Inicio del curso:** Octubre 2025
-- **Periodo:** Primer cuatrimestre
-- **Fechas y entregas:** Consultar el aula virtual
+### Temporalización de entregas
+
+- **PEC 1:**
+  - Apertura: miércoles, 1 de octubre de 2025, 00:00
+  - Cierre: viernes, 5 de diciembre de 2025, 00:00
+  - Archivos: DESCRIPCIÓN PEC-1.pdf, PEC 1_Word.doc
+  - Estado: 2 intentos permitidos, sin calificar, tiempo restante hasta cierre: 36 días 9 horas (desde la fecha de la captura)
+
+- **PEC 2:**
+  - Apertura: miércoles, 1 de octubre de 2025, 00:00
+  - Cierre: viernes, 19 de diciembre de 2025, 00:00
+  - Archivos: PEC 2_Word.doc, PEC_2.pdf
+  - Estado: 2 intentos permitidos, sin calificar, tiempo restante hasta cierre: 50 días 9 horas (desde la fecha de la captura)
+
+- **Trabajo teórico-práctico final:**
+  - Apertura: miércoles, 1 de octubre de 2025, 00:00
+  - Cierre: viernes, 16 de enero de 2026, 00:00
+
+- **Ficha síntesis debate en foros temáticos:**
+  - Apertura: sábado, 1 de noviembre de 2025, 00:00
+  - Cierre: viernes, 16 de enero de 2026, 00:00
+
+### Contenido de las actividades
+
+- **PEC 1:** Resolución de un caso práctico y entrega de documentos según instrucciones del aula virtual. Se permite hasta 2 intentos. La entrega se realiza en formato PDF o Word.
+- **PEC 2:** Desarrollo de un caso práctico diferente al de PEC 1, siguiendo las indicaciones del aula virtual. Hasta 2 intentos permitidos. Entrega en PDF o Word.
+- **Trabajo teórico-práctico final:** Elaboración de un trabajo integrador que recoge los aprendizajes de la asignatura. Entrega única en la fecha indicada.
+- **Ficha síntesis debate en foros temáticos:** Participación en debates temáticos del aula virtual y entrega de una ficha resumen con las aportaciones realizadas. Entrega única.
+
+### Evaluación continua
+
+La evaluación de la asignatura se basa en la realización y entrega de las actividades anteriores dentro de los plazos establecidos. Todas las actividades deben ser entregadas y aprobadas para superar la asignatura. La calificación se realiza a través del aula virtual y puede consultarse el estado de cada entrega en la plataforma.
 
 ---
 
@@ -103,41 +132,6 @@ Al finalizar la asignatura serás capaz de:
 
 ---
 
-## 🗂️ Actividades y evaluación continua
 
-### Temporalización de entregas
-
-- **PEC 1:**
-  - Apertura: miércoles, 1 de octubre de 2025, 00:00
-  - Cierre: viernes, 5 de diciembre de 2025, 00:00
-  - Archivos: DESCRIPCIÓN PEC-1.pdf, PEC 1_Word.doc
-  - Estado: 2 intentos permitidos, sin calificar, tiempo restante hasta cierre: 36 días 9 horas (desde la fecha de la captura)
-
-- **PEC 2:**
-  - Apertura: miércoles, 1 de octubre de 2025, 00:00
-  - Cierre: viernes, 19 de diciembre de 2025, 00:00
-  - Archivos: PEC 2_Word.doc, PEC_2.pdf
-  - Estado: 2 intentos permitidos, sin calificar, tiempo restante hasta cierre: 50 días 9 horas (desde la fecha de la captura)
-
-- **Trabajo teórico-práctico final:**
-  - Apertura: miércoles, 1 de octubre de 2025, 00:00
-  - Cierre: viernes, 16 de enero de 2026, 00:00
-
-- **Ficha síntesis debate en foros temáticos:**
-  - Apertura: sábado, 1 de noviembre de 2025, 00:00
-  - Cierre: viernes, 16 de enero de 2026, 00:00
-
-### Contenido de las actividades
-
-- **PEC 1:** Resolución de un caso práctico y entrega de documentos según instrucciones del aula virtual. Se permite hasta 2 intentos. La entrega se realiza en formato PDF o Word.
-- **PEC 2:** Desarrollo de un caso práctico diferente al de PEC 1, siguiendo las indicaciones del aula virtual. Hasta 2 intentos permitidos. Entrega en PDF o Word.
-- **Trabajo teórico-práctico final:** Elaboración de un trabajo integrador que recoge los aprendizajes de la asignatura. Entrega única en la fecha indicada.
-- **Ficha síntesis debate en foros temáticos:** Participación en debates temáticos del aula virtual y entrega de una ficha resumen con las aportaciones realizadas. Entrega única.
-
-### Evaluación continua
-
-La evaluación de la asignatura se basa en la realización y entrega de las actividades anteriores dentro de los plazos establecidos. Todas las actividades deben ser entregadas y aprobadas para superar la asignatura. La calificación se realiza a través del aula virtual y puede consultarse el estado de cada entrega en la plataforma.
-
----
 
 **Última actualización:** 29 de octubre de 2025
