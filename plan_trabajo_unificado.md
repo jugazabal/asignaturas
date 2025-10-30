@@ -89,7 +89,7 @@ Los estudiantes disponen de tres convocatorias de evaluación: febrero, junio y 
 | **Objetivo**     | Proporcionar visión global y actualizada sobre sistemas y políticas de orientación educativa en España. |
 | **Contenidos**   | Presentación, requisitos, equipo docente, competencias, resultados, metodología, evaluación, bibliografía, recursos, igualdad de género. |
 | **Evaluación**   | Sin prueba presencial. Evaluación continua. Consultar guía y aula virtual. |
-| **Temporalización** | Inicio: Octubre 2025. Fechas y entregas: consultar aula virtual. |
+| **Temporalización** | Ver apartado 'Actividades y evaluación continua' más abajo. |
 | **Materiales**   | Aula virtual y guía de la asignatura. Bibliografía básica y complementaria. |
 | **Competencias** | Comprender evolución y fundamentos, analizar sistemas, aplicar recursos y servicios, participar en foros. |
 | **Checklist**    | Leer guía, estudiar materiales, participar en foros, realizar actividades, consultar recursos multimedia. |
@@ -315,5 +315,5 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 
 ---
 
-**Última actualización:** 29 de octubre de 2025
+**Última actualización:** 30 de octubre de 2025
 
