@@ -107,6 +107,7 @@ Los estudiantes disponen de tres convocatorias de evaluación: febrero, junio y 
 - [ ] Realizar y entregar la actividad práctica obligatoria en la convocatoria correspondiente
 - [ ] Mantener un registro o notas de la actividad práctica (reflexiones, evidencias)
 - [ ] Participar en el foro de dudas y consultas y resolver las indicaciones del equipo docente
+ 
 
 ## Políticas y Sistemas de Orientación Educativa
 
@@ -140,6 +141,16 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 
 ---
 
+### Checklist (Políticas y Sistemas)
+
+- [ ] Leer la guía de la asignatura
+- [ ] Consultar y estudiar los materiales básicos y complementarios
+- [ ] Participar en el aula virtual y foros
+- [ ] Realizar las actividades de evaluación continua
+- [ ] Consultar recursos multimedia y webconferencias
+
+---
+
 ## Asesoramiento Psicopedagógico en Procesos de Enseñanza Aprendizaje
 
 | Apartado         | Contenido |
@@ -170,8 +181,21 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 **Evaluación continua:**
 La evaluación se basa en la realización y entrega de las actividades anteriores dentro de los plazos establecidos. Todas las tareas deben ser entregadas y aprobadas (mínimo 5 puntos en cada una) para superar la asignatura. La calificación se realiza a través del aula virtual y puede consultarse el estado de cada entrega en la plataforma.
 
----
+ 
+ 
+### Checklist (Asesoramiento Psicopedagógico)
 
+- [ ] Estudiar Tema 1 completo
+- [ ] Estudiar Tema 2 completo
+- [ ] Estudiar Tema 3 completo
+- [ ] Completar y aprobar PED (mínimo 5 puntos)
+- [ ] Completar y aprobar Tarea 1 (mínimo 5 puntos)
+- [ ] Completar y aprobar Tarea 2 (mínimo 5 puntos)
+- [ ] Completar y aprobar Tarea 3 (mínimo 5 puntos)
+- [ ] Revisar trabajos con herramientas antiplagio propias antes de entregar
+- [ ] Entregar todas las tareas en plazo (febrero o septiembre)
+
+---
 ## Diagnóstico en Orientación Educativa (Plan 2013)
 
 | Apartado         | Contenido |
@@ -201,7 +225,17 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 **Evaluación continua:**
 La evaluación se basa en la realización y entrega de las actividades anteriores dentro de los plazos establecidos. Todas las tareas deben ser entregadas y aprobadas (mínimo 5 puntos en cada una) para superar la asignatura. La calificación se realiza a través del aula virtual y puede consultarse el estado de cada entrega en la plataforma.
 
----
+
+### Checklist (Diagnóstico)
+
+- [ ] Estudiar Unidad Didáctica I completa
+- [ ] Estudiar Unidad Didáctica II completa
+- [ ] Completar actividades de la Unidad Didáctica I
+- [ ] Completar actividades de la Unidad Didáctica II
+- [ ] Elaborar y entregar Trabajo Práctico (antes del 31/01/2026)
+- [ ] Participar en foros del curso virtual
+- [ ] Revisar producciones audiovisuales
+
 
 ## Desarrollo, Aprendizaje y Educación
 
@@ -247,6 +281,18 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 
 ---
 
+### Checklist (Desarrollo, Aprendizaje y Educación)
+
+- [ ] Estudiar Tema 1 completo
+- [ ] Estudiar Tema 2 completo
+- [ ] Estudiar Tema 3 completo
+- [ ] Estudiar Tema 4 completo
+- [ ] Estudiar Tema 5 completo
+- [ ] Completar Informe Final
+- [ ] Preparar Prueba Objetiva
+- [ ] Preparar Prueba de Desarrollo
+- [ ] Participar en foros y tutorías
+
 ## Atención Temprana y Orientación Familiar
 
 | Apartado         | Contenido |
@@ -280,6 +326,13 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 
 ---
 
+### Checklist (Atención Temprana y Orientación Familiar)
+
+- [ ] Estudiar contenidos completos
+- [ ] Completar evaluaciones según sistema establecido
+- [ ] Participar en foros y actividades
+- [ ] Consultar recursos adicionales en curso virtual
+
 ## Innovación, Investigación y Gestión del Cambio en Orientación Educativa
 | Apartado         | Contenido |
 |------------------|----------|
@@ -309,6 +362,16 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 La evaluación se basa en la realización y entrega de las actividades anteriores dentro de los plazos establecidos. Todas las tareas deben ser entregadas y aprobadas (mínimo 5 puntos en cada una) para superar la asignatura. La calificación se realiza a través del aula virtual y puede consultarse el estado de cada entrega en la plataforma.
 
 ---
+
+### Checklist (Innovación, Investigación y Gestión del Cambio)
+
+- [ ] Leer la guía y materiales básicos
+- [ ] Formar equipo y elegir tema para WebQuest
+- [ ] Realizar y entregar Actividad 2.2
+- [ ] Realizar y entregar Actividad 3.2
+- [ ] Participar en evaluación entre pares
+- [ ] Consultar recursos y bibliografía complementaria
+- [ ] Participar en foros y actividades colaborativas
 
 ## Prácticum del Máster en Formación del Profesorado de Educación Secundaria. Especialidad de Orientación Educativa
 
@@ -343,6 +406,14 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 La evaluación se basa en la realización y entrega de las actividades anteriores dentro de los plazos establecidos. Todas las tareas deben ser entregadas y aprobadas para superar la asignatura. La calificación se realiza a través del aula virtual y puede consultarse el estado de cada entrega en la plataforma.
 
 ---
+
+### Checklist (Prácticum)
+
+- [ ] Contactar con el profesorado tutor del Centro Asociado y asistir a la tutoría inicial
+- [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) / PF y obtener su aprobación
+- [ ] Mantener el diario/registro de trabajo y entregar borradores intermedios según indicaciones
+- [ ] Elaborar y entregar la memoria final en la convocatoria correspondiente
+- [ ] Cumplimentar el Cuestionario de Competencias (inicial y final)
 
 **Última actualización:** 30 de octubre de 2025
 
