@@ -81,3 +81,12 @@ Los estudiantes disponen de tres convocatorias de evaluación: febrero, junio y 
 ---
 
 **Actualizado a 29 de octubre de 2025**
+
+### Checklist
+
+- [ ] Leer la guía de la asignatura y familiarizarse con los módulos
+- [ ] Acceder al curso virtual y consultar calendarios y recursos
+- [ ] Realizar las lecturas obligatorias de cada módulo
+- [ ] Completar los cuestionarios de autoevaluación y la actividad práctica obligatoria
+- [ ] Entregar la actividad práctica en la convocatoria correspondiente
+- [ ] Participar en el foro de dudas y consultas con el equipo docente
