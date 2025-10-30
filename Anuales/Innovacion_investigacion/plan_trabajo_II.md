@@ -121,7 +121,7 @@ Al finalizar la asignatura serás capaz de:
 
 ---
 
-## 📝 CHECKLIST DE SUPERACIÓN
+### Checklist
 
 - [ ] Leer la guía y materiales básicos
 - [ ] Formar equipo y elegir tema para WebQuest

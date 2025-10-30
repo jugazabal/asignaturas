@@ -122,7 +122,7 @@ Al finalizar la asignatura serás capaz de:
 
 ---
 
-## 📝 CHECKLIST DE SUPERACIÓN
+### Checklist
 
 - [ ] Leer la guía de la asignatura
 - [ ] Consultar y estudiar los materiales básicos y complementarios

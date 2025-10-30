@@ -110,7 +110,7 @@ Al finalizar la asignatura serás capaz de:
 
 ---
 
-## 📝 CHECKLIST DE SUPERACIÓN
+### Checklist
 
 - [ ] Estudiar Tema 1 completo
 - [ ] Estudiar Tema 2 completo

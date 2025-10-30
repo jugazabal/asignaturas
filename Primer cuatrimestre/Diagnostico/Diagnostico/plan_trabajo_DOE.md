@@ -124,7 +124,7 @@ Al finalizar la asignatura serás capaz de:
 
 ---
 
-## 📝 CHECKLIST DE SUPERACIÓN
+### Checklist
 
 - [ ] Estudiar Unidad Didáctica I completa
 - [ ] Estudiar Unidad Didáctica II completa
