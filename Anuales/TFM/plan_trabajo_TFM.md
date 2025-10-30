@@ -28,6 +28,25 @@ Este documento resume los apartados principales del Trabajo Fin de Máster (TFM)
 - [ ] Elaborar y entregar la memoria final en la convocatoria correspondiente
 - [ ] Cumplimentar el Cuestionario de Competencias (inicial y final)
 
+---
+
+### Checklist (TFM) — listado completo y accionable
+
+- [ ] Contactar con el/la tutor/a asignado/a y asistir a la tutoría inicial (comprobar listado en el curso virtual; asignaciones a mediados de diciembre)
+- [ ] Localizar en el curso virtual el "Listado tutor-a asignado-a" por las últimas letras del DNI/NIE y establecer primer contacto por correo institucional
+- [ ] Proponer tema y estructura al/la tutor/a y obtener su visto bueno antes de iniciar el desarrollo
+- [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) / Proyecto Formativo (PF) y obtener la aprobación correspondiente
+- [ ] Realizar el curso “Competencias Genéricas en Información” (Biblioteca UNED) si aplica
+- [ ] Mantener un diario/registro de prácticas con entregas periódicas y evidencias (borradores, avances, reflexiones)
+- [ ] Planificar entregas intermedias y enviar borradores al/de la tutor/a para revisión
+- [ ] Elaborar y entregar la versión definitiva de la memoria del TFM en la convocatoria indicada
+- [ ] Cumplimentar el Cuestionario de Competencias (Inicial y Final)
+- [ ] Descargar y preparar la documentación necesaria para la defensa: versión definitiva del TFM, DNI (dos caras), solicitud de defensa (Anexo I) y declaración jurada de autoría
+- [ ] Preparar una presentación visual para la defensa (aprox. 10 diapositivas: objetivo, metodología, resultados, conclusiones y aportación práctica)
+- [ ] Verificar recursos técnicos para la defensa telemática (cámara, micrófono, conexión) o solicitar el uso del Centro Asociado si procede
+- [ ] Comprobar requisitos legales y administrativos (alta en la Seguridad Social para prácticas, certificación negativa del Registro Central de Delincuentes Sexuales si procede)
+
+
 ### Temporalización y actividades de evaluación continua
 
 El Trabajo Fin de Máster (TFM) tiene carácter anual y una carga de 10 ECTS (250 horas). La temporalización y las actividades de evaluación continua siguen las orientaciones de la guía de la asignatura y dependen, en algunos plazos concretos, de la normativa y procedimientos del Centro Asociado que gestiona la asignación y el calendario.
