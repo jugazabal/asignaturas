@@ -71,22 +71,19 @@ Los estudiantes disponen de tres convocatorias de evaluación: febrero, junio y 
 - Entrega de actividad práctica: según convocatoria publicada en el curso virtual
 
 ## Requisitos técnicos
-- Adobe Reader y navegador web actualizado.
 
 ## ¿Qué puedes ganar si dominas estas competencias?
-- Valor diferenciador como investigador/a.
-- Potenciador del éxito académico y profesional.
-- Contribución al intercambio y creación de valor en la universidad.
 
----
 
 **Actualizado a 30 de octubre de 2025**
 
 ### Checklist
+### Checklist (Biblioteca e Información)
 
 - [ ] Contactar con el profesorado responsable y asistir a la tutoría inicial
 - [ ] Acceder y familiarizarse con el curso virtual; consultar recursos y calendarios
 - [ ] Realizar las lecturas obligatorias y completar los cuestionarios de autoevaluación
 - [ ] Realizar y entregar la actividad práctica obligatoria en la convocatoria correspondiente
 - [ ] Mantener un registro o notas de la actividad práctica (reflexiones, evidencias)
+- [ ] Participar en el foro de dudas y consultas y resolver las indicaciones del equipo docente
 - [ ] Participar en el foro de dudas y consultas y resolver las indicaciones del equipo docente

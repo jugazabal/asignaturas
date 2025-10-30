@@ -120,16 +120,13 @@ Al finalizar la asignatura serás capaz de:
 
 ---
 
-## 📝 CHECKLIST DE SUPERACIÓN
+## Checklist (Prácticum)
 
-- [ ] Contactar con el tutor/a del centro asociado
-- [ ] Acceder y participar en el curso virtual
-- [ ] Incorporarse al centro de prácticas y consensuar el PIP
-- [ ] Realizar actividades obligatorias y entregar en plazo
-- [ ] Mantener el diario de prácticas
-- [ ] Elaborar y entregar la memoria final
-- [ ] Cumplimentar el cuestionario de competencias (inicial y final)
-- [ ] Cumplir con la normativa legal y administrativa
+- [ ] Contactar con el profesorado tutor del Centro Asociado y asistir a la tutoría inicial
+- [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) / PF y obtener su aprobación
+- [ ] Mantener el diario/registro de trabajo y entregar borradores intermedios según indicaciones
+- [ ] Elaborar y entregar la memoria final en la convocatoria correspondiente
+- [ ] Cumplimentar el Cuestionario de Competencias (inicial y final)
 
 ---
 
