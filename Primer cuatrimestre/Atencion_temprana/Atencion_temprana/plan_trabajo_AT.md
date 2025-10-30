@@ -114,7 +114,7 @@ Al finalizar la asignatura serás capaz de:
 
 ---
 
-## 📝 CHECKLIST DE SUPERACIÓN
+### Checklist
 
 - [ ] Estudiar contenidos completos
 - [ ] Completar evaluaciones según sistema establecido
