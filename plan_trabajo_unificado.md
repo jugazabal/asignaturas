@@ -51,7 +51,7 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 | **Metodología**  | Seis lecturas obligatorias (una por módulo). Dos anexos a lecturas 2 y 4. Seis cuestionarios de autoevaluación (no obligatorios). Una actividad práctica obligatoria y evaluable. Foro de dudas y participación. Bibliografía básica: unidades didácticas del curso. Material complementario: guías, videoclases, tutoriales. |
 | **Orientaciones para el estudio** | Lectura atenta de la guía y módulos. Asimilación de contenidos y realización de actividades prácticas recomendadas. Interacción con el equipo docente y participación en el foro. Compleción de pruebas de autoevaluación. Entrega de la actividad práctica obligatoria en el periodo indicado. |
 | **Sistema de evaluación** | Superación de una actividad práctica obligatoria. Evaluación individualizada, respetando honestidad académica. Entrega en formato PDF, ODT, RTF, DOC, DOCX, etc. a través de la plataforma virtual. Convocatorias y fechas de entrega publicadas en el curso virtual. |
-| **Temporalización** | Inicio del curso: Octubre. Entrega de actividad práctica: según convocatoria publicada en el curso virtual. |
+| **Temporalización** | Ver apartado 'Temporalización' más abajo. |
 
 ### Sistema de evaluación
 
@@ -79,7 +79,7 @@ Los estudiantes disponen de tres convocatorias de evaluación: febrero, junio y 
 
 ---
 
-**Última actualización:** 29 de octubre de 2025
+**Última actualización:** 30 de octubre de 2025
 
 ## Políticas y Sistemas de Orientación Educativa
 
