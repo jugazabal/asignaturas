@@ -61,7 +61,6 @@ La evaluación del TFM se fundamenta en la calidad de la memoria final, el segui
 - [ ] Mantener el diario/registro de trabajo y entregar borradores intermedios según indicaciones
 - [ ] Elaborar y entregar la memoria final en la convocatoria correspondiente
 - [ ] Cumplimentar el Cuestionario de Competencias (inicial y final)
-
 ---
 
 ### Checklist (TFM) — listado completo y accionable
@@ -79,7 +78,6 @@ La evaluación del TFM se fundamenta en la calidad de la memoria final, el segui
 - [ ] Preparar una presentación visual para la defensa (aprox. 10 diapositivas: objetivo, metodología, resultados, conclusiones y aportación práctica)
 - [ ] Verificar recursos técnicos para la defensa telemática (cámara, micrófono, conexión) o solicitar el uso del Centro Asociado si procede
 - [ ] Comprobar requisitos legales y administrativos (alta en la Seguridad Social para prácticas, certificación negativa del Registro Central de Delincuentes Sexuales si procede)
-
 
 ---
 
