@@ -17,7 +17,7 @@ Este documento reúne los apartados principales de los planes de trabajo de las 
 | **Metodología**  | Estancia en centro de prácticas (200h), centro asociado y aula virtual (50h). Plan Inicial de Prácticas (PIP), actividades obligatorias, diario, memoria final, cuestionario de competencias. Actividades supervisadas por tutor/a y equipo docente. |
 | **Fases**        | 1. Contacto con tutor/a del centro asociado. 2. Acceso y familiarización con curso virtual. 3. Incorporación al centro de prácticas y planificación de actividades. 4. Realización de actividades/tareas: PIP, actividades obligatorias, diario, memoria final. |
 | **Evaluación**   | Actividades obligatorias, diario, memoria final, cuestionario de competencias. Evaluación por tutor/a del centro asociado y equipo docente. |
-| **Checklist**    | Contactar con tutor/a, asistir a tutorías, acceder al curso virtual, entregar PIP y PF, realizar actividades obligatorias, mantener diario, elaborar memoria final, cumplimentar cuestionario de competencias, cumplir normativa legal. |
+ 
 
 
 ### Temporalización y actividades de evaluación continua
@@ -46,17 +46,15 @@ Evaluación:
 La evaluación del TFM se fundamenta en la calidad de la memoria final, el seguimiento y supervisión realizada por el tutor/a del Centro Asociado y las evidencias recogidas (diario, entregas parciales, actividades obligatorias). El profesorado tutor del Centro Asociado y el equipo docente del TFM realizan la valoración final.
 
 ---
-
-### Checklist
+### Checklist (TFM)
 
 - [ ] Contactar con el profesorado tutor del Centro Asociado y asistir a la tutoría inicial
-- [ ] Acceder y familiarizarse con el curso virtual y consultar recursos y calendarios
-- [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) y, si procede, el Proyecto Formativo (PF); comprobar su aprobación
-- [ ] Realizar las actividades obligatorias indicadas por el equipo docente y el tutor/a del centro
-- [ ] Mantener el diario o registro de trabajo y revisar entregas parciales con el tutor/a
-- [ ] Elaborar y entregar la memoria final dentro del plazo establecido
+- [ ] Redactar y subir el Plan Inicial de Trabajo (PIP) / PF y obtener su aprobación
+- [ ] Mantener el diario/registro de trabajo y entregar borradores intermedios según indicaciones
+- [ ] Elaborar y entregar la memoria final en la convocatoria correspondiente
 - [ ] Cumplimentar el Cuestionario de Competencias (inicial y final)
-- [ ] Asegurar el cumplimiento de requisitos legales y administrativos (Alta Seguridad Social, certificado negativo del Registro Central de Delincuentes Sexuales cuando proceda)
+
+---
 
 
 ## Biblioteca e Información
@@ -121,7 +119,7 @@ Los estudiantes disponen de tres convocatorias de evaluación: febrero, junio y 
 | **Temporalización** | Ver apartado 'Actividades y evaluación continua' más abajo. |
 | **Materiales**   | Aula virtual y guía de la asignatura. Bibliografía básica y complementaria. |
 | **Competencias** | Comprender evolución y fundamentos, analizar sistemas, aplicar recursos y servicios, participar en foros. |
-| **Checklist**    | Leer guía, estudiar materiales, participar en foros, realizar actividades, consultar recursos multimedia. |
+ 
 
 ### Actividades y evaluación continua
 
@@ -153,7 +151,7 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 | **Temporalización** | Ordinaria: Octubre-Febrero. Extraordinaria: Septiembre. Fechas en curso virtual. |
 | **Materiales**   | Todo el material en el campus virtual. No hay libros obligatorios. |
 | **Competencias** | Comprender colaboración profesional, modelos teóricos, roles, metodologías, modelo intersectorial, formación, evaluación. |
-| **Checklist**    | Estudiar temas, completar y aprobar tareas, revisar trabajos antiplagio, entregar en plazo. |
+ 
 
 ### Temporalización y actividades de evaluación continua
 
@@ -185,7 +183,7 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 | **Temporalización** | Ordinaria: Octubre-enero. Extraordinaria: septiembre. |
 | **Materiales**   | Curso virtual. Bibliografía básica y complementaria. |
 | **Competencias** | Comprender evolución y conceptualización, aplicar perspectivas, diseñar instrumentos, elaborar informes, integrar diagnóstico. |
-| **Checklist**    | Estudiar unidades, completar actividades, entregar trabajo práctico, participar en foros, revisar audiovisuales. |
+ 
 
 ### Temporalización y actividades de evaluación continua
 
@@ -216,7 +214,7 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 | **Temporalización** | Inicio: Octubre. Pruebas: Enero-Febrero. |
 | **Materiales**   | Plataforma virtual. Bibliografía básica y complementaria. |
 | **Competencias** | Comprender marco epistemológico, analizar sistema cognitivo, aplicar estrategias, implementar procesos, desarrollar modelos, evaluar artículos. |
-| **Checklist**    | Estudiar temas, completar informe, preparar pruebas, participar en foros. |
+ 
 
 ### Sistema de evaluación
 
@@ -260,7 +258,7 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 | **Temporalización** | Inicio: Octubre 2025. Fechas: consultar curso virtual. |
 | **Materiales**   | Aula virtual. Guía de estudio, orientaciones, foros, calendario. |
 | **Competencias** | Conocer fundamentos, identificar riesgos, intervenir preventivamente, reconocer importancia familiar, estimular participación. |
-| **Checklist**    | Estudiar contenidos, completar evaluaciones, participar en foros, consultar recursos. |
+ 
 
 
 ### Temporalización y actividades de evaluación continua
@@ -292,7 +290,7 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 | **Temporalización** | Inicio: Octubre 2025. Entregas: 15/01/2026 y 15/05/2026. Extraordinaria: 06/09/2026. Fechas clave para WebQuest: octubre-mayo. |
 | **Materiales**   | Aula virtual. Documentos y artículos seleccionados, bibliografía complementaria. |
 | **Competencias** | Desarrollar proyectos de innovación, investigar en orientación y gestión del cambio, colaborar en equipos, integrar teoría y práctica, evaluar críticamente. |
-| **Checklist**    | Leer guía, formar equipo, realizar y entregar actividades, participar en evaluación entre pares, consultar recursos y bibliografía, participar en foros. |
+ 
 
 ### Temporalización y actividades de evaluación continua
 
@@ -323,7 +321,7 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 | **Temporalización** | Inicio: Octubre 2025. Estancia en centro de prácticas según normativa. Tutorías y actividades virtuales durante todo el curso. Entrega de memoria y documentos al finalizar. |
 | **Materiales**   | Curso virtual. Guía de estudio, documentos, orientaciones, foros y recursos de apoyo. |
 | **Competencias** | Planificar, diseñar y evaluar intervenciones, realizar actividades de orientación, vincular teoría y práctica, trabajar colaborativamente, aplicar principios deontológicos y cumplir requisitos legales. |
-| **Checklist**    | Contactar con tutor, participar en curso virtual, incorporarse al centro, realizar actividades y entregas, mantener diario, elaborar memoria, cumplimentar cuestionario, cumplir normativa legal. |
+ 
 
 ### Temporalización y actividades de evaluación continua
 
