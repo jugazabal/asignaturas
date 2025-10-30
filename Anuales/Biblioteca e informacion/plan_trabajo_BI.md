@@ -59,7 +59,7 @@ La actividad práctica debe entregarse, en formato .pdf, .odt, .rtf, .doc, .docx
 
 ---
 
-## Temporalización
+## Temporalización y actividades de evaluación continua
 Los estudiantes disponen de tres convocatorias de evaluación: febrero, junio y una convocatoria extraordinaria en el mes de septiembre.
 
 **Convocatoria de febrero.** La actividad práctica se propondrá el **26 de enero** y podrá presentarse hasta el **15 de febrero**.
@@ -80,13 +80,13 @@ Los estudiantes disponen de tres convocatorias de evaluación: febrero, junio y 
 
 ---
 
-**Actualizado a 29 de octubre de 2025**
+**Actualizado a 30 de octubre de 2025**
 
 ### Checklist
 
-- [ ] Leer la guía de la asignatura y familiarizarse con los módulos
-- [ ] Acceder al curso virtual y consultar calendarios y recursos
-- [ ] Realizar las lecturas obligatorias de cada módulo
-- [ ] Completar los cuestionarios de autoevaluación y la actividad práctica obligatoria
-- [ ] Entregar la actividad práctica en la convocatoria correspondiente
-- [ ] Participar en el foro de dudas y consultas con el equipo docente
+- [ ] Contactar con el profesorado responsable y asistir a la tutoría inicial
+- [ ] Acceder y familiarizarse con el curso virtual; consultar recursos y calendarios
+- [ ] Realizar las lecturas obligatorias y completar los cuestionarios de autoevaluación
+- [ ] Realizar y entregar la actividad práctica obligatoria en la convocatoria correspondiente
+- [ ] Mantener un registro o notas de la actividad práctica (reflexiones, evidencias)
+- [ ] Participar en el foro de dudas y consultas y resolver las indicaciones del equipo docente
