@@ -57,6 +57,14 @@ Fases y entregas (orientativas):
 - Desarrollo del trabajo y supervisión: trabajo continuo a lo largo del periodo anual con entregas parciales y revisión por parte del tutor/a. Se recomienda planificar entregas intermedias (borradores, avances del marco teórico y metodología) según las indicaciones del tutor/a.
 - Entrega final de la memoria del TFM: al finalizar el periodo establecido por el Centro Asociado y/o la coordinación del TFM. Fecha concreta fijada en el curso virtual o por el Centro Asociado.
 
+### Fechas orientativas (TFM)
+
+- Asignación de tutor/a: publicada a mediados de diciembre (consultar el curso virtual)
+- Plan Inicial de Trabajo (PIP) — apertura: 1/10/2025; cierre orientativo: 22/12/2025
+- Actividades obligatorias y Diario de prácticas — apertura: 1/10/2025; cierre orientativo: 15/01/2026
+- Memoria final — apertura: 1/10/2025; cierre orientativo: 26/01/2026
+- Defensa (telemática): convocatoria y fecha fijadas por la coordinación; la convocatoria se envía con al menos 10 días de antelación
+
 Actividades obligatorias y evaluación continua:
 - Diario / Registro de trabajo: se mantendrá un diario o registro de la actividad y reflexiones sobre la práctica y el trabajo de investigación, con entregas periódicas a convenir con el profesorado tutor y el equipo docente.
 - Memoria final: documento evaluable presentado al concluir el TFM; su estructura y criterios están en el curso virtual.
