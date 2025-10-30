@@ -22,6 +22,8 @@ Este documento reúne los apartados principales de los planes de trabajo de las 
 ### Temporalización y actividades de evaluación continua
 
 **Temporalización de entregas:**
+
+**Temporalización de entregas:**
 - Tarea 1 (Fichas resumen enfoques teóricos): Apertura 1/10/2025, cierre 22/12/2025. Hasta 5 intentos permitidos.
 - Tarea 2 (Comentario artículo 1): Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
 - Tarea 3 (Comentario artículo 2): Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
@@ -160,6 +162,7 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 
 ### Temporalización y actividades de evaluación continua
 
+
 **Temporalización de entregas:**
 - Actividades Unidad Didáctica I: Apertura 1/10/2025, cierre 22/12/2025. Hasta 5 intentos permitidos.
 - Actividades Unidad Didáctica II: Apertura 1/10/2025, cierre 15/01/2026. Hasta 5 intentos permitidos.
@@ -231,6 +234,7 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 | **Materiales**   | Aula virtual. Guía de estudio, orientaciones, foros, calendario. |
 | **Competencias** | Conocer fundamentos, identificar riesgos, intervenir preventivamente, reconocer importancia familiar, estimular participación. |
 | **Checklist**    | Estudiar contenidos, completar evaluaciones, participar en foros, consultar recursos. |
+
 
 ### Temporalización y actividades de evaluación continua
 
