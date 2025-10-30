@@ -1,0 +1,34 @@
+From 38ddd96ad1a9f5590c2aeff5d8deab222b3d0dfb Mon Sep 17 00:00:00 2001
+From: Juan Garcia <jugazabal@gmail.com>
+Date: Wed, 29 Oct 2025 22:52:34 +0200
+Subject: [PATCH] =?UTF-8?q?Sincroniza=20cambios:=20elimina=20archivos=20an?=
+ =?UTF-8?q?tiguos=20de=20Biblioteca=20y=20a=C3=B1ade=20nueva=20carpeta=20'?=
+ =?UTF-8?q?Biblioteca=20e=20informacion'?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ .../Guia didactica biblioteca.txt                                 | 0
+ .../Gu\303\255a did\303\241ctica biblioteca.pdf"                  | 0
+ .../{Biblioteca => Biblioteca e informacion}/plan_trabajo_BI.md   | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ rename Anuales/{Biblioteca => Biblioteca e informacion}/Guia didactica biblioteca.txt (100%)
+ rename "Anuales/Biblioteca/Gu\303\255a did\303\241ctica biblioteca.pdf" => "Anuales/Biblioteca e informacion/Gu\303\255a did\303\241ctica biblioteca.pdf" (100%)
+ rename Anuales/{Biblioteca => Biblioteca e informacion}/plan_trabajo_BI.md (100%)
+
+diff --git a/Anuales/Biblioteca/Guia didactica biblioteca.txt b/Anuales/Biblioteca e informacion/Guia didactica biblioteca.txt
+similarity index 100%
+rename from Anuales/Biblioteca/Guia didactica biblioteca.txt
+rename to Anuales/Biblioteca e informacion/Guia didactica biblioteca.txt
+diff --git "a/Anuales/Biblioteca/Gu\303\255a did\303\241ctica biblioteca.pdf" "b/Anuales/Biblioteca e informacion/Gu\303\255a did\303\241ctica biblioteca.pdf"
+similarity index 100%
+rename from "Anuales/Biblioteca/Gu\303\255a did\303\241ctica biblioteca.pdf"
+rename to "Anuales/Biblioteca e informacion/Gu\303\255a did\303\241ctica biblioteca.pdf"
+diff --git a/Anuales/Biblioteca/plan_trabajo_BI.md b/Anuales/Biblioteca e informacion/plan_trabajo_BI.md
+similarity index 100%
+rename from Anuales/Biblioteca/plan_trabajo_BI.md
+rename to Anuales/Biblioteca e informacion/plan_trabajo_BI.md
+-- 
+2.49.0.windows.1
+
