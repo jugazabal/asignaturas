@@ -1,43 +1,43 @@
-
 # Pasos para la Gestión de Prácticas Externas Curriculares
 
-Este documento resume los pasos que un estudiante debe seguir para gestionar sus prácticas externas curriculares a través de la aplicación qDocente de la UNED.
+Este documento resume los pasos que un estudiante debe seguir para gestionar sus prácticas externas curriculares a través de la aplicación qDocente de la UNED y el curso virtual, combinando la información oficial y los diagramas de proceso.
 
-## 1. Acceso a la Aplicación
+## Antes de comenzar
 
-- **Acceder a la plataforma:** Ve a [practicas.uned.es](https://practicas.uned.es/).
-- **Autenticación:** Ingresa con tus credenciales de Campus UNED.
+1. Acceder a la aplicación de prácticas y solicitar plaza. El profesorado tutor te asignará una plaza.
+2. Acudir al centro de prácticas siguiendo las indicaciones del profesorado tutor del CA. Antes de comenzar las prácticas tienes que cerrar en el plan de prácticas (PIP) las fechas de inicio-fin y días de la semana de asistencia. **Utilizar documento de recogida de datos** (adaptado a la especialidad orientación educativa).
+3. Volver a acceder a la aplicación de prácticas y a la plaza adjudicada y señalar:
+   - las fechas inicio-fin (**deben coincidir con las del Plan Inicial de Prácticas**)
+   - días de la semana que realizará las prácticas
+   - actividades
+   - datos del tutor profesional
+   Una vez que están estos datos cumplimentados, se aceptará la plaza asignada.
+4. A partir de las fechas y días señalados comienza el cómputo de los días de cotización que se enviarán a la tesorería de la Seguridad Social.
+   - Se generará un calendario con los días estimados para la cotización según las fechas y días de la semana indicadas. Podrás revisarlas y modificar el cómputo efectivo en las fechas señaladas.
+5. **Número de Seguridad Social:** Verifica si tu número está asociado. Si no, añádelo.
 
-## 2. Solicitud de Prácticas
+## Al inicio y durante las prácticas
 
-- **Seleccionar Prácticas:** En el menú superior, elige "Prácticas externas".
-- **Seleccionar Curso Académico:** Asegúrate de que el curso académico correcto esté seleccionado.
-- **Ver Prácticas Disponibles:** Aparecerá un listado con las prácticas disponibles. Si una práctica ha sido "Aceptada", podrás ver la información asociada.
-- **Contacto:** Si no hay prácticas disponibles, contacta a tu centro asociado, tutor o equipo docente.
+### En el curso virtual
+- Realizar cuestionario competencias iniciales y finales
+- Entregar las actividades obligatorias
+- Entregar en el buzón del curso virtual el proyecto formativo y el plan de prácticas (PIP)
+- Realizar el diario y la memoria
 
-## 3. Cumplimentar Información (Antes de Iniciar)
-
-Este paso es **obligatorio** y debe completarse **antes del inicio** de la práctica.
-
-- **Número de Seguridad Social:** Verifica si tu número está asociado. Si no, añádelo.
-- **Fechas y Horas:**
-    - Indica las fechas de **inicio y fin** de la práctica.
-    - Especifica los **días de la semana** que asistirás.
-- **Actividades a Realizar:** Describe las tareas que desempeñarás, las cuales deben ser acordadas con el tutor profesional y el tutor supervisor.
-- **Datos del Tutor de la Entidad:** Registra la información de tu tutor profesional en la empresa.
-
-**Importante:** Una vez que toda la información esté completa, contacta a tu tutor del Centro Asociado o equipo docente para que la verifique y acepte tu solicitud. No podrás iniciar las prácticas hasta que la solicitud sea aceptada y se cumplan todos los requisitos.
-
-## 4. Una Vez Aceptada la Solicitud
-
-- **Calendario de Cotización:** Se generará un calendario con los días de cotización a la Seguridad Social. Podrás ajustar los "días efectivos" si difieren de los teóricos, siempre que no se hayan enviado aún los datos a la Seguridad Social.
+### En la aplicación de prácticas
+- Introducir los datos:
+  - las fechas inicio-fin (**deben coincidir con las del Plan Inicial de Prácticas**)
+  - días de la semana que realizará las prácticas
+  - actividades
+  - datos del tutor profesional
+- Validar el proyecto formativo: Descargar el proyecto formativo, una vez validado por el estudiante y los dos tutores, y subirlo al buzón.
 - **Credencial del Estudiante:** Descarga la credencial. Este documento es necesario para presentarte en la entidad de prácticas.
 - **Proyecto Formativo:**
     - Revisa el Proyecto Formativo disponible en la plataforma.
-    - **Da tu conformidad** marcando la casilla correspondiente. Esta acción sustituye a la firma física.
+    - Da tu conformidad marcando la casilla correspondiente. Esta acción sustituye a la firma física.
     - Una vez que todas las partes (estudiante, tutor académico, tutor de la entidad) den su conformidad, el documento quedará validado y podrás descargarlo.
 
-## 5. Requisitos Adicionales
+## Requisitos Adicionales
 
 - **Certificado de Delitos Sexuales:**
     - Si la práctica implica contacto con menores, la plataforma verificará automáticamente la ausencia de delitos sexuales.
@@ -47,9 +47,29 @@ Este paso es **obligatorio** y debe completarse **antes del inicio** de la prác
 
 ## Esquema General del Proceso
 
-1.  **Acceder y Solicitar:** Entra a la aplicación y solicita una plaza.
-2.  **Completar Información:** Rellena todos los datos requeridos en la plataforma (Seguridad Social, fechas, actividades, tutor).
-3.  **Validación del Tutor:** Contacta a tu tutor para que revise y acepte la solicitud.
-4.  **Conformidad del Proyecto Formativo:** Revisa y da tu conformidad al Proyecto Formativo.
-5.  **Descargar Documentación:** Obtén la credencial y el Proyecto Formativo validado.
-6.  **Iniciar Prácticas:** Comienza tus prácticas en la entidad.
+1.  Acceder y Solicitar: Entra a la aplicación y solicita una plaza.
+2.  Completar Información: Rellena todos los datos requeridos en la plataforma (Seguridad Social, fechas, actividades, tutor).
+3.  Validación del Tutor: Contacta a tu tutor para que revise y acepte la solicitud.
+4.  Conformidad del Proyecto Formativo: Revisa y da tu conformidad al Proyecto Formativo.
+5.  Descargar Documentación: Obtén la credencial y el Proyecto Formativo validado.
+6.  Iniciar Prácticas: Comienza tus prácticas en la entidad.
+
+---
+
+> **Nota:** Este documento integra los pasos visuales y textuales para asegurar que el estudiante no omita ninguna tarea relevante en el proceso de gestión de prácticas.
+
+## Checklist de tareas (marcar al completar)
+
+- [ ] Acceder a la aplicación de prácticas y solicitar plaza
+- [ ] Acudir al centro de prácticas y cerrar fechas en el PIP
+- [ ] Verificar y añadir Número de Seguridad Social
+- [ ] Introducir en la aplicación las fechas inicio-fin y los días de la semana
+- [ ] Rellenar las actividades a realizar y datos del tutor profesional
+- [ ] Revisar y dar conformidad al Proyecto Formativo (descargar una vez validado)
+- [ ] Descargar la credencial del estudiante
+- [ ] Entregar en el buzón del curso virtual el proyecto formativo y el PIP
+- [ ] Realizar y entregar el diario de prácticas
+- [ ] Realizar y entregar la memoria de prácticas
+- [ ] Completar cuestionarios de competencias iniciales y finales
+- [ ] Adjuntar certificado de delitos sexuales (si procede)
+- [ ] Registrar horas (si la titulación lo exige)
