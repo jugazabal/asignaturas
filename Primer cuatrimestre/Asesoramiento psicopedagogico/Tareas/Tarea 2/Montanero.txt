@@ -1,0 +1,753 @@
+
+542
+Colour:
+
+100%
+
+Automatic Zoom
+525
+revista española de pedagogía
+año LXXII, nº 259, septiembre-diciembre 2014, 525-542
+1. Introducción
+El asesoramiento al profesorado es el
+rol más importante que desempeñan los
+profesionales de la orientación en nuestro
+sistema educativo (Boza, Toscano y Salas,
+2007). En las tareas de asesoramiento
+los orientadores se implican en procesos
+de ayuda a la innovación y revisión de la
+práctica profesional. Dichas tareas no se
+circunscriben sólo a un plano individual,
+sino también al grupal y organizativo
+(Nieto y Portela, 2006). A diferencia de
+otros países, en España las funciones de
+asesoramiento abarcan muy diversas de-
+mandas, desde los procesos de diseño y
+desarrollo curricular hasta las medidas
+de atención a la diversidad, pasando por
+la propia acción tutorial (MEC, 1990).
+Tradicionalmente, la actuación de los
+asesores estuvo presidida por principios
+y relaciones propias de un modelo técni-
+co-prescriptivo, muy influido por concep-
+ciones clínicas y psicométricas. Esa pers-
+pectiva externa y asimétrica, con asesores
+supuestamente investidos del poder del
+conocimiento teórico-técnico, del que de-
+rivaban las orientaciones sobre lo que los
+profesores debían cambiar, ha cedido el
+paso a otras alternativas de intervención
+psicopedagógica (Domingo, 2003).
+Por un lado, la influencia de las co-
+rrientes constructivista, sistémica, eco-
+lógica y cultural (véase Monereo y Solé,
+1996; Montanero, 2008) han enriquecido
+la concepción del asesoramiento, rele-
+gando a un segundo plano el diagnóstico
+y la intervención directa sobre los pro-
+blemas individuales, para «alcanzar un
+mayor compromiso con la escuela como
+organización que aprende» (Marcelo,
+1999, p. 3).
+Por otro lado, las actividades profesio-
+nales ligadas al asesoramiento educati-
+vo han adoptado un modelo colaborativo
+(Coben, Thomas, Sattler y Morsink, 1997;
+Domingo, 2012). Colaborar significa tra-
+bajar con, en lugar de intervenir en, los
+profesores con la finalidad fundamental
+de proporcionarles herramientas y espa-
+cios que les permitan dirigir sus propios
+procesos de cambio (Bolívar, 2000). Y no
+sólo con los profesionales de la educación
+sino también de colaboración con la comu-
+nidad educativa y los propios estudiantes
+(Nieto y Portela, 2008). El asesoramiento
+se concibe así como una «coproducción de
+ayuda en un contexto ampliado de inte-
+racción» (Nieto y Portela, 2006, p. 78); un
+proceso de solución conjunta de proble-
+mas que debe contemplar tres momentos
+La investigación sobre el asesoramiento educativo
+en España: una revisión de su metodología
+y resultados empíricos
+por Manuel MONTANERO FERNÁNDEZ
+Universidad de Extremadura
+Manuel MONTANERO FERNÁNDEZ526revista española de pedagogía
+año LXXII, nº 259, septiembre-diciembre 2014, 525-542
+diferenciados: 1) la delimitación del pro-
+blema, expectativas y metas; 2) la planifi-
+cación de los medios y posibles soluciones
+o intervenciones; 3) la evaluación de los
+resultados y acciones empleadas (Castelló
+y Monereo, 2005; Sánchez y García, 2005;
+Lago y Onrubia, 2008).
+Esta simetría no es incompatible con
+una condición de experto del asesor (Za-
+balza, 2006). El profesional de la orien-
+tación y el asesoramiento debe tener un
+conocimiento especializado de la natura-
+leza y condicionantes de los procesos de
+enseñanza-aprendizaje. Sin embargo, la
+colaboración con los educadores no puede
+hacerse al margen de sus concepciones y
+necesidades ni del contexto organizativo
+en que tienen lugar. Aunque el asesor es
+un especialista, no debe olvidar que su
+trabajo se desarrolla sobre todo con otros
+profesionales que lo son igualmente res-
+pecto de su responsabilidad educativa.
+Esto supone básicamente alejarse de los
+modelos de transmisión jerárquica y li-
+neal del conocimiento, en los que el ex-
+perto aporta las soluciones a los proble-
+mas, como ocurre en algunos enfoques del
+Counseling. Los asesores deben también
+ser expertos en evaluar los problemas,
+crear espacios de colaboración, propor-
+cionar ayudas adecuadas y supervisar el
+proceso de cambio (Schulte y Osborne,
+2003; Monereo y Pozo, 2005). Sin una cul-
+tura de colaboración la probabilidad de
+desarrollar e institucionalizar las innova-
+ciones educativas es muy limitada. Dicha
+cultura comienza por el propio asesor que
+debe aprender a tomar riesgos, a confiar
+en el deseo de mejorar de los profesores,
+a sondear múltiples vías de innovación, a
+redefinir constantemente los roles de los
+participantes y a reconocer el beneficio de
+la colaboración para el aprendizaje de los
+propios estudiantes (Fullan y Hargrea-
+ves, 1997).
+La importancia de la colaboración ex-
+plica en parte por qué la práctica profe-
+sional del asesoramiento educativo, su
+idiosincrasia y problemática, se encuen-
+tra estrechamente vinculada a la organi-
+zación y cultura de los sistemas educati-
+vos concretos; de ahí que los resultados
+de investigación de diferentes países no
+sean fácilmente interpretables ni genera-
+lizables en otros contextos educativos. En
+nuestro entorno puede considerarse una
+línea de investigación que ha adquirido
+una presencia creciente en las revistas
+científicas y que se han abordado desde
+enfoques diversos. Un análisis del estado
+de la cuestión y la panorámica de trabajos
+publicados en los últimos años permite
+vislumbrar, al menos, dos enfoques que
+condicionan el objeto-problema de estu-
+dio y la metodología seleccionada para
+abordarlo.
+De un lado, se constatan un cierto
+número de investigaciones de corte pro-
+ceso-producto, centradas en analizar las
+relaciones causales entre los procesos de
+asesoramiento y los cambios en la prácti-
+ca educativa, o entre estos y los resulta-
+dos de aprendizaje de los estudiantes.
+Con una orientación interpretativa,
+otras investigaciones, en cambio, más que
+analizar la eficacia del asesoramiento, se
+preocupan sobre todo por intentar descri-
+bir las prácticas de profesores y asesores,
+así como por comprender los motivos de
+sus actuaciones.
+La investigación sobre el asesoramiento educativo en España527revista española de pedagogía
+año LXXII, nº 259, septiembre-diciembre 2014, 525-542
+2. Estudios centrados en explicar
+la eficacia del asesoramiento
+En el primer enfoque podríamos situar
+aquellos estudios en los que los investiga-
+dores tratan primordialmente de identi-
+ficar prácticas de asesoramiento empíri-
+camente eficaces que faciliten la calidad
+educativa. Estos estudios intentan obte-
+ner observaciones sistemáticas sobre la
+posible relación existente entre variables
+independientes (las actividades de ase-
+soramiento) y dependientes (la práctica
+educativa o los resultados de aprendizaje
+de los alumnos). Se presta, por tanto, mu-
+cha importancia a la eficacia de la forma-
+ción y el asesoramiento, en virtud de los
+resultados que puede llegar a producir en
+docentes y estudiantes.
+2.1. Estudios experimentales y cua-
+siexperimentales
+Las revistas científicas publican nu-
+merosos trabajos científicos que ponen a
+prueba los resultados de una determina-
+da propuesta instruccional (de enseñanza
+de la comprensión lectora, de las matemá-
+ticas, de aprendizaje colaborativo, etc.) en
+un grupo de alumnos, y las comparan con
+las que obtienen otros grupos siguiendo
+un método diferente. Es sorprendente, sin
+embargo, el escaso número de trabajos
+que estudian explícitamente la eficacia de
+determinadas estrategias de formación o
+asesoramiento a profesores en los niveles
+educativos pre-universitarios.
+Uno de los trabajos más citados es
+el que desarrollaron Sánchez y Rosales
+(1996) con objeto de comparar los efectos
+de dos alternativas de instrucción de ha-
+bilidades discursivas en profesores prin-
+cipiantes de Educación Secundaria. La
+investigación se basó en un diseño multi-
+grupo unifactorial, con pretest, postest y
+grupo de control. Los sujetos fueron selec-
+cionados al azar entre los matriculados en
+un curso de formación inicial del profeso-
+rado y distribuidos aleatoriamente en las
+condiciones experimentales y de control.
+Inmediatamente antes y después de reci-
+bir la formación, los profesores impartie-
+ron una clase en un centro de Secundaria,
+que fue grabada y analizada conforme a
+un sistema de categorías de observación
+de las habilidades discursivas. Las expli-
+caciones fueron, además, valoradas por
+expertos con una escala de apreciación
+descriptivo-ordinal en formato de rúbrica.
+La comparación de los promedios de valo-
+raciones y de la frecuencia de aparición de
+las categorías (mediante una ANOVA de
+medidas repetidas) reveló mejoras signi-
+ficativas en las habilidades de contextua-
+lización (índices y evocaciones), así como
+en la redundancia de las explicaciones de
+los grupos que recibieron una instrucción
+explícita de habilidades expositivas, espe-
+cialmente en la condición teórico-práctica.
+Montanero, Lucero y Méndez (2008)
+emplearon un diseño cuasi-experimental
+más simple para estudiar los cambios en
+las explicaciones causales de tres profeso-
+res acerca de un mismo fenómeno histó-
+rico tras una actividad de asesoramiento.
+En el pretest los profesores desarrollaron
+muy pocas acciones dirigidas a facilitar la
+comprensión y el razonamiento causal de
+los estudiantes. En el postest la introduc-
+ción de una tarea basada en completar un
+diagrama causal durante la explicación
+provocó sensibles cambios en la actividad
+conjunta para explicar el mismo conteni-
+Manuel MONTANERO FERNÁNDEZ528revista española de pedagogía
+año LXXII, nº 259, septiembre-diciembre 2014, 525-542
+do. Sin embargo, no se detectaron mejoras
+significativas en la calidad del aprendiza-
+je de los estudiantes.
+Otras investigaciones se basan en di-
+seños de serie temporal interrumpida, con
+diversas mediciones de los cambios que
+se producen a lo largo de un proceso de
+formación o asesoramiento (García y Sán-
+chez, 2007; Lucero y Montanero, 2008).
+En su extenso estudio García y Sánchez
+observaron 47 reuniones o entrevistas de
+asesoramiento de dos orientadoras de Se-
+cundaria y analizaron los cambios que se
+producían después de un seminario de for-
+mación sobre estrategias de asesoramien-
+to. El análisis de las trascripciones verba-
+les reveló un incremento significativo de
+enunciados referidos a las estrategias de
+escucha activa y búsqueda de soluciones,
+pero no en cuanto a la delimitación del
+problema y las metas de cambio; ni tam-
+poco sobre la supervisión de la realización
+de los acuerdos.
+2.2. Estudios retrospectivos
+Los diseños de grupo más simples son
+aquellos de carácter intrasujeto (en los
+que participa un solo grupo) o los que ca-
+recen de pretest. Se trata de una estra-
+tegia muy utilizada en la investigación
+retrospectiva ex-post-facto, en la que las
+variables se estudian una vez ocurrido
+el fenómeno o cuando no es posible ma-
+nipular la variable independiente. En el
+ámbito que nos ocupa es frecuente que es-
+tos estudios no utilicen ni siquiera datos
+«propios», recogidos ad hoc para la inves-
+tigación, sino que aprovechen los publica-
+dos en evaluaciones institucionales, de ca-
+rácter regional, nacional o internacional.
+Aunque tienen sólo una relación indi-
+recta con el asesoramiento, cabe destacar
+aquí los abundantes trabajos empíricos
+sobre los factores de eficacia escolar. Bue-
+na parte de los trabajos vinculados a esta
+línea de investigación de estudios, adop-
+tan una perspectiva fundamentalmente
+organizativa, muy vinculada a la gestión
+de la calidad de los centros escolares. Sus
+resultados identifican la formación con-
+tinua y el asesoramiento al profesorado
+como uno de los factores con una influen-
+cia significativa en la calidad de los cen-
+tros y en el rendimiento de los alumnos
+(véase, por ejemplo, Castejón, 1996; Mu-
+ñoz-Repiso y Murillo, 2003). Algunos de
+estos estudios recopilan datos de rendi-
+miento académico de los alumnos de un
+grupo-clase o centro escolar que presen-
+tan determinadas características o donde
+se introdujo una determinada innovación
+educativa. Dichos datos se comparan con
+los de otros centros o clases, que pueden
+tomarse como grupos de control. Más allá
+de su evidente valor exploratorio, estos di-
+seños presentan múltiples amenazas, por
+lo que los resultados deben considerarse
+con mucha cautela.
+3. Estudios centrados en describir
+y comprender las prácticas profe-
+sionales de los asesores
+El enfoque anterior presta una aten-
+ción menor a las situaciones naturales
+en las que se enmarca la práctica educa-
+tiva y los procesos de asesoramiento, así
+como a los elementos personales y cultu-
+rales que las condicionan. Contamos con
+numerosos trabajos que intentan, por el
+contrario, documentar las características
+de las prácticas educativas y asesoras en
+La investigación sobre el asesoramiento educativo en España529revista española de pedagogía
+año LXXII, nº 259, septiembre-diciembre 2014, 525-542
+ámbitos específicos, ya sea relacionados
+con los contenidos (Lengua, Matemáti-
+cas...), con la metodología de enseñanza
+(explicación verbal, aprendizaje colabo-
+rativo...), la evaluación, etc.; o bien, ex-
+ploran las concepciones, pensamientos o
+valores que sustentan dichas prácticas.
+Aunque la mayoría de estos trabajos es-
+tán relacionados sólo indirectamente con
+el asesoramiento y la innovación educati-
+va, son también relevantes para el ámbito
+que nos ocupa, ya que todo asesoramien-
+to debe asentarse en la comprensión más
+amplia y profunda posible de los sujetos y
+las prácticas a las que se vincula. En las
+páginas siguientes, no obstante, revisa-
+remos únicamente aquellos estudios que
+abordan directamente la comprensión de
+las actividades de asesoramiento escolar
+desde la perspectiva de sus protagonistas.
+3.1. Estudios basados en encuestas
+y autoinformes
+El principal interés de las investiga-
+ciones que encuadramos en este segun-
+do enfoque es documentar los elementos
+contextuales y mediacionales, particular-
+mente los pensamientos y actitudes de
+quienes participan en los procesos de ase-
+soramiento y cambio educativo. El medio
+más sencillo de explorar estos aspectos
+consiste en encuestar a los profesores y
+asesores sobre qué piensan, cómo se sien-
+ten o qué hacen en relación a las tareas de
+asesoramiento.
+Las técnicas de recogida de datos, a
+partir de los informes verbales de los par-
+ticipantes, pueden ser diversas y varían
+en el grado de cuantificación de sus re-
+sultados. En lo que sigue estableceremos
+una distinción entre dos subgrupos de es-
+tudios: a) los que utilizan encuestas más
+o menos masivas, basadas sobre todo en
+preguntas cerradas, para obtener infor-
+mación fundamentalmente cuantitativa;
+y, b) aquellas de orientación más cualitati-
+va, que se centran en un número reducido
+de informantes a los que se les plantean
+preguntas abiertas, buscando una mayor
+«profundidad» en sus respuestas.
+a) Un trabajo clásico, de referencia
+ineludible en este enfoque, es el informe
+publicado por Escudero y Moreno en 1992,
+acerca de las actividades de asesoramiento
+de los equipos psicopedagógicos de la Co-
+munidad de Madrid. Combinando la apli-
+cación de cuestionarios con entrevistas y
+grupos de discusión, así como el análisis
+cuantitativo y cualitativo de los datos, los
+autores identificaron diferentes modelos
+de asesoramiento, en las que los consul-
+tores ejercen diversas funciones de me-
+diación, facilitación y colaboración. Dichos
+modelos se asientan en concepciones, a
+menudo implícitas, sobre los fundamentos
+epistemológicos, las metas y las relaciones
+interpersonales que deben caracterizar
+los procesos de asesoramiento. A partir
+de este análisis los autores justificaron la
+conveniencia de asesorar de un modo cola-
+borativo, procesual y no directivo.
+Otro de los trabajos más citados en
+nuestro contexto fue el desarrollado por
+Marcelo (1997) con la intención de cono-
+cer la realidad del trabajo del asesor de
+formación en España y de analizar sus
+necesidades de formación como formado-
+res. Para ello se encuestó a 166 asesores
+de formación de las Comunidades Autóno-
+mas de Andalucía y Canarias. Se aplicó
+Manuel MONTANERO FERNÁNDEZ530revista española de pedagogía
+año LXXII, nº 259, septiembre-diciembre 2014, 525-542
+un cuestionario de 11 preguntas de res-
+puestas objetivas y abiertas, así como un
+inventario de 60 enunciados, principal-
+mente referidos a elementos competen-
+ciales, sobre la que los asesores debían
+declarar el grado de importancia percibi-
+do para su trabajo y el nivel de formación
+que requieren. Los resultados pusieron
+de manifiesto una insatisfacción sobre el
+tiempo que dedican al asesoramiento en
+los centros y al desarrollo de materiales
+didácticos, frente al que invierten en ta-
+reas burocráticas y de gestión; así como
+sobre el nivel de formación con el que par-
+ten para acometer sus funciones.
+En esta misma línea, Vélaz de Medra-
+no et al. (2001) combinaron la aplicación de
+un cuestionario de 51 preguntas (cerradas
+y abiertas), con la organización de grupos
+de discusión con una muestra de orienta-
+dores de Secundaria de Madrid selecciona-
+da por conveniencia, para documentar qué
+esperan, sienten y piensan acerca de su
+desarrollo profesional. En total, se envia-
+ron 297 cuestionarios y se recogieron un
+37%. Además, se establecieron seis grupos
+de discusión de 6-7 orientadores cada uno.
+Entre otros resultados, los autores conclu-
+yen que el asesoramiento colaborativo es
+una de las tareas a las que se dedica me-
+nos tiempo y para la que los orientadores
+se sienten menos preparados.
+Otros estudios, basados también en
+cuestionarios de opinión, consiguieron una
+tasa más elevada de respuesta. Guarro y
+Hernández (2002) estudiaron la naturale-
+za, funciones, modelos de actuación y con-
+diciones en que se desempeñan labores
+de asesoramiento en diferentes servicios
+(equipos psicopedagógicos, centros de pro-
+fesorado e Inspección) de la Comunidad
+Canaria. A partir de una serie de criterios
+de calidad del asesoramiento y sistemas
+de apoyo, extraído por los investigadores
+de la literatura especializada, se elaboró
+un cuestionario cerrado, con 15 preguntas
+de respuesta dicotómica («Mucho-bastan-
+te» o «Poco-nada») sobre lo que «se hace»
+y lo que «debería hacerse». Los cuestio-
+narios fueron aplicados a una muestra de
+315 profesores y asesores, de los que se re-
+cogieron el 72%. Al igual que en estudios
+anteriores, los propios informantes parti-
+ciparon en la interpretación de los resulta-
+dos de los cuestionarios, mediante grupos
+de discusión, lo que potencia su validez.
+Nuevamente, las conclusiones muestran
+una problemática profesional de los cen-
+tros de profesorado derivada de un doble
+«divorcio»: entre lo que los asesores pien-
+san que deben hacer (funciones más rela-
+cionadas con los procesos de desarrollo y
+mejora de los centros y con la capacitación
+de las escuelas y el desarrollo profesional
+del profesorado) y lo que verdaderamente
+se ven obligados a hacer (el diseño y de-
+sarrollo de cursos y en la divulgación de
+la normativa); así como una discrepancia
+entre lo que los asesores creen que hacen y
+lo que el profesorado percibe de ellos.
+Boza (2004) empleó también cuestio-
+narios cerrados para analizar cómo perci-
+ben los orientadores de Secundaria de la
+provincia de Huelva sus funciones profe-
+sionales; si bien, en este caso, los análisis
+fueron casi exclusivamente cuantitativos.
+En total se aplicaron 65 cuestionarios de
+53 preguntas tipo likert de 4 valores (83%
+de devoluciones), en los que se pregun-
+taba sobre la importancia concedida y el
+tiempo de dedicación y preparación a 25
+La investigación sobre el asesoramiento educativo en España531revista española de pedagogía
+año LXXII, nº 259, septiembre-diciembre 2014, 525-542
+roles o funciones de la profesión. El ins-
+trumento fue validado por un grupo de
+expertos y se obtuvo la aplicación piloto
+que generó un índice de fiabilidad ade-
+cuado (Alfa de Crombach = 0,89). Los
+datos obtenidos permitieron establecer
+un ranking de promedios de valoración
+de las diferentes funciones profesionales
+de los orientadores. El rol más valorado
+(X=3,66; DT=0,49) y al que más tiempo
+se dedica (X=3,26) fue precisamente el de
+«asesor de profesores»; resultado este úl-
+timo que no coincide con los obtenidos en
+los estudios anteriores.
+Con una metodología similar, otras in-
+vestigaciones han aportado un punto de
+vista complementario: el de la percepción
+de los asesorados (Castejón et al., 2007;
+Anaya et al., 2009). En este último traba-
+jo se encuestó a 1.464 profesores de Edu-
+cación Infantil, Primaria y Secundaria de
+todas las Comunidades Autónomas. Los
+resultados en la Escala de Necesidades de
+Ayuda de los Profesores (ENAP) revelan
+que las mujeres, sobre todo las de menor
+antigüedad, sienten una mayor necesidad
+de asesoramiento y que la principal de-
+manda es la atención a la diversidad.
+Un tipo de cuestionario de preguntas
+cerradas muy interesante, pero menos uti-
+lizado para la evaluación del pensamiento
+de profesores y asesores, se basa en la res-
+puesta a dilemas. Las cuestiones recogen
+situaciones conflictivas que se producen
+habitualmente en los centros escolares,
+sobre la que los encuestados tienen que
+tomar y/o justificar una decisión. El aná-
+lisis de las respuestas facilita acceder, no
+sólo a ideas u opiniones, sino también a
+concepciones implícitas. Además, la res-
+puesta se contextualiza en la práctica do-
+cente o asesora de otros personajes, por lo
+que es más factible controlar el sesgo por
+deseabilidad social. Así, algunos trabajos
+han explorado la distancia entre las con-
+cepciones de profesores y asesores sobre
+aspectos específicos del aprendizaje y la
+enseñanza (Martín et al., 2005), y parti-
+cularmente sobre los procesos de inclu-
+sión educativa y atención a la diversidad
+(López, Martín, Montero y Echeita, 2013).
+b) Otro amplio grupo de trabajos de
+investigación que estudian las opinio-
+nes y valoraciones verbales de asesores
+y profesores no se basa realmente en la
+aplicación de encuestas, sino más bien en
+técnicas de autoinforme con preguntas
+abiertas y un análisis de corte eminente-
+mente cualitativo. Las más frecuentes son
+los grupos de discusión (Escudero y More-
+no, 1992; Vélaz de Medrano et al., 2001;
+Luque, 2005; Hernando y Montilla, 2009;
+Arencibia y Moreno, 2005, 2010); los cues-
+tionarios abiertos (Vélaz de Medrano et
+al., 2001) así como las entrevistas estruc-
+turadas (Aciego, Álvarez y Muñoz, 2005)
+o en profundidad (Arencibia y Moreno,
+2005; Castelló y Monereo, 2005; De la Oli-
+va, Martín y Velaz Medrano, 2005); aun-
+que también se han utilizado otras, como
+los diarios (Castelló y Monereo, 2005).
+Además de los estudios anteriormente
+comentados, cabe destacar otros tres tra-
+bajos que emplearon específicamente gru-
+pos de discusión y/o entrevistas abiertas.
+Arencibia y Moreno (2005) elaboraron e
+interpretaron un relato grupal de la ex-
+periencia de 12 asesores que regresaban a
+sus escuelas, después de una larga expe-
+riencia en centros de profesorado. A par-
+Manuel MONTANERO FERNÁNDEZ532revista española de pedagogía
+año LXXII, nº 259, septiembre-diciembre 2014, 525-542
+tir de sus propias narraciones autobiográ-
+ficas, generadas mediante entrevistas en
+profundidad y validadas posteriormente
+en grupos de discusión, los participantes
+colaboraron en la extracción de conclusio-
+nes sobre sus concepciones del asesora-
+miento y la construcción de su identidad
+profesional.
+También con una metodología de dis-
+cusión y en línea con lo encontrado por
+Boza (2004), Hernando y Montilla (2009)
+identificaron un listado de dificultades
+muy específicas de la profesión. Se conclu-
+ye, además, que el asesoramiento a profe-
+sores es una de las tareas más frecuentes,
+sobre todo a tutores de Secundaria, si bien
+todavía prevalece un modelo de actuación
+por programas.
+Aciego et al. (2005) entrevistaron a 21
+asesores psicopedagógicos en diferentes
+niveles educativos. Los registros verbales
+fueron analizados con un procedimiento
+inductivo, más estructurado: fueron seg-
+mentados en proposiciones, categorizados
+y cuantificados. Los asesores perciben
+una valoración muy positiva de su labor
+por la comunidad, si bien señalan como
+principales dificultades la constante de-
+manda de asesoramiento para la atención
+a la diversidad, las dificultades de impli-
+cación y coordinación con el profesorado
+y la escasa presencia del asesoramiento
+familiar.
+3.2. Estudios basados en el análisis
+del discurso y el análisis de material
+documental
+El análisis del discurso y el análisis
+de material documental, entre otros, sue-
+len considerarse como métodos «limítro-
+fes» a la observación directa en contextos
+naturales, y a menudo se combinan. La
+recogida de los datos puede realizarse
+directamente o mediante grabaciones
+audiovisuales. El análisis de datos suele
+fundamentarse en la elaboración de sis-
+temas de categorías, elaborados a partir
+de procedimientos inductivos y/o deduc-
+tivos.
+Probablemente el modelo de análisis
+más completo y citado en la literatura
+es el de Sánchez et al. (1994, 1999, 2005,
+2008a). Podría considerarse un modelo
+mixto, que aborda diversos niveles de aná-
+lisis, desde una perspectiva deductiva e
+inductiva. Utilizando un complejo sistema
+de segmentación y categorización del dis-
+curso, los investigadores han documenta-
+do aspectos muy relevantes de la práctica
+educativa de profesores expertos y prin-
+cipiantes en diferentes ámbitos, así como
+en el comportamiento estratégico de los
+asesores (Sánchez y García, 2005). Ade-
+más, han conseguido demostrar con pre-
+cisión y profundidad la enorme distancia
+que a menudo separa aquellas prácticas
+educativas de las propuestas que hacen
+los investigadores y asesores (véase una
+revisión en Sánchez et al. 2008b; Sánchez
+y Mena, 2010). En uno de los estudios más
+interesantes en este sentido observaron
+las estrategias empleadas por los aseso-
+res para definir problemas y demandas de
+ayuda de los maestros, relacionadas con
+la comprensión lectora en Primaria (Gar-
+cía et al., 2003). Las trascripciones de las
+entrevistas de asesoramiento fueron cate-
+gorizados en cuanto al qué (los contenidos
+de asesoramiento, es decir, los problemas
+genéricos o específicos, enunciados); en
+La investigación sobre el asesoramiento educativo en España541revista española de pedagogía
+año LXXII, nº 259, septiembre-diciembre 2014, 525-542
+consideran diferentes dimensiones y diferen-
+tes unidades de análisis? Revista de Educa-
+ción, 346, pp. 105-136.
+SÁNCHEZ, E., GARCÍA, R., SIXTE, R., CASTE-
+LLANO, N. y ROSALES, J. (2008b) El análi-
+sis de la práctica educativa y las propuestas
+instruccionales: integración y enriquecimien-
+to mutuo, Infancia y Aprendizaje, 31:2, pp.
+233-258.
+SÁNCHEZ, E. y MENA, J. J. (2010) Hablamos de
+lo que no existe; y de lo que existe, no habla-
+mos, Infancia y Aprendizaje, 33:2, pp. 185-197.
+SÁNCHEZ, E. y ROSALES, J. (1996) La forma-
+ción del profesorado en habilidades discursi-
+vas, Infancia y Aprendizaje, 74, pp. 119-137.
+SCHÖN, D. A. (1987) La formación de profesio-
+nales reflexivos. Hacia un nuevo diseño de la
+enseñanza y el aprendizaje en las profesiones
+(Barcelona, Paidós).
+SCHULTE, A. C. y OSBORNE, S. S. (2003) When
+Assumptive Worlds Collide: A Review of Defi-
+nitions of Collaboration in Consultation, Jour-
+nal of Educational and Psychological Consul-
+tation, 14:2, pp. 109-138.
+VÉLAZ DE MEDRANO, C., REPETTO, E.,
+BLANCO, A., GUILLAMÓN, J. R., NEGRO,
+A., TORREGO, J. C. y GONZÁLEZ, A. (2001)
+El desarrollo profesional de los orientadores
+de educación secundaria: análisis de necesi-
+dades y prospectiva, Revista de Investigación
+Educativa, 19:1, pp. 199-220.
+ZABALZA, M. A. (2006) Buscando una nueva hoja
+de ruta en la formación del profesorado, Revis-
+ta de Educación, 340, pp. 19-86.
+Resumen:
+La investigación sobre el asesora-
+miento educativo en España: una
+revisión de su metodología y resul-
+tados empíricos
+En este trabajo se presenta una revi-
+sión de los trabajos empíricos publicados
+a lo largo de los últimos 20 años sobre
+asesoramiento en el contexto del siste-
+ma educativo español, sus principales
+resultados y limitaciones metodológicas.
+Se constata un predominio de investiga-
+ciones que tienen como objetivo, no tan-
+to explicar la eficacia, cuanto describir y
+comprender las actividades de asesora-
+miento desde la perspectiva de sus acto-
+res, a partir de encuestas y autoinformes
+de diverso tipo. Los resultados de estos
+trabajos coinciden en la percepción de la
+importancia y especial dificultad de las
+tareas de asesoramiento a profesores.
+También descubren los modelos de actua-
+ción y las concepciones que las sustentan.
+Por otro lado, se pone de manifiesto un
+creciente interés por los estudios de caso
+que describen lo que piensan y hacen los
+asesores, mediante técnicas de observa-
+ción y análisis del discurso. Esta línea de
+investigación ha permitido documentar
+algunas de las principales dificultades del
+asesoramiento colaborativo, así como las
+estrategias que los asesores emplean para
+acometerlas.
+Descriptores: Asesoramiento educativo,
+orientación educativa, métodos de inves-
+tigación.
+Manuel MONTANERO FERNÁNDEZ542revista española de pedagogía
+año LXXII, nº 259, septiembre-diciembre 2014, 525-542
+Summary:
+The research on school consulta-
+tion in Spain: A review of its metho-
+dology and empirical results
+In this paper we present a review of
+published empirical studies over the last
+20 years on consultation in the context of
+the Spanish education system, its prin-
+cipal results and methodological limita-
+tions. A predominance is noted of inves-
+tigations whose objective is not so much
+to explain efficacy, but rather to describe
+and understand consultation activities
+from the perspective of those conducting
+them, based on surveys and self-reports
+of various types. A considerable part of
+the results of these studies coincide in
+that they show the perception of impor-
+tance and special difficulty of teacher
+consultation. They also show the impli-
+cit models and conceptions. Additionally,
+they highlight a growing interest in case
+studies which report what consultants
+think and do, by means of observation
+techniques and discourse analysis. This
+line of investigation has permitted the
+documentation of some of the main diffi-
+culties of collaborative consultation, and
+of strategies used by consultants to over-
+come them.
+Key Words: School Consultation, educa-
+tional guidance, research methods.
