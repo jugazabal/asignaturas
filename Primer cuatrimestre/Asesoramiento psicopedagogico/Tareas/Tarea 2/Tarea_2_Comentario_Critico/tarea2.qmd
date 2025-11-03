@@ -1,0 +1,69 @@
+---
+title: "Comentario Crítico: Montanero (2014)"
+subtitle: "La investigación sobre el asesoramiento educativo en España: una revisión de su metodología y resultados empíricos"
+author: "[Tu nombre completo]"
+date: today
+date-format: "D [de] MMMM [de] YYYY"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 12pt
+    geometry:
+      - margin=2.5cm
+    linestretch: 1.5
+---
+
+# Resumen analítico
+
+## Objetivo principal del artículo
+
+[Describe el objetivo principal del artículo de Montanero (2014). ¿Qué pretende revisar o analizar el autor?]
+
+## Principales hallazgos y conclusiones
+
+[Resume los hallazgos más relevantes que presenta el artículo. ¿Qué tendencias metodológicas se identifican? ¿Qué resultados empíricos destaca?]
+
+## Tipos de metodologías revisadas
+
+[Enumera y describe brevemente los tipos de metodologías (cualitativas, cuantitativas, mixtas) que el artículo revisa en la investigación sobre asesoramiento educativo en España.]
+
+# Análisis metodológico
+
+## Evaluación de los enfoques metodológicos
+
+[Evalúa críticamente los enfoques metodológicos utilizados en los estudios revisados por Montanero. ¿Son apropiados para el objeto de estudio? ¿Se observa variedad o predomina algún enfoque?]
+
+## Discusión sobre validez y fiabilidad
+
+[Analiza la validez y fiabilidad de los resultados presentados. ¿Los estudios revisados presentan diseños rigurosos? ¿Hay limitaciones en términos de generalización o replicabilidad?]
+
+## Reflexión sobre métodos cualitativos vs. cuantitativos
+
+[Reflexiona sobre el uso predominante de métodos cualitativos vs. cuantitativos en la investigación sobre asesoramiento educativo. ¿Qué ventajas y limitaciones observas en cada enfoque? ¿Qué implicaciones tiene esta tendencia para el campo?]
+
+# Valoración crítica
+
+## Aportaciones del artículo al campo del asesoramiento educativo
+
+[Destaca las principales aportaciones del artículo de Montanero. ¿Qué aporta esta revisión al conocimiento sobre el asesoramiento educativo en España? ¿Cómo contribuye a la mejora de la práctica profesional?]
+
+## Limitaciones detectadas
+
+### Limitaciones identificadas por el autor
+
+[Enumera las limitaciones que el propio Montanero reconoce en su revisión.]
+
+### Otras limitaciones identificadas
+
+[Identifica otras limitaciones que tú observas en el artículo o en la metodología de la revisión. Sé crítico pero fundamentado.]
+
+## Propuestas de mejora y líneas futuras de investigación
+
+[Propón líneas de investigación futuras que podrían complementar o ampliar el trabajo de Montanero. ¿Qué aspectos del asesoramiento educativo requieren más investigación? ¿Qué enfoques metodológicos podrían ser útiles?]
+
+# Referencias
+
+Montanero, M. (2014). La investigación sobre el asesoramiento educativo en España: una revisión de su metodología y resultados empíricos. *Revista de Educación*, [número y páginas]. https://reunir.unir.net/handle/123456789/3737
+
+[Añade aquí cualquier otra referencia que hayas consultado]
