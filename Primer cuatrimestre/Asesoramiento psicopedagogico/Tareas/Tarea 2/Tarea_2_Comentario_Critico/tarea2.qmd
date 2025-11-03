@@ -1,7 +1,7 @@
 ---
 title: "Comentario Crítico: Montanero (2014)"
 subtitle: "La investigación sobre el asesoramiento educativo en España: una revisión de su metodología y resultados empíricos"
-author: "[Tu nombre completo]"
+author: "Juan Marcos García Aranzábal"
 date: today
 date-format: "D [de] MMMM [de] YYYY"
 format:
@@ -18,52 +18,218 @@ format:
 
 ## Objetivo principal del artículo
 
-[Describe el objetivo principal del artículo de Montanero (2014). ¿Qué pretende revisar o analizar el autor?]
+El artículo de Montanero (2014) presenta una revisión sistemática de los trabajos empíricos publicados durante los últimos 20 años sobre el asesoramiento educativo en el contexto del sistema educativo español. Su propósito principal es analizar las metodologías empleadas en estas investigaciones, sintetizar sus principales resultados y señalar sus limitaciones metodológicas. El autor busca proporcionar una panorámica del estado de la cuestión sobre la investigación del asesoramiento psicopedagógico en España, identificando las principales tendencias, enfoques y perspectivas que han caracterizado este campo de estudio.
 
 ## Principales hallazgos y conclusiones
 
-[Resume los hallazgos más relevantes que presenta el artículo. ¿Qué tendencias metodológicas se identifican? ¿Qué resultados empíricos destaca?]
+Los principales hallazgos del artículo revelan que:
+
+1. **Predominio del enfoque interpretativo**: Existe un claro predominio de investigaciones orientadas a describir y comprender las actividades de asesoramiento desde la perspectiva de sus actores (profesores y asesores), frente a un número más reducido de estudios centrados en explicar la eficacia del asesoramiento mediante diseños experimentales o cuasi-experimentales.
+
+2. **Importancia y dificultad del asesoramiento**: Los estudios basados en encuestas y autoinformes coinciden en destacar que tanto profesores como asesores perciben el asesoramiento como una tarea de gran importancia pero también de especial dificultad. Los orientadores manifiestan insatisfacción con el tiempo dedicado a tareas burocráticas en detrimento del asesoramiento directo en centros.
+
+3. **Modelos de actuación**: Se identifican diferentes modelos de asesoramiento (técnico-prescriptivo vs. colaborativo), encontrándose una discrepancia entre lo que los asesores piensan que deben hacer (procesos de desarrollo y mejora de centros) y lo que realmente hacen (diseño de cursos y divulgación normativa).
+
+4. **Estrategias documentadas**: Los estudios basados en análisis del discurso han permitido documentar estrategias específicas que emplean los asesores en el asesoramiento colaborativo, así como las principales dificultades que enfrentan en su práctica profesional.
+
+5. **Demandas de asesoramiento**: La atención a la diversidad emerge como la principal demanda de asesoramiento por parte del profesorado, especialmente entre las profesoras de menor antigüedad.
 
 ## Tipos de metodologías revisadas
 
-[Enumera y describe brevemente los tipos de metodologías (cualitativas, cuantitativas, mixtas) que el artículo revisa en la investigación sobre asesoramiento educativo en España.]
+Montanero identifica y clasifica las investigaciones en dos grandes enfoques metodológicos:
+
+### 1. Estudios centrados en explicar la eficacia del asesoramiento
+
+Estos estudios intentan establecer relaciones causales entre las actividades de asesoramiento (variables independientes) y los cambios en la práctica educativa o resultados de aprendizaje (variables dependientes):
+
+- **Diseños experimentales y cuasi-experimentales**: Aunque escasos, emplean grupos de control, pretest-postest y asignación aleatoria. Ejemplos: Sánchez y Rosales (1996) sobre habilidades discursivas; Montanero, Lucero y Méndez (2008) sobre explicaciones causales.
+
+- **Diseños de serie temporal interrumpida**: Con múltiples mediciones a lo largo del proceso de asesoramiento. Ejemplo: García y Sánchez (2007) analizando 47 reuniones de asesoramiento.
+
+- **Estudios retrospectivos ex-post-facto**: Investigaciones que aprovechan datos institucionales de evaluaciones regionales, nacionales o internacionales para estudiar factores de eficacia escolar.
+
+### 2. Estudios centrados en describir y comprender las prácticas profesionales
+
+Predominan las metodologías cualitativas orientadas a documentar características de las prácticas y las concepciones que las sustentan:
+
+- **Encuestas y cuestionarios**: Con preguntas cerradas tipo Likert para obtener datos cuantitativos sobre opiniones, valoraciones y percepciones. Ejemplos: Marcelo (1997), Boza (2004), Anaya et al. (2009).
+
+- **Autoinformes cualitativos**: Grupos de discusión, entrevistas en profundidad, cuestionarios abiertos y diarios. Ejemplos: Escudero y Moreno (1992), Arencibia y Moreno (2005), Aciego et al. (2005).
+
+- **Análisis del discurso y material documental**: Sistemas de categorización inductivos y/o deductivos para analizar trascripciones de sesiones de asesoramiento. Ejemplo destacado: modelo de Sánchez et al. (1994-2008) que analiza qué se dice, cómo se dice y para qué se dice.
 
 # Análisis metodológico
 
 ## Evaluación de los enfoques metodológicos
 
-[Evalúa críticamente los enfoques metodológicos utilizados en los estudios revisados por Montanero. ¿Son apropiados para el objeto de estudio? ¿Se observa variedad o predomina algún enfoque?]
+Los enfoques metodológicos revisados por Montanero presentan características distintivas:
+
+**Fortalezas de los diseños experimentales/cuasi-experimentales:**
+
+- Permiten establecer relaciones causales entre el asesoramiento y sus efectos
+- Utilizan medidas pre y post intervención con grupos de control
+- Emplean instrumentos validados (sistemas de categorías, escalas de apreciación, rúbricas)
+- Facilitan la comparación sistemática entre diferentes estrategias de formación
+
+**Fortalezas de los estudios interpretativos:**
+
+- Capturan la complejidad y riqueza contextual de las prácticas de asesoramiento
+- Acceden a las concepciones implícitas y explícitas de los profesionales
+- Permiten documentar la distancia entre teoría y práctica
+- Facilitan la comprensión de los motivos y razonamientos de los actores
+
+**Limitaciones observadas:**
+
+- Escasez de diseños experimentales rigurosos en el ámbito del asesoramiento educativo pre-universitario
+- En los estudios retrospectivos: múltiples amenazas a la validez interna por falta de control de variables extrañas
+- En las encuestas: posible sesgo por deseabilidad social y tasas de respuesta variables
+- Falta de triangulación metodológica en muchos estudios
 
 ## Discusión sobre validez y fiabilidad
 
-[Analiza la validez y fiabilidad de los resultados presentados. ¿Los estudios revisados presentan diseños rigurosos? ¿Hay limitaciones en términos de generalización o replicabilidad?]
+La validez y fiabilidad de los resultados varía considerablemente según el tipo de diseño:
+
+**En los estudios experimentales:**
+
+- Se reportan medidas de fiabilidad aceptables (por ejemplo, Alfa de Cronbach = 0,89 en Boza, 2004)
+- Los sistemas de categorización suelen ser validados por expertos
+- La validez externa es limitada debido al reducido número de participantes y contextos
+- Las medidas pre-post permiten controlar variables extrañas, aunque no siempre se logra
+
+**En los estudios basados en encuestas:**
+
+- La validez de constructo se establece mediante validación por expertos y aplicaciones piloto
+- Las tasas de respuesta varían significativamente (desde 37% hasta 83%), afectando a la representatividad
+- Algunos estudios combinan análisis cuantitativo y cualitativo (triangulación metodológica), reforzando la validez
+
+**En los estudios cualitativos:**
+
+- Se emplean técnicas de validación comunicativa (grupos de discusión para interpretar resultados)
+- La triangulación de fuentes (profesores, asesores, documentos) incrementa la credibilidad
+- Los sistemas de categorización inductivos carecen a veces de procedimientos de fiabilidad inter-jueces
+- La transferibilidad queda limitada por el carácter idiográfico de los estudios de caso
+
+**Problemáticas generales:**
+
+- Los diseños retrospectivos presentan múltiples amenazas a la validez interna
+- Escasa replicabilidad de los estudios cualitativos
+- Falta de estudios longitudinales que documenten procesos de cambio a largo plazo
 
 ## Reflexión sobre métodos cualitativos vs. cuantitativos
 
-[Reflexiona sobre el uso predominante de métodos cualitativos vs. cuantitativos en la investigación sobre asesoramiento educativo. ¿Qué ventajas y limitaciones observas en cada enfoque? ¿Qué implicaciones tiene esta tendencia para el campo?]
+El artículo evidencia un claro predominio de metodologías cualitativas o mixtas sobre las puramente cuantitativas experimentales.
+
+**Ventajas de los métodos cualitativos en este campo:**
+
+- **Riqueza contextual**: Capturan la complejidad de las prácticas de asesoramiento en sus contextos naturales
+- **Acceso a concepciones**: Permiten comprender los pensamientos, valores y teorías implícitas de profesores y asesores
+- **Flexibilidad**: Se adaptan a la idiosincrasia de cada sistema educativo y contexto organizativo
+- **Comprensión de procesos**: Documentan el cómo y el porqué, no solo el qué funciona
+- **Relevancia ecológica**: Los hallazgos son más transferibles a situaciones reales de asesoramiento
+
+**Limitaciones de los métodos cualitativos:**
+
+- Dificultad para establecer relaciones causales
+- Problemas de generalización a otros contextos
+- Requieren gran inversión de tiempo en recogida y análisis de datos
+- Riesgo de sesgo del investigador en la interpretación
+- Menor consenso sobre criterios de rigor científico
+
+**Ventajas de los métodos cuantitativos/experimentales:**
+
+- Permiten establecer relaciones causales con mayor certeza
+- Facilitan la comparación entre diferentes estrategias de intervención
+- Resultados más fácilmente generalizables
+- Mayor control de variables extrañas
+
+**Limitaciones de los métodos cuantitativos en asesoramiento:**
+
+- Dificultad para manipular variables en contextos educativos naturales
+- Reduccionismo: pueden obviar aspectos contextuales y procesuales relevantes
+- Complejidad ética de asignar aleatoriamente profesores a condiciones experimentales
+- Escasa viabilidad práctica en el sistema educativo español
+
+**Implicaciones de esta tendencia:**
+
+La predominancia de métodos cualitativos refleja la naturaleza compleja, contextualizada y colaborativa del asesoramiento educativo en España. Sin embargo, Montanero sugiere implícitamente la necesidad de mayor equilibrio metodológico: se requieren más estudios experimentales rigurosos que documenten la eficacia de diferentes estrategias de asesoramiento, complementados con investigaciones cualitativas que comprendan los procesos subyacentes.
 
 # Valoración crítica
 
 ## Aportaciones del artículo al campo del asesoramiento educativo
 
-[Destaca las principales aportaciones del artículo de Montanero. ¿Qué aporta esta revisión al conocimiento sobre el asesoramiento educativo en España? ¿Cómo contribuye a la mejora de la práctica profesional?]
+El artículo de Montanero representa una contribución significativa en varios aspectos:
+
+1. **Sistematización del conocimiento**: Ofrece la primera revisión sistemática comprehensiva de dos décadas de investigación sobre asesoramiento educativo en España, organizando un campo hasta entonces disperso.
+
+2. **Clarificación metodológica**: Proporciona un marco clasificatorio claro que distingue entre estudios orientados a explicar la eficacia y estudios orientados a comprender las prácticas, facilitando la comprensión de las diferentes tradiciones investigativas.
+
+3. **Identificación de tendencias**: Documenta el predominio del enfoque interpretativo-cualitativo, lo que ayuda a comprender las prioridades y orientaciones de la comunidad investigadora española.
+
+4. **Síntesis de resultados empíricos**: Recopila hallazgos convergentes sobre la importancia y dificultad del asesoramiento, los modelos de actuación predominantes y las demandas más frecuentes.
+
+5. **Visibilización de modelos de análisis**: Destaca trabajos metodológicamente rigurosos (como el modelo de Sánchez et al.) que pueden servir de referencia para futuras investigaciones.
+
+6. **Contextualización**: Reconoce explícitamente la idiosincrasia del sistema educativo español y las dificultades de transferir resultados de otros contextos internacionales.
+
+7. **Agenda implícita de investigación**: Aunque no lo explicita formalmente, el artículo señala lagunas y necesidades que orientan futuras líneas de trabajo.
 
 ## Limitaciones detectadas
 
 ### Limitaciones identificadas por el autor
 
-[Enumera las limitaciones que el propio Montanero reconoce en su revisión.]
+Montanero señala implícitamente varias limitaciones de la investigación revisada:
+
+- **Escasez de estudios experimentales**: El número reducido de investigaciones que evalúan la eficacia del asesoramiento mediante diseños rigurosos limita la capacidad de extraer conclusiones sobre qué estrategias funcionan mejor.
+
+- **Amenazas a la validez en diseños retrospectivos**: Los estudios ex-post-facto que aprovechan datos institucionales presentan múltiples problemas metodológicos que obligan a interpretar sus resultados con cautela.
+
+- **Limitaciones de generalización**: Los estudios de caso y trabajos cualitativos, por su naturaleza idiográfica, dificultan la transferencia de resultados a otros contextos.
 
 ### Otras limitaciones identificadas
 
-[Identifica otras limitaciones que tú observas en el artículo o en la metodología de la revisión. Sé crítico pero fundamentado.]
+Más allá de lo explicitado por Montanero, se observan otras limitaciones:
+
+- **Ausencia de análisis crítico de la calidad metodológica**: El artículo describe pero no evalúa sistemáticamente la calidad de los diseños revisados mediante criterios explícitos (por ejemplo, escalas de calidad metodológica).
+
+- **Falta de síntesis cuantitativa**: No se realiza meta-análisis de los estudios experimentales, lo que habría permitido estimar tamaños del efecto agregados del asesoramiento.
+
+- **Criterios de inclusión no explícitos**: No se detallan los criterios para seleccionar los estudios revisados ni las bases de datos consultadas, dificultando la replicabilidad de la revisión.
+
+- **Ausencia de perspectiva temporal**: No se analiza la evolución de las metodologías y temáticas a lo largo del periodo de 20 años, perdiendo la oportunidad de identificar tendencias emergentes.
+
+- **Limitada discusión de implicaciones prácticas**: El artículo se centra en aspectos metodológicos pero profundiza poco en cómo los hallazgos pueden informar la práctica profesional del asesoramiento.
+
+- **Sesgo de publicación**: Aunque el autor no lo menciona, es probable que existan trabajos no publicados (tesis doctorales, informes institucionales) que no se han incluido en la revisión.
 
 ## Propuestas de mejora y líneas futuras de investigación
 
-[Propón líneas de investigación futuras que podrían complementar o ampliar el trabajo de Montanero. ¿Qué aspectos del asesoramiento educativo requieren más investigación? ¿Qué enfoques metodológicos podrían ser útiles?]
+A partir del análisis del artículo de Montanero, se proponen las siguientes líneas de investigación que podrían enriquecer el campo:
+
+### Propuestas metodológicas:
+
+1. **Diseños mixtos secuenciales**: Combinar estudios cualitativos exploratorios que identifiquen estrategias prometedoras de asesoramiento, seguidos de diseños experimentales que evalúen su eficacia de manera controlada.
+
+2. **Estudios longitudinales**: Implementar diseños que documenten procesos de cambio a medio y largo plazo, superando la limitación de las "fotografías" puntuales de las prácticas de asesoramiento.
+
+3. **Meta-análisis y revisiones sistemáticas**: Realizar síntesis cuantitativas de estudios experimentales y revisiones sistemáticas con criterios de calidad explícitos (por ejemplo, siguiendo protocolos PRISMA).
+
+4. **Estudios multinivel**: Analizar simultáneamente variables individuales (del asesor), grupales (del equipo docente) y organizativas (del centro) que condicionan la eficacia del asesoramiento.
+
+### Propuestas temáticas:
+
+5. **Asesoramiento mediado por tecnología**: Investigar modalidades de asesoramiento virtual o híbrido, especialmente relevantes tras la experiencia de la pandemia COVID-19.
+
+6. **Competencias específicas del asesor**: Profundizar en qué conocimientos, habilidades y actitudes caracterizan al asesor eficaz en diferentes contextos y ámbitos de intervención.
+
+7. **Asesoramiento en contextos inclusivos**: Ampliar la investigación sobre estrategias de asesoramiento para la atención a la diversidad, dada su relevancia como demanda principal.
+
+8. **Formación inicial y continua**: Investigar qué modelos de formación de asesores son más eficaces para desarrollar competencias de asesoramiento colaborativo.
+
+9. **Perspectiva del estudiante**: Incorporar la voz del alumnado en los estudios sobre asesoramiento, documentando cómo perciben los cambios en las prácticas educativas derivados del asesoramiento.
+
+10. **Estudios comparativos internacionales**: Realizar investigaciones que contrasten modelos de asesoramiento en diferentes sistemas educativos, identificando elementos transferibles y específicos de cada contexto.
 
 # Referencias
 
-Montanero, M. (2014). La investigación sobre el asesoramiento educativo en España: una revisión de su metodología y resultados empíricos. *Revista de Educación*, [número y páginas]. https://reunir.unir.net/handle/123456789/3737
+Montanero, M. (2014). La investigación sobre el asesoramiento educativo en España: una revisión de su metodología y resultados empíricos. *Revista Española de Pedagogía*, 72(259), 525-542. https://reunir.unir.net/handle/123456789/3737
 
-[Añade aquí cualquier otra referencia que hayas consultado]
