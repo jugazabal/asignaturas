@@ -1,0 +1,22 @@
+# Quarto
+/.quarto/
+_output/
+*.log
+*.blg
+*.bbl
+*.aux
+*.out
+*.toc
+*.bcf
+*.run.xml
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# LaTeX
+*.tex
+!styles.tex
+
+# OS
+.DS_Store
+Thumbs.db
