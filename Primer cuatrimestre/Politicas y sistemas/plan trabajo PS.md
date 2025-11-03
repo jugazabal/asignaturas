@@ -1,3 +1,4 @@
+
 <!-- cSpell:language es,es-ES -->
 
 # POLÍTICAS Y SISTEMAS DE ORIENTACIÓN EDUCATIVA
@@ -122,7 +123,7 @@ Al finalizar la asignatura serás capaz de:
 
 ---
 
-### Checklist
+## 📝 CHECKLIST DE SUPERACIÓN
 
 - [ ] Leer la guía de la asignatura
 - [ ] Consultar y estudiar los materiales básicos y complementarios
