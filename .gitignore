@@ -4,6 +4,8 @@ _site/
 _book/
 _output/
 *.html
+# Excluir PDFs generados (mantener fuentes .qmd / .md / .bib)
+*.pdf
 .Rproj.user
 
 # Archivos LaTeX temporales
@@ -19,6 +21,7 @@ _output/
 *.fdb_latexmk
 *.fls
 *.tex
+*_files/
 
 # Archivos de sistema
 .DS_Store
@@ -45,3 +48,10 @@ env/
 __pycache__/
 *.pyc
 .cache/
+
+# Mantener explícitamente fuentes
+!*.qmd
+!*.md
+!*.bib
+!*.csl
+!*.py
