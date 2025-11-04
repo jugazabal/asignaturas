@@ -16,8 +16,8 @@ format:
     toc: true
     toc-depth: 3
     number-sections: true
-bibliography: references.bib
-csl: apa.csl
+bibliography: refs.bib
+csl: ../apa.csl
 lang: es
 ---
 

@@ -17,12 +17,6 @@ format:
     toc: true
     toc-depth: 3
     number-sections: true
-    cite-method: biblatex
-    biblio-style: apa
-    biblatexoptions:
-      - backend=biber
-      - style=apa
-      - sorting=nyt
     keep-tex: true
   html:
     theme: cosmo
@@ -32,8 +26,8 @@ format:
     number-sections: true
     highlight-style: github
     smooth-scroll: true
-bibliography: references.bib
-csl: ../Actividad 2/apa.csl
+bibliography: refs.bib
+csl: ../apa.csl
 editor: visual
 ---
 
@@ -194,4 +188,4 @@ Conforme a la Instrucción nº 14/2024 de organización y funcionamiento de cent
 
 # Referencias
 
-Las fuentes citadas se listan automáticamente vía BibLaTeX (APA). Ver `references.bib`.
+Las fuentes citadas se listan automáticamente vía BibLaTeX (APA) usando el archivo consolidado `../practicum_references.bib`.

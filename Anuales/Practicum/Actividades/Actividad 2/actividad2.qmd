@@ -5,6 +5,8 @@ date: "2025-11-04"
 format:
   pdf: default
 fontsize: 12pt
+bibliography: refs.bib
+csl: ../apa.csl
 editor: visual
 ---
 
