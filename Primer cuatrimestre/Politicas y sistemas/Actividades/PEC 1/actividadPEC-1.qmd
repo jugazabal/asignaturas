@@ -165,6 +165,22 @@ La evolución normativa muestra un tránsito consistente hacia un modelo inclusi
 
 ---
 
+# Glosario terminológico
+
+| Término | Definición resumida | Observaciones / Evolución |
+|---------|---------------------|---------------------------|
+| NEE (Necesidades Educativas Especiales) | Concepto tradicional para alumnado que requiere apoyos específicos por discapacidad o trastornos del desarrollo. | Termino progresivamente integrado en categorías más amplias. |
+| NEAE (Necesidades Específicas de Apoyo Educativo) | Categoría ampliada (LOMLOE) que incluye NEE, dificultades específicas de aprendizaje, altas capacidades, incorporación tardía, condiciones personales o historia escolar. | Sustituye enfoque fragmentado previo; requiere detección y respuesta personalizada. |
+| Atención Temprana | Conjunto coordinado de intervenciones intersectoriales (sanidad, servicios sociales, educación) dirigidas a población 0–6 años para prevenir y atender trastornos del desarrollo. | Clave en derivación precoz hacia recursos educativos y ajuste de entornos. |
+| Consejo orientador | Informe individualizado que propone opciones académicas/formativas al finalizar cursos clave (ESO) y etapas; recoge logro de competencias y posibles itinerarios (diversificación, FP, etc.). | Refuerzo normativo en LOMLOE y RD 217/2022 / RD 984/2021. |
+| Diversificación curricular | Medida organizativa que adapta ámbitos/materias para favorecer titulación de alumnado con dificultades relevantes tras apoyos previos. | RD 217/2022 define programas y condiciones de incorporación. |
+| Evaluación psicopedagógica | Proceso sistemático de recogida y análisis de información para determinar necesidades de apoyo y ajustes razonables. | Instrucciones autonómicas estandarizan formato y tiempos (placeholder Extremadura 14/2024). |
+| Inclusión educativa | Principio que garantiza participación, aprendizaje y presencia de todo el alumnado en entornos ordinarios con apoyos adecuados. | Eje vertebrador LOMLOE; ligado a Diseño Universal para el Aprendizaje. |
+| Diseño Universal para el Aprendizaje (DUA) | Marco pedagógico que plantea múltiples formas de implicación, representación y acción/expresión. | Asociado a adaptación proactiva no reactiva. |
+| Altas capacidades | Perfil de alumnado con rendimiento o potencial excepcional que requiere enriquecimiento y estrategias de ampliación curricular. | Incluido en NEAE; demanda protocolos específicos de identificación. |
+
+> El glosario mitiga ambigüedades terminológicas y apoya la interpretación homogénea de la tabla evolutiva y los indicadores.
+
 # Referencias
 
 Las citas se gestionan automáticamente vía `refs_pec1.bib`. Placeholder autonómico se actualizará tras verificación.  
