@@ -3,58 +3,109 @@ title: "Actividad 3: Plan de Orientación Académico-Profesional (Aula del Futur
 author: "Juan Marcos García Aranzábal"
 date: "2026-01-15"
 lang: es
+
 format:
-  pdf:
-    documentclass: article
-    papersize: a4
-    fontsize: 12pt
-    geometry:
-      - top=2.5cm
-      - bottom=2.5cm
-      - left=2.5cm
-      - right=2.5cm
-    linestretch: 1.15
-    toc: true
-    toc-depth: 3
-    number-sections: true
-    keep-tex: true
   html:
-    theme: cosmo
+    allow-html: true
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
     toc: true
     toc-depth: 3
-    toc-title: "Índice de contenidos"
-    number-sections: true
-    highlight-style: github
-    smooth-scroll: true
+    number-sections: false
+    self-contained: true
+    code-tools: true
+    code-copy: hover
+    embed-resources: true
+    mermaid:
+      theme: forest
+    smart: true
+  pdf:
+    pdf-engine: lualatex
+    toc: true
+    number-sections: false
+    include-in-header: preamble.tex
+    mermaid:
+      theme: forest
+    fig-width: 8
+    fig-height: 6
+    fig-dpi: 300
+    geometry:
+      - top=25.4mm
+      - bottom=25.4mm
+      - left=25.4mm
+      - right=25.4mm
+      - heightrounded
+    mainfont: "Times New Roman"
+  docx:
+    toc: true
+    number-sections: false
+    reference-doc: reference.docx
+
 bibliography: refs.bib
 csl: ../apa.csl
-editor: visual
+editor: source
 ---
+
+```{=html}
+I<script>
+// Add a class to body when TOC present so CSS can shift main
+document.addEventListener('DOMContentLoaded', function(){
+  if(document.getElementById('TOC')) {
+    document.body.classList.add('with-toc');
+  }
+});
+</script>
+<script>
+// Mobile TOC toggle button injection
+document.addEventListener('DOMContentLoaded', function(){
+  const toc = document.getElementById('TOC');
+  if(!toc) return;
+  // Add collapse class for mobile initial state
+  toc.classList.add('collapse-mobile');
+  const btn = document.createElement('button');
+  btn.className = 'toc-toggle-btn';
+  btn.type = 'button';
+  btn.setAttribute('aria-expanded','false');
+  btn.textContent = 'Mostrar índice';
+  btn.addEventListener('click', () => {
+    const hidden = toc.classList.toggle('collapse-mobile');
+    btn.textContent = hidden ? 'Mostrar índice' : 'Ocultar índice';
+    btn.setAttribute('aria-expanded', String(!hidden));
+  });
+  document.body.appendChild(btn);
+});
+</script>
+```
 
 # Portada
 
-**Máster Universitario en Formación del Profesorado de ESO y Bachillerato, FP y Enseñanza de Idiomas**  
-**Especialidad:** Orientación Educativa  
-**Asignatura:** Practicum  
-**Actividad 3:** Plan de Orientación Académico-Profesional (Integración Aula del Futuro)  
-**Programa analizado:** Aula del Futuro (AdF) – INTEF (en marcha desde 2021–2022, coordinación local: María del Carmen Mateos)  
-**Centro de prácticas:** IESO Quercus (Malpartida de Plasencia, 4673 hab., ~180 alumnos)  
-**Curso destinatario:** 4.º ESO  
-**Ventana de aplicación simulada:** 12/01/2026 – 08/03/2026  
-**Estudiante:** Juan Marcos García Aranzábal  
-**Fecha de entrega:** 15/01/2026  
-**CCAA de referencia:** Extremadura  
+::: portada-meta
+**Máster Universitario en Formación del Profesorado de ESO y Bachillerato, FP y Enseñanza de Idiomas**\
+**Especialidad:** Orientación Educativa\
+**Asignatura:** Practicum\
+**Actividad 3:** Plan de Orientación Académico-Profesional (Integración Aula del Futuro)\
+**Programa analizado:** Aula del Futuro (AdF) – INTEF (en marcha desde 2021–2022, coordinación local: María del Carmen Mateos)\
+**Centro de prácticas:** IESO Quercus (Malpartida de Plasencia, 4673 hab., \~180 alumnos)\
+**Curso destinatario:** 4.º ESO\
+**Ventana de aplicación simulada:** 12/01/2026 – 08/03/2026\
+**Estudiante:** Juan Marcos García Aranzábal\
+**Fecha de entrega:** 15/01/2026\
+**CCAA de referencia:** Extremadura
+:::
 
-::: {.callout-note}
+::: callout-note
 Esta actividad sintetiza un plan modular de orientación académico-profesional apoyado en metodologías activas y escenarios flexibles del Aula del Futuro, alineado con modelos de desarrollo de carrera (Holland, Super, Krumboltz, Savickas) y necesidades decisionales de 4.º ESO.
 :::
 
-# PARTE 1. Revisión de recursos (máx. 1 página)
+# Revisión de recursos (máx. 1 página)
 
 Tabla resumen (8 recursos seleccionados). Cada entrada recoge criterios de pertinencia para orientación vocacional en contexto semi-rural.
 
+::: {.table-scroll aria-label="Tabla resumen de 8 recursos"}
 | Recurso | Autor/Entidad | Año (estim.) | Objetivos clave | Destinatarios | Contenidos | Formato | Acceso | URL |
-|---------|---------------|-------------|-----------------|--------------|-----------|---------|--------|-----|
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | Aula del Futuro (AdF) | INTEF | 2021–2025 | Integrar metodologías activas y escenarios para exploración vocacional | ESO/Bachillerato | Espacios, escenarios, personalización | Mixto (espacio + guías) | Gratuito | https://auladelfuturo.educalab.es/ |
 | Future Classroom Lab (FCL) & Toolkit | European Schoolnet | 2025 | Diseño de escenarios y competencias digitales | Docentes / Estudiantes 12–18 | Diseño, innovación, digital competence | Digital | Gratuito | http://fcl.eun.org/toolkit |
 | Educarex – Innovación/Orientación | Consejería Educación Extremadura | 2025 | Recursos regionales orientación y FP | ESO / FP inicial | Itinerarios, materiales CCAA | Web | Gratuito | https://www.educarex.es/ |
@@ -63,42 +114,42 @@ Tabla resumen (8 recursos seleccionados). Cada entrada recoge criterios de perti
 | Mi Vocación | Fundación Bertelsmann | 2025 | Autoconocimiento y exploración vocacional | 14–18 años | Intereses, perfiles profesionales | Web interactiva | Registro gratuito | https://www.mivocacion.org/ |
 | Descubre la FP | F. Atresmedia & F. Mapfre | 2025 | Divulgación atractiva de la FP | ESO / Transición FP | Familias FP, testimonios | Web / Multimedia | Gratuito | https://descubrelafp.org/ |
 | FCL Courses Catalogue | European Schoolnet | 2025 | Formación docente para innovación que apoya orientación | Docentes | Active learning, digital, career links | Web / Cursos | Mixto (algunos de pago) | https://fcl.eun.org/courses |
+:::
 
 **Criterios de selección:** Relevancia para planificación de carrera, accesibilidad gratuita, actualización, potencial de integración con escenarios AdF, conexión con datos laborales (SEPE) y trayectorias formativas (TodoFP, Descubre la FP).
 
-# PARTE 2. Programa Aula del Futuro adaptado a Orientación Académico-Profesional
+# Programa Aula del Futuro adaptado a Orientación Académico-Profesional
 
-## 2.1 Fundamentación teórica
-- **Modelo tipológico (Holland, @holland1997):** RIASEC para intereses y alineación con escenarios.
-- **Modelo de desarrollo (Super, @super1990):** Auto-concepto y etapas; 4.º ESO como exploración y cristalización inicial.
-- **Aprendizaje social (Krumboltz, @krumboltz1979):** Influencia de experiencias y factores contextuales (semi-rural, acceso tecnológico). 
-- **Construcción de carrera (Savickas, @savickas2013):** Narrativas de propósito y adaptación a cambios futuros.
-- **Justificación:** Necesidad de apoyar decisiones post-ESO (Bachillerato vs FP vs otras vías) integrando autoconocimiento + análisis de oportunidades reales de entorno laboral y formación en Extremadura.
+### Fundamentación teórica
 
-## 2.2 Destinatarios
-- Grupo de 4.º ESO (25–30 alumnos). Heterogeneidad en aspiraciones; parte con orientación hacia FP por contexto local. 
-- Contexto semi-rural: menor exposición a sectores emergentes → se prioriza exploración ampliada.
-- Modalidad: Gran grupo con fases de trabajo cooperativo y microgrupos rotando por zonas AdF.
-- Adaptaciones: Fichas visuales simplificadas para alumnado con menor competencia lectora; apoyo digital gradual.
+-   **Modelo tipológico (Holland, @holland1997):** RIASEC para intereses y alineación con escenarios.
+-   **Modelo de desarrollo (Super, @super1990):** Auto-concepto y etapas; 4.º ESO como exploración y cristalización inicial.
+-   **Aprendizaje social (Krumboltz, @krumboltz1979):** Influencia de experiencias y factores contextuales (semi-rural, acceso tecnológico).
+-   **Construcción de carrera (Savickas, @savickas2013):** Narrativas de propósito y adaptación a cambios futuros.
+-   **Justificación:** Necesidad de apoyar decisiones post-ESO (Bachillerato vs FP vs otras vías) integrando autoconocimiento + análisis de oportunidades reales de entorno laboral y formación en Extremadura.
 
-## 2.3 Objetivos
-**General:** Facilitar la construcción inicial de un mapa de carrera personalizado y viable a 3 años.
-**Específicos:**
-1. Identificar intereses y valores formativos (instrumento rápido RIASEC adaptado). 
-2. Relacionar itinerarios post-ESO (Bachillerato modalidades, FP familias) con perfil personal. 
-3. Analizar 2 sectores emergentes/extremeños (agrotech, energías renovables) usando datos SEPE. 
-4. Elaborar un Canvas de Carrera (objetivo formativo + competencias + pasos próximos). 
-5. Presentar y recibir feedback de pares para refinar coherencia plan.
+### Destinatarios
 
-## 2.4 Contenidos
-- Conceptuales: Itinerarios educativos; perfiles profesionales emergentes; competencias transversales (digital, colaboración, resolución). 
-- Procedimentales: Búsqueda estructurada; uso de fichas de roles; construcción de Canvas; micro-pitch vocacional. 
-- Actitudinales: Apertura, reflexión crítica, responsabilidad en toma de decisiones, aprendizaje permanente. 
-- Secuenciación: Autoconocimiento → Exploración → Análisis laboral → Diseño → Presentación/feedback.
+-   Grupo de 4.º ESO (25–30 alumnos). Heterogeneidad en aspiraciones; parte con orientación hacia FP por contexto local.
+-   Contexto semi-rural: menor exposición a sectores emergentes → se prioriza exploración ampliada.
+-   Modalidad: Gran grupo con fases de trabajo cooperativo y microgrupos rotando por zonas AdF.
+-   Adaptaciones: Fichas visuales simplificadas para alumnado con menor competencia lectora; apoyo digital gradual.
 
-## 2.5 Estructura modular (6 sesiones)
+### Objetivos
+
+**General:** Facilitar la construcción inicial de un mapa de carrera personalizado y viable a 3 años. **Específicos:** 1. Identificar intereses y valores formativos (instrumento rápido RIASEC adaptado). 2. Relacionar itinerarios post-ESO (Bachillerato modalidades, FP familias) con perfil personal. 3. Analizar 2 sectores emergentes/extremeños (agrotech, energías renovables) usando datos SEPE. 4. Elaborar un Canvas de Carrera (objetivo formativo + competencias + pasos próximos). 5. Presentar y recibir feedback de pares para refinar coherencia plan.
+
+### Contenidos
+
+-   Conceptuales: Itinerarios educativos; perfiles profesionales emergentes; competencias transversales (digital, colaboración, resolución).
+-   Procedimentales: Búsqueda estructurada; uso de fichas de roles; construcción de Canvas; micro-pitch vocacional.
+-   Actitudinales: Apertura, reflexión crítica, responsabilidad en toma de decisiones, aprendizaje permanente.
+-   Secuenciación: Autoconocimiento → Exploración → Análisis laboral → Diseño → Presentación/feedback.
+
+### Estructura modular (6 sesiones)
+
 | Sesión | Foco | Objetivos específicos | Espacio AdF principal | Producto |
-|--------|------|----------------------|----------------------|----------|
+|---------------|---------------|---------------|---------------|---------------|
 | 1 | Autoconocimiento | 1 | Zona de investigación | Perfil intereses resumido |
 | 2 | Opciones educativas | 2 | Zona de creación | Mapa itinerarios personales |
 | 3 | Mundo laboral (sectores) | 3 | Zona interactiva | Fichas sectores emergentes |
@@ -106,31 +157,37 @@ Tabla resumen (8 recursos seleccionados). Cada entrada recoge criterios de perti
 | 5 | Ajuste y competencias | 4 | Zona presentación | Canvas final revisado |
 | 6 | Pitch y feedback | 5 | Zona presentación | Mini pitch vocacional + feedback |
 
-## 2.6 Actividades clave (ejemplos por sesión)
-- Instrumento intereses (adaptación RIASEC breve; uso orientativo no diagnóstico). 
-- Búsqueda guiada en TodoFP y Descubre la FP (matriz itinerarios). 
-- Análisis de datos Observatorio SEPE (tendencias y perfiles). 
-- Canvas de Carrera (plantilla estructurada: Objetivo formativo / Competencias / Recursos / Hitos próximos / Riesgos / Estrategias). 
-- Pitch 60 segundos (problema, motivación, elección itinerario, primer paso). 
-- Feedback cooperativo mediante tarjetas “Potencia / Aclara / Añade”.
+### Actividades clave (ejemplos por sesión)
 
-## 2.7 Recursos y materiales
-- Fichas impresas intereses y sectores. 
-- Acceso web (TodoFP, SEPE). 
-- Proyector / panel interactivo zona AdF. 
-- Plantilla Canvas (A3). 
-- Tarjetas feedback. 
+-   Instrumento intereses (adaptación RIASEC breve; uso orientativo no diagnóstico).
+-   Búsqueda guiada en TodoFP y Descubre la FP (matriz itinerarios).
+-   Análisis de datos Observatorio SEPE (tendencias y perfiles).
+-   Canvas de Carrera (plantilla estructurada: Objetivo formativo / Competencias / Recursos / Hitos próximos / Riesgos / Estrategias).
+-   Pitch 60 segundos (problema, motivación, elección itinerario, primer paso).
+-   Feedback cooperativo mediante tarjetas “Potencia / Aclara / Añade”.
 
-## 2.8 Rol del orientador
-- Curador de recursos fiables. 
-- Facilitador del análisis crítico (preguntas guía). 
-- Moderador de feedback. 
-- Registro observaciones de implicación y ajuste de apoyos.
+### Recursos y materiales
 
-## 2.9 Evaluación del programa y del alumnado
+-   Fichas impresas intereses y sectores.
+-   Acceso web (TodoFP, SEPE).
+-   Proyector / panel interactivo zona AdF.
+-   Plantilla Canvas (A3).
+-   Tarjetas feedback.
+
+### Rol del orientador
+
+-   Curador de recursos fiables.
+-   Facilitador del análisis crítico (preguntas guía).
+-   Moderador de feedback.
+-   Registro observaciones de implicación y ajuste de apoyos.
+
+### Evaluación del programa y del alumnado
+
 **Matriz simple de evaluación (programa + alumnado):**
+
+::: {.table-scroll aria-label="Matriz de evaluación programa y alumnado"}
 | Criterio | Indicador | Instrumento | Momento | Fuente |
-|----------|-----------|-------------|--------|--------|
+|----------|-----------|-------------|---------|--------|
 | Identificación intereses | Perfil con ≥3 áreas coherentes | Ficha intereses | Sesión 1 | Alumno |
 | Conocimiento itinerarios | Diferencia 2 opciones justificadas | Mapa itinerarios | Sesión 2 | Alumno |
 | Análisis sectores | Ficha con 2 datos empleo + 1 tendencia | Fichas sectores | Sesión 3 | Alumno |
@@ -138,54 +195,55 @@ Tabla resumen (8 recursos seleccionados). Cada entrada recoge criterios de perti
 | Comunicación vocacional | Pitch con estructura completa | Observación | Sesión 6 | Orientador/pares |
 | Satisfacción programa | ≥70% valoración positiva | Cuestionario breve | Sesión 6 | Grupo |
 | Reflexión personal | 1 acción mejora registrada | Autoevaluación | Sesión 6 | Alumno |
+:::
 
 Conforme a la Instrucción nº 14/2024 de organización y funcionamiento de centros educativos de Extremadura (@instruccion_14_2024_extremadura), los registros de evaluación de orientación se integrarán en la documentación de tutoría y memoria final del Departamento de Orientación.
 
-# PARTE 3. Aplicación simulada de sesión (Diseño de mapa de carrera)
-**Sesión seleccionada:** Sesión 4 (Diseño del mapa de carrera). 
-**Fecha simulada:** Semana del 05/02/2026.  
+# Aplicación simulada de sesión (Diseño de mapa de carrera)
+
+**Sesión seleccionada:** Sesión 4 (Diseño del mapa de carrera). **Fecha simulada:** Semana del 05/02/2026.\
 **Duración:** 55 minutos.
 
-### 3.1 Objetivos de la sesión
-- Sintetizar autoconocimiento + opciones en un Canvas inicial.
-- Identificar 2 competencias a fortalecer y 2 hitos próximos (≤6 meses).
+### Objetivos de la sesión
 
-### 3.2 Temporalización y fases
+-   Sintetizar autoconocimiento + opciones en un Canvas inicial.
+-   Identificar 2 competencias a fortalecer y 2 hitos próximos (≤6 meses).
+
+### Temporalización y fases
+
 | Min | Fase | Actividad | Método | Agrupamiento |
-|-----|------|----------|--------|--------------|
+|---------------|---------------|---------------|---------------|---------------|
 | 0–5 | Activación | Recordatorio intereses (lluvia breve) | Participativa | Gran grupo |
 | 5–20 | Exploración guiada | Revisión fichas itinerarios y sectores | Investigativa | Parejas |
 | 20–40 | Construcción | Completar Canvas Carrera | Colaborativa | Microgrupos 3 |
 | 40–50 | Micro-pitch | Explicar elección itinerario y primer hito | Experiencial | Microgrupos |
 | 50–55 | Autoevaluación | Tarjeta semáforo + nota de ajuste | Reflexiva | Individual |
 
-### 3.3 Recursos
-- Plantilla Canvas (A3). 
-- Fichas sectores (energías renovables / agrotech). 
-- Acceso web básico (TodoFP, SEPE). 
+### Recursos
 
-### 3.4 Previsión de dificultades y gestión
+-   Plantilla Canvas (A3).
+-   Fichas sectores (energías renovables / agrotech).
+-   Acceso web básico (TodoFP, SEPE).
+
+### Previsión de dificultades y gestión
+
 | Dificultad | Señal | Estrategia | Plan B |
-|------------|-------|-----------|--------|
-| Abstracción excesiva | Canvas vacío >10 min | Ejemplos modelo | Tutor asigna ejemplo |
+|-------------------|------------------|------------------|------------------|
+| Abstracción excesiva | Canvas vacío \>10 min | Ejemplos modelo | Tutor asigna ejemplo |
 | Desigual participación | 1 alumno domina | Roles rotatorios | Pausa y redistribución grupos |
-| Falta tiempo pitch | <50% presentan | Simplificar pitch a 30 s | Trasladar cierre a siguiente sesión |
+| Falta tiempo pitch | \<50% presentan | Simplificar pitch a 30 s | Trasladar cierre a siguiente sesión |
 | Acceso limitado web | Lentitud conexión | Uso fichas impresas | Extender exploración para refuerzo |
 
-### 3.5 Evaluación prevista
-- Observación estructurada (lista cotejo). 
-- Revisión Canvas (coherencia triádica intereses-itinerario-competencias). 
-- Autoevaluación semáforo (Verde / Ámbar / Rojo) + acción mejora.
+### Evaluación prevista
 
-# PARTE 4. Reflexión final
-**Importancia:** La orientación académico-profesional en 4.º ESO facilita transiciones informadas y reduce decisiones reactivas. 
-**Rol del orientador:** Mediador entre información dispersa (itinerarios, datos laborales, recursos digitales) y construcción personal de sentido y propósito. 
-**Fortalezas AdF:** Flexibilidad espacial, favorece aprendizaje activo, integra tecnología y colaboración. 
-**Limitaciones:** Requiere formación docente en diseño de escenarios; posible brecha digital en contextos semi-rurales; tiempo curricular restringido. 
-**Aprendizajes del proceso:** Diseño modular mejora progresión cognitiva; la combinación de datos (SEPE) con intereses aumenta relevancia percibida. 
-**Mejoras propuestas:** Incorporar seguimiento longitudinal (revisión Canvas trimestre), entrevistas breves individuales, vincular evidencias del portfolio a competencias marco europeo digital y personal-social. 
-**Visión futura:** Orientación integrada en proyectos interdisciplinares aumenta empleabilidad y desarrollo de agencia formativa.
+-   Observación estructurada (lista cotejo).
+-   Revisión Canvas (coherencia triádica intereses-itinerario-competencias).
+-   Autoevaluación semáforo (Verde / Ámbar / Rojo) + acción mejora.
+
+# Reflexión final
+
+**Importancia:** La orientación académico-profesional en 4.º ESO facilita transiciones informadas y reduce decisiones reactivas. **Rol del orientador:** Mediador entre información dispersa (itinerarios, datos laborales, recursos digitales) y construcción personal de sentido y propósito. **Fortalezas AdF:** Flexibilidad espacial, favorece aprendizaje activo, integra tecnología y colaboración. **Limitaciones:** Requiere formación docente en diseño de escenarios; posible brecha digital en contextos semi-rurales; tiempo curricular restringido. **Aprendizajes del proceso:** Diseño modular mejora progresión cognitiva; la combinación de datos (SEPE) con intereses aumenta relevancia percibida. **Mejoras propuestas:** Incorporar seguimiento longitudinal (revisión Canvas trimestre), entrevistas breves individuales, vincular evidencias del portfolio a competencias marco europeo digital y personal-social. **Visión futura:** Orientación integrada en proyectos interdisciplinares aumenta empleabilidad y desarrollo de agencia formativa.
 
 # Referencias
 
-Las fuentes citadas se listan automáticamente vía BibLaTeX (APA) usando el archivo consolidado `../practicum_references.bib`.
+Las fuentes citadas se listan automáticamente usando Pandoc citeproc y el estilo APA (CSL) definido en `../apa.csl`.

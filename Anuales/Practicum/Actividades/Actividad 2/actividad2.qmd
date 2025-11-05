@@ -12,23 +12,24 @@ editor: visual
 
 # Portada
 
-**Máster Universitario en Formación del Profesorado de ESO y Bachillerato, FP y Enseñanza de Idiomas**  
-**Especialidad:** Orientación Educativa  
-**Asignatura:** Practicum  
-**Actividad 2:** Medidas de atención a la diversidad en Educación Secundaria Obligatoria  
-**Comunidad Autónoma de referencia:** Extremadura  
-**Estudiante:** Juan Marcos García Aranzábal  
-**Centro de prácticas:** IESO Quercus  
-**Curso académico:** 2025-2026  
+**Máster Universitario en Formación del Profesorado de ESO y Bachillerato, FP y Enseñanza de Idiomas**\
+**Especialidad:** Orientación Educativa\
+**Asignatura:** Practicum\
+**Actividad 2:** Medidas de atención a la diversidad en Educación Secundaria Obligatoria\
+**Comunidad Autónoma de referencia:** Extremadura\
+**Estudiante:** Juan Marcos García Aranzábal\
+**Centro de prácticas:** IESO Quercus\
+**Curso académico:** 2025-2026\
 **Fecha de entrega:** 04/11/2025
 
-::: {.callout-note}
+::: callout-note
 Esta actividad se ajusta a un máximo de 8 folios (≈ 2800–3200 palabras) siguiendo Times New Roman 12, interlineado 1,15 y márgenes 2,5 cm. (Idioma configurado por defecto debido a ausencia de paquete babel-spanish en la distribución LaTeX local).
 :::
 
 # 1. Medidas de atención a la diversidad en ESO
 
 ## 1.1. Enfoque normativo general
+
 La atención a la diversidad se fundamenta en los principios de inclusión, equidad y personalización del aprendizaje recogidos en la **LOMLOE** (@lomloe2020, arts. 1, 2, 71–75), desarrollados para la etapa a través del **RD 217/2022** (@rd217_2022) (competencias, organización y perfil de salida) y los criterios de evaluación, promoción y titulación del **RD 984/2021** (@rd984_2021). En el ámbito estatal la **Orden EFP/754/2022** (@orden_efp_754_2022) concreta el currículo para el ámbito de gestión del Ministerio. En Extremadura, la ordenación y currículo propios de la ESO se establecen en el **Decreto 110/2022** (@decreto_110_2022_extremadura); la respuesta educativa a la diversidad se articula mediante el **Decreto 228/2014** (@decreto_228_2014_extremadura) y las instrucciones anuales de organización y funcionamiento (**Instrucción nº 14/2024**, @instruccion_14_2024_extremadura).
 
 El conjunto de medidas se articula de forma escalonada siguiendo el principio de respuesta ajustada: primero las **medidas generales u ordinarias**, luego las **medidas específicas o extraordinarias** tras evaluación psicopedagógica, y además **programas específicos** para perfiles concretos (riesgo de no titulación, mejora del rendimiento, altas capacidades, etc.).
@@ -36,10 +37,11 @@ El conjunto de medidas se articula de forma escalonada siguiendo el principio de
 ## 1.2. Clasificación y descripción de medidas
 
 ### A. Medidas generales (ordinarias)
+
 Características: Accesibles para todo el alumnado, no requieren informe psicopedagógico previo, se adoptan por el equipo docente/tutor en coherencia con la programación y Plan de Atención a la Diversidad del centro.
 
 | Medida | Descripción breve | Destinatarios | Finalidad principal | Procedimiento | Referencia normativa |
-|--------|-------------------|---------------|---------------------|---------------|----------------------|
+|------------|------------|------------|------------|------------|------------|
 | Metodologías activas (ABP, cooperativo, AICLE) | Organización de aprendizaje centrado en tareas auténticas y cooperación | Todo el grupo | Mejorar motivación, competencias clave | Acuerdo departamental y programación didáctica | LOMLOE arts. 2 y RD 217/2022 (competencias) |
 | Agrupamientos flexibles / desdobles | División temporal del grupo para refuerzo o profundización | Alumnado con ritmos diversos | Ajustar nivel de exigencia y apoyo | Planificación trimestral equipo docente | Instrucciones inicio curso (placeholder) |
 | Apoyos dentro del aula | Intervención simultánea (orientador/PT/AL) sin extraer | Alumnado con ligera necesidad de refuerzo | Evitar segregación y reforzar inclusión | Coordinación tutor-orientación | LOMLOE art. 71; inclusión |
@@ -48,11 +50,12 @@ Características: Accesibles para todo el alumnado, no requieren informe psicope
 | Acción tutorial estructurada | Plan tutoría con sesiones orientación académica y emocional | Todo el grupo | Desarrollo competencial y orientación | Departamento Orientación diseña plan | Orden ECD/1361/2015 (orientación), LOMLOE |
 
 ### B. Medidas específicas (extraordinarias)
+
 Requieren evaluación psicopedagógica y acuerdo de junta de evaluación, con informe y registro en expediente.
 
 | Medida | Descripción | Destinatarios | Finalidad | Procedimiento clave | Normativa |
-|--------|-------------|--------------|----------|---------------------|-----------|
-| Adaptación Curricular No Significativa (ACNS) | Ajustes metodológicos, temporales y de evaluación; mismos objetivos | NEE leves, desfase < 2 cursos | Accesibilidad y ritmo | Informe orientador + coordinación departamental | LOMLOE art. 73; Instrucciones centro |
+|------------|------------|------------|------------|--------------|------------|
+| Adaptación Curricular No Significativa (ACNS) | Ajustes metodológicos, temporales y de evaluación; mismos objetivos | NEE leves, desfase \< 2 cursos | Accesibilidad y ritmo | Informe orientador + coordinación departamental | LOMLOE art. 73; Instrucciones centro |
 | Adaptación Curricular Significativa (ACS) | Modificación de contenidos y criterios evaluación esenciales | NEE con desfase ≥ 2 cursos | Garantizar aprendizajes básicos y titulación posible | Dictamen, diseño por equipo docente, seguimiento trimestral | LOMLOE arts. 71–75; Decreto 228/2014 (Extremadura) |
 | Adaptaciones de acceso | Recursos materiales, tecnológicos, comunicativos | Discapacidad sensorial, motora, TEA | Eliminar barreras | Evaluación necesidades + provisión recursos | LOMLOE art. 74; ver Resoluciones específicas |
 | Atención por personal especializado | Intervenciones PT, AL, fisioterapia, orientación | Alumnado con NEE derivadas de discapacidad | Optimizar funcionalidad escolar | Horarios integrados y coordinación | LOMLOE art. 74 |
@@ -62,36 +65,40 @@ Requieren evaluación psicopedagógica y acuerdo de junta de evaluación, con in
 ### C. Programas específicos
 
 | Programa | Objetivo | Incorporación | Estructura | Titulación / Continuidad | Normativa |
-|----------|----------|--------------|-----------|--------------------------|-----------|
+|------------|------------|------------|------------|----------------|------------|
 | PMAR / Diversificación Curricular | Reorientar aprendizajes básicos y motivación | 2º o 3º ESO (según CCAA) tras evaluación | Ámbitos integrados + tutoría reforzada | Permite titular ESO | RD 217/2022; RD 984/2021; Instrucciones Extremadura (placeholder) |
 | Refuerzo específico competencial | Recuperación de competencias clave (Lengua/Matemáticas) | Tras detectar desfase persistente | Sesiones semanales agrupamiento reducido | Facilita promoción | RD 984/2021 |
 | Programa de profundización / enriquecimiento | Extensión curricular y retos cognitivos | Altas capacidades / alto rendimiento | Talleres, proyectos interdisciplinares | Mejora perfil de salida | LOMLOE art. 76 |
-| FP Básica itinerario compensador | Opción para riesgo de no titulación ESO > 15 años | 3º-4º ESO tras valoración | Módulos profesionales + ámbitos generales | Título Profesional Básico + opción título ESO | LOMLOE; RD 217/2022 |
+| FP Básica itinerario compensador | Opción para riesgo de no titulación ESO \> 15 años | 3º-4º ESO tras valoración | Módulos profesionales + ámbitos generales | Título Profesional Básico + opción título ESO | LOMLOE; RD 217/2022 |
 
 ## 1.3. Procedimiento de aplicación escalonado
-1. Detección inicial en aula y tutoría (registros de observación, resultados evaluativos).  
-2. Aplicación de medidas ordinarias y seguimiento breve (4–8 semanas).  
-3. Derivación al Departamento de Orientación si no hay progreso.  
-4. Evaluación psicopedagógica (cuando procede) y emisión de informe.  
-5. Propuesta de medida específica / programa en junta de evaluación.  
-6. Implementación con plan de seguimiento (indicadores, periodicidad).  
-7. Revisión y ajuste (al menos trimestral) documentando evidencias.
+
+1.  Detección inicial en aula y tutoría (registros de observación, resultados evaluativos).\
+2.  Aplicación de medidas ordinarias y seguimiento breve (4–8 semanas).\
+3.  Derivación al Departamento de Orientación si no hay progreso.\
+4.  Evaluación psicopedagógica (cuando procede) y emisión de informe.\
+5.  Propuesta de medida específica / programa en junta de evaluación.\
+6.  Implementación con plan de seguimiento (indicadores, periodicidad).\
+7.  Revisión y ajuste (al menos trimestral) documentando evidencias.
 
 ## 1.4. Consideraciones de equidad e inclusión
+
 La priorización de medidas ordinarias reduce la segregación y favorece el clima inclusivo (Echeita & Ainscow, @echeita2013). La coordinación interdisciplinar y el enfoque competencial minimizan la sobreidentificación y evita la dependencia de apoyos externos. El uso de evaluaciones formativas y criterios flexibles alineados con el perfil competencial regulado en @rd217_2022, el desarrollo curricular autonómico (@decreto_110_2022_extremadura) y las disposiciones de diversidad y organización (@decreto_228_2014_extremadura; @instruccion_14_2024_extremadura) facilita trayectorias de progreso para alumnado vulnerable.
 
 # 2. Itinerarios académicos y alternativas
 
 ## 2.1. Situaciones de dificultad
-- Dificultades de promoción (reiteradas materias no superadas).  
-- Riesgo de no titulación al finalizar 4º ESO.  
-- Desmotivación y riesgo de abandono temprano.  
-- Desfase curricular significativo (NEE).  
-- Necesidades de enriquecimiento por altas capacidades.
+
+-   Dificultades de promoción (reiteradas materias no superadas).\
+-   Riesgo de no titulación al finalizar 4º ESO.\
+-   Desmotivación y riesgo de abandono temprano.\
+-   Desfase curricular significativo (NEE).\
+-   Necesidades de enriquecimiento por altas capacidades.
 
 ## 2.2. Itinerarios dentro de la ESO
+
 | Itinerario | Requisitos / Acceso | Duración / Organización | Objetivos | Titulación | Normativa |
-|-----------|----------------------|-------------------------|----------|-----------|-----------|
+|------------|------------|--------------|------------|------------|------------|
 | Repetición excepcional | Decisión colegiada; límites (máx. una vez en ESO, salvo excepcional) | 1 curso adicional | Consolidar aprendizajes clave | Sí, tras superar criterios | RD 984/2021 |
 | PMAR / Diversificación | Valoración psicopedagógica; materias pendientes; motivación | 1-2 cursos según incorporación | Reforzar competencias instrumentales | Sí | RD 217/2022; RD 984/2021 |
 | Adaptación curricular significativa | Dictamen y desfase ≥ 2 cursos | Según programación adaptada | Alcanzar objetivos básicos y competencias esenciales | Sí (si criterios personalizados cumplidos) | LOMLOE arts. 71–75 |
@@ -99,35 +106,39 @@ La priorización de medidas ordinarias reduce la segregación y favorece el clim
 | FP Básica (derivación desde ESO) | ≥ 15 años; riesgo de no titulación; informe | 2 cursos | Competencias profesionales + básicas | Título Profesional Básico (+ opción ESO) | LOMLOE; RD 217/2022 |
 
 ## 2.3. Alternativas al finalizar sin titulación
+
 | Alternativa | Acceso | Duración | Titulación / Certificación | Continuación posible | Observaciones |
-|------------|-------|---------|---------------------------|----------------------|--------------|
+|------------|------------|------------|---------------|------------|------------|
 | FP Básica | ≥15 años, sin título | 2 cursos | Título Profesional Básico | CFGM tras prueba / título ESO | Refuerzo orientación |
 | Educación Personas Adultas (EPA) | ≥18 años (o 16 con contrato/trabajo) | Variable (módulos) | Título ESO tras superar ámbitos | Bachillerato / CFGM | Modalidad presencial / distancia |
 | Pruebas libres ESO | ≥18 años | Sesiones evaluativas | Título ESO | Bachillerato / CFGM | Preparación autónoma |
 | Certificado estudios cursados | Finalizó ESO sin titulación | N/A | Certificado administrativo | Acceso limitado | Orientación hacia EPA / FPB |
 
 ## 2.4. Alternativas con titulación de ESO
+
 | Camino | Requisitos | Duración | Titulación | Continuidad |
-|-------|-----------|---------|-----------|------------|
+|---------------|---------------|---------------|---------------|---------------|
 | Bachillerato (modalidades) | Título ESO | 2 cursos | Título Bachiller | Universidad / CFGS |
 | Ciclos Formativos Grado Medio | Título ESO / prueba acceso | 2 cursos | Técnico de la familia profesional | CFGS / empleo |
 | Enseñanzas Artísticas Profesionales | Prueba específica + ESO | Variable | Título Profesional Artístico | Superior / empleo |
 | Enseñanzas Deportivas | Pruebas físicas + ESO | Variable | Técnico Deportivo | Especialización |
 
 ## 2.5. Procedimiento de orientación itinerarios
-1. Identificación temprana de riesgo (indicadores: absentismo, repetición, suspensos ≥ 3).  
-2. Entrevista motivacional y exploración de intereses.  
-3. Análisis de requisitos objetivos y plazos administrativos.  
-4. Información comparativa de trayectorias (matriz opciones).  
-5. Decisión consensuada familia-alumno-equipo docente.  
-6. Formalización documental (actas, solicitud de programa).  
-7. Seguimiento y reajuste (trimestral / transiciones).
+
+1.  Identificación temprana de riesgo (indicadores: absentismo, repetición, suspensos ≥ 3).\
+2.  Entrevista motivacional y exploración de intereses.\
+3.  Análisis de requisitos objetivos y plazos administrativos.\
+4.  Información comparativa de trayectorias (matriz opciones).\
+5.  Decisión consensuada familia-alumno-equipo docente.\
+6.  Formalización documental (actas, solicitud de programa).\
+7.  Seguimiento y reajuste (trimestral / transiciones).
 
 # 3. Pasos y tareas del orientador/a
 
 ## 3.1. Fases operativas
+
 | Fase | Objetivos | Instrumentos | Productos |
-|------|-----------|-------------|-----------|
+|----------------|------------------|---------------------|------------------|
 | Detección | Señales de alerta, potencial alto | Registros aula, entrevistas cortas | Listado alumnos en seguimiento inicial |
 | Evaluación | Perfil de necesidades / recursos | Pruebas psicométricas, escalas, historial | Informe psicopedagógico / ficha síntesis |
 | Propuesta | Selección de medida / programa | Matriz opciones, criterios equidad | Acta junta con acuerdos y responsables |
@@ -135,63 +146,71 @@ La priorización de medidas ordinarias reduce la segregación y favorece el clim
 | Revisión | Valorar impacto y ajustar | Indicadores progreso, reuniones | Informe seguimiento / actualización medidas |
 
 ## 3.2. Intervención con tutores
-- Formación breve sobre detección y registro sistemático.  
-- Diseño conjunto de refuerzos ordinarios y metodologías activas.  
-- Preparación de documentación para juntas (síntesis casos).  
-- Retroalimentación de indicadores (suspensos, evolución ACNS).  
-- Coordinación de información a familias (guía común).
+
+-   Formación breve sobre detección y registro sistemático.\
+-   Diseño conjunto de refuerzos ordinarios y metodologías activas.\
+-   Preparación de documentación para juntas (síntesis casos).\
+-   Retroalimentación de indicadores (suspensos, evolución ACNS).\
+-   Coordinación de información a familias (guía común).
 
 ## 3.3. Trabajo con equipos educativos
-- Análisis de resultados globales por curso (patrones).  
-- Priorización de recursos de apoyo (horas PT/AL, desdobles).  
-- Revisión de coherencia entre adaptaciones y evaluación competencial.  
-- Propuestas basadas en evidencia (apoyo en aula vs extracción).  
-- Seguimiento de programas específicos (PMAR, enriquecimiento).
+
+-   Análisis de resultados globales por curso (patrones).\
+-   Priorización de recursos de apoyo (horas PT/AL, desdobles).\
+-   Revisión de coherencia entre adaptaciones y evaluación competencial.\
+-   Propuestas basadas en evidencia (apoyo en aula vs extracción).\
+-   Seguimiento de programas específicos (PMAR, enriquecimiento).
 
 ## 3.4. Atención directa al alumnado
-- Entrevistas individualizadas (motivación, intereses, barreras).  
-- Devolución comprensible de resultados evaluativos.  
-- Orientación decisional sobre itinerarios (matriz opciones).  
-- Entrenamiento en técnicas de autorregulación y estudio.  
-- Coordinación de apoyos y revisión de objetivos intermedios.
+
+-   Entrevistas individualizadas (motivación, intereses, barreras).\
+-   Devolución comprensible de resultados evaluativos.\
+-   Orientación decisional sobre itinerarios (matriz opciones).\
+-   Entrenamiento en técnicas de autorregulación y estudio.\
+-   Coordinación de apoyos y revisión de objetivos intermedios.
 
 ## 3.5. Relación con familias
-- Entrevista inicial estructurada (contexto, expectativas).  
-- Información transparente sobre proceso de evaluación psicopedagógica.  
-- Devolución de informe en lenguaje claro (fortalezas, necesidades).  
-- Orientación sobre opciones e implicaciones administrativas (plazos).  
-- Derivación a recursos externos (salud, servicios sociales) cuando procede.
+
+-   Entrevista inicial estructurada (contexto, expectativas).\
+-   Información transparente sobre proceso de evaluación psicopedagógica.\
+-   Devolución de informe en lenguaje claro (fortalezas, necesidades).\
+-   Orientación sobre opciones e implicaciones administrativas (plazos).\
+-   Derivación a recursos externos (salud, servicios sociales) cuando procede.
 
 ## 3.6. Gestión y coordinación externa
-- Elaboración y archivo de informes oficiales (dictámenes, adaptaciones).  
-- Actualización censo de alumnado con medidas vigentes.  
-- Participación en comisiones (diversidad, convivencia, tránsito).  
-- Coordinación con servicios sanitarios / sociales (consentimiento informado).  
-- Evaluación de impacto de medidas (indicadores: asistencia, calificaciones, bienestar).
+
+-   Elaboración y archivo de informes oficiales (dictámenes, adaptaciones).\
+-   Actualización censo de alumnado con medidas vigentes.\
+-   Participación en comisiones (diversidad, convivencia, tránsito).\
+-   Coordinación con servicios sanitarios / sociales (consentimiento informado).\
+-   Evaluación de impacto de medidas (indicadores: asistencia, calificaciones, bienestar).
 
 # 4. Portales esenciales (Extremadura)
 
 | Portal | URL | Organismo | Contenidos clave | Justificación |
-|--------|-----|----------|------------------|---------------|
+|-------------|-------------|-------------|------------------|---------------|
 | Educarex | https://educarex.es | Consejería de Educación y Empleo | Recursos educativos, orientación, materiales diversidad | Actualiza recursos y guías prácticas específicas de la CCAA |
 | DOE (Diario Oficial de Extremadura) | https://doe.juntaex.es | Junta de Extremadura | Publicación normativa oficial (decretos, órdenes, resoluciones) | Fuente primaria para verificar vigencia y textos consolidados |
 | Ministerio de Educación y FP | https://www.educacionyfp.gob.es/ | Gobierno de España | Normativa estatal, estadísticas, documentos estratégicos | Marco general y enlaces a legislación básica y programas estatales |
 
 ## 4.1. Criterios de selección
+
 Se priorizan portales que: (a) ofrecen normativa consolidada y actualizada; (b) publican instrucciones anuales y materiales aplicables a la práctica orientadora; (c) permiten acceso directo a documentos oficiales; (d) integran recursos para formación continua.
 
 ## 4.2. Uso sistemático por el orientador
-- Revisión mensual DOE (alerta RSS / suscripción) para detectar cambios normativos.  
-- Consulta de Educarex para materiales metodológicos y protocolos específicos (acogida, transición FP).  
-- Verificación en Ministerio de actualizaciones generales y programas estatales (PROA+, STEAM, etc.).
+
+-   Revisión mensual DOE (alerta RSS / suscripción) para detectar cambios normativos.\
+-   Consulta de Educarex para materiales metodológicos y protocolos específicos (acogida, transición FP).\
+-   Verificación en Ministerio de actualizaciones generales y programas estatales (PROA+, STEAM, etc.).
 
 # Referencias normativas y bibliográficas
 
 La lista completa de fuentes citadas se incluye mediante el sistema BibLaTeX (APA). Sustituir placeholders autonómicos por las referencias exactas (ELI) tras verificación en el DOE.
 
-::: {.callout-note}
+::: callout-note
 Marco normativo completo incorporado: LOMLOE, RD 217/2022, RD 984/2021, Orden EFP/754/2022, Decreto 110/2022 (currículo ESO Extremadura), Decreto 228/2014 (diversidad) e Instrucción nº 14/2024 (organización curso 2024-2025).
 :::
 
 # Notas finales
+
 Este documento sintetiza medidas y procedimientos según marco estatal y adaptación contextual autonómica (Extremadura) optimizando la claridad operativa para el rol de orientación educativa.
