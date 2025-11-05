@@ -1,0 +1,172 @@
+---
+title: "PEC 1: Localización y valoración de las políticas públicas sobre Orientación Educativa (Extremadura, 2000–2025)"
+author: "Juan Marcos García Aranzábal"
+date: 2025-12-05
+format: 
+  pdf:
+    toc: true
+    number-sections: true
+    fontsize: 12pt
+    papersize: a4
+lang: es
+bibliography: refs_pec1.bib
+csl: ../../../../Anuales/Practicum/Actividades/apa.csl
+keywords: [orientación educativa, políticas públicas, Extremadura, inclusión, evaluación, atención temprana]
+---
+
+# Portada
+
+**Máster Universitario en Psicopedagogía (UNED)**  
+Asignatura: Políticas y Sistemas Educativos  
+Actividad: PEC 1  
+Comunidad Autónoma analizada: **Extremadura**  
+Periodo de estudio: **2000–2025**  
+Entrega: 5 de diciembre de 2025  
+Formato: PDF (APA 7ª)  
+
+---
+
+# Resumen ejecutivo
+
+Este documento compila y analiza la evolución normativa y organizativa de la Orientación Educativa en la Comunidad Autónoma de Extremadura desde el año 2000 hasta 2025, en diálogo con el marco estatal. Se identifican modelos, funciones, estructuras, mecanismos de evaluación, integración de la Atención Temprana y transformaciones clave para emitir un diagnóstico y proponer indicadores de mejora alineados con criterios de equidad, inclusión y calidad.
+
+---
+
+# 1. Objetivos
+
+1. Localizar y sistematizar las normas estatales y autonómicas relevantes sobre orientación y atención a la diversidad.
+2. Caracterizar el modelo de orientación vigente y sus transiciones (preventivo, compensador, inclusivo, ecosistémico, competencial).
+3. Analizar funciones y roles profesionales (departamentos, EOEP/EOP, equipos específicos, coordinación con servicios sociales y sanitarios).
+4. Valorar la incorporación de Atención Temprana y la respuesta a necesidades específicas (NEE, NEAE, altas capacidades, vulnerabilidad socioeducativa).
+5. Identificar vacíos, solapamientos, riesgos operativos y retos emergentes.
+6. Proponer indicadores y líneas de mejora basados en evidencia y estándares internacionales (UNESCO, COPOE, modelos integrados de apoyo).
+
+---
+
+# 2. Metodología y diseño
+
+## 2.1 Enfoque
+
+Metodología documental descriptivo-comparativa con análisis temático. Fuentes: BOE, DOE, comunicados profesionales (COPOE), documentos técnicos y guías internacionales (UNESCO). Se emplea extracción de fragmentos clave (tutoría, consejo orientador, atención a la diversidad, evaluación psicopedagógica, estructura organizativa, inclusión) y su codificación en categorías.
+
+## 2.2 Procedimiento
+
+1. Recolección normativa estatal (LOE, LOMCE, LOMLOE; RD 217/2022; RD 984/2021; otros reales decretos curriculares).  
+2. Recolección normativa autonómica (decretos organización, instrucciones evaluativas, planes de orientación, atención temprana, protocolos de dictamen).  
+3. Elaboración de tabla de evolución estructurada (ver sección 5).  
+4. Análisis comparado estatal/autonómico.  
+5. Identificación de brechas y riesgos.  
+6. Formulación de indicadores y recomendaciones.  
+
+## 2.3 Criterios de clasificación
+
+- Nivel normativo (Ley Orgánica, Real Decreto, Decreto autonómico, Instrucción).  
+- Dimensión funcional (prevención, intervención, compensación, inclusión, orientación vocacional).  
+- Cobertura poblacional (etapas, ruralidad, diversidad lingüística, altas capacidades, discapacidad).  
+- Presencia de Atención Temprana y coordinación intersectorial.  
+- Mecanismos de evaluación y seguimiento (consejo orientador, informes psicopedagógicos, planes individuales).  
+
+## 2.4 Limitaciones y supuestos
+
+- Algunas referencias autonómicas se incluyen como placeholders pendientes de verificación exacta (ver notas en tabla).  
+- Se asume continuidad de equipos de orientación educativa y psicopedagógica aunque evolucionen denominaciones.  
+
+## 2.5 Sección específica de riesgos metodológicos
+
+| Riesgo | Descripción | Impacto | Probabilidad | Mitigación | Indicador de control |
+|--------|-------------|---------|-------------|------------|----------------------|
+| Incompletitud documental | Falta de alguna instrucción interna no publicada en DOE/BOE | Medio | Media | Señalar huecos y marcar como "verificación pendiente" | % referencias con verificación documental |
+| Sesgo interpretativo | Extrapolación errónea entre niveles (estatal/autonómico) | Alto | Media | Triangulación y citas textuales | Nº citas textuales por bloque |
+| Obsolescencia | Normas derogadas todavía influyendo en práctica | Medio | Alta | Marcar estado (vigente/derogada/parcial) | Etiquetas de estado normativo |
+| Ambigüedad terminológica | Cambio de nomenclatura (NEE→NEAE) | Bajo | Alta | Glosario de equivalencias | Glosario presente (Sí/No) |
+| Falta de datos Atención Temprana | Escasa publicación de protocolos intersectoriales | Alto | Media | Placeholder + búsqueda ampliada | Nº documentos Atención Temprana incorporados |
+
+---
+
+# 3. Corpus normativo estatal (síntesis)
+
+Se destacan fragmentos relevantes:
+
+- LOMLOE (2020) refuerza la perspectiva inclusiva, flexibilización curricular y consejo orientador (Artículos sobre diversificación y acompañamiento; orientaciones en evaluación diagnóstica y equidad).  
+- RD 217/2022 aporta estructura de ESO, tutoría y orientación (Artículo 18), atención a diferencias individuales y programas de diversificación (Artículos 19–24).  
+- RD 984/2021 redefine evaluación y promoción, papel colegiado del equipo docente y función del consejo orientador (Artículos 5–15).  
+
+> Extractos incluidos responden a tutoría, diversidad, evaluación adaptada, consejo orientador y programas específicos.
+
+---
+
+# 4. Corpus normativo autonómico (Extremadura) – estado inicial
+
+Normas clave (placeholders pendientes de completar datos precisos del DOE):
+
+- Decreto 228/2014: Organización y criterios de atención a la diversidad y orientación (verificar título oficial completo).  
+- Decreto 110/2022: Actualización de estructura inclusiva y adaptación al marco competencial (pendiente confirmación).  
+- Instrucción 14/2024: Procedimientos de evaluación psicopedagógica y dictámenes (verificar emisión y referencia).  
+
+Acciones siguientes: completar fechas exactas y referencias DOE; añadir protocolos de coordinación Atención Temprana (sanidad-servicios sociales-educación) si disponibles.
+
+---
+
+# 5. Tabla de evolución normativa y modelo (2000–2025)
+
+| Periodo / Año | Norma | Modelo Dominante | Estructura / Órganos | Funciones Clave | Evaluación y Calidad | Atención Temprana / NEE | Cambios Relevantes | Fuente |
+|---------------|-------|------------------|----------------------|-----------------|----------------------|-------------------------|--------------------|--------|
+| 2006 | LOE 2/2006 | Comprensivo / Integrador inicial | Departamentos orientación + EOEP | Apoyo psicopedagógico, acción tutorial | Evaluación criterios etapa | Inicio articulación (incipiente) | Marco base para posterior diversificación | BOE |
+| 2013 | LOMCE | Rendimiento / medición (transición) | Refuerzo evaluaciones externas | Orientación vinculada a itinerarios | Pruebas externas (después modificadas) | Limitado | Mayor énfasis en selección itinerarios | BOE |
+| 2020 | LOMLOE | Inclusivo / competencial | Tutoría reforzada, consejo orientador | Personalización, equidad, acompañamiento | Evaluación formativa y diagnóstica | Refuerzo principios inclusión | Recupera equilibrio Consejo Escolar / dirección | BOE |
+| 2021 | RD 984/2021 | Formativo / colegiado | Equipo docente colegiado | Decisión promoción integral | Consejo orientador formalizado | Adaptaciones sin penalización | Permanencia excepcional | BOE |
+| 2022 | RD 217/2022 | Inclusión + diversificación | Programas diversificación curricular | Acompañamiento en itinerarios | Perfil de salida, competencias | Medidas flexibles atención diversidad | Consejo orientador en ESO | BOE |
+| 2014 | Decreto 228/2014 (EX) | Contextual / territorial | Estructura autonómica orientación (placeholder) | Adaptación recursos, coordinación EOEP | (Pend.) indicadores regionales | (Pend.) protocolos Atención Temprana | Define organización regional | DOE (pend.) |
+| 2022 | Decreto 110/2022 (EX) | Inclusivo / ecosistémico | Reajuste de equipos y funciones (pend.) | Intervención multi-nivel | (Pend.) sistema seguimiento | (Pend.) integración en red temprana | Actualiza a LOMLOE | DOE (pend.) |
+| 2024 | Instrucción 14/2024 (EX) | Procedimental / calidad | Protocolos evaluación psicopedagógica | Estandariza dictámenes y flujos | Trazabilidad informes | Refuerzo detección precoz | Homogeneiza tiempos y formatos | DOE (pend.) |
+
+Notas: filas autonómicas requieren verificación documental precisa.
+
+---
+
+# 6. Análisis comparado
+
+- Convergencias: Consejo orientador, enfoque competencial, atención a la diversidad desde principios inclusivos; evaluación flexibilizada para evitar segregación.  
+- Divergencias: Nivel de formalización de protocolos psicopedagógicos (autonomía vs. homogeneización estatal mínima), ritmo de integración de Atención Temprana en circuitos educativos.  
+- Brechas detectadas: Falta de indicadores públicos autonómicos de tiempos de respuesta; ausencia (en estado inicial) de métricas de transición inter-etapas; necesidad de clarificar roles en itinerarios profesionalizantes.  
+
+---
+
+# 7. Indicadores propuestos
+
+| Dimensión | Indicador | Fórmula / Definición | Fuente | Frecuencia |
+|-----------|----------|----------------------|--------|------------|
+| Accesibilidad | Ratio orientador/alumnado | Nº alumnado / Nº profesionales orientación | Estadísticas educativas | Anual |
+| Eficacia evaluación | Tiempo medio emisión dictamen | Fecha solicitud – Fecha dictamen | Registro psicopedagógico | Trimestral |
+| Inclusión | % alumnado NEE escolarizado en entorno ordinario | (Alumnado NEE en aulas ordinarias / Total alumnado NEE) * 100 | Censo escolar | Anual |
+| Atención Temprana | Tiempo derivación intersectorial | Fecha detección – Fecha primera intervención | Coordinación sanitaria/educativa | Semestral |
+| Personalización | % consejos orientadores emitidos en plazo | (Consejos emitidos / Consejos previstos) * 100 | Documentación centro | Anual |
+
+---
+
+# 8. Riesgos y mitigaciones (síntesis)
+
+Ver tabla metodología (2.5). Se añade seguimiento mediante auditoría interna anual y revisión de glosario terminológico.
+
+---
+
+# 9. Conclusiones
+
+La evolución normativa muestra un tránsito consistente hacia un modelo inclusivo y competencial que enfatiza acompañamiento y personalización (consejo orientador, evaluación formativa). El corpus estatal establece estándares mínimos mientras el autonómico necesita completar su explicitación pública en protocolos (placeholders). Prioridades: reducir tiempos de dictamen, ampliar coordinación Atención Temprana, consolidar indicadores comparables y reforzar dotaciones profesionales de orientación (alineado con demandas COPOE).
+
+---
+
+# 10. Próximos pasos
+
+1. Verificar datos exactos de decretos e instrucción autonómica (referencias DOE).  
+2. Incorporar glosario de términos (NEE, NEAE, Atención Temprana, consejo orientador).  
+3. Completar línea temporal pre-2006 si existen normas autonómicas fundacionales.  
+4. Añadir análisis de recursos humanos (ratio orientadores).  
+
+---
+
+# Referencias
+
+Las citas se gestionan automáticamente vía `refs_pec1.bib`. Placeholder autonómico se actualizará tras verificación.  
+
+> NOTA: Este documento es versión inicial de trabajo. Las secciones marcadas "pend." serán completadas tras la recuperación documental detallada del DOE.
