@@ -4,6 +4,10 @@ _site/
 _book/
 _output/
 *.html
+# Permitir seguimiento de exportaciones HTML de Debates
+!Primer cuatrimestre/Politicas y sistemas/Foros/Debate 1/Debate1.html
+!Primer cuatrimestre/Politicas y sistemas/Foros/Debate 2/Debate2.html
+!Primer cuatrimestre/Politicas y sistemas/Foros/Debate 3/Debate3.html
 # Excluir PDFs generados (mantener fuentes .qmd / .md / .bib)
 *.pdf
 .Rproj.user
