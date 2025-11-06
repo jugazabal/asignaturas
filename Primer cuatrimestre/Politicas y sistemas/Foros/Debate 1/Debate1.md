@@ -109,3 +109,4 @@ El debate evidencia una convergencia en el reconocimiento del valor estratégico
 
 ---
 Fuente: Debate1.html (todas las intervenciones hasta 4 de noviembre de 2025) + interv_debate1.md + síntesis previa propia.
+\n+## Transparencia sobre uso de IA\n+Este documento ha sido asistido puntualmente por herramientas de Inteligencia Artificial Generativa en tareas de: reorganización estructural (secciones y hilos), depuración de tablas y mejora de cohesión textual. Todas las intervenciones originales y datos sustantivos se verificaron manualmente frente a las fuentes (HTML exportado y archivos de intervención). No se introdujeron datos personales ni información confidencial; se identificaron y eliminaron únicamente redundancias literales. El contenido final refleja criterio académico propio tras revisión crítica.\n*** End Patch

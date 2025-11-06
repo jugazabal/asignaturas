@@ -103,3 +103,4 @@ Se conserva el resumen inicial y la tabla original (previa a reestructuración) 
 ---
 
 Fin del documento reestructurado.
+\n+## Transparencia sobre uso de IA\n+Este documento ha sido asistido por herramientas de Inteligencia Artificial Generativa en: síntesis ejecutiva, generación de una primera versión de la tabla analítica y propuesta inicial de hilos temáticos. Cada salida se revisó manualmente (recorte, precisión terminológica, verificación de competencias, eliminación de redundancias y señalización de intervención duplicada). El contenido sustantivo de las intervenciones originales se conserva íntegro y la validación final es humana. No se introdujeron datos personales ni información confidencial.\n*** End Patch

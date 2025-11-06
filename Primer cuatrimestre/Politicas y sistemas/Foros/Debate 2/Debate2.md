@@ -104,3 +104,4 @@ El conjunto de aportaciones perfila un gradiente: EE. UU. (rol variable, foco en
 
 ---
 Fuentes: Debate2.html (todas las intervenciones hasta 4 nov 2025) + interv_debate2.md + contenido original de Debate2.md.
+\n+## Transparencia sobre uso de IA\n+Este documento ha sido asistido por herramientas de Inteligencia Artificial Generativa en tareas de síntesis temática (hilos), ampliación estructurada de la tabla comparativa y homogenización de formato. Las salidas de IA fueron revisadas manualmente para asegurar precisión conceptual, evitar alucinaciones y eliminar duplicaciones literales. No se añadieron ideas ajenas a las fuentes originales ni se introdujeron datos personales. El resultado final mantiene integridad académica tras verificación crítica.\n*** End Patch
