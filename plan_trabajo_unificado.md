@@ -5,6 +5,16 @@ Este documento reúne los apartados principales de los planes de trabajo de las 
 ---
 
 ## Trabajo Fin de Máster (TFM) - Especialidad de Orientación Educativa
+### Meta
+| Campo | Valor |
+|-------|-------|
+| Código | — |
+| Créditos (ECTS) | 10 |
+| Horas totales | 250 |
+| Periodo | Anual |
+| Idioma | Castellano |
+| Modalidad | A distancia |
+| Última actualización | 30/10/2025 |
 | Apartado         | Contenido |
 |------------------|----------|
 | **Resumen**      | El TFM permite al estudiantado poner en práctica los conocimientos adquiridos en las demás asignaturas de la especialidad de Orientación Educativa y aproximarse a la realidad profesional en un Departamento o Equipo de Orientación. Asignatura anual, 10 ECTS, 250 horas. |
@@ -74,9 +84,35 @@ La evaluación del TFM se fundamenta en la calidad de la memoria final, el segui
 - [ ] Comprobar requisitos legales y administrativos (alta en la Seguridad Social para prácticas, certificación negativa del Registro Central de Delincuentes Sexuales si procede)
 
 ---
+### Canales de comunicación
+| Canal | Uso | Observaciones |
+|-------|-----|---------------|
+| Foro del aula virtual | Consultas y avisos | Continuo |
+| Correo institucional | Contacto con tutor/a y equipo docente | Publicado en aula virtual |
+| Centro Asociado | Gestión de prácticas y tutorías presenciales | Según normativa |
+
+### Política de Honestidad Académica y Antiplagio
+El plagio y la falsificación de evidencias están estrictamente prohibidos. Se emplean herramientas de verificación institucionales. El plagio implica suspenso automático y posible traslado al Servicio de Inspección. Se recomienda revisión previa independiente antes de cada entrega.
+
+### Requisitos legales
+- Alta en la Seguridad Social (cuando proceda)
+- Certificación negativa del Registro Central de Delincuentes Sexuales (si hay contacto habitual con menores)
+- Documentación de defensa (versión final, DNI, solicitud, declaración jurada)
+
+---
 
 
 ## Biblioteca e Información
+### Meta
+| Campo | Valor |
+|-------|-------|
+| Código | — |
+| Créditos (ECTS) | — |
+| Horas totales | — |
+| Periodo | Anual |
+| Idioma | Castellano |
+| Modalidad | A distancia |
+| Última actualización | 30/10/2025 |
 
 | Apartado         | Contenido |
 |------------------|----------|
@@ -126,9 +162,28 @@ Los estudiantes disponen de tres convocatorias de evaluación: febrero, junio y 
 - [ ] Realizar y entregar la actividad práctica obligatoria en la convocatoria correspondiente
 - [ ] Mantener un registro o notas de la actividad práctica (reflexiones, evidencias)
 - [ ] Participar en el foro de dudas y consultas y resolver las indicaciones del equipo docente
+### Canales de comunicación
+| Canal | Uso | Observaciones |
+|-------|-----|---------------|
+| Foro del curso | Dudas y seguimiento | Continuo |
+| Correo institucional | Consultas específicas | Publicado en aula virtual |
+| Recursos multimedia | Profundización y apoyo | Videoclases / tutoriales |
+
+### Política de Honestidad Académica y Antiplagio
+La actividad práctica debe ser original. Se aplican herramientas de detección de similitud. El fraude académico será calificado con 0 y puede acarrear medidas disciplinarias. Revisar siempre la autenticidad antes de subir el archivo.
  
 
 ## Políticas y Sistemas de Orientación Educativa
+### Meta
+| Campo | Valor |
+|-------|-------|
+| Código | 23300060 |
+| Créditos (ECTS) | — |
+| Horas totales | — |
+| Periodo | Primer cuatrimestre |
+| Idioma | Castellano |
+| Modalidad | A distancia |
+| Última actualización | — (pendiente verificación) |
 
 | Apartado         | Contenido |
 |------------------|----------|
@@ -167,10 +222,29 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 - [ ] Participar en el aula virtual y foros
 - [ ] Realizar las actividades de evaluación continua
 - [ ] Consultar recursos multimedia y webconferencias
+### Canales de comunicación
+| Canal | Uso | Observaciones |
+|-------|-----|---------------|
+| Aula virtual / foros | Interacción y debates | Continuo |
+| Correo institucional | Consultas académicas | Publicado en guía |
+| Webconferencias | Sesiones temáticas | Según convocatoria |
+
+### Política de Honestidad Académica y Antiplagio
+Se exige elaboración propia de casos y síntesis de debates. El plagio conlleva suspenso y puede trasladarse a Inspección. Se recomienda comprobación previa con herramientas personales.
 
 ---
 
 ## Asesoramiento Psicopedagógico en Procesos de Enseñanza Aprendizaje
+### Meta
+| Campo | Valor |
+|-------|-------|
+| Código | — |
+| Créditos (ECTS) | — |
+| Horas totales | 125 |
+| Periodo | Semestre 1 |
+| Idioma | Castellano |
+| Modalidad | A distancia |
+| Última actualización | 24/10/2025 |
 
 | Apartado         | Contenido |
 |------------------|----------|
@@ -213,9 +287,28 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 - [ ] Completar y aprobar Tarea 3 (mínimo 5 puntos)
 - [ ] Revisar trabajos con herramientas antiplagio propias antes de entregar
 - [ ] Entregar todas las tareas en plazo (febrero o septiembre)
+### Canales de comunicación
+| Canal | Uso | Observaciones |
+|-------|-----|---------------|
+| Foro de consultas generales | Dudas y aclaraciones | Continuo |
+| Correo | jguillamon@edu.uned.es | Respuesta académica |
+| Teléfono | Tutoría telefónica | Martes 10:00–14:00 |
+
+### Política de Honestidad Académica y Antiplagio
+Herramientas institucionales (Compilatio, Verificatio) verifican originalidad. El plagio implica suspenso automático y posible traslado al Servicio de Inspección. Use revisión previa propia antes de cada entrega.
 
 ---
 ## Diagnóstico en Orientación Educativa (Plan 2013)
+### Meta
+| Campo | Valor |
+|-------|-------|
+| Código | 2330015- |
+| Créditos (ECTS) | 5 |
+| Horas totales | 125 |
+| Periodo | Semestre 1 |
+| Idioma | Castellano |
+| Modalidad | A distancia |
+| Última actualización | 29/10/2025 |
 
 | Apartado         | Contenido |
 |------------------|----------|
@@ -254,9 +347,28 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 - [ ] Elaborar y entregar Trabajo Práctico (antes del 31/01/2026)
 - [ ] Participar en foros del curso virtual
 - [ ] Revisar producciones audiovisuales
+### Canales de comunicación
+| Canal | Uso | Observaciones |
+|-------|-----|---------------|
+| Curso virtual | Acceso a materiales y actividades | Principal |
+| Foros | Debate y dudas | Continuo |
+| Producciones audiovisuales | Profundización | Aula virtual |
+
+### Política de Honestidad Académica y Antiplagio
+Entrega de informes y actividades debe ser original. Uso de herramientas de detección institucional. El plagio acarrea suspenso y posible medida disciplinaria. Recomendada revisión previa.
 
 
 ## Desarrollo, Aprendizaje y Educación
+### Meta
+| Campo | Valor |
+|-------|-------|
+| Código | — |
+| Créditos (ECTS) | — |
+| Horas totales | 125 |
+| Periodo | Semestre 1 |
+| Idioma | Castellano |
+| Modalidad | A distancia |
+| Última actualización | 29/10/2025 |
 
 | Apartado         | Contenido |
 |------------------|----------|
@@ -311,8 +423,27 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 - [ ] Preparar Prueba Objetiva
 - [ ] Preparar Prueba de Desarrollo
 - [ ] Participar en foros y tutorías
+### Canales de comunicación
+| Canal | Uso | Observaciones |
+|-------|-----|---------------|
+| Plataforma virtual | Materiales y avisos | Continuo |
+| Tutorías en línea | Aclaraciones y guía | Según programación |
+| Correo profesores | Consultas específicas | Publicado en aula |
+
+### Política de Honestidad Académica y Antiplagio
+El análisis y la prueba de desarrollo deben ser originales. El plagio implica suspensión de la asignatura y apertura de expediente si procede. Revisar con herramientas personales antes de entregar.
 
 ## Atención Temprana y Orientación Familiar
+### Meta
+| Campo | Valor |
+|-------|-------|
+| Código | 23300094 |
+| Créditos (ECTS) | 4 |
+| Horas totales | 100 |
+| Periodo | Semestre 1 |
+| Idioma | Castellano |
+| Modalidad | A distancia |
+| Última actualización | 29/10/2025 |
 
 | Apartado         | Contenido |
 |------------------|----------|
@@ -351,8 +482,27 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 - [ ] Completar evaluaciones según sistema establecido
 - [ ] Participar en foros y actividades
 - [ ] Consultar recursos adicionales en curso virtual
+### Canales de comunicación
+| Canal | Uso | Observaciones |
+|-------|-----|---------------|
+| Foro consultas generales | Dudas y avisos | Continuo |
+| Correo equipo docente | Aclaraciones académicas | Publicado en aula |
+| Teléfono | Consultar horario de atención | Según guía |
+
+### Política de Honestidad Académica y Antiplagio
+Originalidad requerida en fichas, comentarios críticos y prueba a distancia. Herramientas institucionales comprobarán similitud. El plagio supone suspenso y posible acción disciplinaria.
 
 ## Innovación, Investigación y Gestión del Cambio en Orientación Educativa
+### Meta
+| Campo | Valor |
+|-------|-------|
+| Código | 23300075 |
+| Créditos (ECTS) | 5 |
+| Horas totales | 125 |
+| Periodo | Anual |
+| Idioma | Castellano |
+| Modalidad | A distancia |
+| Última actualización | 29/10/2025 |
 | Apartado         | Contenido |
 |------------------|----------|
 | **Resumen**      | Innovación, Investigación y Gestión del Cambio en Orientación Educativa. Código: 23300075. 5 ECTS. 125 horas. Anual. |
@@ -391,8 +541,28 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 - [ ] Participar en evaluación entre pares
 - [ ] Consultar recursos y bibliografía complementaria
 - [ ] Participar en foros y actividades colaborativas
+### Canales de comunicación
+| Canal | Uso | Observaciones |
+|-------|-----|---------------|
+| Aula virtual | Materiales y actividades | Principal |
+| Foros | Debate y coordinación equipos | Continuo |
+| Webconferencias | Sesiones síncronas y apoyo | Según calendario |
+| Página web UNED | Información institucional | Consulta |
+
+### Política de Honestidad Académica y Antiplagio
+Las actividades 2.2 y 3.2 y la WebQuest deben ser originales. El plagio o copia no autorizada conlleva suspenso y posible traslado a Inspección. Se sugiere revisión previa de cada entrega.
 
 ## Prácticum del Máster en Formación del Profesorado de Educación Secundaria. Especialidad de Orientación Educativa
+### Meta
+| Campo | Valor |
+|-------|-------|
+| Código | 23300111 |
+| Créditos (ECTS) | 10 |
+| Horas totales | 250 |
+| Periodo | Anual |
+| Idioma | Castellano |
+| Modalidad | A distancia / Presencial (centro de prácticas) |
+| Última actualización | 29/10/2025 |
 
 | Apartado         | Contenido |
 |------------------|----------|
@@ -433,6 +603,90 @@ La evaluación se basa en la realización y entrega de las actividades anteriore
 - [ ] Mantener el diario/registro de trabajo y entregar borradores intermedios según indicaciones
 - [ ] Elaborar y entregar la memoria final en la convocatoria correspondiente
 - [ ] Cumplimentar el Cuestionario de Competencias (inicial y final)
+### Requisitos legales (véase también bloque TFM)
+- Alta en la Seguridad Social (cuando proceda según normativa de prácticas)
+- Certificación negativa del Registro Central de Delincuentes Sexuales (si contacto habitual con menores)
+- Cumplimiento de documentación administrativa (PIP aprobado, PF si aplica, cuestionarios de competencias)
 
-**Última actualización:** 30 de octubre de 2025
+### Política de Honestidad Académica y Antiplagio
+Diario, memoria y actividades deben ser originales y reflejar experiencia real. El plagio o falsificación de registros conlleva suspenso y posible acción disciplinaria.
+
+### Canales de comunicación
+| Canal | Uso | Observaciones |
+|-------|-----|---------------|
+| Foro virtual | Dudas y seguimiento | Continuo |
+| Correo tutor/a Centro Asociado | Coordinación práctica | Según asignación |
+| Correo equipo docente | Orientaciones generales | Publicado en aula |
+| Tutorías telefónicas | Aclaraciones | Según horario |
+
+**Última actualización:** 29 de octubre de 2025
+
+---
+
+## Resumen global de tareas y plazos
+
+Esta sección consolida las principales actividades evaluables y sus fechas previstas para cada asignatura. La columna "Estado" ofrece una casilla Markdown para seguimiento manual. Para versión interactiva con ordenación y exportación CSV/Excel, visitar: **[Vista interactiva de tareas](tareas_calendario.html)** (render mediante Quarto).
+
+| Asignatura | Actividad / Tarea | Fecha límite (DD/MM/AAAA) | Estado |
+|------------|-------------------|---------------------------|--------|
+| TFM | PIP / PF | 22/12/2025 | [ ] |
+| TFM | Actividades obligatorias | 15/01/2026 | [ ] |
+| TFM | Diario de prácticas (cierre ordinario) | 15/01/2026 | [ ] |
+| TFM | Memoria final | 26/01/2026 | [ ] |
+| TFM | Cuestionarios de competencias (Final) | 26/01/2026 | [ ] |
+| Biblioteca e Información | Actividad práctica (Convocatoria febrero) | 15/02/2026 | [ ] |
+| Biblioteca e Información | Actividad práctica (Convocatoria junio) | 15/06/2026 | [ ] |
+| Biblioteca e Información | Prueba extraordinaria (septiembre) | 10/09/2026 | [ ] |
+| Políticas y Sistemas | PEC 1 | 05/12/2025 | [ ] |
+| Políticas y Sistemas | PEC 2 | 19/12/2025 | [ ] |
+| Políticas y Sistemas | Trabajo teórico-práctico final | 16/01/2026 | [ ] |
+| Políticas y Sistemas | Ficha síntesis debate foros | 16/01/2026 | [ ] |
+| Asesoramiento Psicopedagógico | Tarea 1 | 22/12/2025 | [ ] |
+| Asesoramiento Psicopedagógico | Tarea 2 | 15/01/2026 | [ ] |
+| Asesoramiento Psicopedagógico | Tarea 3 | 15/01/2026 | [ ] |
+| Asesoramiento Psicopedagógico | PED | 26/01/2026 | [ ] |
+| Diagnóstico | Actividades UD I | 22/12/2025 | [ ] |
+| Diagnóstico | Actividades UD II | 15/01/2026 | [ ] |
+| Diagnóstico | Trabajo práctico | 26/01/2026 | [ ] |
+| Desarrollo, Aprendizaje y Educación | Prueba objetiva | Enero-Febrero 2026 (fecha aula) | [ ] |
+| Desarrollo, Aprendizaje y Educación | Prueba de desarrollo | Enero-Febrero 2026 (fecha aula) | [ ] |
+| Desarrollo, Aprendizaje y Educación | Informe final | Enero-Febrero 2026 (fecha aula) | [ ] |
+| Atención Temprana y Orientación Familiar | Actividad 1 | 22/12/2025 | [ ] |
+| Atención Temprana y Orientación Familiar | Actividad 2 | 15/01/2026 | [ ] |
+| Atención Temprana y Orientación Familiar | Actividad 3 | 15/01/2026 | [ ] |
+| Atención Temprana y Orientación Familiar | Prueba evaluación a distancia | 26/01/2026 | [ ] |
+| Innovación / Investigación / Cambio | Actividad 2.2 | 15/01/2026 | [ ] |
+| Innovación / Investigación / Cambio | Actividad 3.2 / WebQuest final | 15/05/2026 | [ ] |
+| Innovación / Investigación / Cambio | Recuperación extraordinaria | 06/09/2026 | [ ] |
+| Prácticum | PIP | 22/12/2025 | [ ] |
+| Prácticum | Actividades obligatorias | 15/01/2026 | [ ] |
+| Prácticum | Diario de prácticas (cierre ordinario) | 15/01/2026 | [ ] |
+| Prácticum | Memoria final | 26/01/2026 | [ ] |
+| Prácticum | Cuestionario competencias (final) | 26/01/2026 | [ ] |
+
+### Notas
+- Algunas fechas (Enero-Febrero en DAE) dependen de publicación en el aula virtual; mantenga vigilancia periódica.
+- Fechas extraordinarias (recuperación / septiembre) listadas para planificación a largo plazo.
+- Marque las casillas `[ ]` cambiando a `[x]` al completar cada actividad.
+
+### Evaluación de viabilidad de ordenación interactiva
+El formato Markdown plano no soporta de forma nativa menús desplegables ni ordenación dinámica de columnas. Plataformas como GitHub o la vista previa de VS Code renderizan tablas estáticas sin capacidades de filtro/orden bajo demanda.
+
+#### Opciones alternativas
+1. **HTML + JavaScript (DataTables / sort table)**: Crear un `.html` (o usar Quarto / MkDocs / Jekyll) que inserte una tabla con scripts de ordenación y búsqueda. Requiere entorno donde se permita ejecutar JavaScript (no disponible en render Markdown estándar de GitHub sin convertir a página). 
+2. **Quarto (`.qmd`)**: Migrar esta sección a un documento Quarto y usar `datatable: true` para habilitar ordenación y filtros exportando a HTML/PDF.
+3. **Spreadsheet vinculado**: Mantener un Google Sheet / Excel y generar export automática a Markdown (usando script) para conservar versión imprimible y otra interactiva en el origen.
+4. **GitHub Projects / Issues**: Representar cada tarea como issue etiquetada (Asignatura, Fecha límite) y usar vistas filtrables. Añadir enlace desde este archivo.
+5. **Extensión VS Code**: Instalar extensión que convierte tabla Markdown a vista interactiva (p.ej. Markdown Table Prettifier + custom script) solo local.
+
+#### Plan alternativo recomendado
+Adoptar Quarto para esta sección:
+1. Crear archivo `tareas_calendario.qmd` con la tabla en formato YAML/Markdown.
+2. Añadir `execute: false` y `filters: [sortable]` o usar `datatable: true` para export HTML interactivo.
+3. Generar `tareas_calendario.html` y enlazarlo desde este documento con: `[Vista interactiva de tareas](tareas_calendario.html)`.
+4. Automatizar regeneración tras cambios (script simple en PowerShell).
+
+Si apruebas este plan, puedo generar el `.qmd` y una guía breve de uso.
+
+---
 

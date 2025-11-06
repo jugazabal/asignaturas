@@ -1,0 +1,174 @@
+---
+title: "Calendario Interactivo de Tareas"
+author: "Generado automáticamente"
+date: "2025-11-06"
+format:
+  html:
+    toc: true
+    theme: cosmo
+    lang: es
+filters: []
+---
+
+## Instrucciones
+La siguiente tabla es interactiva (ordenación, búsqueda). Usa el buscador o haz clic en los encabezados para reordenar. Las casillas de estado (`[ ]` / `[x]`) son texto plano: edítalas en el archivo fuente para persistir cambios.
+
+> Nota: Requiere conexión a Internet para cargar las librerías DataTables (jQuery + CSS/JS CDN). Si necesitas modo offline, ver instrucciones en el script PowerShell.
+
+### Tema (modo oscuro / claro)
+El modo oscuro está activo por defecto. Usa el botón para alternar.
+
+```{=html}
+<button id="toggle-theme" style="margin-bottom:1rem;" aria-label="Cambiar tema">Cambiar a modo claro</button>
+<style>
+  :root {
+    --bg-dark: #121212;
+    --bg-dark-alt: #1e1e1e;
+    --text-dark: #e0e0e0;
+    --border-dark: #333;
+    --accent: #4dabf7;
+  }
+  body.dark-mode { background: var(--bg-dark); color: var(--text-dark); }
+  body.dark-mode a { color: var(--accent); }
+  body.dark-mode table.dataTable { color: var(--text-dark); }
+  body.dark-mode table.dataTable thead th { background: var(--bg-dark-alt); color: var(--text-dark); }
+  body.dark-mode table.dataTable tbody tr { background: var(--bg-dark-alt); }
+  body.dark-mode .dataTables_wrapper .dataTables_paginate .paginate_button { color: var(--text-dark)!important; }
+  body.dark-mode .dataTables_wrapper .dataTables_filter input,
+  body.dark-mode .dataTables_wrapper .dataTables_length select { background: var(--bg-dark-alt); color: var(--text-dark); border:1px solid var(--border-dark); }
+  body.dark-mode .dt-button { background: var(--bg-dark-alt)!important; color: var(--text-dark)!important; border:1px solid var(--border-dark)!important; }
+  /* Transiciones suaves */
+  body { transition: background .3s ease, color .3s ease; }
+</style>
+<script>
+  (function(){
+    const KEY = 'tareas_calendario_theme';
+    // Usar siempre document.body para que los selectores CSS body.dark-mode funcionen también en la vista previa de VS Code
+    const body = document.body;
+    function applyTheme(t){
+      if(t === 'dark'){ body.classList.add('dark-mode'); btn.textContent = 'Cambiar a modo claro'; }
+      else { body.classList.remove('dark-mode'); btn.textContent = 'Cambiar a modo oscuro'; }
+    }
+    const stored = localStorage.getItem(KEY) || 'dark';
+    const btn = document.getElementById('toggle-theme');
+    applyTheme(stored);
+    btn.addEventListener('click', ()=>{
+      const current = body.classList.contains('dark-mode') ? 'dark' : 'light';
+      const next = current === 'dark' ? 'light' : 'dark';
+      localStorage.setItem(KEY, next); applyTheme(next);
+    });
+  })();
+</script>
+```
+
+## Tabla de tareas
+
+La columna "Días restantes" se calcula en el navegador tomando la fecha actual y la fecha límite (solo para valores con formato DD/MM/AAAA). Entradas no normalizadas (ej. "Enero-Feb 2026") muestran "—".
+
+```{=html}
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<table id="tareas" class="display" style="width:100%">
+  <thead>
+    <tr>
+      <th>Asignatura</th>
+      <th>Actividad / Tarea</th>
+      <th>Fecha límite</th>
+      <th>Días restantes</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>TFM</td><td>PIP / PF</td><td>22/12/2025</td><td></td><td>[ ]</td></tr>
+    <tr><td>TFM</td><td>Actividades obligatorias</td><td>15/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>TFM</td><td>Diario de prácticas (cierre)</td><td>15/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>TFM</td><td>Memoria final</td><td>26/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>TFM</td><td>Cuestionarios competencias (Final)</td><td>26/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Biblioteca e Información</td><td>Actividad práctica (Febrero)</td><td>15/02/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Biblioteca e Información</td><td>Actividad práctica (Junio)</td><td>15/06/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Biblioteca e Información</td><td>Prueba extraordinaria (Septiembre)</td><td>10/09/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Políticas y Sistemas</td><td>PEC 1</td><td>05/12/2025</td><td></td><td>[ ]</td></tr>
+    <tr><td>Políticas y Sistemas</td><td>PEC 2</td><td>19/12/2025</td><td></td><td>[ ]</td></tr>
+    <tr><td>Políticas y Sistemas</td><td>Trabajo teórico-práctico final</td><td>16/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Políticas y Sistemas</td><td>Ficha síntesis foros</td><td>16/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Asesoramiento Psicopedagógico</td><td>Tarea 1</td><td>22/12/2025</td><td></td><td>[ ]</td></tr>
+    <tr><td>Asesoramiento Psicopedagógico</td><td>Tarea 2</td><td>15/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Asesoramiento Psicopedagógico</td><td>Tarea 3</td><td>15/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Asesoramiento Psicopedagógico</td><td>PED</td><td>26/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Diagnóstico</td><td>Actividades UD I</td><td>22/12/2025</td><td></td><td>[ ]</td></tr>
+    <tr><td>Diagnóstico</td><td>Actividades UD II</td><td>15/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Diagnóstico</td><td>Trabajo práctico</td><td>26/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>DAE</td><td>Prueba objetiva</td><td>Enero-Feb 2026</td><td>—</td><td>[ ]</td></tr>
+    <tr><td>DAE</td><td>Prueba de desarrollo</td><td>Enero-Feb 2026</td><td>—</td><td>[ ]</td></tr>
+    <tr><td>DAE</td><td>Informe final</td><td>Enero-Feb 2026</td><td>—</td><td>[ ]</td></tr>
+    <tr><td>Atención Temprana</td><td>Actividad 1</td><td>22/12/2025</td><td></td><td>[ ]</td></tr>
+    <tr><td>Atención Temprana</td><td>Actividad 2</td><td>15/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Atención Temprana</td><td>Actividad 3</td><td>15/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Atención Temprana</td><td>Prueba evaluación distancia</td><td>26/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Innovación / Cambio</td><td>Actividad 2.2</td><td>15/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Innovación / Cambio</td><td>Actividad 3.2 / WebQuest</td><td>15/05/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Innovación / Cambio</td><td>Recuperación extraordinaria</td><td>06/09/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Prácticum</td><td>PIP</td><td>22/12/2025</td><td></td><td>[ ]</td></tr>
+    <tr><td>Prácticum</td><td>Actividades obligatorias</td><td>15/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Prácticum</td><td>Diario de prácticas</td><td>15/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Prácticum</td><td>Memoria final</td><td>26/01/2026</td><td></td><td>[ ]</td></tr>
+    <tr><td>Prácticum</td><td>Cuestionario competencias (Final)</td><td>26/01/2026</td><td></td><td>[ ]</td></tr>
+  </tbody>
+</table>
+<script src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.html5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.4.1/css/buttons.dataTables.min.css" />
+<script>
+function calcularDiasRestantes(fechaStr){
+  const re = /^(\d{2})\/(\d{2})\/(\d{4})$/;
+  if(!re.test(fechaStr)) return '—';
+  const [_,d,m,y] = fechaStr.match(re);
+  const fecha = new Date(parseInt(y), parseInt(m)-1, parseInt(d));
+  const hoy = new Date();
+  hoy.setHours(0,0,0,0);
+  const diffMs = fecha - hoy;
+  const dias = Math.ceil(diffMs / (1000*60*60*24));
+  return dias < 0 ? 'Vencido' : dias.toString();
+}
+  document.addEventListener('DOMContentLoaded', function() {
+    if (window.jQuery) {
+      // Calcular días restantes antes de inicializar DataTable
+      $('#tareas tbody tr').each(function(){
+        const fecha = $('td:nth-child(3)', this).text().trim();
+        const celdaDias = $('td:nth-child(4)', this);
+        const valor = calcularDiasRestantes(fecha);
+        celdaDias.text(valor);
+        let orden;
+        if (/^\d+$/.test(valor)) { orden = parseInt(valor,10); }
+        else if (valor === 'Vencido') { orden = -1; }
+        else { orden = 999999; } // "—" y otros casos al final
+        celdaDias.attr('data-order', orden);
+      });
+      $('#tareas').DataTable({
+        order: [[3,'asc']],
+        paging: false,
+        language: { url: 'https://cdn.datatables.net/plug-ins/1.13.6/i18n/es-ES.json' },
+        dom: 'Bfrtip',
+        buttons: [
+          {extend:'csvHtml5', title:'tareas'},
+          {extend:'excelHtml5', title:'tareas'}
+        ]
+      });
+    } else {
+      console.warn('jQuery no cargado; la tabla permanecerá estática.');
+    }
+  });
+</script>
+```
+
+## Exportación y mantenimiento
+- Edita directamente las filas para actualizar estado `[ ]` → `[x]`.
+- Añade nuevas filas siguiendo el mismo esquema `<tr><td>...</td></tr>`.
+
+## Próximos pasos sugeridos
+1. Ejecutar el script PowerShell de render.
+2. Publicar el HTML resultante o abrirlo localmente.
+3. (Opcional) Crear versión offline guardando copias de los ficheros CSS y JS en una carpeta `vendor/` y reemplazando las URLs.
+
