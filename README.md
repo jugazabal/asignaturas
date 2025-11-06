@@ -92,10 +92,15 @@ Asignaturas/
 ├── plan_trabajo_unificado.md
 ├── README.md
 ├── lista_asignaturas.md
-├── Guía genIA Estudiantes.pdf
-├── Guía_master_fpes.pdf
+├── AI/
+│   ├── AI_USAGE.md
+│   ├── PROMPT_GUIDE.md
+│   ├── CHECKLIST_SESGOS.md
+│   ├── generar_informe_uso.py
+│   ├── prompts/
+│   ├── informe_uso_*.md / *.json
+│   └── guia_genIA_estudiantes.txt (y PDF institucional)
 ├── guia_master_fpes.txt
-├── informeDocumentoMatriculaEEES.pdf
 ├── informeDocumentoMatriculaEEES.txt
 └── Asignaturas.code-workspace
 ```
@@ -174,6 +179,51 @@ git push
 - 📅 **Plazos**: Respetar las fechas de entrega establecidas en cada asignatura
 - 🎓 **Calidad académica**: Mantener rigor académico en todos los trabajos presentados
 - 💾 **Respaldo**: Este repositorio sirve como respaldo de todos los materiales del máster
+
+## 🤖 Uso de IA y Trazabilidad
+
+La asistencia de IA (LLMs) se emplea solo como apoyo (síntesis, reestructuración, tablas) manteniendo autoría y juicio crítico propios.
+
+Documentación relevante:
+- Política de uso: `AI/AI_USAGE.md`
+- Guía de prompting responsable: `AI/PROMPT_GUIDE.md`
+- Checklist de sesgos y calidad: `AI/CHECKLIST_SESGOS.md`
+- Registros de prompts: `AI/prompts/`
+- Informes de uso generados: `AI/informe_uso_*.md` (+ versión JSON opcional)
+
+Cada documento asistido incluye bloque “Transparencia sobre uso de IA”.
+
+## 🔧 Generación automatizada de informes de uso de IA
+
+Script: `AI/generar_informe_uso.py` (sin dependencias externas; Python 3.10+ recomendado).
+
+Ejemplo (PowerShell):
+```powershell
+python AI/generar_informe_uso.py `
+   --prompts-dir AI/prompts `
+   --output AI/informe_uso_debate3_v3.md `
+   --documento "Debate 3" `
+   --ruta "Primer cuatrimestre/Politicas y sistemas/Foros/Debate 3/Debate3.md" `
+   --herramientas "ChatGPT GPT-4" `
+   --objetivo "Reestructurar debate" `
+   --autor "Revisor" `
+   --incluir-checklist `
+   --json-out AI/informe_uso_debate3_v3.json
+```
+
+Parámetros clave:
+- `--incluir-checklist`: Inserta tabla base de la checklist.
+- `--json-out <ruta>`: Exporta estructura (prompts, sesgos, factual, validación).
+- `--min-date YYYY-MM-DD`: Ignora registros con fecha anterior.
+- `--force`: Sobrescribe informe existente (si difiere).
+- `--max-resumen-palabras N`: Ajusta longitud del resumen automático.
+
+Proceso recomendado:
+1. Registrar prompts y correcciones en `AI/prompts/`.
+2. Generar informe (`.md` + opcional `.json`).
+3. Completar manualmente campos pendientes (correcciones detalladas, decisión final).
+4. Añadir bloque de transparencia al documento destino.
+5. Ejecutar checklist de sesgos antes de cerrar.
 
 ## 📄 Licencia
 
