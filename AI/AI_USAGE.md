@@ -64,9 +64,30 @@ Ejemplo APA (adaptado de directrices APA para ChatGPT):
 Incluir en cuerpo: "(Contenido asistido por ChatGPT, ver sección de transparencia)."
 
 ## Gestión de Sesgos
-- Revisar lenguaje para evitar estereotipos.
-- Contrastar afirmaciones sobre colectivos con fuentes oficiales.
-- Ajustar términos a diversidad e inclusión (p.ej. "alumnado con necesidades específicas de apoyo educativo").
+Aplicar la `Checklist de Sesgos y Calidad` (`AI/CHECKLIST_SESGOS.md`) antes de aceptar contenido asistido por IA.
+
+Pasos operativos:
+1. Verificación factual mínima (datos, fechas, autores, normativas).
+2. Completar checklist marcando ✓ (cumple), ✗ (no cumple), ? (requiere revisión) con observaciones.
+3. Corregir todos los ítems críticos ✗ (sesgos, datos erróneos, referencias dudosas).
+4. Registrar prompt y salida corregida en `AI/prompts/`.
+5. Insertar bloque de transparencia al final del documento.
+
+Ámbitos evaluados:
+- Factualidad (datos numéricos, fechas, referencias reales)
+- Neutralidad cultural, de género y discapacidad (sin estereotipos / patologización)
+- Lenguaje inclusivo y preciso disciplinar
+- Sesgos cognitivos (no causalidad espuria, no exageraciones)
+- Ética y privacidad (sin datos personales ni sensibles)
+- Tono académico y coherencia terminológica
+- Trazabilidad (prompts, correcciones, informe si aplica)
+
+Acciones correctivas ante sesgo:
+- Reformular prompt solicitando enfoque comparativo o perspectiva múltiple.
+- Añadir contraejemplos y fuentes contrastadas (DOI, normativa oficial, estudios revisados por pares).
+- Ajustar terminología a formas inclusivas (ej.: "alumnado con necesidades específicas de apoyo educativo").
+
+No aprobar contenido mientras existan ítems críticos sin ✓.
 
 ## Limitaciones Aceptadas
 - La IA puede producir errores factuales y referencias falsas.

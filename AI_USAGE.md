@@ -10,7 +10,7 @@ Establecer criterios éticos, académicos y técnicos para el uso de herramienta
 4. Respeto normativo: Para contenidos evaluables (PEC, TFG/TFM, pruebas), no se utiliza IA para generar texto salvo autorización explícita del equipo docente.
 5. Privacidad y derechos: No se introducen datos personales, de terceros, ni material confidencial o protegido por copyright en prompts.
 6. Citación: Contenido textual significativamente generado o inspirado por IAG se cita siguiendo guías (APA, MLA, Chicago, IEEE) cuando corresponda.
-7. Trazabilidad: Prompts y versiones relevantes se registran en la carpeta `prompts/`.
+7. Trazabilidad: Prompts y versiones relevantes se registran en la carpeta `AI/prompts/`.
 
 ## Herramientas Cubiertas
 - Modelos de texto: ChatGPT (GPT 3.5/4), Bard/Gemini, Claude.
@@ -19,7 +19,7 @@ Establecer criterios éticos, académicos y técnicos para el uso de herramienta
 ## Procedimiento de Uso
 1. Definir objetivo (ej.: resumir, mejorar estilo, generar tabla analítica) antes del prompt.
 2. Redactar prompt responsable (ver guía de prompts) con: contexto, instrucción, restricciones, formato y criterios de calidad.
-3. Registrar prompt en archivo `prompts/<fecha>_<tema>.md` junto con salida inicial.
+3. Registrar prompt en archivo `AI/prompts/<fecha>_<tema>.md` junto con salida inicial.
 4. Revisar salida: comprobar referencias, datos numéricos, nombres propios, coherencia conceptual.
 5. Documentar ajustes manuales: lista de correcciones aplicadas (factuales, estilísticas, estructurales).
 6. Añadir al documento final el bloque de transparencia.

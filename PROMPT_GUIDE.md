@@ -100,7 +100,7 @@ Revisa la salida para evitar sesgos culturales y de género; usa lenguaje inclus
 | Autoevaluación | "Genera 8 preguntas tipo test sobre estos apuntes: ```APUNTES```. 4 opciones cada una, marca la correcta y una justificación breve." |
 
 ## Registro
-Tras usar un prompt, registrar en `prompts/<fecha>_<tema>.md`:
+Tras usar un prompt, registrar en `AI/prompts/<fecha>_<tema>.md`:
 - Prompt final
 - Herramienta y versión (si conocida)
 - Salida inicial (recortada)
