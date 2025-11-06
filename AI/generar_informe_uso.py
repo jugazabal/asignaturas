@@ -35,6 +35,8 @@ import datetime as _dt
 import pathlib
 import re
 import sys
+import json
+import hashlib
 from typing import List, Dict, Any, Tuple
 
 PROMPT_SECTION_RE = re.compile(r'^## Prompt (\d+) \(([^)]+)\)', re.MULTILINE)
@@ -43,8 +45,9 @@ CORRECCIONES_RE = re.compile(r'^Correcciones manuales?:\s*(.*)$', re.MULTILINE)
 SALIDA_RE = re.compile(r'^Salida inicial(?: \(extracto\))?:\s*(.*)$', re.MULTILINE)
 EVAL_SESGOS_RE = re.compile(r'^## Evaluación de Sesgos\n(?P<body>(?:^- .+\n?)+)', re.MULTILINE)
 VERIF_FACTUAL_RE = re.compile(r'^## Verificación Factual\n(?P<body>(?:^- .+\n?)+)', re.MULTILINE)
+DATE_LINE_RE = re.compile(r'^Fecha:\s*(\d{4}-\d{2}-\d{2})', re.MULTILINE)
 
-def parse_prompt_file(path: pathlib.Path) -> Tuple[List[Dict[str, Any]], Dict[str, List[str]]]:
+def parse_prompt_file(path: pathlib.Path) -> Tuple[List[Dict[str, Any]], Dict[str, List[str]], Any]:
     text = path.read_text(encoding='utf-8', errors='replace')
     prompts = []
     for m in PROMPT_SECTION_RE.finditer(text):
@@ -79,7 +82,14 @@ def parse_prompt_file(path: pathlib.Path) -> Tuple[List[Dict[str, Any]], Dict[st
     factual_match = VERIF_FACTUAL_RE.search(text)
     if factual_match:
         factual_lines = [ln[2:].strip() for ln in factual_match.group('body').splitlines() if ln.startswith('- ')]
-    return prompts, {'sesgos': sesgos_lines, 'factual': factual_lines}
+    date_obj = None
+    dm = DATE_LINE_RE.search(text)
+    if dm:
+        try:
+            date_obj = _dt.date.fromisoformat(dm.group(1))
+        except ValueError:
+            date_obj = None
+    return prompts, {'sesgos': sesgos_lines, 'factual': factual_lines}, date_obj
 
 INLINE_NEWLINE_RE = re.compile(r'\s*\n\s*')
 
@@ -108,7 +118,8 @@ def clamp_words(text: str, max_words: int) -> str:
     return ' '.join(words[:max_words]) + '…'
 
 def generate_report(args: argparse.Namespace, prompts: List[Dict[str, Any]],
-                    extra: Dict[str, List[str]], checklist_block: str | None) -> str:
+                    extra: Dict[str, List[str]], checklist_block: str | None,
+                    validation_issues: List[str]) -> str:
     fecha = args.fecha or _dt.date.today().isoformat()
     # Auto resumen (primer prompt salida si existe)
     resumen = '> (Completar con extracto ≤120 palabras representativo de la primera respuesta global)'
@@ -129,6 +140,15 @@ def generate_report(args: argparse.Namespace, prompts: List[Dict[str, Any]],
     checklist_section: List[str] = []
     if checklist_block:
         checklist_section = ['','## Checklist (Plantilla Referencial)','(Copiada de `AI/CHECKLIST_SESGOS.md` – completar en caso necesario)','', checklist_block]
+
+    validation_section: List[str] = []
+    if validation_issues:
+        validation_section = [
+            '## Validación Automática',
+            'Se detectaron posibles carencias en los registros:',
+            *[f'- {v}' for v in validation_issues],
+            ''
+        ]
 
     header = [
         '# Informe de Uso de IA',
@@ -184,13 +204,12 @@ def generate_report(args: argparse.Namespace, prompts: List[Dict[str, Any]],
         '',
         '## Comentarios Adicionales',
         'Indicaciones sobre mejoras futuras de prompting.'
-    ] + checklist_section + [
+    ] + validation_section + checklist_section + [
         '',
         '---',
         f'Generado automáticamente {fecha} por generar_informe_uso.py (revisión manual requerida)'
     ]
     return '\n'.join([part for part in header if part is not None])
-    return '\n'.join(header)
 
 def main(argv: List[str]) -> int:
     parser = argparse.ArgumentParser(description='Genera informe de uso de IA desde registros de prompts.')
@@ -204,6 +223,9 @@ def main(argv: List[str]) -> int:
     parser.add_argument('--autor', default='(revisor)', help='Autor responsable de la revisión')
     parser.add_argument('--max-resumen-palabras', type=int, default=120, help='Límite de palabras para el resumen inicial automático')
     parser.add_argument('--incluir-checklist', action='store_true', help='Incluye la tabla base de la checklist de sesgos')
+    parser.add_argument('--json-out', help='Ruta para exportar JSON estructurado')
+    parser.add_argument('--min-date', help='Filtra archivos con Fecha: >= a este valor (YYYY-MM-DD)')
+    parser.add_argument('--force', action='store_true', help='Sobrescribe aunque exista contenido diferente')
     args = parser.parse_args(argv)
 
     prompts_dir = pathlib.Path(args.prompts_dir)
@@ -212,17 +234,27 @@ def main(argv: List[str]) -> int:
         return 2
 
     prompt_files = sorted(prompts_dir.glob('*.md'))
+    min_date = None
+    if args.min_date:
+        try:
+            min_date = _dt.date.fromisoformat(args.min_date)
+        except ValueError:
+            print(f'Formato de --min-date inválido: {args.min_date}', file=sys.stderr)
+            return 2
     all_prompts: List[Dict[str, Any]] = []
     extra_global: Dict[str, List[str]] = {'sesgos': [], 'factual': []}
+    used_files: List[str] = []
     for pf in prompt_files:
         try:
-            parsed, extra = parse_prompt_file(pf)
+            parsed, extra, date_obj = parse_prompt_file(pf)
+            if min_date and date_obj and date_obj < min_date:
+                continue
             all_prompts.extend(parsed)
-            # merge extra lines (avoid duplicates)
             for k in extra_global.keys():
                 for line in extra.get(k, []):
                     if line not in extra_global[k]:
                         extra_global[k].append(line)
+            used_files.append(pf.name)
         except Exception as e:
             print(f'Error procesando {pf.name}: {e}', file=sys.stderr)
 
@@ -248,10 +280,51 @@ def main(argv: List[str]) -> int:
             except Exception as e:
                 print(f'No se pudo leer checklist: {e}', file=sys.stderr)
 
-    report = generate_report(args, all_prompts, extra_global, checklist_block)
+    # Validation issues
+    validation_issues: List[str] = []
+    for p in all_prompts:
+        base = f"Prompt {p.get('numero')} ({p.get('fuente_archivo')})"
+        if p.get('prompt') in (None, '[no extraído]'):
+            validation_issues.append(base + ': prompt no extraído')
+        if p.get('salida') in (None, '[no extraído]'):
+            validation_issues.append(base + ': salida no extraída')
+        if p.get('correcciones') in (None, '[no extraído]'):
+            validation_issues.append(base + ': correcciones no extraídas')
+
+    report = generate_report(args, all_prompts, extra_global, checklist_block, validation_issues)
     out_path = pathlib.Path(args.output)
-    out_path.write_text(report, encoding='utf-8')
-    print(f'Informe generado: {out_path} (prompts procesados: {len(all_prompts)})')
+    if out_path.exists() and not args.force:
+        existing = out_path.read_text(encoding='utf-8', errors='replace')
+        if existing != report:
+            alt = out_path.with_name(out_path.stem + '_new' + out_path.suffix)
+            alt.write_text(report, encoding='utf-8')
+            print(f'Archivo existente diferente. Nuevo contenido: {alt} (use --force para sobrescribir).')
+        else:
+            print('Informe sin cambios (contenido idéntico).')
+    else:
+        out_path.write_text(report, encoding='utf-8')
+        print(f'Informe generado: {out_path} (prompts procesados: {len(all_prompts)})')
+
+    if args.json_out:
+        json_payload = {
+            'metadata': {
+                'documento': args.documento,
+                'ruta': args.ruta,
+                'fecha': args.fecha or _dt.date.today().isoformat(),
+                'autor': args.autor,
+                'herramientas': args.herramientas,
+                'archivos': used_files
+            },
+            'prompts': all_prompts,
+            'extra': extra_global,
+            'validation_issues': validation_issues
+        }
+        try:
+            json_path = pathlib.Path(args.json_out)
+            json_path.write_text(json.dumps(json_payload, ensure_ascii=False, indent=2), encoding='utf-8')
+            print(f'JSON exportado: {json_path}')
+        except Exception as e:
+            print(f'Error exportando JSON: {e}', file=sys.stderr)
     return 0
 
 if __name__ == '__main__':
