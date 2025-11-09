@@ -60,3 +60,7 @@ __pycache__/
 !*.bib
 !*.csl
 !*.py
+
+# Excepciones para bibliografía Atención Temprana (permitir PDFs en esta carpeta específica)
+!Primer cuatrimestre/Atencion temprana/Biblio_BASICA_todos_temas/
+!Primer cuatrimestre/Atencion temprana/Biblio_BASICA_todos_temas/*.pdf
