@@ -86,6 +86,32 @@ La familia debe ser **agente activo y protagonista imprescindible** para el desa
 - Toma de decisiones informadas sobre la evolución del programa de intervención
 - Transferencia de competencias para asegurar la sostenibilidad de los logros
 
+## Consideraciones previas al diagnóstico: pautas generales (apartado 2.1)
+
+En el proceso de identificación y evaluación de posibles dificultades en los primeros años de vida, Ibáñez y Mudarra señalan una serie de pautas generales que deben orientar la valoración del desarrollo evolutivo del niño (@ibanez2014). Estas pautas enfatizan una visión global, contextual y funcional del diagnóstico y sirven de guía práctica para profesionales y familias.
+
+### Principales orientaciones (síntesis de 2.1)
+
+- Adoptar una perspectiva global del desarrollo: el desarrollo es un proceso dinámico resultado de la interacción entre factores genéticos y ambientales; por tanto, la valoración debe integrar dimensiones biológicas, psíquicas y sociales, y no limitarse a aspectos aislados (cognitivos, motores o del lenguaje).
+- Priorizar la prudencia y la mirada longitudinal: las evaluaciones puntuales pueden conducir a errores de interpretación. Es necesario interpretar los resultados con cautela y considerar la evolución temporal (posibles estancamientos, aceleraciones o recuperaciones naturales).
+- Evaluar la funcionalidad de las conductas: más que etiquetar como "normal" o "patológico", conviene identificar qué conductas resultan funcionales en el contexto actual del niño y cuáles limitan su adaptación o aprendizaje.
+- Buscar los puntos fuertes: ante un desfase o dificultad, identificar las competencias conservadas del niño ofrece pistas valiosas para diseñar intervenciones más eficaces y centradas en potenciar capacidades.
+- Integrar el contexto familiar y socioafectivo: la observación en entornos naturales y la información aportada por la familia son esenciales para contextualizar el rendimiento y las respuestas del niño.
+
+### Indicadores y uso de referentes evolutivos
+
+La valoración debe apoyarse en indicadores de un patrón evolutivo normalizado (hitos del desarrollo, patrones posturales, sensoriales y actitudinales) que sirvan como referentes para detectar desfases. Sin embargo, estos referentes se deben interpretar con flexibilidad, teniendo en cuenta la individualidad del niño y la posibilidad de perfiles disarmónicos.
+
+### Objetivos operativos del diagnóstico en Atención Temprana
+
+Según la guía del texto básico, el diagnóstico psicopedagógico en AT persigue tres objetivos operativos fundamentales:
+
+1. Cribar: identificar a los niños que puedan hallarse en situación de riesgo, mediante la detección precoz de señales de alerta.
+2. Diagnosticar: establecer capacidades y posibles alteraciones, determinando áreas que requieran evaluación más profunda.
+3. Derivar/recomendar: proponer estrategias de intervención adecuadas (incluyendo derivaciones a otros profesionales) y pautas para su seguimiento.
+
+Estos objetivos refuerzan la idea de un diagnóstico orientado a la intervención: no se trata solo de clasificar, sino de generar información útil para planificar apoyos efectivos en contextos naturales.
+
 ## Fundamentos Neuropsicológicos del Papel Familiar
 
 ### Aprendizaje Infantil en Contexto Natural
