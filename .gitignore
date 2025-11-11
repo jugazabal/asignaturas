@@ -71,8 +71,5 @@ __pycache__/
 # Ignore all .conda environments
 *.conda
 # Ignore all Python scripts
-*.py
+# (Restored to previous state: only ignores build artifacts, temp files, and system files. Tracks all scripts, configs, .qmd, .css, and outputs.)
 
-# Excepciones para bibliografía Atención Temprana (permitir PDFs en esta carpeta específica)
-!Primer cuatrimestre/Atencion temprana/Biblio_BASICA_todos_temas/
-!Primer cuatrimestre/Atencion temprana/Biblio_BASICA_todos_temas/*.pdf
