@@ -1,75 +1,38 @@
-# Ignore Python scripts and .gitattributes
-ocr_pdf_to_text.py
-pdf_to_text.py
-.gitattributes
-# Ignore VS Code, vendor, and .gitpatches folders
-.vscode/
-vendor/
-.gitpatches/
-# Archivos temporales de Quarto
-/.quarto/
-_site/
-_book/
-_output/
-*.html
-# Permitir seguimiento de exportaciones HTML de Debates
-!Primer cuatrimestre/Politicas y sistemas/Foros/Debate 1/Debate1.html
-!Primer cuatrimestre/Politicas y sistemas/Foros/Debate 2/Debate2.html
-!Primer cuatrimestre/Politicas y sistemas/Foros/Debate 3/Debate3.html
-# Excluir PDFs generados (mantener fuentes .qmd / .md / .bib)
-*.pdf
-.Rproj.user
+# Ignore files with long paths that cannot be committed on Windows
+Primer cuatrimestre/Asesoramiento psicopedagogico/Tareas/Tarea 1/Tarea_1_Enfoques_Teoricos/_output/tarea1_files/libs/bootstrap/bootstrap-21facf2f7c68a9a79fddca65ba6c1d83.min.css
+Primer cuatrimestre/Asesoramiento psicopedagogico/Tareas/Tarea 1/Tarea_1_Enfoques_Teoricos/_output/tarea1_files/
+Primer cuatrimestre/Asesoramiento psicopedagogico/Tareas/Tarea 1/Tarea_1_Enfoques_Teoricos/_output/tarea1.html
+Primer cuatrimestre/Asesoramiento psicopedagogico/Tareas/Tarea 1/Tarea_1_Enfoques_Teoricos/tarea1.tex
+Primer cuatrimestre/Asesoramiento psicopedagogico/Tareas/Tarea 1/Tarea_1_Enfoques_Teoricos/tarea1_VERSION_CONCISA.tex
+Primer cuatrimestre/Asesoramiento psicopedagogico/Tareas/Tarea 2/Tarea_2_Comentario_Critico/tarea2.tex
+Anuales/Practicum/Actividades/Actividad 3/actividad3_files/
+Anuales/Practicum/Actividades/Actividad 4/actividad4_files/
 
-# Archivos LaTeX temporales
-*.aux
+# Ignore Mac OS system files
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
+
+# Ignore log and temp files
 *.log
-*.out
-*.toc
+*.tmp
+
+# Ignore Quarto and LaTeX build outputs
+_output/
 *.bbl
 *.blg
-*.bcf
+*.aux
+*.out
+*.toc
 *.run.xml
 *.synctex.gz
 *.fdb_latexmk
 *.fls
 *.tex
-*_files/
 
-# Archivos de sistema
-.DS_Store
-Thumbs.db
-desktop.ini
-__MACOSX/
-
-# Archivos temporales de Office
+# Ignore Office temp files
 ~$*
-*.tmp
 
-# Archivos de respaldo
-*_RESPALDO.*
-*_backup.*
-
-# Node modules (si usas herramientas npm)
-node_modules/
-
-# Entornos virtuales de Python (si usas)
-venv/
-env/
-.venv/
-
-# Cache
-__pycache__/
-*.pyc
-.cache/
-
-# Mantener explícitamente fuentes
-!*.qmd
-!*.md
-!*.bib
-!*.csl
-!*.py
-# Ignore all .conda environments
-*.conda
-# Ignore all Python scripts
-# (Restored to previous state: only ignores build artifacts, temp files, and system files. Tracks all scripts, configs, .qmd, .css, and outputs.)
-
+# Ignore files not useful for Mac users
+render_tareas_calendario.ps1
