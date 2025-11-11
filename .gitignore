@@ -1,3 +1,7 @@
+# Ignore VS Code, vendor, and .gitpatches folders
+.vscode/
+vendor/
+.gitpatches/
 # Archivos temporales de Quarto
 /.quarto/
 _site/
