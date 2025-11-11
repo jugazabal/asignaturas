@@ -1,0 +1,19 @@
+<div class="download-pdf" style="margin-top:1rem;">
+  <a href="actividad3.pdf" target="_blank" class="btn btn-sm btn-outline-secondary">Ver / Descargar versión PDF</a>
+</div>
+<script>
+// Si el PDF no existe (no se ha renderizado todavía), mostramos instrucción para generarlo.
+(function() {
+  function marcarGenerar() {
+    const a = document.querySelector('.download-pdf a');
+    if (!a) return;
+    a.textContent = 'Generar PDF: ejecutar "quarto render actividad3.qmd --to pdf"';
+    a.removeAttribute('href');
+    a.classList.remove('btn-outline-secondary');
+    a.classList.add('btn-warning');
+  }
+  fetch('actividad3.pdf', { method: 'HEAD' })
+    .then(r => { if (!r.ok) marcarGenerar(); })
+    .catch(marcarGenerar);
+})();
+</script>
