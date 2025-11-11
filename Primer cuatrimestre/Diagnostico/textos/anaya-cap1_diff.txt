@@ -1,0 +1,19 @@
+Resumen de Anaya 2003 Diagnostico en educacion - Diseno y uso de instrumentos. Capitulo 1.txt:
+
+Este capítulo aborda el diseño y uso de registros observacionales en el diagnóstico educativo. Explica la observación como método básico para la recogida de información, diferenciando tipos según contenido, agente, situación y momento. Se centra en la heteroobservación en situaciones naturales por observadores expertos, y describe procedimientos como registros narrativos, listas de control, escalas de estimación, registros de eventos e intervalos. Los registros narrativos se caracterizan por su estilo textual y utilidad en fases exploratorias y para conductas de baja frecuencia.
+
+Resumen de CAPITULO 1 DIAGNOSTICO.txt:
+
+Este texto presenta la evolución histórica y conceptual del diagnóstico en orientación educativa. Expone los principales períodos históricos, la relación entre diagnóstico y orientación, y las áreas de intervención: orientación profesional, académica y personal. Analiza el papel del diagnóstico en cada área, los hitos históricos, y la influencia de teorías y movimientos internacionales. Destaca la importancia del diagnóstico en la práctica orientadora y su desarrollo en España y el mundo.
+
+Tabla comparativa de diferencias:
+| Aspecto                        | Anaya Capítulo 1                        | CAPITULO 1 DIAGNOSTICO                |
+|-------------------------------|------------------------------------------|---------------------------------------|
+| Tema principal                | Registros observacionales en diagnóstico | Evolución histórica del diagnóstico   |
+| Enfoque                       | Técnicas y procedimientos                | Historia y conceptualización          |
+| Ámbito                        | Diagnóstico educativo                    | Orientación educativa                 |
+| Tipos de observación          | Detallados (narrativos, listas, etc.)    | Mencionados en contexto histórico     |
+| Relación con orientación      | Implícita                                | Explícita y analizada                 |
+| Desarrollo histórico          | No tratado                               | Eje central del texto                 |
+| Ejemplos y aplicaciones       | Técnicas específicas                     | Casos históricos y teóricos           |
+

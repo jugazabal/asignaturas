@@ -1,0 +1,3803 @@
+
+--- Page 1 ---
+Capitulo 1
+
+DISEÑO Y USO DE REGISTROS
+OBSERVACIONALES
+
+
+--- Page 2 ---
+1. INTRODUCCIÓN
+
+Como ya hemos expresado en otros lugares (Anaya, 1999, 2002), la observa-
+ción es el método básico para la recogida de información en diagnóstico. Ahora bien,
+dentro de este método genérico, es posible distinguir distintos tipos de observación
+como resultado de la consideración de algunos aspectos importantes del mismo. Por
+lo general, éstos suelen referirse al contenido u objeto de la observación, al agente
+de la misma, a la situación en que se realiza y al momento en que ésta tiene lugar.
+
+Respecto al contenido, el qué, de la observación, éste puede estar referido a
+las respuestas fisiológicas, motoras o cognitivas de los sujetos, así como a los pro-
+ductos de dichas conductas. En cuanto al agente de la observación, el quién obser-
+va, cabe la posibilidad de que sea realizada por el propio sujeto objeto de observa-
+ción o por otras personas, pudiéndose, en este caso, distinguir según el grado de
+participación del observador en el hecho observado. Según la situación en que se
+realiza, el dónde se observa, se puede distinguir entre situaciones naturales y arti-
+ficiales (o de laboratorio) cabiendo, en éstas últimas, la posibilidad de discriminar
+entre distintos grados de control sobre las variables situacionales presentes y de
+realismo de la propia situación artificial. Finalmente, de acuerdo con el momento
+en que tiene lugar la observación, el cuándo observar, existe la posibilidad de que
+se realice en el momento actual en el que se producen los hechos objeto de obser-
+vación o con posterioridad a su ocurrencia (observación retrospectiva).
+
+El cruce o combinación de todas estas posibilidades da lugar a la obtención
+de un gran número de tipos o variedades de observación susceptibles de utilizar en
+
+
+--- Page 3 ---
+la recogida de información. A su vez, esta variedad de tipos de observación ha
+posibilitado la aparición de una gran diversidad de procedimientos específicos con
+los que llevar a cabo dicha recogida. [En Anaya (1999, 2002) se puede encontrar
+una exposición de esta diversidad tecnológica (del con qué observar) al servicio
+del diagnóstico en educación].
+
+De entre los diferentes tipos de observación, este Capítulo se centra en la
+heteroobservación del comportamiento actual en situaciones naturales llevada a
+cabo por observadores expertos. [Se entiende por observador experto toda aquella
+persona convenientemente entrenada para observar y registrar una determinada
+conducta de acuerdo con unas reglas y un procedimiento establecidos]. Dentro de
+este tipo de observación, los procedimientos observacionales específicos cabe
+situarlos sobre un continuum de sistematización (o grado de control externo)
+(Blanco y Anguera, 1993). Entre estos procedimientos de observación referire-
+mos, a continuación, aquéllos de uso más extendido en nuestro ámbito, cuales son
+los registros narrativos, que se sitúan en el polo de mínima sistematización, las lis-
+tas de control y las escalas de estimación, que se ubican en un grado intermedio de
+sistematización, y los registros de eventos y los registros de intervalo, que supo-
+nen un elevado nivel de sistematización.
+
+2. REGISTROS NARRATIVOS
+
+2.1. Caracterización
+
+Los registros narrativos consisten en descripciones escritas u orales (regis-
+tradas mediante algún sistema de grabación) de los acontecimientos observados.
+Estas descripciones siguen un estilo textual, en lenguaje ordinario, sin una estruc-
+turación previa que organice la recogida y el registro de los datos, lo que da pie a
+que unos mismos hechos observados puedan ser organizados, categorizados y des-
+critos de muy distinta manera por diferentes observadores.
+VOS, sin embargo, son útiles en las fases iniciales o explor
+ción, dado que suministran información
+
+Los registros narrati-
+atorias de la observa-
+
+Vaci ,
+acionales más Potentes. Igualmente, resultan muy adecuados para el registro de
+conductas de baja frecuencia.
+
+
+
+--- Page 4 ---
+2.2. Tipos de registros narrativos
+
+Dentro de los registros narrativos cabe diferenciar entre distintas modalida-
+des (Evertson y Green, 1986; Fassnacht, 1982), de las que son los registros anec-
+dóticos y los registros continuos las que tienen un empleo más habitual.
+
+Los registros anecdóticos consisten en la descripción de sucesos inespera-
+dos, por lo general, poco corrientes, que son considerados por el observador como
+manifestaciones comportamentales de especial interés o significación dentro de la
+trayectoria conductual habitual de un individuo. En su registro hay que poner
+especial cuidado en la descripción detallada no sólo de la conducta del sujeto sino,
+también, de las circunstancias o características situacionales en las que se produce
+aquélla. El análisis posterior de estas respuestas “excepcionales” ante unas condi-
+ciones ambientales (para el sujeto) extraordinarias pueden revelar la existencia en
+el sujeto de determinados aprendizajes difícilmente detectables a partir de la con-
+ducta habitual del individuo. El anecdotario surgido de la colección de registros
+anecdóticos referidos a un educando puede constituir, por consiguiente, una rica
+fuente de información acerca de las posibilidades de interacción de un individuo
+ante circunstancias situacionales poco comunes que, no obstante, suelen ser indi-
+cadores de ciertos aspectos significativos del desarrollo personal.
+
+El carácter inesperado de los sucesos que pueden ser objeto de registro anec-
+dótico priva a éste de la posibilidad de un diseño previo referente a la ubicación de
+los períodos de observación, la extensión de éstos y su frecuencia, así como en
+relación al contenido objeto de observación. Los sucesos anecdóticos se observan
+cuando ocurren y durante el tiempo en que tienen lugar y se debe registrar cuanto
+antes, con la mayor fidelidad posible, la conducta que ha sido objeto de interés así
+como toda la riqueza de circunstancias ambientales en que ha sucedido, incluidos
+los posibles antecedentes y consecuentes de la misma. La única previsión factible
+respecto a los registros anecdóticos tiene que ver con la actitud siempre atenta del
+observador ante la posible ocurrencia de estos hechos y con su preparación para
+registrarlos de inmediato y con fidelidad.
+
+Los registros continuos, por su parte, consisten en la descripción del com-
+portamiento a medida que ocurre en el transcurso del intervalo temporal durante
+€l que se haya previsto realizar su observación, junto con la descripción, también,
+de las circunstancias ambientales en que aquél va teniendo lugar, incluidos los
+
+
+--- Page 5 ---
+posibles antecedentes y consecuentes de la conducta. Los registros continuos están
+especialmente indicados para realizar una exploración inicial de las conductas de
+interés, a partir de la cual poder diseñar procedimientos de observación más
+estructurados capaces de facilitar datos más rigurosos acerca de aquellos aspectos
+comportamentales (y de las circunstancias en que ocurren) considerados significa-
+tivos en el marco de una particular actuación diagnóstica.
+
+La realización de los registros continuos requiere de la previa especificación
+de los períodos de observación en los que van a tener lugar, lo que incluye la pre-
+visión del número de éstos, su duración y su distribución temporal. Las decisiones
+sobre estos aspectos así como sobre los lugares donde llevar a cabo la observación
+suelen tomarse a partir de la información suministrada, generalmente en situación
+de entrevista, por el propio sujeto o por personas bien conocedoras del mismo en
+los aspectos a evaluar, acerca de los momentos y situaciones en que tienen una
+mayor probabilidad de ocurrencia las conductas de interés.
+
+2.3. Cómo realizar un registro narrativo
+
+La realización de un registro narrativo implica la ejecución de una serie de
+tareas relativas a la planificación de la observación, al acto de la propia observa-
+ción y al registro de los hechos observados. Veamos, a continuación, estas tareas,
+algunas de las cuales son aplicables tanto a los registros anecdóticos como a los
+registros continuos, en tanto que otras, especialmente las de planificación, son más
+propias de los registros continuos.
+
+Determinación de las conductas objeto de observación
+
+En la línea de lo indicado anteriormente, esta es una cuestión que tiene un
+tratamiento diferencial en función del tipo de registro narrativo del que se trate.
+En los registros anecdóticos las restricciones, por lo general, suelen ser escasas.
+estando el observador abierto a observar y registrar cualquier manifestación con-
+ductual considerada por él de especial interés o significación en relación con la
+conducta habitual de un determinado su jeto. Ello no obsta para que, en ocasiones.
+los concretos objetivos concemnientes a un estudio diagnóstico determinado cen-
+tren la actitud de alerta del observador Sobre cierto tipo de conducta en particular.
+
+
+
+--- Page 6 ---
+Así, por ejemplo, el observador puede estar especialmente atento a la ocurrencia
+de episodios de conducta agresiva hacia los demás, o de conductas de hurto.
+
+En los registros continuos, por el contrario, suelen fijarse de antemano las
+áreas de conducta a observar en función de los objetivos del estudios diagnóstico
+en el que se insertan, aunque estas áreas, por lo común, se definen con una gran
+amplitud. Así, por ejemplo, pueden centrarse en la conducta del sujeto ante la
+comida, o en la conducta en el aula, o en la conducta social con los compañeros.
+Los registros narrativos tienen un uso preferencial en la fase de recogida inicial de
+información y, como se dijo anteriormente, la información que aportan constituye
+una buen base sobre la que diseñar sistemas de observación más precisos capaces
+de recoger, en un segundo paso, información detallada sobre manifestaciones
+comportamentales mucho más delimitadas.
+
+Fijación de los períodos de observación
+
+Esta es otra cuestión cuyo tratamiento difiere para los registros anecdóticos y
+para los registros continuos. Como ya se ha señalado, el carácter inesperado de los
+sucesos que pueden ser objeto de registro anecdótico priva a éste de la posibilidad
+de un diseño previo referente a la ubicación de los períodos de observación, la exten-
+sión de éstos y su frecuencia. No obstante, cuando el interés, de acuerdo con la ante-
+rior cuestión, se centra en un tipo de conducta determinado, el observador puede
+extremar su actitud de alerta en aquellos momentos o situaciones en los que es espe-
+rable que la ocurrencia de dicha conducta tenga una mayor probabilidad de suceso.
+
+En los registros anecdóticos continuos, la ubicación, extensión y frecuencia
+de los períodos de observación se fijan con antelación teniendo en cuenta que el
+total de conducta observada constituya una muestra representativa de la conducta
+de interés exhibida por el sujeto en estudio.
+
+La ubicación de los períodos de observación se refiere a la determinación de
+los momentos en los que llevar a cabo la observación. Si, por ejemplo, la conducta
+de interés es el comportamiento del sujeto en el aula, los momentos de observa-
+ción se pueden ubicar de forma que abarquen distintos tramos de la jornada esco-
+lar y el trabajo con materias diferentes. Así, se puede decidir observar en tres
+momentos: Durante la primera y la última clase de la mañana y durante la primera
+clase de la tarde.
+
+
+--- Page 7 ---
+La extensión de los períodos de observación hace referencia, por su parte, q
+la duración de los momentos de observación. Habitualmente, esta duración suele
+fijarse entre los 10 y los 30 minutos, dependiendo la duración exacta del tipo de
+conducta a observar, de forma que siempre se garantice la obtención de datos
+representativos. Siguiendo con el ejemplo anterior, puede establecerse que la
+observación se efectúe durante los siguientes tres períodos de 20 minutos de dura-
+ción: De 9:20 a 9:40, de 13:20 a 13:40 y de 15:20 a 15:40.
+
+La frecuencia de los períodos de observación, finalmente, se refiere a la can-
+tidad de ocasiones en las que aplicar los períodos de observación. Así, continuan-
+do con el ejemplo, se puede decidir aplicarlos sólo en el transcurso de una jornada
+escolar, o durante tres jornadas seguidas, o durante cuatro jornadas alternas, etc.
+Todo dependerá de que con el número de observaciones realizadas se consiga una
+muestra representativa de las conductas de interés.
+
+Registro de datos
+
+El registro de las observaciones suele hacerse de forma escrita sobre una
+hoja de papel. También es posible hacerlo de forma oral mediante una grabadora
+aunque, en este segundo caso, conviene, posteriormente, realizar la correspondien-
+te transcripción escrita, dadas las ventajas de este soporte en relación a la consul-
+ta, estudio y análisis de los hechos descritos.
+
+Todo registro debe incluir los datos identificativos del observador y del
+sujeto o sujetos observados, la especificación del período de observación y
+del lugar de observación, la descripción de las características situacionales en
+que tiene lugar la conducta observada y la conducta que ha sido objeto de
+observación.
+
+El registro de las observaciones debe hacerse lo antes posible, de modo que
+el tiempo mediado entre los hechos ocurridos y su descripción narrativa sea míni-
+mo. De esta forma se garantiza que el registro observacional esté mínimamente
+afectado por la capacidad de recuerdo del observador.
+
+La prontitud en el registro favorece, también, que éste incluya elementos
+moleculares capaces de aportar a la descripción la suficiente riqueza de detalles
+como para permitir una interpretación más exacta de los hechos ocurridos. Igual-
+mente, facilita la transcripción literal de ciertas verbalizaciones de los sujeto$
+
+
+
+--- Page 8 ---
+Wmm-…—u —
+
+intervinientes, que pueden constituir manifestaciones comportamentales muy sig-
+nificativas en el conjunto de las conductas observadas.
+
+Las descripciones, por tanto, deben incluir no sólo expresiones molares, que
+registran a grandes rasgos los hechos acaecidos, sino que éstas deben acompañar-
+se, además, de expresiones moleculares capaces de registrar lo sucedido con el
+nivel de detalle suficiente como para reflejar con la mayor exactitud posible la rea-
+lidad observada. De hecho, son estos pequeños detalles recogidos por el observa-
+dor los que, en un gran número de registros observacionales, facilitan las claves
+para la interpretación correcta de lo registrado.
+
+Otra cuestión importante a tener en cuenta en la elaboración del registro
+
+narrativo tiene que ver con su ajuste a la realidad observada; esto es, las descrip-
+ciones deben atenerse con la mayor fidelidad posible a los hechos y recogerlos tal
+y como han sucedido. En esta línea de fidelidad a lo acaecido, las narraciones
+deberán conservar el orden cronológico de los hechos que describen y estar per-
+fectamente liberadas de cualquier carga interpretativa o inferencial que sobre los
+mismos pueda realizar el observador. Las inferencias o interpretaciones que el
+observador estime oportuno hacer pueden tener cabida, sin embargo, en el registro
+narrativo siempre y cuando las expresiones que las representan queden perfecta-
+mente delimitadas, separadas e identificadas respecto del texto correspondiente a
+la narración de los hechos observados y no haya posibilidad alguna de que cual-
+quier consultor de estos registros confunda lo que ha sido la realidad acaecida con
+lo que son interpretaciones, inferencias o comentarios vertidos por el observador
+acerca de aquélla. Una forma de poder realizar esto consiste en incluir estas apre-
+ciaciones como notas a pie de página o añadidas entre paréntesis al lado de las
+observaciones a las que se refieren.
+
+2.4. Ejemplos de registros narrativos
+
+A modo de ejemplo, se muestra un registro anecdótico en el Cuadro 1.1 y un
+registro narrativo en el Cuadro 1.2. Obsérvese cómo en ambos casos el registro
+Muestra dos partes: Una primera parte con los datos de identificación necesarios a
+la correcta utilización posterior de la información recogida, y una segunda parte
+Consistente en la descripción de los hechos observados.
+
+
+--- Page 9 ---
+Cuadro 1.1
+
+Ejemplo de Registro Anecdótico
+
+Fecha: 6-3-02
+
+Sujetos implicados: Pedro, Alberto, otros alumnos de la clase de 5? C y el Profesor X.
+Lugar: Vestíbulo de acceso al patio de recreo.
+
+Período de observación: de 11:01 a 11:12
+
+Tiempo total de observación: 11 minutos.
+
+Observador: P. J. R., Psicopedagogo/orientador del Centro.
+
+Registro narrativo
+
+Los alumnos del grupo C de 5.* de Primaria acaban de salir de clase en dirección al
+patio de recreo. Pedro, un alumno de este grupo, lleva un balón asido con ambas manos a
+la altura del pecho y va caminando deprisa por el pasillo de clases que va a dar al vestíbulo
+de acceso al patio. Al llegar a este vestíbulo, Alberto, que venía unos pasos detrás, se le
+acerca y, sin mediar palabra, da a Pedro un empujón por la espalda. Este da unos traspiés
+pero consigue mantenerse en equilibrio y no caer al suelo. Mira a Alberto y le dice “pero,
+¿qué haces?” Alberto, que ya se había colocado delante de Pedro, obstaculizándole el
+paso, le contesta “dame el balón o si no cobras”, al tiempo que trata de arrebatar con sus
+manos el balón que Pedro conservaba bien agarrado contra su pecho. Forcejean, el balón
+cae al suelo y, en ese instante, Alberto le da una patada y el balón se estrella contra el
+cristal de una ventana del vestíbulo que da al patio. El cristal se rompe e, inmediatamente,
+entra en el vestíbulo el profesor X que estaba en el patio cerca de donde caen los cristales
+rotos. “¿Qué sucede aquí? ¿Quién ha sido?”, pregunta. Inmediatamente, Alberto responde:
+“Ha sido Pedro, que venía tonteando con su balón y ha roto el cristal”. “No, señor profesor,
+yo no he sido, ha sido él”, dice Pedro.
+
+Á esto, ya se había formado un corrillo de alumnos alrededor de Pedro, Alberto y el
+profesor, para ver qué sucedía.
+
+Alberto se dirigió a Pedro y, empujándole con la mano derecha en el pecho, volvió a
+decir con voz altisonante: “Eres un mentiroso. Di la verdad al profesor, di que has sito tú
+y, si no, ya verás cuando salgamos del colegio. Además, que lo diga Antonio —señalando
+
+con el dedo a uno de los niños que formaban el corro—. A ver, Antonio, di quién ha roto el
+cristal”.
+
+Antonio, otro alumno de 5.* C, que ha visto lo sucedido, no responde. Alberto le
+insiste, “venga di la verdad, no seas gallina”. Antonio, ante este nuevo requerimiento,
+contesta: “Sí señor profesor, ha sido Pedro, que yo lo he visto”. Otros niños, que forman
+parte del corro, añaden inmediatamente: “Es verdad, ha sido Pedro”. “Sí, sí, ha sido él”:
+
+Pedro no respondió nada. Había bajado la cabeza, los labios le parecían temblorosos
+-y empezaban a aflorarle algunas lágrimas en los ojos.
+
+
+
+--- Page 10 ---
+Cuadro 1.2
+Ejemplo de Registro Continuo
+
+Fecha: 21-2-02.
+
+Sujeto observado: Cristina.
+
+Edad: 8 años 2 meses.
+
+Nivel académico: 3.* de primaria.
+Lugar de observación: Aula.
+
+Actividad desarrollada: Clase de lengua.
+Profesor/a: D." L. H. T.
+
+Motivo de la observación: Recogida inicial de información sobre la conducta de Cristina
+en la clase.
+
+Período de observación: De 9:15 a 9:35.
+Tiempo total de observación: 20 minutos.
+
+Observador: P. J. R., Psicopedagogo/orientador del Centro.
+
+Registro narrativo
+
+Todos los alumnos están sentados en sus sillas y, sobre la mesa, tienen el libro de
+lectura abierto por la página que les ha indicado la profesora, quien también está sentada
+en su mesa. La profesora pide a Ana que comience a leer en voz alta y que los demás
+alumnos vayan siguiendo la lectura en silencio.
+
+Cristina, igual que los demás niños, está sentada en su sitio y, sobre la mesa, tiene el
+libro de lectura abierto por la página indicada. Comienza Ana a leer en voz alta y Cristina
+parece seguir la lectura en silencio. Breves instantes después Cristina, sin levantarse del
+asiento, gira el cuerpo hacia atrás y dice algo a Eduardo, que está sentado detrás de ella.
+Vuelve a su posición original y, ahora, se inclina hacia su cartera, que está en el suelo,
+apoyada sobre la mesa, para sacar algo de ella. Ha cogido unas pegatinas y las pone sobre
+el libro abierto de lectura. Las manipula repetidamente colocándolas en diferentes
+posiciones y, posteriormente, se vuelve a girar hacia Eduardo con dos pegatinas en la mano
+izquierda, que muestra a éste.
+
+Entretanto, la profesora había indicado a Ana que había leído muy bien y que la
+lectura fuera continuada por Julián y, tras éste, por Carmen.
+
+Estando leyendo Carmen, la profesora se da cuenta de que Cristina no está
+atendiendo la lectura. Pide a Carmen que pare de leer y solicita a Cristina, que estaba
+vuelta hacia Eduardo, que continúe la lectura por donde Carmen la había dejado. Cristina,
+al oir el requerimiento de la profesora, se gira inmediatamente hacia delante y, apartando
+las pegatinas de encima del libro, trata de averiguar por dónde va la lectura. Ante la
+tardanza, la profesora insiste: “A ver, Cristina, por dónde vamos leyendo”. A lo qug¿_
+
+(continúa)
+
+
+--- Page 11 ---
+aro l.£
+
+(Continuación)
+
+Cristina contesta: “No lo sé, profesora”. La mayoría de los niños de la clase suelta una
+carcajada. La profesora pide silencio y solicita a Eduardo que continúe con la lectura,
+Eduardo continúa por donde quedó leyendo Carmen y él finaliza ya las pocas líneas que
+quedaban del texto a leer.
+
+“A continuación”, dice la profesora, “vais a hacer cada uno en su cuaderno las
+actividades sobre el texto que acabamos de leer, que están en la siguiente página”.
+
+Cristina, mientras leyó Eduardo, guardó en su cartera las pegatinas que antes había
+sacado. Ahora, ante la nueva actividad indicada por la profesora, Cristina abre un cuademo
+que tenía cerrado sobre el ángulo izquierdo de la mesa y, a continuación, busca dentro de su
+bolsa de útiles de escritura que estaba, también, sobre la mesa, cerca del cuaderno. Saca
+varios rotuladores y lápices, que desparrama por la mesa. Tras elegir un lápiz vuelve a
+introducir dentro el resto. Cierra la cremallera de la bolsa. Se dispone a mirar las actividades
+en el libro de lectura, pero coge otra vez la bolsa de útiles de escritura y busca dentro de ella.
+Saca un sacapuntas y vuelve a cerrar la bolsa. Se levanta llevando consigo el lápiz, que no
+está despuntado, y el sacapuntas y se dirige a la papelera, que está situada en el ángulo
+izquierdo del frontal de la clase. La mesa de la profesora se sitúa en el ángulo derecho de
+dicho frontal. Cristina está, durante un momento, de pie, sobre la papelera, afilando el lápiz.
+Después va hacia su mesa pero, antes de llegar, se desvía hacia la mesa de Ana. Le dice algo
+a ésta, pero Ana, que está centrada en las actividades que ha mandado la profesora, le presta
+poca atención y le dice que “la deje en paz”. Cristina vuelve a su mesa, se sienta. Mira la
+página donde se encuentran las instrucciones de las actividades indicadas por la profesora. Se
+gira hacia la derecha y pregunta algo a Raquel, que es la niña que ocupa la mesa de al lado.
+
+2.5. Virtualidades y carencias de los registros narrativos
+
+Los registros narrativos tienen la ventaja de registrar la conducta tal y como
+sucede, conservando la secuencia temporal y permitiendo una descripción del
+comportamiento y de las variables situacionales concurrentes tan rica en detalles y
+pormenores como el observador sea capaz de apreciar y transcribir en sus narra-
+ciones. Además, la acumulación de registros narrativos permite obtener informa-
+ción sobre la línea base comportamental del individuo, sobre la evolución de su
+condu.cta, el progreso respecto a estados iniciales insatisfactorios, la detención en
+l.os BEmos, la persistencia de determinados problemas, etc. Igualmente, facilita
+1nforrr;amón acerca de las conductas significativas o críticas sobre las que centrar
+una observación más sistemática y, por ioui : base
+sobre la que construir procedimiín&s :525¿5:;?2¿?1;5 ':;2;'?(')Í_£223:£a0“35
+
+
+
+--- Page 12 ---
+ventajas son que permiten recoger conductas con baja frecuencia de aparición, y
+que tienen unos requerimientos técnicos y materiales mínimos.
+
+La principal desventaja consiste en que, al no existir restricción alguna res-
+pecto al qué observar y respecto al cómo registrar lo observado, una misma reali-
+dad puede ser percibida y registrada de muy diversa manera en función del obser-
+vador. Como se suele decir, un registro narrativo es sólo tan bueno como lo sea el
+observador. Además, la falta de sistematicidad tanto en la observación como en su
+registro hace difícil que la información pueda ser cuantificada y, lo que es más
+importante, que pueda ser validada. También, que el registro recoja toda la infor-
+mación significativa respecto a las conductas de interés y que los datos puedan ser
+representativos más allá de las conductas estrictamente observadas.
+
+3. LISTAS DE CONTROL Y ESCALAS DE ESTIMACIÓN
+
+3.1. Caracterización
+
+Las listas de control consisten en un listado de conductas de interés sobre
+las que el observador debe indicar, generalmente al final del período de observa-
+ción, si han tenido o no lugar durante el mismo.
+
+Las escalas de estimación, también denominadas escalas de calificación o
+escalas de apreciación consisten, igualmente, en un listado de conductas de inte-
+rés pero, en esta ocasión, la tarea del observador está en cuantificar, generalmente,
+también, al final del período de observación, el grado en el que han tenido lugar,
+durante el mismo, cada una de dichas conductas en relación con alguna dimensión
+o característica cuya apreciación se ha considerado interesante en el marco del
+estudio diagnóstico en el que se incluye esta recogida de información.
+
+Las listas de control y las escalas de estimación pueden utilizarse, también,
+para recoger, de forma retrospectiva, información procedente de la autoobserva-
+ción o de la heteroobservación, generalmente asistemáticas, realizada en situacio-
+nes naturales por el propio interesado o por personas bien conocedoras del sujeto
+en los aspectos a evaluar (familiares, profesores, compañeros, amigos, etc.), o de
+la auto o heteroobservación en situaciones artificiales. Son muy asiduos estos usos
+en nuestro ámbito y, de hecho, una gran parte de los recursos estandarizados
+empleados para recoger información en diagnóstico en educación utiliza el forma-
+
+
+--- Page 13 ---
+to de lista de control o el de escala de estimación en relación a las anteriores for.
+mas de observación. Sin embargo, en sintonía con las pretensiones de este Capítu-
+lo, el tratamiento que de ellas hacemos aquí se restringe a su uso como instrumen.
+tos de heteroobservación del comportamiento actual en situaciones naturales
+llevada a cabo por observadores expertos.
+
+3.2. Cómo realizar un registro mediante una lista de control
+o una escala de estimación
+
+La realización de una observación mediante una lista de control o mediante
+una escala de estimación requiere, como mencionábamos en el caso de los regis-
+tros narrativos, la ejecución de una serie de tareas relativas a la planificación de la
+observación, al acto de la propia observación y al registro de los hechos observa-
+dos. Veamos, a continuación, estas tareas a propósito de las listas de control y de
+las escalas de estimación.
+
+Determinación de las conductas objeto de observación
+
+Las conductas objeto de observación se eligen en función de que se estimen
+representativas del área o áreas de aprendizaje sobre las que interese recoger infor-
+mación. La estimación de esta representatividad es dependiente de los conocimien-
+tos científicos disponibles al respecto. Sin embargo, la delimitación de las conductas
+concretas que van a ser observadas exige tener en cuenta, además, otras considera-
+ciones. Entre ellas, una cuestión de transcendental importancia tiene que ver con la
+ubicación de estas conductas en el continuo de molaridad-molecularidad. La deci-
+sión al respecto está ligada con el nivel de detalle con el que interesen los aprendi-
+zajes correspondientes. Una misma área comportamental (de aprendizaje) podrá
+por consiguiente, ser especificada en categorías conductuales más o menos amplias.
+
+La elección de un punto en el continuo de molaridad-molecularidad tiene, a
+su vez, consecuencias sobre el número de categorías que deberán ser definidas.
+Dado que el conjunto categórico debe tender a la exhaustividad, en el sentido de
+que cubra la totalidad del área comportamental de interés, es fácil de imaginar que,
+a medida que se avance hacia el polo de molaridad, la exhaustividad es susceptible
+de lograr con cada vez menos categorías ascendentemente más comprehensiv35$
+en tanto que la aproximación hacia el polo de molecularidad exigirá de progresi-
+
+
+--- Page 14 ---
+vamente un mayor número de categorías de límites más estrechos. La decisión
+sobre el nivel idóneo de molaridad-molecularidad a utilizar debe, además, tener en
+cuenta la capacidad del observador para observar, recordar y registrar aquello
+sobre lo que debe informar en relación a cada categoría. Un sistema de categorías
+prolijo, por ejemplo, puede realizar demandas que superen la capacidad del obser-
+vador para cumplir con las anteriores tareas de un modo eficiente.
+
+Elegido un determinado punto de molaridad-moleculariad, es importante
+que todas las categorías se sitúen próximas alrededor de dicho lugar. También, que
+sean entre sí mutuamente excluyentes, de modo que el contenido comportamental
+cubierto por cada una de ellas no se solape con el de ninguna otra.
+
+Finalmente, hay que tener un especial cuidado para que las categorías que,
+definitivamente, compongan la lista de control o la escala de estimación queden
+perfectamente delimitadas y definidas de forma que cualquier observador entre-
+nado sea capaz de saber con exactitud aquello sobre lo que debe informar.
+
+Fijación de los períodos de observación
+
+La fijación de los períodos de observación se refiere, como se expuso a pro-
+pósito de los registros narrativos, a la determinación de la ubicación, extensión y
+frecuencia de los períodos de observación.
+
+La ubicación de los períodos de observación o decisión sobre el cuándo
+observar dependerá de en qué situaciones o circunstancias suelen presentarse las
+conductas objeto de estudio y en las que su observación resulta de interés dentro
+de los actuales objetivos diagnósticos. Así, por ejemplo, se puede decidir observar
+las habilidades sociales de un chico durante el recreo de media mañana.
+
+La extensión o duración de los períodos de observación se fijará de forma
+que siempre se garantice la obtención de datos representativos sobre las conductas
+objeto de interés. Habitualmente suelen fijarse entre 10 y 30 minutos. Siguiendo
+con el ejemplo, se puede decidir observar durante 20 minutos, de 1 1:05 a 11:25,
+en el transcurso del recreo de media mañana.
+
+Igualmente, la frecuencia o cantidad de ocasiones en las que _repetir lo? perí-
+odos de observación dependerá de que con el número de observaciones real.1zadas
+se consiga una muestra representativa de las conductas en esfudio. En el ejemplo
+anterior, se puede decidir que el período de observación se aplicará de lunes a vier-
+
+nes durante una semana.
+
+
+--- Page 15 ---
+Registro de datos
+
+Como se dijo con anterioridad, tanto en las listas de control como en las
+escalas de estimación, los datos se registran, generalmente, una vez finalizado el
+período de observación. Y es conveniente que este registro se haga inmediatamen-
+te acabado aquél con el fin de no perder información por efecto del olvido o la
+incidencia de otro tipo de información durante el lapso temporal intermedio.
+
+El registro de datos en las listas de control consiste en marcar si cada una de
+las conductas listadas ha ocurrido o no durante el período de observación. El for-
+mato más habitual consiste en presentar en una columna ajustada a la izquierda las
+categorías conductuales previstas y, a la derecha, una columna de cuadros, cada uno
+de los cuales se marca con una X si la categoría a la que corresponde ha tenido lugar
+o se deja en blanco si no se ha observado. También se pueden utilizar dos columnas
+de cuadros encabezadas por ST o NO marcando para cada categoría el cuadro de la
+columna que corresponda, en función de que haya sido o no observada.
+
+En las escalas de estimación el registro se efectúa marcando, para cada cate-
+goría conductual, el grado en el que el observador estima que ha tenido lugar en
+relación con la dimensión o característica cuya apreciación se ha considerado inte-
+resante en el marco del estudio diagnóstico en el que se realiza. Por lo general, las
+dimensiones que más se utilizan son la frecuencia con la que cada categoría con-
+ductual ha ocurrido durante el período de observación, la intensidad con la que se
+ha manifestado 0, en categorías conductuales que se presentan bipolarizadas, el
+acercamiento hacia uno u otro polo.
+
+Un ejemplo del primer caso puede ser:
+
+“Muestra agresión verbal” (señale lo que proceda).
+
+1 2 3 4 5
+Nunca o con poca con frecuencia con bastante con mucha
+rara vez frecuencia “ moderada frecuencia frecuencia
+
+Un ejemplo del segundo caso puede ser:
+“En el juego con los compañeros se muestra” (señale lo que proceda).
+
+1 2 3 4 5
+
+Nada o esca- poco moderadamente bastante muy
+mente agresivo agresivo agresivo agresivo agresivo
+
+
+
+--- Page 16 ---
+Un ejemplo del tercer caso puede ser:
+
+- Za '¡ ,
+“En el juego con los compañeros se muestra” (marque una X en el espacio ade-
+cuado).
+
+Agresivo No agresivo
+
+Respecto de los dos primeros casos, el formato habitual consiste en presen-
+tar en una columna ajustada a la izquierda las categorías conductuales previstas y,
+a la derecha, los números que representan los distintos grados de frecuencia o de
+intensidad, al objeto de que se rodee o se marque el que se considere adecuado.
+(Usualmente, el número de grados más utilizados suele ser 3,5 6 7). Aunque menos
+frecuentemente, cabe, en lugar de los números, presentar una columna de cuadros
+para escribir dentro del correspondiente a cada categoría conductual el número
+que se considere más adecuado en relación a su frecuencia o a su intensidad.
+
+Respecto del tercer caso, el formato habitual consiste en presentar en una
+columna ajustada a la izquierda un polo de las categorías conductuales y en una
+columna ajustada a la derecha el polo opuesto, quedando el espacio intermedio
+dividido en segmentos sobre los que marcar la aproximación hacia uno u otro
+polo. Por lo general, suelen utilizarse 5 ó 7 segmentos.
+
+En todos los casos, adjunto a la hoja de registro suele ofrecerse la definición
+de las categorías conductuales utilizadas. En unas ocasiones, al dorso de la misma
+hoja de registro y, en otras, en un cuadernillo o en hojas anexas. Si el observador
+no está muy familiarizado con el sistema de categorías, es conveniente que estas
+definiciones las tenga fácilmente disponibles, tanto en el momento de la observa-
+ción como en el del registro.
+
+3.3. Ejemplos de listas de control y de escalas de estimación
+
+En el Cuadro 1.3 se ofrece un ejemplo de lista de control que contempla 28
+categorías conductuales referentes a la competencia social de niños de educa-
+ción infantil. El Cuadro muestra, en concreto, la hoja de registro de datos. El
+Cuadro 1.4 es complementario del anterior y en él aparece cómo se entienden o
+son definidas cada una de las categorías conductuales utilizadas.
+
+
+--- Page 17 ---
+Cuadro 1.3
+
+Ejemplo de lista de control
+
+Hoja de registro de datos
+Fecha: 17-9-02
+
+Sujeto observado: Eduardo H. P.
+
+Edad: 5 años 2 meses.
+
+Nivel académico: Infantil de 5 años.
+Lugar de observación: Salón de juegos.
+
+Actividad desarrollada: Juegos diversos con todo el grupo clase supervisados por la
+profesora.
+
+Profesor/a: D.“ S. M. T.
+Período de observación: De 10:20 a 10:40.
+
+Tiempo total de observación: 20 minutos.
+
+Motivo de la observación: Recogida de información sobre conductas de competencia social
+de Eduardo.
+
+Observador: P. J. R., Psicopedagogo/orientador del Centro. '
+
+Instrucciones para el registro: Tras un período de observación de 20 minutos, marcar con
+
+una X aquellas conductas que han sido mostradas por el sujeto en estudio durante dicho
+período.
+
+CATEGORÍAS (Competencia social)
+
+Conductas
+
+Interacción con compañeros presentadas
+
+. Acepta pasivamente la agresión o dominación de un compañero
+. Se comunica en una forma positiva con sus compañeros
+
+. Participa en actividad cooperativa con compañeros
+
+. Muestra exitosa actividad de liderazgo
+
+. Domina o es pendenciero con compañeros -verbal
+
+auswowN-
+
+. Muestra agresión física contra sus compañeros
+Interacción con la profesora
+
+; 1 Está demasiado apegado al maestro
+
+(continúa)
+
+
+
+--- Page 18 ---
+Cuadro 1.3
+
+(Continuación)
+
+Conductas
+presentadas
+
+. Se tensa o retrae en respuesta al acercamiento del maestro
+. Comunica sentimientos al maestro de manera positiva
+. Da ideas o sugerencias al maestro voluntariamente
+
+. Busca la atención del maestro cuando éste interactúa con otro niño
+
+2
+
+3
+
+4
+
+3
+
+6. Muestra agresión física contra el maestro
+
+7. Busca la atención del maestro -negativa
+
+8. Sigue las peticiones de ayuda del maestro
+
+9. Sigue las sugerencias del maestro en cuanto a actividad de juego
+10
+
+. Muestra otro tipo de interacciones cooperativas con el maestro
+
+Conducta en solitario
+
+[. Escucha en silencio a un compañero o al maestro
+
+2. Entra en ensoñación, mira al vacío, tiene la mirada perdida
+3. Guarda las cosas con cuidado
+
+4. Parece solo, confuso y sorprendido
+
+3
+
+6
+
+7
+
+8
+
+9
+
+. Llora o grita -atemorizado
+
+. Deambula sin una meta
+
+. Participa en las tareas de modo positivo
+
+. Participa en las tareas negativamente
+
+. Tiene berrinches
+10. Muestra actividad verbal inapropiada
+11. Muestra actividad motora gruesa inapropiada
+12. Muestra otras conductas negativas aisladas
+
+(Adaptado a partir de Khan y Hoge, 1983).
+
+
+--- Page 19 ---
+36 M DISEÑO Y USO DE INSTRUMENTOS
+
+(Capítulo 1
+
+Cuadro 1.4
+
+Descripción de las categorías utilizadas en el Cuadro 1.3
+
+Categoría
+Interacción con compañeros.
+
+1. Acepta pasivamente la agresión o
+dominación de un compañero
+
+2. Se comunica en una forma positiva con
+sus compañeros
+
+3. Participa en actividad cooperativa con
+compañeros
+
+4. Muestra exitosa actividad de liderazgo
+
+5. Domina o es pendenciero con compa-
+ñeros —verbal
+
+6. Muestra agresión física contra sus
+compañeros
+Interacción con la profesora
+
+1. Está demasiado apegado al maestro
+
+2. Se tensa o retrae en respuesta al
+acercamiento del maestro
+
+3. Comunica sentimientos al maestro de
+manera positiva
+
+4. Da ideas o sugerencias al maestro
+voluntariamente
+
+5. Busca la atención del maestro cuando
+éste interactúa con otro niño
+
+)
+
+Muestra agresión física contra el maestro
+
+Descripción
+
+El niño permite que otro lo domine, empuje,
+golpee o le quite sus cosas sin ejercer
+represalia de ningún tipo
+
+El niño muestra comunicación natural con
+compañeros —parece cómodo en la situación
+
+El niño participa voluntariamente con uno o
+más niños en una actividad no requerida por
+el maestro
+
+El niño inicia actividad y hace sugerencias
+que siguen sus compañeros
+
+El niño le dice a otros lo que deben hacer, le
+da órdenes a otros
+
+El niño participa en agresión que implica
+contacto físico real
+
+El niño permanece constantemente al lado
+del maestro o, por ejemplo, toma la mano
+del maestro.
+
+El niño tensa su cuerpo o se aleja cuando se
+le acerca el maestro
+
+El niño le dice algo positivo al maestro qué
+no es una sugerencia relacionada con
+actividades de la clase
+
+El niño hace sugerencias o da ideas durante
+actividades formales del aula, dirigidas por
+el maestro
+
+El niño llama al maestro, le toma del brazo
+o realiza acciones similares cuando €
+maestro está con otro niño
+
+El niño golpea, patea o muerde al maestro
+
+((—onr¡f“¡º )
+
+:
+£
+
+
+--- Page 20 ---
+Cuadro 1.4
+
+(Continuación)
+
+7. Busca la atención del
+—negativa
+
+maestro
+
+8. Sigue las peticiones de ayuda del
+maestro
+
+9. Sigue las sugerencias del maestro en
+cuanto a actividad de juego
+
+10. Muestra otro tipo de interacciones
+cooperativas con el maestro
+
+Conducta en solitario
+
+1. Escucha en silencio a un compañero o
+al maestro
+
+2. Entra en ensoñación, mira al vacío,
+tiene la mirada perdida
+
+3. Guarda las cosas con cuidado
+
+4. Parece solo, confuso y sorprendido.
+
+5. Llora o grita —atemorizado
+
+6. Deambula sin una meta
+
+7. Participa en las tareas de modo
+positivo
+
+8. Participa en las tareas negativamente
+
+9. Tiene berrinches
+
+10. Muestra actividad verbal inapropiada
+
+El niño utiliza conducta inapropiada para
+buscar la atención del maestro
+
+El niño sigue voluntaria e inmediatamente
+las instrucciones del maestro
+
+El niño acepta y sigue las ideas o
+sugerencias del maestro durante actividad
+informal y libre
+
+El niño atiende al maestro mientras éste da
+instrucciones, lee una historia o realiza una
+actividad similar
+
+El niño se desconecta de lo que sucede en
+clase, no está consciente de lo que sucede y
+se ve triste
+
+El rostro del niño demuestra confusión; no
+parece comprender o saber cómo organizar
+o llevar a cabo una actividad
+
+El niño llora o grita por alguna otra emoción
+que no son, por ejemplo, enojo o humillación
+
+El niño participa activamente para llevar a
+cabo la tarea que pide el maestro, está
+concentrado, alerta e interesado
+
+El niño no acepta las instrucciones, destruye
+un objeto o realiza conductas negativas
+
+similares
+El niño grita, patalea
+
+El niño expresa enojo o frustración a través
+de palabras o ademanes
+
+(continúa)
+
+
+--- Page 21 ---
+Cuadro 1.4
+
+(Continuación)
+
+11. Muestra actividad motora gruesa ina-
+
+El niño corre por la habitación, arrojar
+propiada
+
+objetos, salta o ejecuta similares actividades
+motoras gruesas inapropiadas
+
+12. Muestra otras conductas negativas
+
+d A a
+aisladas
+
+(Khan y Hoge, 1983).
+
+Como ejemplo de escala de estimación se ofrece la Escala Ritvo-Freeman '
+de Calificación de la Vida Real (Freeman, Ritvo, Yokota y Ritvo, 1986). [Ver en
+Anaya, 2002, p. 166]. En el Cuadro 1.5 aparece la Hoja de Registro cumplimenta-
+da en relación a un sujeto hipotético; en el Cuadro !.6 figuran las definiciones de
+las diferentes categorías conductuales que integran cada una de las cinco subesca-
+las que componen la escala, y en el Cuadro 1.7 las instrucciones de aplicación.
+Como se verá, el registro se efectúa, tras un período observacional de 30 minutos,
+en relación con la frecuencia con la que han aparecido las diferentes conductas.
+Esta dimensión se ha categorizado en 4 niveles (0 = Nunca; 1 = En raras ocasio-
+nes; 2 = Con frecuencia; 3 = Casi siempre), que se han definido, también, de
+manera precisa, con el fin de evitar, en lo posible, la subjetividad del observador
+en su asignación respecto de cada una de las categorías conductuales examinadas.
+
+Cuadro 1.5
+Ejemplo de escala de estimación
+Hoja de registro de datos
+Fecha: 17-5-02
+Sujeto observado: Elías M. V.
+Edad: 6 años 4 meses.
+Nivel académico: 1.* curso de primaria.
+
+Lugar de observación: Aula.
+
+Actividad desarrollada: Actividades de lectura y de escritura dirigidas por el profesor
+
+
+
+--- Page 22 ---
+NEV IN II AN E 7
+
+Cuadro 1.5
+
+(Continuación)
+
+Profesor/a: R. T. P.
+
+Período de observación: De 10:00 a 10:30.
+
+Tiempo total de observación: 30 minutos.
+
+Motivo de la observación: Verificación de síntomas autistas en la conducta de Elías.
+Observador: P. J. R. Psicopedagogo/orientador del Centro.
+
+Instrucciones para el registro: Tras un período de observación de 30 minutos, calificar la
+frecuencia de las conductas examinadas de acuerdo con la siguiente escala:
+
+Nunca = 0; En raras ocasiones = 1; Con frecuencia = 2; Casi siempre = 3.
+
+Escala I: Conductas sensoriomotoras Escala IV: Respuestas sensoriales
+1. Gira 2 *|, Uso aprop. de objetos 2-
+2. Sacude _3 .2. Agitadopor ruidos _0
+3. Forma de caminar _0 13. Rota/gira objetos —3 1
+4. Se golpea 0 4. Frota superficies _0
+5. Se mece 2 5. Agitado por actividad nueva _0
+6. Camina sobre dedos 0 6. Observ. movim. de mano/objet _2 _
+7. Otros 0 7. Repetitivo/estereotipado _-
+Sumatoria 1: T 8. Se huele/huele objetos _1
+Media: 1.0 9. Alinea objetos EE
+10. Detalle visual/escrutinio _
+Escala II: Relaciones sociales con personas 11, Destructivo con objetos _0
+*1. Resp. aprop. a intent. de interac. _2 12. Vocalizaciones repetitivas _3
+*2. Resp. aprop. a activ. en el amb. 13. Mirada fija _3
+*3, Inicia interac. física aprop. 14. Se tapa oído¡s/ ojos _2
+. Ignora intento de interacción 15. Golpetea objetos —
+. Molesta a otros 16. Otro _ —
+, Cambia actividades Sumatoria IV: 18
+
+Media: 13
+
+Manipulación genital
+
+. Se aísla
+
+. Resp. a abrazos/sujeción c/rigid
+
+Sumatoria II:
+Media:
+
+Escala V: Lenguaje
+
+*1, Uso comunicativo de lenguaje
+*2. Inicia o resp. a comunicación
+*3, Inicia comun. verbal aprop.
+
+4. Uso no comun. de ecolalia de.
+
+p
+
+r
+
+S A
+q u
+3 r
+
+g: z
+
+
+--- Page 23 ---
+.U “ DISTRNO Y U DT INSINVMENIDS (Capitulo 1»
+
+Cuadro 1.5
+(Continuación)
+Escala HI: Reacciones afectivas S5. Ecolalia inmediata 2
+l. Cambio abrupto 2 6. Delirios “ —
+2. Muecas ] 7. Alucinaciones auditivas 0
+3. Berrinches/no predec 0 S. Alucinaciones visuales 0
+4. Llora 0 9. Vocalizaciones no comunica-
+5. Otro 0 as . ——L
+— E 10. Resp. nula o breve a int. de
+Sumatoria T: : comun. 3
+Media: 6 Sumatoria IV: E
+Media: 8
+
+Escala Total:
+Sumaltoria:
+
+* Se resta de los demás la puntuación de la conducta antes de que se calcule la media
+
+En la Hoja de Registro (Cuadro 1.5), en lugar de presentar frente a cada
+categoría conductual los cuatro niveles de frecuencia para que el observador mar-
+que el que considere oportuno, se ha optado por dejar una casilla en blanco para
+que aquél escriba el número correspondiente al nivel de frecuencia que estime
+adecuado. Con ello se facilita el sumatorio de cada una de las subescalas. Al final
+de la Hoja, la suma de las puntuaciones correspondientes a cada subescala propor-
+ciona la puntuación de la escala total.
+
+Cuadro 1.6
+
+Descripción de las categorías utilizadas en el Cuadro 1.5
+
+Escala I. Escala sensoriomotora otro o en círculo al menos en dos ocasio-
+
+1. Gira. Se sienta o está de pie en un lugar y nes. Durante esta actividad puede utilizar
+
+gira sobre sí mismo. uno o ambos brazos o manos y uno o todes
+los dedos. Puede sacudir los dedos 1d
+dualmente 0 al unísono. Puede sacudif
+brazos. manos, dedos o ambos, hacta el
+frente, hacia los lados o detrás del cuerpo-
+
+2. Sacude brazos, manos dedos. Mueve bra-
+ZOs, manos, dedos o ambos, en un movi-
+miento de arriba hacia abajo, de un lado a
+
+T '…"…3 r
+
+
+
+--- Page 24 ---
+Cuadro 1.6
+
+(Continuación)
+
+Con frecuencia el niño realizará esta con-
+ducta en frente de sus ojos, en cuyo caso
+se anota además “Observa el movimiento
+de sus propias manos o de objetos”.
+
+3. Forma de caminar. Camina, salta o corre
+de manera repetitiva.
+
+4, Se golpe la cabeza, se golpea a sí mismo.
+
+Aquí se incluyen tres tipos de conductas:
+
+1) Se golpea la cabeza o cualquier parte
+del cuerpo con su propia mano o con
+un objeto.
+
+2) Estrella la cabeza en contra de otro
+objeto, como pared, mesa, piso, etc., o
+contra otra persona.
+
+5. Mece la cabeza o el cuerpo. Se sienta o
+está de pie en un solo lugar y mueve su
+cuerpo de adelante hacia atrás, de un lado
+a otro o en movimientos circulares al menos
+en dos ocasiones.
+
+6. Camina sobre los dedos de los pies. Está
+de pie o camina con el talón o con los dedos.
+
+7. Otro. Cualquier otra conducta motora idio-
+sincrásica. Especificar la conducta.
+
+Escala II, Escala de relaciones sociales con
+personas
+
+1. Intento de respuesta apropiada a la
+interacción. Se refiere a ademanes, reac-
+ciones faciales y postura.
+
+2. Respuesta apropiada hacia actividades
+y eventos en el ambiente. Esto incluye
+una gran variedad de respuestas. Algunos
+ejemplos son mostrar interés en conversa-
+ciones que se dan a su alrededor, responder
+de manera apropiada a ruidos (como el de
+una sirena, grito, objeto que cae).
+
+3.
+
+n
+
+e
+
+Inicia interacción física apropiada con
+otros. Cualquier afecto o interacciones de
+juego apropiados.
+
+Ignora o se retrae de los intentos de
+interacción. Ignora o se retrae del acerca-
+miento o intento por iniciar interacción.
+Esto se puede ver de la siguiente manera:
+parece abstraerse del intento de interacción
+y no muestra reacciones faciales, físicas o
+verbales.
+
+Provoca o molesta a otros físicamente.
+Golpea, pica, patea, muerde, empuja,
+pellizca a otros niños o adultos. Incluye
+también intentos de agresión (por ejemplo,
+trata de golpear con el puño a otra persona,
+pero falla) y agresión simbólica.
+
+. Cambia actividad. Interrumpe secuencias
+
+normales obvias sin razón aparente (de
+pronto corre hacia la puerta, se arroja contra
+la pared).
+
+. Manipulación genital. Se toca o frota el
+
+área genital o el pecho utilizando las manos,
+dedos u otros objetos, como un juguete,
+utensilios para comer o similares. El niño
+también puede frotarse en contra de otra
+persona y objetos (por ejemplo, alfrombra,
+pared, silla).
+
+Se aísla del grupo. Se sienta, se levanta,
+se aleja o corre lejos del grupo. O puede
+permanecer con el grupo pero no participa
+de manera activa o muestra interés en las
+actividades o conversación del grupo. No
+busca a otros para una conversación o inte-
+racción con ademanes. También, en general
+en estas ocasiones se observan conductas
+de categorías sensoriomotora, afectiva y
+sensorial (falta de comunicación, vocaliza-
+
+(continúa)
+
+
+
+--- Page 25 ---
+Cuadro 1.6
+
+(Continuación)
+
+ciones, uso no comunicativo de ecolalia
+
+inmediata o demorada, conducta alucina-
+toria o delirante). Estas deben anotarse en
+las categorías apropiadas.
+
+. Responde a los abrazos o sujeción con
+
+rigidez. El cuerpo se pone rígido y tieso
+en respuesta a un abrazo o sujeción. No
+extiende los brazos hacia la persona que
+inicia la conducta de sujeción-abrazo.
+
+Escala IlI. Escala de respuesta afectiva
+
+Cambios afectivos abruptos. Repentina-
+mente comienza a llorar, reír o sonreír sin
+razones o estímulo aparente del ambiente
+inmediato.
+
+. Muecas. Expresiones o movimientos facta-
+
+les graciosos o extraños. Esto se puede
+observar cuando el niño mira a un espejo.
+
+. Berrinches, conducta explosiva y no
+
+predecible. El enojo se dirige o expresa
+mediante movimiento corporal.
+
+. Llora.
+
+5. Otros. Cualquier otra conducta afectiva
+
+idiosincrásica que se observe.
+
+Escala IV. Escala de respuesta sensorial
+
+1. Utiliza objetos o juguetes apropiada-
+
+mente. Usa objetos del modo en que se
+pretende que se empleen. Esto incluye
+utensilios para comer.
+
+2. Se agita por ruidos fuertes/repentinos.
+3. Hace rodar o gira los objetos.
+
+4. Frota superficies. Utiliza las manos,
+
+dedos o cualquier otra parte de su cuerpo
+
+9
+
+10.
+
+11.
+
+13.
+
+14.
+
+. Vocalizaciones
+
+para frotarse en contra de otra persona u
+objeto. Puede ser un acto repetitivo.
+
+. Se agita por actividades o ambiente
+
+nuevos. Llora, se agita o perturba cuando
+se le da una nueva actividad o como
+resultado de un cambio en el ambiente o
+de cambio a un nuevo ambiente.
+
+. Observa el movimiento de sus manos u
+
+objetos. Incluye sacudir los dedos.
+
+. Conducta repetitiva (acciones repetiti-
+
+vas). Repite algunas conductas al menos
+dos veces. Ejemplos son sacudir objetos,
+golpetear objetos, colocarse repetidamen-
+te comida en la boca y luego escupirla,
+recoger una servilleta y tirarla de nuevo.
+
+. Se huele a sí mismo o a objetos. Huele
+
+cualquier parte de su cuerpo, a otras per-
+sonas u objetos.
+
+Álinea los objetos. Alinea, ordena o aco-
+moda dos o más objetos, como juguetes,
+comida o muebles.
+
+Escrutinio de detalles visuales. Escu-
+driña los pequeños detalles, es decir, ve a
+los objetos frente a sus ojos.
+
+Destructivo con los objetos. Arroja, gol-
+pea, tira, patea y muerde objetos y juguetes.
+
+repetitivas. Hace el
+mismo sonido al menos dos veces —por
+ejemplo, castañear los dientes.
+
+Fija la mirada. Ve al vacío durante al
+menos 5 segundos.
+
+Se cubre los ojos, oídos. Se cubre los
+ojos, los oídos, o ambos con la mano o con
+objetos.
+
+(continúa)
+
+PA TA NE PA
+
+
+--- Page 26 ---
+Cuadro 1.6
+
+(Continuación)
+
+15. Golpetea los objetos. Usa los dedos para
+golpetear repetitivamente.
+
+16. Otros. Cualquier respuesta sensorial idio-
+sincrásica —se debe especificar la conducta.
+
+Escala V. Escala del lenguaje
+
+1. Uso comunicativo del lenguaje. El dis-
+Curso se dirige a otras personas. Se inclu-
+ye aquí la etiquetación de objetos.
+
+2. Inicia o responde a la comunicación uti-
+lizando ademanes. Dos conductas consti-
+tuyen esta categoría:
+
+a) Inicia un intercambio verbal apropiado.
+
+b) Hace saber sus necesidades o deseos de
+un modo verbal. Por ejmplo: “Tengo que
+ir al baño”.
+
+3. Uso no comunicativo de ecolalia demo-
+rada. Dice palabras, frases y oraciones
+escuchadas en el pasado, con poca o nin-
+guna relación con la situación actual.
+
+4.
+
+Ecolalia inmediata. Repite las palabras o
+frases después de oírlas. Puede repetir una
+
+pregunta en parte o totalmente en lugar de
+responderla.
+
+- Delirios. Ideación no racional (psicótica)
+
+verbalizada.
+
+. Alucinaciones auditivas, Parece escuchar
+
+Ccosas que no están allí.
+
+. Alucionaciones visuales. Parece ver cosas
+
+que no están allí.
+
+. Vocalizaciones no comunicativas. Hace
+
+sonidos solamente con vocales (aaaa) o
+consonantes (mmm) o combina vocales y
+consonantes en un patrón no repetitivo
+(ba na da g0). Se incluyen aquí gritos y
+chillidos,
+
+. Respuesta nula o breve a los intentos de
+
+comunicación. Responde con brevedad o
+no responde cuando otros intentan conver-
+sar con él.
+
+Cuadro 1.7
+
+Instrucciones para la Escala Ritvo-Freeman de Calificación de la Vida Real
+
+A. Entorno observacional. Al paciente se le
+ha de observar en el mismo ambiente, a la
+misma hora del día y en el mismo día de
+la semana, durante 30 minutos en cada
+ocasión. El observador debe tomar notas.
+La hoja de datos se llena al final de cada
+sesión de observación de 30 minutos.
+
+B. Codificación de la frecuencia de la
+conducta. Cada conducta se califica en la
+siguiente escala:
+
+0 = Nunca demuestra la conducta que se ob-
+
+serva.
+
+1= En raras ocasiones -la conducta se ve
+
+sólo 1 a3 veces.
+
+2 = Con frecuencia —la conducta se ve cuatro
+
+veces o más.
+
+3 = Casi siempre —la conducta se ve casi cons-
+
+tantemente durante el período de obser-
+vación.
+
+(continúa)
+
+
+
+--- Page 27 ---
+C
+
+Cuadro 1.7
+
+(Continuación)
+
+Obtener concordancia interobservado-
+res. Los calificadores deben revisar las
+definiciones y calificar juntos a los
+pacientes al menos en tres ocasiones inde-
+pendientes o hasta que alcancen 80% de
+acuerdo.
+
+Calificación. Se determina una puntuación
+media para cada escala (sensoriomotora,
+social, afectiva, sensorial y del lenguaje)
+sumando las calificaciones individuales (0
+a 3) para cada conducta en la escala y
+dividiendo esto entre el número de conduc-
+tas en esa escala. Se debe hacer una
+corrección matemática con signo para
+restar la conducta normal de la siguiente
+manera:
+
+Escala I. Sensoriomotora: No se nece-
+sitan correcciones matemáticas.
+
+Escala II. Social: Las puntuaciones para
+la conducta 1 (respuesta apropiada a
+la interacción), conducta 2 (respuesta
+
+apropiada a eventos del ambiente) y
+conducta 3 (inicia interacción
+apropiada) se restan de las otras
+conductas antes de que se calcule la
+media.
+
+Escala III. Afectiva: No se necesitan
+cambios matemáticos.
+
+Escala IV. Sensorial: Se resta la conducta
+] (utiliza los objetos de manera apro-
+piada) de las otras conductas antes de
+calcular la media.
+
+Escala V. Lenguaje: Se restan las con-
+ductas 1 (uso comunicativo del lengua-
+je). 2 (inicia comunicación con adema-
+nes) y 3 (inicia comunicación verbal
+apropiada), de las otras conductas antes
+de calcular la media.
+
+. Graficación: Se puede hacer una gráfica
+
+sencilla que muestre las medias de cada
+escala a fin de comparar la línea base y los
+subsecuentes períodos.
+
+El Cuadro 1.8 ofrece otro ejemplo de escala de estimación. En este caso,
+se trata de la Forma de Observación Directa (DOF) (Achenbach, 1986) de la
+Lista de Verificación Conductual Infantil (CBCL) [Ver en Anaya, 2002, pp. 570-
+5741.
+
+En esta ocasión, el registro se efectúa, tras un perífodo observacional de 10
+minutos, en relación con la intensidad y duración con la que han aparecido duran-
+te dicho período las diferentes conductas recogidas en la escala.
+
+A diferencia del ejemplo anterior, en la Hoja de Registro aparecen, frente a
+cada una de las categorías conductuales, los cuatro niveles de intensidad y dura-
+ción que se han contemplado para calificar dichas conductas, con el fin de que el
+observador señale aquél que estime conveniente en relación a cada una de ellas, de
+acuerdo con lo acaecido durante el período observado.
+
+
+
+--- Page 28 ---
+Otra peculiaridad de este segundo ejemplo es que, durante el período de
+observación, el observador realiza un registro narrativo continuo de la conducta
+del sujeto, que servirá de base para cumplimentar la Hoja de Registro al finalizar |
+dicho período. Esta forma de proceder, evidentemente, ayuda a evitar errores de |
+registro por efecto del olvido o la tergiversación de lo observado.
+
+Las instrucciones de uso del DOF indican que, para obtener una muestra
+representativa de la conducta del sujeto estudiado, deben hacerse observaciones
+
+Cuadro 1.8
+
+Ejemplo de escala de estimación. Hoja de Registro de Datos
+
+Fecha: 9-4-02
+
+Sujeto observado: Juan F. D.
+
+Edad: 7 años 6 meses.
+
+Nivel académico: 2.? de Primaria.
+
+Lugar de observación: Aula.
+
+Actividad desarrollada: Clase de expresión plástica.
+Profesor/a: A. H. Z.
+
+Período de observación: De 09:20 a 09:30.
+
+Tiempo total de observación: 10 minutos.
+
+Motivo de la observación: Verificación de problemas de conducta.
+Observador: P. J. R., Psicopedagogo/orientador del Centro.
+
+Instrucciones para el registro: Tras un período de observación de 10 minutos, calificar la
+intensidad y duración de las conductas examinadas de acuerdo con la siguiente escala:
+
+0 Sino se observa este ítem.
+
+1 Si ocurre de forma ambigua o ligera.
+2 Siocurre claramente con modera intensidad y menos de tres minutos de duración.
+
+3 Siocurre claramente con gran intensidad o más de tres minutos de duración.
+
+1. Se comporta como un niño menor que su Edadau== = 000 vv m » 0 1 23
+2. Hace ruidos extraños ............ecemrecverererrenA A 0 123
+3. Discute .............eoerrecorecreeerrerrererearA.. 0 1 23
+
+0 123
+
+(continúa)
+
+
+
+--- Page 29 ---
+9 m DISENO Y USO DE INSTRUMENTOS (Capítulo 1)
+
+Cuadro 1.8
+(Continuación)
+3 Desatía.o vontesta mal ;0>canraólsa;ea0a dE AN CAROl na 0.1 2 3
+6. Presume, hace ostentación .............e...e...es000eecos 0 123
+7. No se concentra o no presta atención continuada .............. 0 123
+8. No puede deshacerse de ciertas ideas; obsesiones .............. 0O 1 23
+Especificar:
+9. No se sienta nunca, no descansa o es hiperactivo .............. 0 1 23
+10. Está siempre pegado a los adultos o es demasiado dependiente ... 0 1 23
+11. Parece estar confuso .................. 0000 eA 0 1 23
+12. Llota ==:07 02a IR 5000 EA RO AR n yoe m 0O 1 23
+13. Se agita nerviosamente .................000000 000 D 0 1 23
+14. Se muestra cruel, “abusón” o egoísta ........... . 0 1 23
+15. Sueña despierto o está perdido en sus pensamientos ............ O 123
+16. Se autoagrede deliberadamente ................ 0... .., 0 1 23
+17. Pide o intenta llamar la atención del profesor/a ............... 0 123
+18. Destruye sus cosas ...............2 0 1 23
+19. Destruye las cosas de los demás ... s 0O 1 23
+20. Desobedece ............. aaa ee 0 123
+21. Molesta a otros niños ... aa aanearos 0 123
+22. No parece sentirse culpable después de comportarse mal ........ 0 1 23
+23. Se muestra celoso ............ aaa aerreeaas 0O 123
+24. Come o bebe cosas que no son alimentos .................... 0 123
+Especificar:
+25. Muestra miedo ante situaciones o estímulos específicos ......... 0 123
+Especificar: .-w+-————————-2-—————
+26. Dice que nadie le quiere ... 0 123
+27. Dice que los demás le tienen manía .................. ... oO 123
+28. Expresa sentimientos de minusvalía o inferioridad ............. O 123
+29. Se hiere por accidente ... 0.1. 235
+
+[
+
+(corll¡"úº)
+
+
+
+--- Page 30 ---
+ZZ EN NC E Y7
+
+Cuadro 1.8
+(Continuación)
+30. Interviene en luchas físicas .................. O 12
+31, Interviene en burlas .................. ... rerececeo. 0 1 23
+32. Oye cosas que no están presentes ..................ec...... 0 12
+Especificar:
+33. Es impulsivo o actúa sin pensar ...........oe_eeeeccscreeo O 1 2 3
+34:. Se aisla.de los demás ..a 2:0ames ss Ea c uA 0 123
+35.. Miente 0 ENSAÑA : « ==7 05 5 E D6 E y DI E Y Z N ME EE Ya aaa 0 1 23
+36.. Se come las UÑAS , :. . esmunkaR% 525 NEZO E 547 quIEeEN E y e q 0 1 23
+37. Está nervioso, tenso o rígido ........_.._eeeeeereveróerene. 0 1 23
+38. Tiene movimientos nerviosos O “tics” .........ce.rreseerac. O 1 23
+Especificar:
+39. Es superconformista con las reglas .......ee..e-e00000e00. 0O 123
+40. Es demasiado miedoso o ansioso ........r—eeeevrcrerereere. 0O 1 23
+41. Ataca físicamente a la gente .........e.eeee0rrereeret 0 1 23
+42. Se pellizca la nariz, la piel u otras partes del cuerpo ............ 0 1 23
+Especificar:
+43. Se duerme .........r_eooreccoreervecrecrecrecrENTE 0 1 23
+44. Está apático o desmotivado ..........-<e5556888tS 0 1 23
+45. Rehusa hablar .........ece-e-eeeereaerereerenerr 0 1 23
+46. Interrumpe al grupo ......-.<..0ee00e00EtiEA TS 0 1 23
+47- Guita: ... r. EL ENEZ DT ee a ANE A AEA 4 6 6 ei O 1 23
+48. Es reservado, se guarda las cosas para SÍ -...---.=eeeeeetoo O 123
+49. Ve cosas que no están presentes ....-.---re5555tttTT 0 1 23
+50. Se siente fácilmente avergonzado ..........e.*ertTTttTS O 1 23
+S1. Tiene problemas sexuales . ........00555e0ertTTETUUS O 123
+
+Especificar: — —
+
+52. Hace el payaso o alardea .........-0055505tTitTtUUS 0 123
+53. Su conducta es tímida o retraída . ........----**rE 0-£.2 3
+
+(continúa)
+
+
+--- Page 31 ---
+Cuadro 1.8
+
+(Continuación)
+54. Muestra conducta explosiva ................e00000000000oa 0-1
+55. Sus demandas deben ser satisfechas rápidamente; fácil frustración .. 0 1 2 3
+56. No atiende, se distrae fácilmente .....................e.... 0 1 23
+57. Mira fijamente o con los ojos en blanco ..................... O 1 23
+58. Cuando se le critica, se comporta como herido en sus sentimientos . 0 1 2 3
+O 0 123
+60. Almacena cosas que no necesita ...............e.0.00.. 0... 0O 1 23
+61. Tiene conductas extrañas ................ .. 000000 A 0O 1 23
+Especificar:
+62. Tiene ideas extrañas ...............2. . aaa 0O 12
+63. Es obstinado, rencoroso o irritable ....................... ... 0 12
+64. Tiene cambios rápidos de humor o sentimiento ............... O 12
+ES. Mulismo :.0-5032ruEE CA . . ae eee Ae O 12
+66. Se muestra “suspicaz” ............. . aa ereoo, O 1 2
+67. Usa lenguaje obscenso o maldice ................ ... O 12
+68. Habla de matarse ............. aaa or oo 0 12
+69. Habla demasiado .............—... . raorereo, O 12
+70. Se burla ......... aaa a rrrerooo, 0 12
+71. Tiene ataques de ira o mal carácter ............. . erireoo, 0 12
+72. Parece preocupado por el sexo ............ s O 12
+73. Amenaza a la gente .................... . ureeoreicos O 12
+74. Está demasiado preocupado por la limpieza .................. O 12
+75. Está falto de energía; movimientos lentos .................... O 12
+76. Se muestra infeliz, triste o deprimido ................'....... 0 12
+77. Habla con volumen inusualmente alto .............. .. 0 12
+78. Extremadamente preocupado por agradar .......... ... O 12
+79. Se muestra amable, gentil ............... .i 0 12
+80. Solitario, no se mezcla con los demás ...................... O 12
+Bl Preocupado.............. ... 208 ea aaa 0 12
+De: Sectinpa el dedo ...:.....:... necesr aal A 0. 12
+
+
+
+--- Page 32 ---
+Cuadro 1.8
+
+(Continuación)
+83. No es capaz de expresar sus ideas ............ 0TZ 3
+84. Impaciente ........... .a aaa a arenriro, 0 1 23
+85. Murmura por lo bajo ... rr ei 0 1 23
+86. Compulsivo, repite una conducta una y otra vez ............... O 1 23
+Especificar:
+
+87. Se deja guiar fácilmente por sus iguales ..................... 0 1 23
+88. Es desgarbado; tiene un control motor pobre ................. 0 123
+89. No se lleva bien con sus iguales ................ — >esm0000. 0..1-72 3
+90. Corre fuera de la clase o lugar en que está ................... 0.1. -2. 9
+91. Se comporta de forma irresponsable ...................e.2.. O 1 23
+92. Controla o da órdenes a los demás ...............e0s000000. 0 1 23
+93. Juega con niños más pequeños .................000080m0me0. 0 1 23
+94. Se queja . .............rreereererere e eee en ee 0 1 23
+95. Le da miedo equivocarse .............e..eeeeseereereree. 0O 1 23
+9%6. Se comporta como un mal perdedor ...............ee.eem... O 1 23
+0 1 23
+
+0 1 23
+
+O 1 23
+
+0. 1 2-3
+
+de 10 minutos durante 6 días distintos y promediar las puntuaciones obtenidas en
+cada ítem en el transcurso de dichas observaciones. La correcta aplicación del
+DOF supone, además, el registro de si es colaboradora (centrada en la tarea desa-
+rrollada en ese momento en el aula o en el lugar donde se esté llevando a cabo la
+observación) o no es colaboradora (no centrada en la tarea) la conducta exhibida
+por el sujeto durante los últimos 5 segundos de cada uno de los 10 minutos del
+período de observación. Dado que la referencia al DOF que se está aquí haciendo
+sólo tiene el propósito de servir de ejemplo como escala de estimación, en el Cua-
+dro 1.8 no se ha incluido este registro de la conducta colaboradora o no colabora-
+dora. Tampoco se ha cumplimentado la escala de estimación en relación a la hipo-
+tética observación descrita en la primera parte del Cuadro 1.8.
+
+
+--- Page 33 ---
+n n
+
+3.4. Virtualidades y carencias de las listas de control
+y de las escalas de estimación
+
+Tanto las listas de control como las escalas de estimación permiten registrar
+la ocurrencia de una gran variedad de conductas. Las escalas de estimación aña-
+den, además, información sobre alguna dimensión interesante de estas conductas
+como puede ser la frecuencia, la intensidad o la duración con la que dichas con-
+ductas han tenido lugar durante el período observado. Todo esto lo consignuen
+hacer con una gran economía de tiempo y de recursos. Así, tras un breve período
+observacional, el observador puede dar cuenta, utilizando una simple hoja de
+registro, acerca de la presencia o ausencia de una gran variedad de conductas y, en
+el caso de las escalas de estimación, además, acerca de alguna dimensión relevan-
+te en relación a estas conductas.
+
+Entre sus virtualidades cabe citar, también, que la información que suminis-
+tran puede ser tratada en términos cuantitativos y. por consiguiente, analizada esta-
+dísticamente.
+
+Un inconveniente, sin embargo, de estos procedimientos está en la demora
+existente entre la observación y el registro, que puede afectar a la precisión de éste
+último. Esto se puede paliar realizando el registro inmediatamente concluido el
+período de observación y efectuando durante este período de observación determi-
+nadas anotaciones como, por ejemplo, se hacen en el caso del DOF, que demanda
+la realización de un registro narrativo en el transcurso del tiempo de observación.
+
+Otro inconveniente es que, por lo general, no permite realizar un registro de
+los antecedentes y consecuentes de las conductas. Podría contemplarse esta cues-
+tión en el diseño de estos procedimientos, pero resulta complicado realizar de una
+manera fiable el registro diferido de esta información por lo que, habitualmente,
+suele quedar fuera de sus pretensiones.
+
+Una tercera carencia importante tiene que ver, en el caso de las escalas de
+estimación, con la ambigiiedad con la que pueden ser entendidos los diferentes
+grados o niveles en los que calificar la dimensión a registrar sobre las conductas
+examinadas. Esto, con frecuencia, da pie a que diversos Observadores califiquen
+de manera d1stmtg¡una misma conducta. La solución, obviamente, viene de la
+ción clara y precisa de aquello que incluye cada uno de los nive-
+
+les en los que se ha parcelado la correspondiente dimensión conductual. Así, por
+
+
+--- Page 34 ---
+ejemplo, se pueden establecer límites precisos entre diferentes niveles de duración
+de las conductas definiendo estos límites en términos de segundos (lo que exigiría
+su control durante el período de observación). Sin embargo, en otras muchas
+dimensiones conductuales resulta realmente complicado fijar los límites entre
+niveles o categorías con tal nivel de precisión. Piénsese, por ejemplo, en la intensi-
+dad con la que se produce una conducta. ¿Cómo definir, pongamos por caso, los
+límites entre distintos niveles de intensidad (muy bajo, bajo, moderado, alto, muy
+alto) con la que un sujeto se ha mostrado cooperativo con sus compañeros?
+
+4. REGISTROS DE INTERVALO
+
+4.1. Caracterización
+
+ervalo. también denominados muestreos de tiempo,
+alos de tiempo, consisten en la obser-
+as con-
+
+Los registros de int
+muestreos de intervalo o muestreos de interv
+urrencia o no ocurrencia de una serie de categorí
+de tiempo definidos dentro de un período
+ro determinado de
+
+vación y registro de la oc
+ductuales de interés durante intervalos
+ríodo observacional se divide en un núme
+trar las conductas que ocurren
+
+intervalos.
+
+observacional. El pe
+intervalos temporales y el observador debe regis
+
+dentro de los límites que definen a cada uno de esos
+
+4.2. Tipos de registros de intervalo
+
+ferentes criterios, lo
+
+La anterior tarea cabe ser realizada de acuerdo con di
+gistros de intervalo
+
+que da lugar a que pueda hablarse de diferentes tipos de re
+(Sattler, 1992):
+-cial. Se trata del procedimiento más
+
+— Muestreo de tiempo de intervalo pa'
+n registrar todas las conductas que
+
+habitualmente empleado y consiste e ' , _
+ocurren dentro de cada uno de los intervalos de tiempo, con independencia
+
+de la duración de las mismas o de las veces que dichas conductas tienen
+lugar dentro del intervalo. Cada categoría conductual se registra como
+ocurrida dentro de un intervalo si ha sido observada dentro de él y nº- se
+tiene en cuenta si dicha conducta ha tenido una mayor 0 menor duración
+
+
+--- Page 35 ---
+52 M DISENO Y UO 1E INSINTTT —
+
+temporal o se ha presentado una sola vez o repetidas veces dentro de ese
+intervalo.
+
+— Muestreo de tiempo de intervalo completo. En cada intervalo, sólo se
+registran aquellas categorías conductuales cuya ocurrencia abarca la dura-
+ción del intervalo completo, sin interrupción, desde su inicio hasta el final,
+
+— Muestreo de intervalo de punto en el tiempo. En cada intervalo, sólo se
+registran aquellas categorías conductuales que ocurren en un punto deter-
+minado del intervalo. Así, se puede decidir registrar sólo las conductas que
+ocurren al inicio de los intervalos o las que tienen lugar a los 30 segundo
+de iniciados los mismos, etc.
+
+— Muestreo de intervalo de tiempo momentáneo. En cada intervalo, sólo se
+registran aquellas categorías conductuales que ocurren en el momento de
+finalizar el intervalo.
+
+— Muestreo de tiempo de intervalo variable interocasión. Se elige, dentro de
+cada intervalo, un punto en el que realizar las observaciones, de modo que
+varfe aleatoriamente de un intervalo a otro. En cada intervalo, sólo se
+registran aquellas categorías conductuales que ocurren en el momento ale-
+atoriamente seleccionado dentro de dicho intervalo.
+
+4.3. Cómo realizar un registro de intervalo
+
+Al igual que en los anteriores procedimientos de observación, la realización
+de un registro de intervalo requiere la ejecución de una serie de tareas relativas a
+la planificación de la observación, al acto de la propia observación y al registro de
+los hechos observados. Veamos, a continuación, las principales de estas tareas en
+relación a los registros de intervalo.
+
+Determinación de las conductas objeto de observación
+
+. 'Como se indicó a propósito de las listas de control y de las escalas de esti-
+r;u;c¡on, las condu.ctas objeto de observación se eligen en función de que é
+gse rlt::;r; rrre;]¿2):'e.Zentatwas del área o áreas .de aprendizaje sobre las que interese reco”
+
+ción, de acuerdo con los objetivos del estudio diagnóstico que sé esté
+
+llevando a cabo ipótesi
+o anl y de la_s hipótesis y enunciados contrastables que se estén mane-
+elación con dicho estudio diagnóstico
+
+
+--- Page 36 ---
+La determinación de las categorías conductuales a utilizar deberá tener en
+cuenta, como se dijo en dicho lugar, la ubicación de las categorías en un determi-
+nado punto del continuo de molaridad-molecularidad; la tendencia a la exhaustivi-
+dad, que se refiere a que el conjunto categórico cubra la totalidad del área com-
+portamental de interés, y la condición de exclusividad de las categorías propuestas,
+
+que hace mención a que el contenido comportamental cubierto por cada una de
+ellas no se solape con el de ninguna otra.
+
+El número de categorías a tener en cuenta dependerá de la amplitud del área
+comportamental de interés y del nivel de detalle (ubicación en el continuo de
+molaridad-molecularidad) con el que se estime oportuno recoger información
+sobre dicha área conductual. Esto último estará en función de los objetivos que se
+persigan en cada situación concreta. No obstante, a nivel general, se puede decir
+que es deseable que el sistema de categorías facilite la recogida de información
+sobre el área comportamental estudiada con el máximo nivel de detalle permitido
+por las exigencias de calidad que debe comportar esta recogida. Así, un sistema de
+categorías jamás deberá transcender las capacidades del observador para manejar
+dicho sistema con eficiencia a efectos de la observación y el registro de las con-
+
+ductas que comprende.
+
+Por último, como también se dijo a propósito de las listas de control y de las
+escalas de estimación, hay que poner un celo especial en que las categorías con-
+ductuales que, definitivamente, sean objeto del registro de intervalo queden per-
+fectamente delimitadas y definidas de forma que cualquier observador entrenado
+sea capaz de saber con exactitud aquello sobre lo que debe informar.
+
+Fijación de los períodos de observación y de los intervalos de tiempo
+
+La fijación de los períodos de observación se refiere, como ya se ha dicho
+a propósito de los procedimientos de observación anteriormente presentados, a
+la determinación de la ubicación, extensión y frecuencia de los períodos de
+
+observación.
+
+La ubicación de los períodos de observación o decisión sobre el cuándo obser-
+var dependerá de en qué situaciones o circunstancias suelen presentarse las conduc-
+tas objeto de interés —lo cual puede ser conocido a partir de información previa reco-
+gida a través de entrevistas, registros narrativos, observación asistemática, etc.— y en
+
+
+
+--- Page 37 ---
+r S SS N A
+
+las que su observación resulta de interés dentro de los actuales objetivos diagnósti. .
+cos. Así, por ejemplo, se puede decidir observar la conducta en el aula del alumno É
+estudiado en tres ocasiones a lo largo de la jornada escolar (primera clase de la —
+mañana, última clase de la mañana y primera clase de la tarde) con el fin de reco-
+ger información sobre este comportamiento en relación a distintos momentos de la
+jornada escolar, con distintos profesores y diferentes materias del curriculum.
+
+La extensión o duración de los períodos de observación se fijará de forma
+que siempre se garantice la obtención de datos representativos sobre las conductas
+objeto de interés. Habitualmente, suele fijarse entre 10 y 30 minutos. Siguiendo
+con el ejemplo, se puede decidir observar durante 20 minutos en las siguientes tres
+ocasiones: De 9:05 a 9:25, de 12:05 a 12:35 y de 16:05 a 16:25 en el transcurso de
+la jornada escolar.
+
+La frecuencia o cantidad de ocasiones en las que repetir los períodos de
+observación dependerá, igualmente, de que con el número de observaciones reali-
+zadas se consiga una muestra representativa de las conductas en estudio. En el
+ejemplo que se está manejando, se puede decidir que los anteriores períodos de
+observación se apliquen de lunes a viernes durante una semana.
+
+La fijación de los intervalos de tiempo, por su parte, hace referencia a la
+determinación de su duración, en función de lo cual estará el número de intervalos
+posibles dentro de un período de observación. Esta duración deberá estar en sinto-
+nía con la duración habitual de las conductas objeto de observación, de modo que
+conductas de corta duración podrán observarse en intervalos de corta duración y
+conductas de larga duración requerirán intervalos de mayor duración.
+
+Por otra parte, el número de intervalos temporales (intervalos de observa-
+ción) dentro de un período de observación dependerá de que entre ellos se interca-
+len o no intervalos de registro. Cuando el sistema de categorías es muy simple, -
+como en el ejemplo del Cuadro 1.9, es posible realizar el registro al final de cada
+intervalo de observación sin interferir en la duración de éstos ni en la sucesión
+continua uno tras otro. Así, en dicho ejemplo, la duración de los intervalos de
+observación se ha fijado en 10 segundos y se siguen, sin solución de continuidad,
+unos a otros durante el período de observación.
+
+Sin _embang, cuando el sistema de categorías es complejo, conviene situar
+tras cada intervalo de observación un intervalo de registro, durante el cual regis- —|
+
+
+--- Page 38 ---
+trar lo observado, de modo que la tarea de observación no interfiera en la de regis-
+tro ni viceversa. De esta forma es como se ha hecho en el ejemplo del Cuadro 1.10,
+donde tras cada intervalo de observación de 15 segundos se establece un intervalo
+
+de registro de 5 segundos con el fin de que el observador registre lo acontecido
+durante los 15 segundos precedentes.
+
+Para pasar de un intervalo temporal a otro, como sucede en el ejemplo del
+Cuadro 1.9, 0 para pasar por la secuencia intervalo de observación-intervalo de
+registro-intervalo de observación-intervalo de registro, etc., como sucede en el
+ejemplo del Cuadro 1.10, el observador, generalmente, suele disponer de algún
+tipo de avisador. Un procedimiento muy utilizado consiste en una grabadora con
+
+auriculares que, mediante un sonido o alguna indicación grabada, va avisando del
+paso de un intervalo a otro.
+
+Registro de datos
+
+En los registros de intervalo el registro de datos consiste en indicar cuáles
+categorías conductuales de las contempladas en el sistema categorial que se haya
+construido han sucedido en cada uno de los intervalos de observación en los que
+se haya dividido el período observacional. Esto, como se acaba de indicar, cabe
+ser realizado en el momento final de cada uno de los intervalos de observación o
+
+en el intervalo de registro que se haya previsto a continuación de cada uno de los
+intervalos de observación.
+
+Existen muy diversos procedimientos para cumplir con esta tarea, entre
+ellos, algunos que se sirven de sofisticados instrumentos electrónicos de registro.
+
+El procedimiento más sencillo y, por tanto, más asequible a cualquier obser-
+vador, consiste en una hoja de papel en la que en una columna ajustada a la
+izquierda se ponen los intervalos de observación y en la cabecera de la hoja, en
+línea, se sitúan las categorías de conducta, o viceversa. Del cruce de ambas dimen-
+siones surgen una serie de casillas. Para cada intervalo de observación se marcan
+con una X las casillas correspondientes a las categorías conductuales que han teni-
+do lugar durante dicho intervalo.
+
+El diseño de la Hoja de Registro, sin embargo, puede ser muy variable en
+función de su mejor adecuación a las necesidades de observación y registro de
+cada concreta propuesta de registro de intervalo.
+
+
+
+--- Page 39 ---
+m DISEÑO Y USO DE IN
+
+56
+
+4.4. Ejemplos de registros de intervalo
+
+En el Cuadro 1.9 se presenta un registro de intervalo que Lft/iliza UN siste.
+ma de tres categorías conductuales. Los intervalos de observac1(.)f1 empleados
+tienen una duración de 15 segundos y el período total de observación ha sido de
+15 minutos. Los intervalos de observación se han dispuesto en tres columnas,
+
+Cuadro 1.9
+
+Ejemplo de registro de intervalo para un sistema de 3 categorías
+
+Hoja de Registro de Datos
+
+Fecha: 10-5-02
+
+Sujeto observado: Isabel N. F.
+
+Edad: 7 años 9 meses.
+
+Nivel académico: 2.” de Primaria.
+
+Lugar de observación: Aula.
+
+Actividad desarrollada: Clase de Matemáticas.
+Profesor/a: D. M.J. P.
+
+Período de observación: De 10:15 a 10:30.
+
+plstnbuc1on en .1nter.valos: Intervalos de observación de 15 segundos continuos sin
+intervalos de registro intermedios.
+
+Motivo de la observación: Recogida de información sobre la conducta de Isabel en el aula.
+Observador: P. J. R., Psicopedagogo/orientador del Centro.
+
+Instrucciones para el registro: Marcar con una X al final de cada intervalo de observación
+las conductas mostradas por el sujeto en estudio durante dicho intervalo -
+
+
+
+--- Page 40 ---
+Cuadro 1.9
+
+(Continuación)
+
+Total CT=8+6+6=20
+Total FTP=9+11+12=32
+Total FID=3+3+2=8
+
+(continña)
+
+
+
+--- Page 41 ---
+Cuadro 1.9
+(Continuación)
+
+Definición de las categorías utilizadas.
+
+— Conducta centrada en la tarea (CT): Conducta apropiada a la situación. Por ejemplo,
+levanta la mano cuando quiere decir algo; escucha mientras habla la profesora; realiza
+las actividades propuestas por la profesora; trabaja en silencio en su mesa: pide permiso
+a la profesora para levantarse del pupitre.
+
+— Conducta pasiva fuera de la tarea (FTP): Conducta no apropiada a la situación, pero que
+no altera a otros. Por ejemplo, desatender las explicaciones del profesor; estar distraído
+
+mirando hacia la ventana; realizar actividades alternativas en su mesa, como jugar con
+cromos.
+
+— Conducta desorganizante fuera de la tarea (FTD): Conducta no apropiada a la situación
+que altera la conducta de los demás. Por ejemplo, hablar con los compañeros de al lado
+mientras explica la profesora; hacer ruidos: levantarse de su mesa sin autorización;
+agredir verbal o físicamente a los compañeros: quitarles cosas.
+
+separando con una línea más gruesa cada minuto de observación (cada cuatro
+intervalos).
+
+Frente a cada intervalo se ha marcado con una X la conducta exhibida por
+el sujeto durante el mismo y al final de cada columna (cada 5 minutos) se ha
+obtenido el número de intervalos en los que se ha presentado cada categoría
+conductual. A partir de estas sumas se ha hallado el total de intervalos para cada
+categoría. Esta información indica que el sujeto observado ha dedicado sólo una
+tercera parte del tiempo en conductas apropiadas a las tareas de la clase de
+matemáticas, en tanto que los dos tercios restantes los ha ocupado en tareas 10
+apropiadas. Pero, de este tiempo, la mayor parte (más de la mitad del tiempo
+
+total observado) lo ha dedicado a tareas en solitario que no han alterado a º“?s
+y que revelan falta de atención y de concentración, distraibilidad, desinter5
+
+hacia las tareas académicas, pero, también, ensimismamiento, aislamiento»
+ensoñación.
+
+Al final de la Hoja de Registro se ha incluido la definición de las categor*
+utilizadas.
+
+
+
+--- Page 42 ---
+Cuadro 1.10
+
+Ejemplo de registro de intervalo para un sistema de 10 categorías
+
+Hoja de Registro de Datos
+Fecha: 7-3-02
+
+Sujeto observado: Guillermo R. M.
+
+Edad: 9 años 4 meses.
+
+Nivel académico: 4.” de Primaria.
+
+Lugar de observación: Aula.
+
+Actividad desarrollada: Clase de Ciencias Sociales.
+Profesor/a: D. P. M.
+
+Período de observación: De 10:10 a 10:30.
+
+Distribución en intervalos: Intervalos de observación de 15 segundos seguidos por
+intervalos de registro de 5 segundos.
+
+Motivo de la observación: Verificación sobre la conducta hiperactiva de Guillermo.
+Observador: P. J. R., Psicopedagogo/orientador del Centro.
+
+Instrucciones para el registro: Marcar con una X durante el intervalo de registro las con-
+ductas mostradas por el sujeto en estudio durante el intervalo de observación precedente.
+
+ooo s uTc ]ee vofefue as [[
+E e TI
+
+a
+
+HI — H
+SA
+PE TRE
+H
+
+(continúa)
+
+
+--- Page 43 ---
+Cuadro 1.10
+
+(Continuación)
+
+Total
+
+Categorías
+
+IN: Interferencia FS: Fuera de la silla
+FT: Fuera de la tarea AF: Agresión física
+
+NO: No Obediencia AV: Amenaza o agresión verbal
+MM: Movimientos motores menores SM: Solicitación del maestro
+
+MG: Conducta motora gruesa AC: Ausencia de conducta |
+
+
+--- Page 44 ---
+El Cuadro 1.10, por su parte, presenta un registro de intervalo, sin cumpli-
+mentar, que utiliza un sistema de 10 categorías conductuales. Los intervalos de
+observación empleados tienen una duración de 15 segundos y cada uno de ellos va
+seguido de un intervalo de registro de 5 segundos. Por lo tanto, en el transcurso
+del período de observación, que es de 20 minutos, tienen lugar 60 intervalos de
+
+observación, que son los que se representan en la Hoja de Registro, dispuestos en
+dos columnas.
+
+Cada tres intervalos de observación, junto con sus correspondientes interva-
+los de registro, consumen un minuto del período de observación y esto se ha que-
+rido hacer notar mediante una línea más gruesa separando cada tres intervalos.
+
+Al final de las columnas correspondientes a las categorías se ha dejado una
+casilla para anotar el número de intervalos en los que ha aparecido dicha categoría
+conductual. A partir de la suma de las dos columnas (izquierda y derecha) corres-
+pondientes a cada categoría se puede obtener el total de intervalos para la categoría.
+
+En el Cuadro 1.11 se ofrecen las definiciones de las categorías utilizadas en
+el Cuadro 1.10.
+
+Cuadro 1.11
+
+Definiciones de las categorías utilizadas en el Cuadro 1.10
+
+Interferencia (IN): Engloba todas aquellas conductas que perturban a los demás. Esto
+incluye:
+
+— Interrupción del trabajo del profesor o del trabajo de otro alumno.
+
+— Producción de sonidos o ruidos como vocalizaciones (silbidos, gritos...), palmadas,
+golpeo en la mesa con objetos, etc.
+
+— Conducta molesta hacia los demás.
+
+— Hacer payasadas.
+
+Fuera de la tarea (FT): Hace referencia a todas aquellas conductas que atienden a
+estímulos diferentes a los relacionados con la tarea académica que hay que hacer, de modo
+que ésta es abandonada a poco de haber sido iniciada. Esto incluye:
+
+— Manipulación, atención a objetos o ambos, a personas o a partes del propio cuerpo hasta
+!a total exclusión de la tarea académica durante un intervalo completo después del
+Intervalo en el que comenzó la conducta apropiada a la tarea.
+
+— Permanecer fuera de su asiento por motivos injustificados.
+
+(continúa)
+
+
+--- Page 45 ---
+Cuadro 1.11
+
+(Continuación)
+
+No obediencia (NO): Hace referencia a todas aquellas conductas de oposición del alumno
+a seguir las instrucciones del profesor. Esto incluye:
+
+— No iniciar la conducta apropiada en respuesta a una orden o petición del profesor,
+
+Movimientos motores menores (MM): Hace referencia a toda aquella conducta motora
+realizada por el alumno estando en su asiento. Esto incluye:
+
+— Deslizarse en el asiento, ponerse de rodillas, torcer el tronco, voltear, etc.
+
+— Movimientos con el cuerpo, con la silla o con ambos, y la realización de movimientos
+repetitivos. '
+
+Conducta motora gruesa (MG): Hace referencia a toda aquella conducta motora realizada
+fuera de su asiento. Esto incluye:
+
+— Levantarse del asiento y abandonarlo.
+— Actividad motora vigorosa, como saltar. correr por el aula o arrastrarse por el suelo.
+
+Conducta fuera de la silla (FS): Hace referencia a las ausencias prolongadas fuera del
+asiento. Esto incluye:
+
+— Permanecer fuera de su silla durante un intervalo completo después de aquél en el que
+abandonó su asiento. |
+
+Agresión física (AF): Hace referencia a todas aquellas conductas de agresión física
+dirigida a otra persona o de destrucción de la propiedad de los demás. Esto incluye:
+
+— La realización de movimientos enérgicos dirigidos hacia otra persona, ya sea de manera
+directa o utilizando un objeto material como extensión de la mano.
+
+— Destrucción de materiales o pertenencias de otros o de propiedad de la escuela.
+— Tomar repentinamente el material de otros.
+
+Amenaza o agresión verbal (AV): Engloba todas aquellas verbalizaciones o ademanes
+físicos que representan un insulto o una amenaza. Esto incluye:
+
+— Utilizar lenguaje y ademanes ofensivos hacia otros alumnos o hacia el profesor.
+— Responder airadamente a las peticiones del profesor y de forma no aceptable.
+— Expresar verbalmente su negativa a seguir las indicaciones del profesor.
+
+— s icitar la
+Solicitación del maestro (SM): Engloba todas aquellas conductas dirigidas a solicitar
+atención del profesor, tales como llamar al profesor, levantar la mano o ir a la mesa
+profesor.
+
+* : a la-
+Ausencia de conducta (AC): Hace referencia a la conducta centrada en la tarea 0 i
+ausencia de conductas inapropiadas como se definen en las categorías anteriores.
+
+(Elaborado a partir de Abikoff y Gittelman, 1985).
+
+
+--- Page 46 ---
+idros 1.12, 1.13 y 1
+ción de las categorí
+e la Conducta en el
+emplo de registro d
+n estudio sino, taml
+nitidas por el profes
+
+Cuadro 1.12
+
+registro de conduc
+
+p M
+
+| Categorías
+
+.
+- Profesor A
+
+1 .Z
+1. Preparación
+
+,
+2. Exposición |
+
+3. Interacción
+
+4. Supervistón
+
+5. Apartamiento
+
+6. Disciplina
+-7. Aprobación
+8. Desaprobación
+
+Compañeros A
+
+1. No interacción
+, Colaboración
+
+. Complicidad
+
+. Perturbación
+
+. Agresión
+
+
+--- Page 47 ---
+Alumno
+
+l. Trabajo
+
+2. Colaboración
+3. Inatención
+
+4. Deslocalización
+
+5. Perturbación
+
+6. Inhibición
+
+7. Agresión A
+
+8. Agresión B
+Profesor C
+
+1. Noreacción
+Cambio
+Aprobación
+Desaprobación
+
+Privilegio
+
+. VEL TD
+
+Penalización
+
+Compañeros C
+
+1. Noreacción
+
+2. Aprobación
+
+4. Agresión
+
+Observaciones:
+
+
+
+--- Page 48 ---
+Cuadro 1.13
+
+Definición de las categorías utilizadas en la Hoja de Registro
+de las Conductas en el Aula
+
+[ CONDUCTAS ANTECEDENTES DEL PROFESOR (PROFESOR A)
+
+1. Preparación.—El profesor dispone y ordena los elementos necesarios para realizar
+
+actividades instruccionales. (Ordenar fichas, llenar la pizarra para una explicación,
+extender un mapa.)
+
+2. Exposición.—El profesor se dirige a los alumnos presentando o explicando contenidos
+
+instruccionales. Se registraron tanto actividades verbales como no verbales de
+exposición. (Mostrar un gráfico, una figura.)
+
+3. Interacción.—El profesor emprende una actividad dialogal con los alumnos. (Preguntar,
+
+responder, discutir.) Se registra también en esta categoría cuando el profesor plantea,
+modera o dirige grupos de discusión en la clase.
+
+4. Supervisión-—El profesor cuida de que se lleven a cabo labores de trabajo que ha
+encomendado anteriormente. (Inclinarse sobre la tarea de un alumno, vigilar el trabajo
+
+de fichas, vigilar un trabajo de control.) El diálogo con un alumno en una tarea de
+supervisión se registra en esta categoría.
+
+5. Apartamiento.—El profesor se desliga de sus actividades dirigidas hacia el curso.
+
+(Desarrollar una tarea privada, corregir exámenes de fechas anteriores, mirar por la
+ventana.)
+
+6. Aprobación.—El profesor responde a una conducta de los alumnos de manera aceptante,
+cariñosa. (Aplaudir una labor hecha, poner a un niño como ejemplo a imitar, hacer un
+comentario amable.) Se incluye en esta categoría la promesa o el permiso para que los
+alumnos realicen actividades apetecibles.
+
+7. Desaprobación.—El profesor responde a una conducta de los alumnos de manera
+crítica o rechazante. (Sancionar negativamente una acción o producto, poner a un niño
+como un mal ejemplo, hacer comentarios irónicos.) Se incluye en esta categoría la
+
+promesa o el mandato de realizar actividades no apetecibles como consecuencia de
+la conducta de los alumnos.
+
+e Nota.—Las categorías de «profesor A» se tabulan tanto si su comportamiento se
+dirige a un niño, a un grupo de niños o a la clase en general. Cuando él se dirige explícita-
+mente al niño-problema en particular, se rodea la clave con un círculo.
+
+I. CONDUCTAS ANTECEDENTES DE LOS COMPAÑEROS (COMPAÑEROS A)
+
+1. No interacción- —Los compañeros realizan cualquier actividad no dirigida explícita-
+mente hacia el niño-problema. (Trabajar, dirigirse al profesor, interactuar entre ellos).
+
+Colaboración. —Los compañeros interactúan con el niño en una actividad positiva de
+Clase. (Discutir un tema, estimular al niño a responder, comprobar ejercicios o tareas.)
+
+(continúa)
+
+TRE E
+
+
+--- Page 49 ---
+3.
+
+4.
+
+S
+
+Cuadro 1.13
+
+(Continuación)
+
+Se incluyen en esta categoría correcciones o verbalizaciones de crítica constructiva
+adecuadamente expresadas.
+
+Complicidad.—Los compañeros actúan en colaboración con el niño en conductas que
+trastornan o entorpecen la marcha de la clase. (Jugar con el niño cuando se debe estar
+trabajando, charlar, hacer comentarios que interrumpen la exposición).
+
+Perturbación. —Los compañeros se dirigen al niño alterando su actividad de trabajo o
+no permitiendo, con su acción dirigida hacia él, que pueda concentrarse en labores
+positivas. (Pedirle cosas majaderamente, invitarle a una actividad inadecuada, sacudirle
+el hombro.) No se incluyen en esta categoría actividades indisciplinadas de los compa-
+ñeros que puedan distraer al niño, pero que no se dirigen a él.
+
+Agresión.—Los compañeros se dirigen al niño con conductas de agresión verbal (burla,
+sarcasmo, crítica negativa), gestual (morisquetas) o física (empujones, golpes).
+
+III. CONDUCTAS DEL NIÑO
+
+1.
+
+Trabajo.—El niño lleva a cabo las tareas de clase o aquello que se le recomienda.
+(Rellenar una ficha, hacer un deber de clase, trabajar en el pizarrón). Se incluyen en
+esta categoría actividades que, aunque no sean estrictamente de trabajo, están acordes
+con el curso de la clase (por ejemplo, un momento de descanso).
+
+. Colaboración.—El niño realizar conductas positivas de clase junto con los compañeros
+
+o junto con el profesor. (Trabajar en grupo, participar en una discusión, comentar un
+tema con el profesor).
+
+. Inatención. —El niño se distrae de las actividades de clase sin perturbar la tarea que
+
+realizan los demás compañeros. (Mirar el techo, jugar con el lápiz, hacer barquitos).
+
+. Deslocalización- —El niño se encuentra ubicado en un lugar del aula que no le corres-
+
+ponde según la actividad escolar que se está desarrollando. La tabulación de una
+conducta en esta categoría depende en todos los casos del curso de las actividades de
+clase: el niño puede estar «bien localizado» fuera de su asiento si la actividad de clase
+
+así lo requiere y, eventualmente, «mal localizado» en su asiento si requiere de él en esé
+momento otra ubicación.
+
+Perturbación —El niño realiza conductas que se apartan del curso de la clase, dirigién-
+dose a sus compañeros o al profesor, de tal manera que alteran su trabajo. (Hacer ruidos
+molestos, interrumpir con comentarios, actuar fuera de turno). Una conducta se juzga
+
+como perturbadora, esencialmente, por sus consecuencias sobre los demás (molestia,
+incitación o continuación de conductas inadecuadas).
+
+Inhibiº_iófl.——El niño no desarrolla ninguna conducta observable ante una actuación 9
+fequerimiento del profesor diri
+
+L gido a él. Permanece quieto, apareciendo a vecés
+paralizado y/o perplejo.
+
+(gam¡nl¡º)
+
+
+
+--- Page 50 ---
+Cuadro 1.13
+
+(Continuación)
+
+. Agresión A.—El niño se dirige a sus compañeros y/o al profesor con conductas de agre-
+
+sión gestual (burlas, morisquetas, «cortes») o de agresión verbal (reproches, críticas
+L »
+tacos)-
+
+. Agresión B—El niño se dirige a sus compañeros y/o al profesor con conductas de agre-
+
+sión que conllevan contacto físico. (Empujones, golpes, patadas, lanzar objetos).
+
+[V. CONDUCTAS CONSECUENTES DEL PROFESOR (PROFESOR C)
+
+l.
+
+; APrºbación.—L0s compañeros se dirigen explí
+
+No reacción.—El profesor no reacciona hacia el niño y frente a la conducta que éste
+está realizando. (Continuación de la labor anterior, mirar sin darse por advertido). Se
+incluyen en esta categoría cambios de actividad y, también, reacciones explícitas acerca
+de la conducta del niño, ya sean positivas o negativas, pero que no se dirigen a él,
+debiéndose anotar en las observaciones este hecho.
+
+. Cambio.—El profesor solicita u ordena al niño que cambie la actividad que está reali-
+
+zando en ese momento, sin que tal orden tenga un sentido aprobatorio ni reprobatorio.
+(ra la pizarrra, pedirle una opinión, pedirle que lea en voz alta).
+
+. Aprobación.—El profesor reconoce positivamente la conducta del niño, ya sea en
+
+forma gestual (guiñar un ojo), verbal (alabar) o física (palmotear la espalda o acariciar).
+
+. Desaprobación.—El profesor reconoce negativamente, críticamente, la conducta del
+
+niño, ya sea en forma gestual (gesto de reproche o advertencia), verbal (advertencia
+verbal, exhortación) o física (cogerle como reprensión).
+
+. Privilegio.—El profesor da al niño la oportunidad de realizar una actividad, de ponerse
+
+en una situación o de obtener un objeto deseado. (Hacer un dibujo, leer una revista,
+obtener un caramelo). La promesa del profesor de lograr algo no se tabula en esta
+categoría, sino en la de «Aprobación». Sólo se tabula en esta categoría cuando se da
+efectivamente la oportunidad de lograr algo apetecido.
+
+» Penalización.—El profesor ordena al niño realizar una actividad indeseada como
+
+castigo por su comportamiento. No se tabulan en esta cate-goría las amenazas, sino
+Únicamente cuando el profesor intenta hacer efectivo el castigo —con o sin resistencia
+por parte del niño—. Las amenazas se tabulan en la categoría de «Desaprobación».
+
+CONDUCTAS CONSECUENTES DE LOS COMPAÑEROS (COMPAÑEROS C)
+
+- No reacción.- —Los compañeros no se dirigen hacia el niño. También se tabula en esta
+
+Categoría cuando ellos cambian su conducta 0O comentan la conducta del niño-
+Problema, pero sin dirigirse explícitamente a él. '
+(citamente hacia el niño animándolo o
+
+: í v
+Comentando positivamente su conducta. También se tabula en esta categoría toda vez
+
+(continúa)
+
+
+--- Page 51 ---
+Cuadro 1.14
+
+Instrucciones para la Hoja de Registro de Conductas en el Aula |
+
+Descripción y cumplimentación
+
+La hoja de registro de conductas en el aula está pensada para registrar las conductas
+de un alumno ayudándose de un sistema de categorías especialmente elaborado para tal
+efecto. Además, tal sistema recoge las conductas concomitantes (antecedentes y consé-
+cuentes), tanto del profesor como de los demás compañeros. El total de categorías es de
+treinta, repartiéndose de la siguiente manera:
+
+— Conductas antecedentes del profesor (profesor A o PA): Ocho.
+
+— Conductas antecedentes de los compañeros (compañeros A o CA): Cinco.
+— Conductas del alumno (alumno A): Ocho.
+
+— Conductas consecuentes del profesor (profesor C o PC): Cinco.
+
+— Conductas consecuentes de los compañeros (compañeros C o CC): Cuatro.
+
+En la hoja de registro debe especificarse, junto con los datos de 1dentlñf:aºlón'
+período total durante el cual se realiza la observación (p.ej., una hora) y la duración de
+intervalos de observación (p.ej., dos minutos).
+
+; "_ , . al de
+La primera columna de la hoja señala cada intervalo de observación (con un l3ilen¡ a 4
+sig |
+
+cuarenta, que puede ser ampliado cambiando el formato). Las cinco columnas |
+contienen las celdillas para registrar las conductas pertenecientes a las cinco * e
+señaladas anteriormente. La sexta columna conlleva la denominación de todas las € !
+gorías que entran en el sistema, sirviendo de recordatorio durante el registro La ººh;s
+siguiente está pensada para recoger las conductas más frecuentes en aquellas catego ice
+mayor presencia durante el registro (con el fin de suministrar información que ºº";—"¡5).
+y complemente el registro, necesariamente más abstracto, realizado en las cele! ja
+Finalmente, las dos últimas columnas sirven para el recuento (en frecuencia Y
+
+( Mn¡¡n¡¡º )
+
+
+--- Page 52 ---
+Cuadro 1.14
+
+(Continuación)
+
+porcentuada) de las conductas incluidas en cada categoría. Al pie de la hoja se contempla
+un espacio para observaciones.
+
+El requisito fundamental para la cumplimentación del instrumento es el precio cono-
+cimiento del sistema de categorías, que debe haber sido suficientemente discutido para no
+dejar lugar a dudas en cuanto al registro. El sistema de categorías está pensado para incluir
+todas las conductas que se desarrollan durante la clase, aunque sólo sea en «categorías
+residuales».
+
+Tras fijar el intervalo de observación (que puede ser fijo o variable), el registro se
+efectúa de las siguiente manera: recurriendo siempre a los números correspondientes a
+cada categoría (0 a siglas que pueden ser elaboradas para tal efecto), se registra en ráfaga
+al final de cada intervalo para las tres primeras columnas (PA, CA y A). Para registrar las
+consecuencias (PC y CC), se considera tiempo de registro todo el que dure la conducta
+registrada en A y hasta tres segundos después de su terminación. Si hasta la llegada del
+intervalo siguiente (y siempre que continúe el tiempo de registro para PC y CC) no aparece
+reacción por parte del profesor o de los compañeros, se registra la categoría «no reacción»
+y se pasa al intervalo siguiente.
+
+La columna correspondiente a «conductas más frecuentes» se cumplimenta inmedia-
+tamente después de terminado el período de registro, así como las observacione que
+resulten pertinentes. Se reducen así al mínimo las posibles distorsiones mnésicas.
+
+Se pueden realizar constrastaciones de la concordancia entre observadores de distinto
+tipo (por categoría, por área o para el total; por intervalo o por sesión), así como diversos
+tipos de análisis de los datos, transversales o longitudinales. La información recogida
+permite especialmente el análisis de las interacciones conductuales que aparecen entre los
+diversos participantes de la situación de aula, a partir de la focalización en un determinado
+alumno.
+
+4.5. Virtualidades y carencias de los registros de intervalo
+
+Los registros de intervalo tienen la ventaja de facilitar la objetividad en la
+observación y el registro de las categorías conductuales objeto de estudio y, por
+consiguiente, la coincidencia interobservadores, al proporcionar un marco muy
+Estructurado de qué es lo que hay que observar y cuándo hay que observarlo. Otros
+aspectos positivos son que puede ser aplicado a casi cualquier tipo de conducta,
+que es capaz de proporcionar en poco tiempo información sobre la frecuencia tem-
+poral de diversos comportamientos de interés y que registra la secuencia temporal
+de las conductas.
+
+
+--- Page 53 ---
+Sin embargo, estos procedimientos presentan serias limitaciones que tienen
+que ver, fundamentalmente, con el empleo del tiempo como elemento director de
+las observaciones en lugar de las conductas objeto de interés. El registro de la ocu-
+rrencia o no ocurrencia de una conducta informa sobre la frecuencia en que apare-
+ce, pero no dice nada acerca de cualidades importantes de la misma como su inten-
+sidad, calidad, duración, circunstancias situacionales, etc. Pero es que, además, la
+artificialidad de los intervalos de observación puede llevar a confundir duración
+con frecuencia. Así, una conducta de larga duración cabe ser registrada en varios
+intervalos de observación. Por otra parte, conductas de alta frecuencia, pero de
+
+corta duración, tienen una frecuencia subestimada si éstas ocurren repetidas veces
+en el transcurso de un mismo intervalo.
+
+5. REGISTRO DE EVENTOS
+
+5.1. Caracterización
+
+Los registros de eventos, también denominados muestreos de eventos 9
+registros de conductas, consisten en la observación y registro de aquellas catego-
+rías conductuales de interés que ocurren durante un período observacional. Las
+conductas se registran conformen suceden en el transcurso de dicho período y el
+registro puede estar referido a diversas dimensiones de las conductas, tales como
+su frecuencia, duración, intensidad o latencia.
+
+Los registros de eventos están especialmente indicados para ser utilizados
+en relación a conductas discretas, que tienen un comienzo y un final claros y. Po"
+tanto, fácilmente separables en unidades comportamentales definidas.
+
+5.2. Cómo realizar un registro de eventos
+
+Del mismo modo que en los anteriores procedimientos de observación. "
+realización de un registro de eventos requiere la ejecución de una serie de tarea*
+relativas a la planificación de la observación, al acto de la propia observación Y
+
+registro de los hechos observados. Veamos, a continuación, las principales de estas
+tareas en relación con los registros de eventos.
+
+
+
+--- Page 54 ---
+REOO OBIERVACIONALES E 71
+
+peterminación de las conductas objeto de observación
+
+Las conductas objeto de observación, al igual que en el caso de las listas de
+control, de las escalas de estimación y de los registros de intervalo, se determinan
+en función de que se estimen representativas del área o áreas de aprendizaje sobre
+las que interese recoger información, de acuerdo con los objetivos del estudio
+diagnóstico que se esté llevando a cabo y de las hipótesis y enunciados contrasta-
+bles que se estén manejando en el marco de dicho estudio diagnóstico.
+
+La fijación de las categorías conductuales concretas que se vayan a utilizar
+deberá tener en cuenta, como se dijo a propósito de los anteriores procedimientos
+observacionales, la ubicación de las categorías en el continuo de molaridad-molecu-
+laridad, la tendencia a la exhaustividad y la condición de exclusividad intercategorial.
+
+El cumplimiento con la condición de exhaustividad, a lo que debe tender
+todo sistema categórico, cabe ser atendido por un número de categorías que
+dependerá, por una parte, de la amplitud del área comportamental en considera-
+ción y, por otra, de la extensión con la que sean definidas las categorías. Una
+misma área comportamental puede ser cubierta por unas pocas categorías de gran
+extensión 0, igualmente, por un número mayor de categorías de límites más estre-
+chos. La elección de un punto concreto en el continuo de molaridad-moleculari-
+dad repercutirá, por consiguiente, en el número de categorías en las que se parcele
+el área comportamental objeto de estudio y ello, a su vez, en el nivel de detalle
+con el que ésta es abordada. Evidentemente, las decisiones sobre todo esto ven-
+drán marcadas por los intereses u objetivos concretos que se pretendan cubrir con
+el uso de un determinado procedimiento de observación dentro del estudio diag-
+nóstico en el que se enmarca.
+
+Finalmente, como ya se ha expuesto a propósito de los procedimientos
+observacionales antes presentados, se precisa un cuidado especial para que las
+categorías conductuales que, definitivamente, sean objeto del registro de eventos
+queden perfectamente delimitadas y definidas de forma que cualquiel.' observador
+entrenado sea capaz de saber con exactitud aquello sobre lo que debe informar.
+
+Fijación de los períodos de observación
+
+Esta cuestión, como ya se ha dicho a propósito de los procedimientos de
+
+observación anteriormente presentados, Se refiere a la determinación de la ubica-
+
+ción, extensión y frecuencia de los períodos de observación.
+
+
+--- Page 55 ---
+La ubicación de los períodos de observación o decisión sobre el cuándo
+observar dependerá de en qué situaciones o circunstancias suelen presentarse as
+conductas objeto de interés -lo cual puede ser conocido a partir de información
+previa recogida a través de entrevistas, registros narrativos, observación asistemá-
+tica, etc.— y en las que su observación resulta de interés dentro de los actuales
+objetivos diagnósticos. Así, por ejemplo, se puede decidir observar la conducta en
+el aula del alumno estudiado en tres ocasiones a lo largo de la jornada escolar (pri-
+mera clase de la mañana, última clase de la mañana y primera clase de la tarde)
+con el fin de recoger información sobre este comportamiento en relación a distin-
+tos momentos de la jornada escolar, con distintos profesores y con diferentes
+
+materias del curriculum.
+
+La extensión o duración de los períodos de observación se fijará de forma
+que siempre se garantice la obtención de datos representativos sobre las conductas
+objeto de interés. Habitualmente, suelen fijarse entre 10 y 30 minutos. Siguiendo
+con el ejemplo, se puede decidir observar durante 20 minutos en las siguientes tres
+ocasiones: De 9:05 a 9:25, de 12:05 a 12:25 y de 16:05 a 16:25 en el transcurso de
+la jornada escolar.
+
+La frecuencia o cantidad de ocasiones en las que repetir los períodos de
+observación dependerá, igualmente, de que con el número de observaciones reali-
+zadas se consiga una muestra representativa de las conductas en estudio. En el
+ejemplo que se está manejando, se puede decidir que los anteriores períodos de
+observación se apliquen de lunes a viernes durante una semana.
+
+Registro de datos
+
+En el registro de eventos el registro de datos consiste en indicar las veces
+que ha ocurrido, durante el período de observación, cada una de las categorías
+conductuales contempladas en el sistema categorial que se haya elaborado. Esto
+
+se realiza conforme van teniendo lugar dichas conductas.
+
+. . .. . e
+Existen muy diversos procedimientos para cumplir con esta tarea, entr
+
+ellos, algunos que se sirven de sofisticados instrumentos electrónicos de registro-
+
+El procedimiento más sencillo y, por tanto, más asequible a cualquier obsela
+vador, consiste en una hoja de papel en la que, en una columna ajustada 4 a
+izquierda, se ponen las categorías de conducta y, frente a cada una de ellas, 56
+
+
+
+--- Page 56 ---
+ACEGISTROS OBSERVACIONALES E 73
+
+anotando, mediante algún tipo de señal (un punto, una rayita, una X, etc.), una de
+estas señales cada vez que ocurre dicha conducta.
+
+Tras el período de observación, se cuentan las señales correspondientes a
+cada categoría conductual y el número resultante es la frecuencia de aparición de
+cada una de ellas. A partir de aquí, suele ser habitual obtener la tasa de conducta o
+tasa de ocurrencia de cada categoría, que resulta de dividir la correspondiente fre-
+cuencia entre el tiempo de duración del período de observación expresado en
+minutos. ASí, si por ejemplo, una categoría conductual ha ocurrido 10 veces en el
+transcurso de un período observacional de 20 minutos, tendrá una tasa de conduc-
+ta o una tasa de ocurrencia de 10 : 20 = 0.5 ocurrencias por minuto.
+
+Otro dato interesante que se puede recoger mediante el registro de eventos
+es la duración de las conductas. Una forma sencilla de realizar este registro con-
+siste en anotar frente a cada categoría conductual, en lugar de la señal elegida para
+contabilizar su ocurrencia, el tiempo de duración de cada una de estas ocurrencias.
+El tiempo se suele medir en segundos mediante un cronómetro, que se pone en
+marcha cuando empieza la conducta y se para cuando aquélla termina. De este
+modo, contando, al final del período de observación, el número de tiempos regis-
+trados para cada conducta se obtiene la correspondiente frecuencia y, a la par, se
+tiene información sobre la duración de cada una de las conductas.
+
+La duración de una conducta será la suma de los tiempos que han ocupado
+sus ocurrencias. Supongamos que las 10 ocurrencias de la conducta del ejemplo
+anterior han ocupado los siguientes tiempos: 15, 13,20, 18, 25, 42, 30, 12, 29 y 36
+segundos, respectivamente. La duración de dicha conducta será de 240 seg = 4
+min. A partir de aquí, es habitual obtener la duración media de la conducta, divi-
+diendo el tiempo total entre el número de ocurrencias. En este cgsg,_240 :10=24
+seg. También, la tasa de duración de la conducta, que se halla dividiendo la dura-
+ción entre el total del período de observación y multiplicando por 100. En este
+caso, sería 4 : 20 = 0.2; 0.2 x 100 = 20%; es decir, esta categoría conductual ha
+
+ocupado el 20% del período observacional.
+
+En ciertas ocasiones puede ser, también, de inter í rel
+de la conducta, esto es, la medida del tiempo transcurrido entre la presentación de
+na categoría conductual de las sometidas a
+
+liza con un cronómetro, que se pone en
+a la conducta. El regis-
+
+erés el registro de la latencia
+
+un estímulo y la ocurrencia de algu
+
+estudio. La medida de esta latencia se rea !
+e omienz
+
+marcha cuando acaba el estímulo y se para cuando c
+
+
+--- Page 57 ---
+:
+
+tro se puede hacer escribiendo dicho tiempo entre paréntesis, previo al registro de
+la duración de la conducta correspondiente. ¡
+
+En los registros de eventos se puede registrar, además, si se desea, la intensj.
+dad con la que se produce cada categoría conductual cada vez que ocurre. Esto,
+evidentemente, requiere que con antelación se hayan definido claramente los dis-
+tintos niveles de intensidad. Aún así, en la apreciación de esta cualidad conductual
+juega un importante papel la subjetividad, como se puso ya de manifiesto a propó-
+sito de las escalas de estimación. En cualquier caso, el registro se puede hacer aso-
+ciando un tipo de señal distinto a cada nivel de intensidad. Así, por ejemplo, si se
+estableciesen los niveles de intensidad leve, intensidad moderada y de intensidad
+fuerte, la intensidad se podría registrar asociada a la frecuencia mediante una señal
+distinta; por ejemplo 1 para una ocurrencia leve, 2 para una ocurrencia moderada y
+3 para una ocurrencia intensa. Si se registrase, también, la duración, se podría escri-
+bir el tiempo en segundos para una ocurrencia leve; este tiempo, pero subrayado,
+para una ocurrencia moderada, y con doble subrayado para una ocurrencia intensa.
+
+5.3. Ejemplos de registros de eventos
+
+Cuadro 1.15
+
+Ejemplo de registro de eventos para un sistema de 4 categorías
+(sólo registro de frecuencias)
+
+
+--- Page 58 ---
+Cuadro 1.15
+
+(Continuación)
+
+Motivo de la observación: Recogida de información sobre la conducta social de Natalia
+durante el juego.
+
+Observador: P. J. R., Psicopedagogo/orientador del Centro.
+
+Instrucciones para el registro: Marcar con una rayita cada vez que sucede una de las cate-
+gorías conductuales siguientes
+
+Categorías Frecuencia Totales
+Juego solitario (JS) TA TI 7
+Juego paralelo (JP) TLTLI 11
+Juego cooperativo () I 2
+Juego no cooperativo (INC) TA TA TI 17
+
+Definición de las categorías.
+
+Juego solitario (JS): El niño juega sólo.
+Juego paralelo (JP): El niño juega en cercana proximidad a otro niño, pero cad.
+
+a uno
+trabaja en su tarea.
+
+Juego cooperativo (JC): El niño trabaja con otro niño en una tarea común.
+
+Juego no cooperativo (INC): El niño no trabaja cooperativamente con otro niño en una
+tarea común.
+
+En el Cuadro 1.15 se presenta un registro de eventos para un sistema de 4
+categorías, que se definen al final de dicho Cuadro. Cada vez que ha ocurrido una
+de estas conductas se ha hecho una rayita vertical frente a ella y cada 5 ocurren-
+cias se ha anotado mediante una línea diagonal cruzando las cuatro rayitas vertica-
+les previas. En la última columna aparecen los totales de frecuencias de las cate-
+gorías. A partir de estos datos se puede obtener la tasa de ocurrencia de cada
+categoría. Estas son las siguientes:
+
+— Para la categoría JS = 0.35 ocurrencias por minuto.
+— Para la categoría JP = 0.55 ocurrencias por minuto.
+— Para la categoría JC = 0.1 ocurrencias por minu.to.
+
+— Para la categoría INC = 0.85 ocurrencias por minuto.
+
+
+--- Page 59 ---
+76 M DISENO Y USO DE INSIRVUMENTO (Capítulo 1) p
+
+Como se verá, en el Cuadro 1.15 sólo se ha registrado la frecuencia de los
+eventos o conductas, anotando cada vez que sucedía cada uno de ellos. En el Cua-
+dro 1.16 se muestra el mismo ejemplo pero, en esta ocasión, se ha registrado, ade.
+más de la frecuencia, la duración de estos eventos o conductas. Cada vez que una
+categoría conductual ha sucedido, se ha anotado, en segundos, su duración. Cada
+
+ocurrencia se ha separado con una coma y cada grupo de cinco se ha separado con
+un punto y coma.
+
+En la penúltima columna (f) se presenta la frecuencia total de cada categoría
+durante el período de observación y en la última columna (d) se ofrece la duración
+total de cada uno de dichos eventos durante el período observado. A partir de estos
+últimos datos se puede obtener la duración media de cada uno de los eventos suce-
+didos. Estas son las siguientes:
+
+— Categoría JS = 31.28 seg.
+— Categoría JP = 30.90 seg.
+— Categoría JC = 19.00 seg.
+— Categoría INC = 32.94 seg.
+
+También, la tasa de duración de cada una de estas categorías conductuales.
+Estas son las siguientes:
+
+— Categoría JS = 18.25 %
+— Categoría JP = 28.33 %
+— Categoría JC =3.16 %
+
+— Categoría INC = 46.66%
+
+Las tasas de duración resultan ser datos muy interesantes, sobre todo si se
+comparan entre sí. En el ejemplo se ve que el chico objeto de observación ha ocu-
+pado el 46.66% del período observacional a juego no cooperativo, en tanto que
+sólo un 3.16% de ese tiempo lo ha dedicado a juego cooperativo.
+
+Finalmente, se advertirá que la suma de los tiempos dedicados por el sujeto
+a las categorías conductuales estudiadas suponen el 96.41% del tiempo rotal de
+observación. Esto quiere decir que durante el resto del tiempo observado, esto ES-
+el 3.59% del período de observación de 20 minutos, el sujeto ha mostrado ouras
+conductas no incluidas en el sistema categorial utilizado.
+
+
+--- Page 60 ---
+—
+
+Cuadro 1.16
+
+Ejemplo de registro de eventos para un sistema de 4 categorías
+(registro de frecuencia y duración)
+
+Fecha: 26-4-02
+
+Sujeto observado: Natalia P. F.
+
+Edad: 4 años 2 meses.
+
+Nivel académico: Educación infantil de 4 años.
+
+Lugar de observación: Sala de juegos.
+
+Actividad desarrollada: Juegos bajo la supervisión del profesor.
+Profesor/a: D.* M. F. H.
+
+Período de observación: De 10:30 a 10:50.
+
+Tiempo total de observación: 20 minutos.
+
+Motivo de la observación: Recogida de información sobre la conducta social de Natalia
+durante el juego.
+
+Observador: P. J. R., Psicopedagogo/orientador del Centro.
+
+Instrucciones para el registro: Anotar la duración, en segundos, de cada ocurrencia de las
+categorías utilizadas.
+
+Totales
+Categorías — Frecuencia (f) y duración (d) f d
+S 15, 23, 19,47, 32; 58,25 7 219
+JP 38, 29, 18, 50, 14; 45, 53, 27, 19, 30; 17 11 340
+C 16, 22 2 38
+INC 37,41, 18, 23, 14; 63, 58, 31, 14, 17; 45, 38, 27, 51, 17 560
+
+19; 38,26
+
+Definición de las categorías.
+
+Categorías definidas en el Cuadro 1.15
+
+Por último, en el Cuadro 1.17 se ofrece un registro de eventos para un siste-
+ma de 10 categorías, que incluye registro de frecuencias y duración. El sistema de
+categorías es el utilizado en el registro de intervalo del Cuadro 1.10 y la observa-
+ción está referida al mismo sujeto durante el mismo período observacional. El exa-
+men conjunto de los Cuadros 1.10 y 1.17 pone en evidencia el diferente tipo de
+
+
+--- Page 61 ---
+1D N III T YI 17% III III
+
+(Capítulo 1)
+
+información suministrado por uno y otro registro. El registro de intervalo informa
+de la secuencia temporal de las conductas y del número de intervalos en los que
+fue observada cada categoría conductual. El registro de eventos informa de las
+veces que cada categoría se ha presentado durante el período de observación y de
+la duración real de estas presentaciones. Este último posibilita, además, la obten-
+
+ción de datos muy útiles, como son la tasa de ocurrencia y la tasa de duración de
+cada categoría conductual. He aquí sus valores:
+
+Tasas de frecuencia:
+
+— Categoría IN = 0.25 ocurrencias por minuto.
+— Categoría FT = 0.40 ocurrencias por minuto.
+— Categoría NO = 0.10 ocurrencias por minuto.
+— Categoría MM = 0.30 ocurrencias por minuto.
+— Categoría MG = 0.20 ocurrencias por minuto.
+— Categoría FS = 0.30 ocurrencias por minuto.
+— Categoría AF = 0.05 ocurrencias por minuto.
+— Categoría AV = 0.10 ocurrencias por minuto.
+— Categoría SM = 0.15 ocurrencias por minuto.
+— Categoría AC = 0.30 ocurrencias por minuto.
+
+Tasas de duración:
+
+— Categoría IN = 10.50%
+— Categoría FT = 15.91%
+— Categoría NO = 2.83%
+— Categoría MM = 10.25%
+— Categoría MG = 7.92%
+— Categoría FS = 15.16%
+— Categoría AF = 1.08%
+
+— Categoría AV = 2.25%
+
+— Categoría SM = 2.58%
+
+— Categoría AC = 31.50%
+
+Se podrá advertir que en este ejemplo la suma de los tiempos dedicados por
+el sujeto a las categorías conductuales estudiadas suponen el 100% del riempo
+
+total de observación, dado que el sistema categórico cubre todas las conducia:
+posibles durante el período observacional.
+
+
+
+--- Page 62 ---
+A continuación, se facilita, también, la duración media de cada categoría
+conductual.
+
+— Categoría IN = 25.2 seg.
+
+— Categoría FT = 23.8 seg.
+
+— Categoría NO =17.0 seg.
+
+— Categoría MM = 20.5 seg:
+
+— Categoría MG = 23.7 seg.
+
+— Categoría FS = 30.3 seg.
+
+— Categoría AF = 13.0 seg.
+
+— Categoría AV = 13.5 seg.
+
+— Categoría SM = 10.3 seg.
+
+— Categoría AC = 63.0 seg.
+
+Cuadro 1.17
+
+Ejemplo de registro de eventos para un sistema de 10 categorías
+(registro de frecuencia y duración)
+
+
+--- Page 63 ---
+5.4, Virtualidades y carencias de los registros de eventos
+
+Los registros de eventos son capaces de facilitar información sobre un gran
+número de conductas de interés sin consumir mucho tiempo y de dar detalles
+importantes sobre estas conductas. Al tomar como unidad de medida a la conduc-
+ta, el registro de eventos da información sobre la frecuencia real que durante el
+período de observación ha tenido cada categoría conductual y sobre la duración
+real de cada ocurrencia comportamental y de cada categoría de conducta. Esto
+como se vio anteriormente, no es posible desde los registros de intervalo qué a
+tomar como unidad de medida al intervalo temporal, son insensibles a la capt
+ción de la globalidad y delimitación singular de cada acontecimiento C0nduºmal
+concreto.
+hay qué
+
+Entre las limitaciones más importantes de los registros de eventos e
+imen
+
+citar, no obstante, que su uso queda restringido a aquellas conductas rea ;
+: . ; . Cl
+discretas que tienen un comienzo y un final claros; que no captan la secuen
+
+
+--- Page 64 ---
+temporal de los acontecimientos y, por consiguiente, no permiten el registro de los
+antecedentes y consecuentes de las conductas; y que exigen del observador un alto
+grado de concentración durante todo el período observacional, sobre todo cuando
+se utilizan sistemas de un elevado número de categorías, que puede repercutir
+negativamente sobre el grado de concordancia interobservadores.
+
+6. CALIDAD DE LOS REGISTROS OBSERVACIONALES
+6.1. Factores condicionantes de la calidad observacional
+
+Los muchos factores que pueden afectar a la calidad de las observaciones
+caben ser comprendidos en tres grandes clases: Los relacionados con el observa-
+
+dor, los relacionados con el sujeto observado, y los relacionados con el procedi-
+miento de observación.
+
+En el Cuadro 1.18 se ofrece una síntesis de los principales factores condi-
+cionantes relativos a cada una de estas tres categorías.
+
+Cuadro 1.18
+
+Factores condicionantes de la calidad observacional
+
+
+--- Page 65 ---
+Cuadro 1.18
+
+(Continuación)
+
+— Sobreestimación de rasgos o conductas que apenas admite en sí mismo. El observad
+sobreestima en el niño referido los rasgos y conductas que apenas reconoce en sí misrn?,r
+
+= E-rmr lógico. El observador realiza juicios similares acerca de rasgos que parecen rela.
+cionarse de manera lógica.
+
+— Error de contraste. En rasgos específicos, el observador juzga que otros son más diferen-
+tes de sí mismo de lo que realmente son.
+
+— Error de proximidad. El observador juzga rasgos específicos como similares debido a
+que el formato de los juicios los coloca juntos en tiempo o espacio.
+
+— Efectos personales. Sin que lo sepa el observador, sus características personales (como
+edad, sexo, raza y estatus) afectan la conducta del niño referido.
+
+— Desvío del observador. Con el transcurso del tiempo, el observador cambia sus criterios
+(o umbrales) para juzgar la presencia o ausencia de una conducta debido a fatiga,
+aprendizaje, u otras variables.
+
+— Omisión. El observador no anota una conducta que se presentó.
+
+— Comisión. El observador codifica erróneamente una conducta.
+
+— Efectos de expectativa. Las expectativas del observador influyen lo que registra o espera
+que algo suceda y le comunica estas expectativas al niño.
+
+— Reactividad del observador. El observador cambia el registro de la conducta cuando es
+consciente de que se le observa.
+
+— Sugerencias no verbales. De manera no intencional, el observador le proporciona suge-
+rencias no verbales al sujeto referido, que actúan como reforzadores de ciertas conductas.
+
+Factores relacionados con el sujeto observado.
+
+— Reactividad del sujeto. La conducta del sujeto referido cambia como resultado del cono-
+cimiento de que se le observa.
+
+— Selección del rol. El sujeto referido adopta un rol particular como resultado del cono-
+cimiento de que se le observa. ;
+
+—La medición se vuelve un agente del cambio. El sujeto referido realiza un cambio |
+significativo en su conducta o actitudes como resultado de que se le mide y observa. |
+
+— Conjunto de respuesta. El sujeto referido responde de una manera que se conforma 4
+sugerencias del observador.
+
+— Desvío de la conducta. Continúa la conducta del sujeto, pero de modo que sé
+fuera de las definiciones utilizadas.
+
+desvía
+
+Factores relacionados con el procedimiento de observación.
+
+z 4 , ías con-
+— Falta de claridad en las definiciones de las categorías conductuales. Las categ0riaí seañ |
+|
+
+ductuales utilizadas deben estar definidas de manera clara y precisa, de modo 9u.v¡
+fácilmente identificables por el observador. La falta de claridad aumenta la subjet! !
+acerca de lo que hay que observar y la codificación errónea de las conductas.
+
+(¿onti'”w )
+
+
+--- Page 66 ---
+(A partir de Sattler, 1992).
+
+Evidentemente, la calidad de las observaciones se incrementará en la medi-
+da en que se controlen adecuadamente todos estos condicionantes. El manejo ade-
+cuado, por parte del observador, de los factores asociados a su propia actuación
+requiere, en primer lugar, que sea consciente de ellos y, en segundo lugar, que
+cuente con los suficientes recursos para controlarlos. Ambas cosas exigen el opor-
+tuno entrenamiento para que, durante el período observacional, el observador sea
+capaz de tener presentes sus propios condicionantes y los errores a los que le pue-
+den llevar y sea capaz de utilizar estrategias adecuadas al control de estos errores.
+Este entrenamiento, para ser efectivo, no basta con la formación inicial sino que
+debe tener un carácter continuo, dado que hay factores como el desvío del obser-
+vador, el efecto halo, la tendencia central y otros muchos de los que figuran en el
+Cuadro 1.18, cuyo adecuado control exige un reciclaje permanente que asegure la
+recalibración constate de sus registros observacionales. Es obvio que a este entre-
+
+namiento en habilidades observacionales básicas habrá que añadir, en Cada_oca-
+| procedimiento observacional
+
+sión, el entrenamiento específico en el manejo de ,
+1 sistema de categorías, con el
+
+concreto que se vaya a utilizar (familiaridad con €
+método de registro, etc.). '
+Respecto de los factores asociados al sujeto observado.se puede dec;rfqu;_,
+en términos generales, la mayoría de ellos se encuentr.an relacionados con € fent
+Meno de la reactividad, consistente En la autorregulación de la_cc_mducta porl e ec1 o
+de la sensación de sentirse observado. Este es un factor con_d1cwnante del a'cíe:
+dad observacional de primera magnitud, dado que afecta directamente al nuc
+
+
+--- Page 67 ---
+de la validez de la información obtenida. En efecto, la reactividad puede Provocar
+conductas “forzadas” durante el período observacional que, en absoluto, seap
+representativas de los comportamientos habituales del sujeto en las circunstancias
+situacionales de interés.
+
+La importancia de la reactividad sobre la validez de las observaciones exige
+que la ocurrencia o no de aquélla sea constatada en todo período observacional,
+Haynes y Horn (1982) sugieren el empleo de los siguientes indicadores para com-
+probar esa ocurrencia:
+
+— La producción de cambios sistemáticos en la conducta a partir de la pre-
+sencia del observador.
+
+— El incremento en la variabilidad de la conducta, no explicable por varia-
+ciones ambientales distintas a la presencia del observador.
+
+— Declaraciones de los sujetos observados manifestando que cambiaron su
+conducta al sentirse observados.
+
+— Las discrepancias entre diferentes registros sobre las mismas conductas
+obtenidos bajo condiciones observacionales distintas (por ejemplo, obser-
+vación realizada por un observador no participante; por un observador par-
+ticipante; por una persona allegada al sujeto, como padres, hermanos, pro-
+fesores, compañeros, etc; o realizada mediante dispositivos ocultos y/oa
+distancia, como cámaras de televisión, teleobjetivos, espejos unidireccio-
+nales, etc.).
+
+La reactividad, aunque difícilmente es evitable por completo (Harris Y
+Lahey, 1982), sí que es susceptible de reducir. Las precauciones que distintos
+autores sugieren [por ejemplo Nay (1979) y Kazdin (1979)] como acciones ff“'º'
+recedoras de la reducción de la reactividad pasan todas por minimizar, en lo posible.
+el valor del observador como estímulo. Entre ellas se pueden citar:
+
+— Convertir en habitual la presencia del observador entre los sujetos g
+serán objeto de observación. 5. del
+
+— Integrar la actividad del observador entre los elementos rutinar1o
+entorno. 1e
+
+— El observador debe hacer notar su presencia lo menos posible. Esto n;e
+ye desde la discreción en el vestir a su ubicación espacial, que "0 recio
+interferir la tarea de los sujetos, a la evitación del contacto visua ,
+
+
+
+--- Page 68 ---
+con el sujeto observado o a la restricción de cualquier interacción con los
+observados, de modo que pase lo más inadvertido posible.
+
+— El observador debe situarse en el entorno donde se va a llevar a cabo la
+observación en el momento en el que su entrada cause menos distorsión.
+Así, por ejemplo, se evitará entrar cuando una actividad esté ya iniciada.
+
+Las anteriores precauciones están enfocadas al empleo de observadores no
+participantes. Sin embargo, en la medida de lo posible, se tenderá a utilizar obser-
+vadores participantes —que participan como un elemento activo más de la realidad
+natural del sujeto observado—, cuya labor observadora deberá hacerse de la mane-
+
+ra más inadvertida para el observado.
+Finalmente, un modo más rotundo de reducir el valor del observador como
+estímulo está en el empleo de procedimientos de observación ocultos y/o a distan-
+
+cia. En estos casos, aparte de los requerimientos técnicos, han de tenerse especial-
+mente en cuenta las exigencias éticas que su uso conlleva, entre las que se encuen-
+
+tra la previa autorización del interesado o de sus representantes legales tras el pleno
+conocimiento de qué es lo que se va a observar, cuándo, en qué circunstancias y
+cómo, y cuál es el uso que se le va a dara la información recogida mediante tales
+
+medios.
+En cuanto a los condicionantes asociados al procedimiento de observa-
+
+ción, está claro que la calidad de las observaciones se incrementará en la medida
+
+En que:
+
+—Las categorías conductuales utilizadas estén definidas de manera clara e
+
+ineguívoca.
+—El sistema de categorías no exceda la capacidad del observador para
+observar y registrar con precisión y seguridad las categorías que com-
+
+prenda. E , ,
+— Los requerimientos al observador sobre las características o dimensiones
+de las conductas a observar y registrar, en el tiempo que debe 1?:C;rlº y
+respecto de los sujetos que debe hacerlo, no excedan de su capacidad para
+realizar estas tareas con seguridad y precisión. ,
+—Los períodos y entornos de observación seleccionados proporcionen una
+
+Muestra de conducta adecuadamente representativa. -
+miento de los instrumentos
+
+—Se haya comprobado el correcto funcionam a
+mecánicos que se utilicen para auxiliar en el registro de datos.
+
+
+
+--- Page 69 ---
+— El observador haya recibido el entrenamiento conveniente para utilizar d,
+forma correcta y eficiente el procedimiento observacional concreto
+emplear en la recogida de información.
+
+6.2. La concordancia interobservadores como control de la calidad
+observacional
+
+La calidad de las observaciones, al menos en lo que respecta a fiabilidad,
+cabe ser controlada mediante la concordancia interobservadores. Esta concordan-
+cia puede ser establecida a priori de manera consensuada, o calculada cuantitati-
+vamente a posteriori (Anguera, 1994).
+
+La concordancia consensuada a priori, que cada vez está adquiriendo un
+mayor uso, consiste en la contrastación, previa al registro, del criterio de dos o
+más observadores respecto a la asignación de cada conducta a las distintas catego-
+rías del sistema categórico utilizado. Esto requiere que la conducta se haya graba-
+do previamente en vídeo y es el visionado de esta grabación el que sirve de sopor-
+te para la catalogación negociada de la conducta. A partir de aquí, se obtiene un
+registro único consensuado y una definición de las categorías más precisa en orden
+a la correcta clasificación de las conductas entre las categorías propuestas.
+
+La concordancia a posteriori se refiere a la obtención de la cantidad de
+acuerdo que hay entre los registros de dos o más observadores. Esto supone qué
+cada observador ha realizado su registro independientemente de los demás y, con
+posterioridad, se trata de establecer en qué medida estos registros son equivalentes.
+
+' Existen múltiples procedimientos estadísticos para estimar la concordancia
+interobservadores a posteriori y, aunque no existe un consenso sobre cuál puede
+ser el más adecuado, parece que los de mayor uso son el porcentaje de acuerdo Y
+
+el e?tafilstico kappa (Bakeman y Gottman, 1987).Veamos, a continuación, los pro
+cedimientos para el cálculo de uno y otro.
+
+Procedimientos para el cálculo del porcentaje de acuerdo
+
+El po: j .
+n p rcc?ntaje de acuerdo es un estadístico que puede ser estimado en =
+n a los registros de las escalas de
+
+, estimaci j intervalo Y
+los registros de eventos: ción, de los registros de inte
+
+
+--- Page 70 ---
+porcentaje de acuerdo en los registros de escalas de estimación
+
+Se utiliza la siguiente fórmula:
+
+A
+%A=— —Xx1
+A+D 00, donde
+
+%A = Porcentaje de acuerdo o de concordancia en el registro de escala de
+estimación para el número total de categorías.
+A = Número de escalas en las que ambos observadores concordaron en
+
+cuanto a la calificación.
+D = Número de escalas en las que hubo desacuerdo en la calificación otor-
+
+gada por los observadores.
+
+Veamos la aplicación de la fórmula con el siguiente ejemplo:
+
+íodo de observación de 20 minutos, dos observadores cumpli-
+mentaron una escala de estimación con 12 categorías a calificar sobre una escala
+de 4 puntos relativa a la intensidad con la que ocurrió la conducta. Ambos obser-
+vadores coincidieron en la calificación que otorgaron a 7 de las categorías, en tanto
+que hubo desacuerdo en la calificación otorgada a las 5 restantes. El porcentaje de
+
+acuerdo será:
+
+Tras un per
+
+» 100 = 58.33%
+
+Xe
+% 7+53
+
+Esto es, entre los registros efectuados por los dos observadores existe un
+
+58.33 % de acuerdo.
+
+e intervalo
+
+acuerdo cabe ser calculado
+o intervalos; respecto sólo de los intervalos
+a de la conducta por al menos uno de los
+s intervalos en los que se ha registrado la
+
+s uno de los dos observadores.
+
+entaje de acuerdo
+
+Porcentaje de acuerdo en los registros d
+
+En los registros de intervalo, el porcentaje de
+
+respecto del total de las observaciones
+en los que se ha registrado la ocurrenci
+dos observadores; o respecto sólo de lo:
+NO ocurrencia de la conducta por al meno:
+porc
+siguiente:
+
+j : sobre las observacio-
+En el primer caso, denominado
+
+n £ .1.
+es totales, la fórmula a utilizar s la
+
+
+
+--- Page 71 ---
+1- )- A T A
+
+%A=—A——>< 100, donde
+A+D
+
+%A = Porcentaje de acuerdo o de concordancia para el número total de
+intervalos.
+A = Número de intervalos en los que ambos observadores coincidieron en
+registrar la conducta como ocurrida o en registrarla como no ocurrida.
+D = Número de intervalos en los que ambos observadores estuvieron en
+
+desacuerdo en registrar la conducta como ocurrida o en registrarla
+como no ocurrida.
+
+Veamos la aplicación de la fórmula con el siguiente ejemplo:
+
+En un registro de 60 intervalos de observación de 15 segundos seguidos por
+intervalos de registro de 5 segundos, que ocupó un período observacional de 20
+minutos, y en el que se observó la ocurrencia o no ocurrencia de 10 categorías
+conductuales, los registros de dos observadores fueron coincidentes en 45 interva-
+los y no en los 15 restantes respeto de la categoría IN (ver Cuadro 1.10). El por-
+centaje de acuerdo en el registro de la categoría IN será:
+
+45
+
+WA=— —
+45+15
+
+x 100 = 75%
+
+Como es obvio, para cada categoría conductual habría que calcular el corres-
+
+pondiente porcentaje de acuerdo. Para el total de categorías se puede obtener el
+porcentaje promedio de todos los anteriores.
+
+El segundo caso, denominado porcentaje de acuerdo sobre las ocurrencias,
+sólo tiene en cuenta aquellos intervalos en los que al menos uno de los dos observa-
+dores ha registrado la ocurrencia de la conducta. Este tipo de porcentaje de acuerdo
+es más recomendable cuando los observadores han registrado la ocurrencia de la
+conducta en un reducido número de intervalos, dado que en estas circunstancias el
+porcentaje de acuerdo sobre las observaciones totales puede dar una estimación dis
+torsionada, al alza, de la tasa de concordancia. La fórmula a utilizar es la siguien'e'
+
+A
+(a) A — —
+7 D x 100, donde
+
+
+--- Page 72 ---
+= AE
+
+%A = P0rcentajeí de)acuerdo o de concordancia para los intervalos en los
+que se registró la ocurrencia de la conducta por alguno de los obser-
+vadores,
+
+A = Número .de intervalos en los que ambos observadores registraron la
+ocurrencia de la conducta.
+
+D= Nums:ro de intervalos en los que sólo un observador registró la ocu-
+rrencia de la conducta.
+
+Veamos la aplicación de la fórmula con el siguiente ejemplo:
+
+En el registro de intervalo del ejemplo anterior, la categoría AF (ver Cua-
+dro 1.10) fue registrada como ocurrida en 7 intervalos por un observador y en 5 inter-
+valos por un segundo observador, de los que 4 intervalos son comunes a ambos regis-
+tros. El porcentaje de acuerdo en el registro de la ocurrencia de la categoría AF será:
+
+% A= x 100 = 50%
+
+4+4
+
+[Obsérvese que D = 4, dado que el primer observador registró la ocurrencia
+de la categoría en 7 — 4 =3 intervalos no coincidentes con el segundo observador
+y éste registró la ocurrencia en 5 —4=1 intervalos no coincidentes con aquél.
+Luego, D=3+1=4.
+
+El tercer caso, denominado porcentaje de acuerdo sobre las no ocurrencias,
+sólo tiene en cuenta, de forma contraria al anterior, aquellos intervalos en los que
+al menos uno de los dos observadores ha registrado la no ocurrencia de la conduc-
+ta. Este tipo de porcentaje de acuerdo es más apropiado cuando los observadores
+
+han registrado la no ocurrencia de la conducta en un reducido número de interva-
+de acuerdo sobre las observa-
+
+los, dado que en estas circunstancias el porcentaje
+al alza, de la tasa de
+
+ciones totales puede dar una estimación distorsionada,
+concordancia. La fórmula a utilizar es la siguiente:
+
+x 100, donde
+
+% A =
+, A+D
+cordancia para los intervalos en los
+
+%A = Porcentaje de acuerdo o de con
+a de la conducta por alguno de los
+
+que se registró la no ocurrenci
+observadores.
+
+
+
+--- Page 73 ---
+A = Número de intervalos en los que ambos observadores registraron la no
+ocurrencia de la conducta.
+
+D = Número de intervalos en los que sólo un observador registró la no
+ocurrencia de la conducta.
+
+Veamos la aplicación de la fórmula con el siguiente ejemplo:
+
+En el registro de intervalo del ejemplo anterior, la categoría FT (ver Cua-
+dro 1.10) fue registrada como no ocurrida en 8 intervalos por un observador y en
+7 intervalos por un segundo observador, de los que 6 intervalos son comunes a
+ambos registros. El porcentaje de acuerdo en el registro de la no ocurrencia de la
+categoría FT será:
+
+Ó
+
+WA= 6 x 100 = 66.66%
+
+[Obsérvese que D = 3, dado que el primer observador registró la no ocurren-
+cia de la categoría en 8 — 6 =2 intervalos no coincidentes con el segundo observa-
+dor y éste registró la no ocurrencia en 7 — 6 = 1 intervalos no coincidentes con
+aquél. Luego, D =2+1=3].
+
+Porcentaje de acuerdo en los registros de eventos
+
+En los registros de eventos, el porcentaje de acuerdo puede ser calculado
+respecto de aquellas dimensiones de la conducta cuyo registro haya sido conside-
+rado de interés. Las más habituales son la frecuencia y la duración, por lo que, a
+continuación, haremos referencia a los porcentajes de acuerdo relacionados con
+estas dimensiones de la conducta.
+
+El porcentaje de concordancia en el registro de la frecuencia de eventos
+viene dado por la siguiente fórmula:
+fme
+
+D A=
+fma
+
+x 100, donde
+
+%A = Porcentaje de acuerdo o de concordancia en el registro de la frecuen-
+
+cia de una conducta. |
+fme = Frecuencia menor o frecuencia del observador que ha registrado un
+
+menor número de ocurrencias de la conducta.
+
+
+
+--- Page 74 ---
+fma = Frecuencia mayor o frecuencia del observador que ha registrado un
+mayor número de ocurrencias de la conducta.
+
+Veamos la aplicación de la fórmula con el siguiente ejemplo:
+
+En un registro de eventos de 4 categorías, que ocupó un período observacio-
+nal de 20 minutos, la categoría JNC (ver Cuadro 1.15) fue registrada en 17 ocasio-
+nes por un observador y en 14 ocasiones por un segundo observador. El porcentaje
+de acuerdo en el registro de la frecuencia de la categoría INC será:
+
+14
+%A =íx 100 = 82.35%
+
+Como es evidente, para cada categoría conductual habría que calcular el
+correspondiente porcentaje de acuerdo. Para el total de categorías se puede obte-
+
+ner el porcentaje promedio de todos ellos.
+
+El porcentaje de concordancia en el registro de la duración de eventos
+
+viene, a su vez, dado por la siguiente fórmula:
+
+me . 100, donde
+
+% A =
+tma
+
+%A = Porcentaje de acuerdo o de concordancia en el registro de la duración
+de una conducta.
+
+tme = Duración menor 0 duración
+menor duración de la conducta..
+
+tma = Duración mayor o la del observador que ha re
+
+duración de la conducta.
+
+del observador que ha registrado una
+
+gistrado una mayor
+
+Veamos la aplicación de la fórmula con el siguiente ejemplo:
+
+En el registro de eventos del ejemplo anterior, la categoría INC (ver Cua-
+dro 1.16) fue registrada como ocurrida durante 560 segundos a lo largo del período
+de observación por un observador y como ocurrida durante 485 segundos por un
+
+do en el registro de la duración de la
+
+segundo observador. El porcentaje de acuer
+“ategoría INC será:
+
+
+--- Page 75 ---
+%A=£X 100 = 86.6%
+560
+
+Procedimientos para el cálculo de kappa
+
+El porcentaje de acuerdo es el tipo de índice de concordancia interobserya-
+dores más utilizado. Sin embargo, tiene el incoveniente de no tomar en cuenta la
+concordancia aleatoria; esto es, la debida al azar y no a la verdadera coincidencia
+de los observadores en el registro de las observaciones, como resultado de emple-
+ar criterios similares. Aún así, el uso del porcentaje de acuerdo como índice de
+concordancia resulta de gran utilidad, sobre todo, como una rápida verificación
+preliminar del nivel de concordancia interobservadores.
+
+Cuando se quiere, no obstante, controlar el acuerdo aleatorio, el estadístico
+más utilizado es kappa (Cohen, 1960, 1968). Kappa (K) es un estadístico que indi-
+ca la proporción de acuerdo entre dos o más observadores, que tiene en cuenta la
+corrección de la concordancia aleatoria. El valor de £ puede situarse entre +1 y 1.
+Cuando el valor de k es positivo, ello indica que la proporción debida a la concor-
+dancia real entre los observadores es mayor que la proporción de concordancia
+debida al azar y, por consiguiente, a mayor valor de k mayor acuerdo interobserva-
+cional. Por el contrario, cuando k es negativo, ello indica que la proporción debida
+a la concordancia real entre los observadores es menor que la proporción de
+concordancia debida al azar y, por tanto, a mayor valor de k mayor concordancia
+
+aleatoria. Cuando k es igual a 0, es indicativo de que la proporción debida a acuer-
+do real interobservadores y la proporción debida al azar son iguales.
+
+La fórmula general de kappa para dos observadores es la siguiente:
+
+k= M, donde
+1- Pa
+
+Po = proporción de concordancia observada
+Pa = proporción de concordancia aleatoria
+
+Veamos, a continuación, el cálculo de k para el registro de intervalo ºJº":)pg¡_
+ficado en el Cuadro 1.9. Para ello, en el Cuadro 1.19 se ofrecen los datos m
+dos por un segundo observador.
+
+
+
+--- Page 76 ---
+Cuadro 1.19
+
+gistro de intervalo
+
+Datos recogidos por un segundo obervador para el re
+
+del Cuadro 1.9
+
+…… ---—-—-—-—-—-— dE
+
+----—-—-—-—-—-—- :
+E| |
+
++
+g D 4 >
+
+
+
+--- Page 77 ---
+A partir de la información proporcionada en ambos Cuadros, el cálculo de
+Po de la tórmula anterior requiere obtener el número de coincidencias de los dos
+observadores en cada una de las categorías; esto es:
+
+— Número de conductas catalogadas por ambos observadores como CT = 13,
+— Número de conductas catalogadas por ambos observadores como FTP = 20,
+— Número de conductas catalogadas por ambos observadores como FTD =7,
+
+Po es la suma de coincidencias, en las categorías del sistema categórico uti-
+lizado, dividida entre el total de intervalos.
+
+Así,
+
+pa = FE s
+60
+
+Pa se obtiene al sumar los productos de los totales de los dos observadores
+para cada categoría y dividir el resultado entre el cuadrado del número total de
+intervalos. Así, dado que los totales de la categoría CT son 20 para el primer
+observador y 22 para el segundo; los totales de la categoría FTP son 32 para el pri-
+mer observador y 25 para el segundo, y los totales de la categoría FTD son 8 para
+el primer observador y 13 para el segundo,
+
+Pa = (20 x 22) + (32 x 25) + (8 x 13) _
+
+5 0.37
+60 .
+Luego,
+- _075_—037 = 0.60
+1-0.37
+
+Para unos mismos datos, k da una estimación más conservadora del 3º“*_ºfdº
+interobservadores que la ofrecida por el porcentaje de acuerdo, debido a qué tiene
+en cuenta la corrección de la concordancia aleatoria. En general, se considera Quí
+existe una concordancia interobservadores aceptable a partir de un K = 0.70. En
+
+caso del porcentaje de acuerdo, esta aceptabilidad se sitúa a partir del 80%.
+n nivel acept?”
+
+Hay que tener en cuenta, sin embargo, que la obtención de u Jos datos:
+os
+
+ble de concordancia interobservadores no garantiza la exactitud de
+
+
+--- Page 78 ---
+A B a E
+
+Puede suceder que el alto nivel de acuerdo obtenido en los registros de dos obser-
+
+vadores sea, en una parte importante, debido a que ambos compartan el mismo
+tipo de vicios, errores o tendencias en sus observaciones.
+
+Volviendo a kappa, en Conger (1980) y en Uebersax (1982) se pueden
+encontrar fórmulas para aplicar en caso de múltiples observadores, múltiples cate-
+
+gorías e, incluso, para el caso de datos incompletos. Igualmente, en Oud y Sattler
+(1984) se expone un programa informático para realizar todos estos cálculos.
+
+
