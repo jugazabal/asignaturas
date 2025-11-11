@@ -1,0 +1,333 @@
+---
+title: "El Papel de la Familia en la Atención Temprana"
+subtitle: "Actividad 1 - Atención Temprana y Orientación Familiar"
+author:
+  - name: "Juan Marcos García Aranzábal"
+    affiliation: "UNED - Máster en Formación del Profesorado"
+date: today
+date-format: "D [de] MMMM [de] YYYY"
+lang: es
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 12pt
+    geometry: 
+      - margin=2.5cm
+    linestretch: 1.5
+    cite-method: biblatex
+    keep-tex: true
+    number-sections: false
+bibliography: references.bib
+csl: apa.csl
+---
+
+# Introducción
+
+La Atención Temprana (AT) ha experimentado una profunda transformación desde sus inicios en los años 60. Como señalan @garcia2014, se trata de una disciplina muy joven, con apenas seis décadas de historia, que está en constante evolución buscando nuevos enfoques para desarrollar prácticas y programas cada vez más efectivos. En este contexto, la pregunta sobre **¿qué papel podría desempeñar la familia en la AT? y ¿qué es la AT centrada en la familia?** resulta fundamental para comprender el cambio de paradigma que actualmente vivimos en España y en muchos otros países.
+
+El Libro Blanco de la Atención Temprana [@gat2000] ya planteaba la necesidad de que los servicios de AT atiendan no solo las necesidades del niño, sino también las de su familia y su entorno. Sin embargo, la transición desde el modelo tradicional centrado en el niño hacia un modelo verdaderamente centrado en la familia requiere una profunda reflexión sobre los roles, las prácticas profesionales y la comprensión misma del desarrollo infantil en su contexto natural.
+
+Este trabajo analiza el papel que la familia puede y debe desempeñar en la AT, fundamentando la respuesta en el marco teórico actual y en la evidencia científica disponible, para posteriormente explicar en qué consiste la AT centrada en la familia como enfoque que representa el futuro de esta disciplina.
+
+# El Papel de la Familia en la Atención Temprana
+
+## Evolución Histórica del Rol Familiar
+
+La historia de la AT refleja una evolución significativa en la concepción del papel de la familia. @garcia2014 identifican tres etapas claramente diferenciadas:
+
+**Modelo centrado en el niño (años 60-70)**: En el nacimiento de la disciplina, el eje de toda la intervención era el niño, con quien se trabajaba desde una perspectiva meramente rehabilitadora. El profesional ejercía como único "experto" en el desarrollo del niño y la familia mantenía un rol completamente pasivo. Este modelo, denominado de "terapeuta-experto" [@espe2008], dejaba a la familia al margen de las decisiones y del proceso terapéutico.
+
+**Modelo de familia como coterapeuta (años 80-90)**: Se reconoció que dejar a la familia al margen era una mala praxis, especialmente considerando que la familia es el principal componente clave para el desarrollo del niño en todas sus facetas [@castellanos2003]. Sin embargo, la solución inicial fue hacer que los padres reprodujeran en el hogar los modelos terapéuticos de intervención o rehabilitación. Esta práctica demostró su ineficacia: generaba estrés en los padres, provocaba respuestas negativas a las demandas de los hijos y les hacía perder el importante rol parental que se buscaba aprovechar [@garcia2014].
+
+**Modelo centrado en la familia (actualidad)**: El reconocimiento de los problemas del modelo anterior llevó a replantear las estrategias de intervención, surgiendo el enfoque de servicios centrados en la familia. Este modelo, con amplia fundamentación teórico-práctica y extensa evidencia documentada [@dunst2007], representa el paradigma actual hacia el que España y otros países están transitando.
+
+## La Familia como Elemento Multidimensional
+
+Para comprender el papel que debe desempeñar la familia en AT, @castellanos2003 proponen entenderla desde cuatro dimensiones complementarias:
+
+### Cliente del Servicio
+
+La familia no es solo el entorno del niño; es cliente del servicio con **necesidades propias que deben ser atendidas**. Cuando nace un niño con necesidades de AT o se detecta una situación de riesgo, toda la familia atraviesa un proceso de ajuste emocional, informativo y organizativo. El impacto del diagnóstico, las preocupaciones sobre el futuro, las necesidades de información y apoyo emocional son aspectos que requieren atención profesional especializada [@diaz2019].
+
+El servicio de AT debe responder a estas necesidades familiares reconociendo que el bienestar de la familia es condición necesaria para el adecuado desarrollo del niño. Una familia que recibe apoyo adecuado a sus necesidades está en mejor disposición para apoyar a su hijo.
+
+### Responsable Legal y Portadora de Derechos
+
+La familia es la **responsable legal del niño** y, como tal, portadora de derechos que deben ser respetados [@boe2025]. Esto implica:
+
+- Derecho a recibir información completa, comprensible y veraz sobre el desarrollo de su hijo
+- Derecho a participar activamente en todas las decisiones que afecten al niño
+- Derecho a aceptar o rechazar determinadas intervenciones
+- Derecho a la confidencialidad y respeto a sus valores y creencias
+- Derecho a elegir entre diferentes opciones de intervención cuando estén disponibles
+
+La intervención en AT no puede desarrollarse al margen de estos derechos fundamentales. El profesional no puede sustituir a la familia en la toma de decisiones, sino que debe proporcionar información y orientación para que la familia pueda ejercer su responsabilidad de forma informada.
+
+### Recurso Imprescindible
+
+La familia constituye un **recurso absolutamente imprescindible** para el desarrollo del niño por múltiples razones [@garcia2014]:
+
+- **Generadora de vínculos afectivos**: El apego seguro es la base del desarrollo socioemocional del niño. La familia proporciona las relaciones de apego fundamentales que ningún profesional puede suplir.
+
+- **Facilitadora de la comunicación**: Los padres conocen las señales comunicativas sutiles de su hijo, su forma particular de expresar necesidades y emociones, facilitando la comunicación incluso en casos de graves limitaciones.
+
+- **Elemento altamente motivante**: Los padres y hermanos son las personas más significativas para el niño, lo que los convierte en los agentes más motivadores para promover su desarrollo.
+
+- **Entorno natural del niño**: El hogar familiar es el contexto en el que el niño pasa la mayor parte de su tiempo y donde se desarrollan las rutinas cotidianas que constituyen las mejores oportunidades de aprendizaje [@mcwilliam2010].
+
+### Agente Activo de la Intervención
+
+La familia debe ser **agente activo y protagonista imprescindible** para el desarrollo de un modelo ecológico de intervención que supere el enfoque de esporádicas sesiones ambulatorias [@garcia2014]. Este rol implica:
+
+- Participación activa en la identificación de prioridades y objetivos
+- Implementación de estrategias de apoyo al desarrollo en las rutinas cotidianas
+- Observación y registro de los avances del niño en diferentes contextos
+- Toma de decisiones informadas sobre la evolución del programa de intervención
+- Transferencia de competencias para asegurar la sostenibilidad de los logros
+
+## Consideraciones previas al diagnóstico: pautas generales (apartado 2.1)
+
+En el proceso de identificación y evaluación de posibles dificultades en los primeros años de vida, Ibáñez y Mudarra señalan una serie de pautas generales que deben orientar la valoración del desarrollo evolutivo del niño (@ibanez2014). Estas pautas enfatizan una visión global, contextual y funcional del diagnóstico y sirven de guía práctica para profesionales y familias.
+
+### Principales orientaciones (síntesis de 2.1)
+
+- Adoptar una perspectiva global del desarrollo: el desarrollo es un proceso dinámico resultado de la interacción entre factores genéticos y ambientales; por tanto, la valoración debe integrar dimensiones biológicas, psíquicas y sociales, y no limitarse a aspectos aislados (cognitivos, motores o del lenguaje).
+- Priorizar la prudencia y la mirada longitudinal: las evaluaciones puntuales pueden conducir a errores de interpretación. Es necesario interpretar los resultados con cautela y considerar la evolución temporal (posibles estancamientos, aceleraciones o recuperaciones naturales).
+- Evaluar la funcionalidad de las conductas: más que etiquetar como "normal" o "patológico", conviene identificar qué conductas resultan funcionales en el contexto actual del niño y cuáles limitan su adaptación o aprendizaje.
+- Buscar los puntos fuertes: ante un desfase o dificultad, identificar las competencias conservadas del niño ofrece pistas valiosas para diseñar intervenciones más eficaces y centradas en potenciar capacidades.
+- Integrar el contexto familiar y socioafectivo: la observación en entornos naturales y la información aportada por la familia son esenciales para contextualizar el rendimiento y las respuestas del niño.
+
+### Indicadores y uso de referentes evolutivos
+
+La valoración debe apoyarse en indicadores de un patrón evolutivo normalizado (hitos del desarrollo, patrones posturales, sensoriales y actitudinales) que sirvan como referentes para detectar desfases. Sin embargo, estos referentes se deben interpretar con flexibilidad, teniendo en cuenta la individualidad del niño y la posibilidad de perfiles disarmónicos.
+
+### Objetivos operativos del diagnóstico en Atención Temprana
+
+Según la guía del texto básico, el diagnóstico psicopedagógico en AT persigue tres objetivos operativos fundamentales:
+
+1. Cribar: identificar a los niños que puedan hallarse en situación de riesgo, mediante la detección precoz de señales de alerta.
+2. Diagnosticar: establecer capacidades y posibles alteraciones, determinando áreas que requieran evaluación más profunda.
+3. Derivar/recomendar: proponer estrategias de intervención adecuadas (incluyendo derivaciones a otros profesionales) y pautas para su seguimiento.
+
+Estos objetivos refuerzan la idea de un diagnóstico orientado a la intervención: no se trata solo de clasificar, sino de generar información útil para planificar apoyos efectivos en contextos naturales.
+
+## Fundamentos Neuropsicológicos del Papel Familiar
+
+### Aprendizaje Infantil en Contexto Natural
+
+La neurociencia proporciona una sólida fundamentación del papel central de la familia en AT. Como explican @garcia2014, los niños aprenden mejor:
+
+- **Poco a poco y con repetición**: A través de experiencias reiteradas, no en sesiones aisladas e intensas
+- **Guiados por su propia iniciativa**: Cuando son ellos quienes planifican las interacciones con objetos y personas que les motivan
+- **En contextos significativos**: Las habilidades se aprenden y generalizan mejor en situaciones cotidianas con significado funcional
+- **En sus entornos habituales**: Donde el sistema nervioso tiene más posibilidades de planificar autónomamente las interacciones
+- **Con las personas que quieren**: El vínculo afectivo potencia la motivación y el aprendizaje
+
+El tratamiento ambulatorio, por muy bien planificado que esté, constituye una situación artificial, una "simulación" del entorno natural. En esas situaciones el niño responde más a la planificación del adulto profesional que a su propio interés [@garcia2014].
+
+### Oportunidades de Aprendizaje
+
+Si comparamos el tiempo de oportunidades de aprendizaje, la diferencia entre el modelo ambulatorio y el modelo centrado en la familia es abismal. Como ilustra la figura frecuentemente citada en la literatura [@garcia2014], un niño que recibe dos sesiones semanales de 45 minutos de tratamiento ambulatorio acumula aproximadamente 72 horas anuales de intervención. En contraste, si trabajamos para que la familia genere oportunidades de aprendizaje en las rutinas cotidianas, podemos estar hablando de miles de horas anuales de experiencias de aprendizaje contextualmente mediadas.
+
+Esta realidad matemática refuerza la necesidad de invertir el esfuerzo profesional en capacitar a la familia como generadora de oportunidades de aprendizaje, en lugar de concentrar toda la intervención en las limitadas horas de tratamiento ambulatorio.
+
+### Capacidad de Cambio: Niño vs. Adulto
+
+Un argumento fundamental para centrar el esfuerzo profesional en la familia es la diferente forma de aprender de niños y adultos [@garcia2014]:
+
+**Los niños** aprenden a lo largo de todo el día, poco a poco, a base de repetición y especialmente a través de un aprendizaje contextualizado. No aprovechan bien el aprendizaje en lecciones aisladas, por muy intensas que sean.
+
+**Los adultos**, en contraste, sí son capaces de aprender en lecciones aisladas e intensas, en poco tiempo, especialmente si el aprendizaje les motiva e interesa. Los profesionales tenemos más capacidad de provocar cambios en el adulto que en los propios niños, especialmente si nos formamos adecuadamente en principios andragógicos [@garcia2014].
+
+Por tanto, resulta lógico dirigir los esfuerzos del profesional a provocar mejoras y potenciar competencias en los adultos del entorno del niño, para que ese entorno genere muchas, variadas y productivas oportunidades de aprendizaje contextualmente mediadas.
+
+# La Atención Temprana Centrada en la Familia
+
+## Definición y Características
+
+La AT centrada en la familia es un enfoque que reconoce que **en la familia del niño y en su entorno inmediato podemos encontrar y potenciar los recursos y competencias necesarias para generar un entorno competente** que facilite el desarrollo del niño [@perpinan2009; @garcia2014].
+
+Este enfoque no busca convertir a la familia en terapeutas que reproduzcan en el hogar patrones de intervención terapéutica, sino **asegurar oportunidades de aprendizaje en actividades plenamente contextualizadas**, insertadas de forma natural en las rutinas diarias de esa familia [@mcwilliam2010].
+
+### Principios Fundamentales
+
+@diaz2019 y @garcia2014 identifican los siguientes principios fundamentales de la AT centrada en la familia:
+
+1. **La familia como experta en su hijo**: Nadie conoce mejor al niño que su propia familia. Los padres son expertos en las necesidades, preferencias, fortalezas y características únicas de su hijo.
+
+2. **Respeto por las prioridades familiares**: Los objetivos de intervención deben reflejar las prioridades identificadas por la familia, no solo las prioridades profesionales.
+
+3. **Fortalecimiento de competencias familiares**: El objetivo no es que la familia dependa del profesional, sino desarrollar y fortalecer sus competencias para que puedan apoyar el desarrollo de su hijo de forma autónoma y sostenible.
+
+4. **Intervención en entornos naturales**: Los apoyos se proporcionan en los contextos donde el niño vive, juega y aprende (hogar, parque, escuela infantil), no en centros especializados artificiales.
+
+5. **Enfoque basado en rutinas**: Las oportunidades de aprendizaje se integran en las rutinas y actividades cotidianas de la familia, aprovechando los momentos naturales de interacción.
+
+6. **Relación de colaboración**: La relación entre profesional y familia es horizontal, de colaboración entre iguales con diferentes conocimientos, no una relación jerárquica experto-cliente.
+
+7. **Enfoque integral y ecológico**: Se considera al niño en el contexto de todos sus sistemas de relación (familia, comunidad, escuela), no de forma aislada.
+
+## Diferencias con el Modelo Ambulatorio Tradicional
+
+@garcia2014 establecen diferencias fundamentales entre el modelo ambulatorio tradicional y el modelo centrado en la familia:
+
+### En el Rol del Profesional
+
+**Modelo ambulatorio**: El profesional actúa como experto que diagnostica y trata directamente al niño, tomando la mayoría de decisiones sobre objetivos y estrategias de intervención.
+
+**Modelo centrado en familia**: El profesional actúa como consultor, facilitador y capacitador de la familia, compartiendo conocimientos y co-construyendo con la familia el plan de apoyos.
+
+### En el Rol de la Familia
+
+**Modelo ambulatorio**: La familia es receptora pasiva de servicios, espera en la sala mientras el profesional trabaja con el niño, y ocasionalmente recibe indicaciones para hacer ejercicios en casa.
+
+**Modelo ambulatorio**: La familia es agente activo y protagonista, participa activamente en todas las sesiones, identifica prioridades, toma decisiones y desarrolla competencias para apoyar a su hijo en las rutinas cotidianas.
+
+### En el Contexto de Intervención
+
+**Modelo ambulatorio**: La intervención se desarrolla en el centro especializado, en un entorno clínico con materiales específicos, de forma descontextualizada de la vida real del niño.
+
+**Modelo centrado en familia**: La intervención se desarrolla en los entornos naturales del niño (principalmente el hogar), utilizando los objetos y situaciones cotidianas como contexto de aprendizaje.
+
+### En la Intensidad y Frecuencia
+
+**Modelo ambulatorio**: Sesiones regulares de 30-45 minutos, generalmente 1-2 veces por semana, acumulando unas 50-100 horas anuales de intervención directa.
+
+**Modelo centrado en familia**: Sesiones menos frecuentes pero más largas de capacitación familiar (posiblemente quincenales o mensuales), pero con oportunidades de aprendizaje diarias en las rutinas, acumulando miles de horas anuales de experiencias de desarrollo.
+
+### En los Objetivos
+
+**Modelo ambulatorio**: Objetivos principalmente centrados en déficits y habilidades específicas que hay que rehabilitar o entrenar (p.ej., "aumentar el tono muscular", "mejorar la coordinación").
+
+**Modelo centrado en familia**: Objetivos funcionales relacionados con la participación del niño en rutinas y actividades significativas para la familia (p.ej., "que Juan participe en las comidas familiares", "que María juegue con su hermano").
+
+## Marco Normativo y Recomendaciones
+
+### Contexto Internacional
+
+El modelo centrado en la familia está ampliamente respaldado por normativa y recomendaciones internacionales:
+
+- **Estados Unidos**: Desde la promulgación del *Individuals with Disabilities Education Act* (IDEA) en 1990 [@idea1997], la AT debe llevarse a cabo en entornos naturales y con capacidad de elección de las familias sobre los servicios.
+
+- **Portugal**: Un decreto ley de 2009 estableció la obligatoriedad de incluir a las familias en los equipos de trabajo con el niño.
+
+- **Países europeos**: Sin ser obligatorio en la mayoría, los esfuerzos se centran en potenciar cada vez más servicios de AT centrados en la familia [@garcia2014].
+
+### Contexto Español
+
+En España, aunque no existe obligatoriedad legal, diversos documentos oficiales y de consenso profesional respaldan este enfoque:
+
+- El **Libro Blanco de la AT** [@gat2000] ya planteaba la necesidad de atender al niño, su familia y su entorno, potenciando el trabajo en el entorno natural.
+
+- Documentos posteriores de la Federación Estatal de Asociaciones de Profesionales de AT [@gat2005] insisten en la necesidad de fomentar la competencia de las personas presentes en los entornos naturales.
+
+- El **Consenso Estatal para la Mejora de la AT** [@boe2025] establece objetivos, medidas y estándares de calidad que incluyen la orientación hacia prácticas centradas en la familia.
+
+- El **Informe sobre la situación de la AT en España** [@plenainclusion2024] documenta el estado actual de los servicios y las necesidades de transformación hacia este modelo.
+
+## Estrategias de Implementación
+
+### Principios Andragógicos
+
+Para conseguir el desarrollo de competencias en el adulto, es crucial aplicar principios andragógicos que faciliten su aprendizaje e implicación [@garcia2014]:
+
+**Participación**: El adulto no es un mero receptor; debe interactuar con el profesional intercambiando experiencias. El adulto tiene una profunda necesidad de auto-dirigirse en sus actuaciones y aprendizajes.
+
+**Horizontalidad**: El profesional y la familia tienen características cualitativas similares (adultez y experiencia), aunque con diferentes conocimientos cuantitativos. El profesional conoce mejor la psicología evolutiva y las características de la discapacidad; la familia conoce mejor los gustos, preferencias y características únicas de ese niño concreto.
+
+**Flexibilidad**: Cada adulto necesita un tiempo de aprendizaje acorde con sus aptitudes y destrezas. El profesional debe respetar ese tiempo individual.
+
+**Motivación**: El adulto aprende aquello que entiende que necesita aprender. Por ello, los objetivos deben surgir de las prioridades que la propia familia identifica como relevantes para su vida cotidiana.
+
+### Competencias Profesionales Necesarias
+
+La implementación de un modelo centrado en la familia requiere que los profesionales desarrollen competencias específicas:
+
+- **Competencias relacionales**: Habilidades de escucha activa, empatía, comunicación horizontal, construcción de relaciones de confianza.
+
+- **Competencias en capacitación**: Habilidades para identificar y potenciar las fortalezas familiares, más que centrarse solo en déficits.
+
+- **Competencias en entornos naturales**: Capacidad para observar y aprovechar oportunidades de aprendizaje en contextos cotidianos, no solo en situaciones clínicas estructuradas.
+
+- **Competencias en evaluación funcional**: Habilidad para evaluar al niño en sus contextos naturales y en relación con sus rutinas cotidianas [@mcwilliam2010].
+
+- **Competencias en trabajo colaborativo**: Capacidad para co-construir objetivos y estrategias con la familia, compartiendo el poder de decisión.
+
+## Beneficios Documentados
+
+La evidencia científica documenta múltiples beneficios de las prácticas centradas en la familia [@dunst2007]:
+
+**Para el niño**:
+- Mayor número de oportunidades de aprendizaje
+- Aprendizajes más contextualizados y funcionales
+- Mejor generalización de habilidades a diferentes contextos
+- Mayor participación en rutinas familiares y comunitarias
+
+**Para la familia**:
+- Mayor competencia y confianza parental
+- Reducción del estrés familiar
+- Mayor satisfacción con los servicios
+- Mejor calidad de vida familiar
+- Fortalecimiento de las relaciones familiares
+
+**Para los servicios**:
+- Mayor eficiencia en el uso de recursos profesionales
+- Mayor sostenibilidad de los resultados
+- Mejor adherencia familiar a los programas
+- Resultados más significativos y funcionales
+
+## Retos y Necesidades de Transformación
+
+@diaz2019 identifica los principales retos para la transformación hacia un modelo centrado en la familia en España:
+
+**Cambio cultural**: Superar la cultura asistencialista y paternalista tradicional, tanto en profesionales como en familias, que esperan que "el experto solucione el problema".
+
+**Formación profesional**: Necesidad de formación específica en prácticas centradas en la familia, principios andragógicos, trabajo en entornos naturales y evaluación basada en rutinas.
+
+**Organización de servicios**: Los servicios están organizados tradicionalmente para intervención ambulatoria en centros. Se requieren cambios organizativos para permitir intervención en entornos naturales.
+
+**Coordinación intersectorial**: Mayor coordinación entre servicios sanitarios, educativos y sociales para asegurar apoyos integrales en los diferentes entornos del niño.
+
+**Recursos y ratios**: Aunque el modelo puede ser más eficiente a largo plazo, requiere inversión inicial en formación y tiempo profesional para acompañar la transición.
+
+# Valoración Crítica Personal
+
+Tras el análisis de la literatura y la fundamentación teórica, considero que el papel de la familia en la AT debe ser central y protagonista, por razones tanto éticas como de eficacia:
+
+**Desde una perspectiva ética**, resulta incuestionable que la familia tiene derecho a participar activamente en todas las decisiones que afectan a su hijo. Cualquier modelo que relegue a la familia a un rol pasivo o meramente ejecutor de las indicaciones profesionales viola los derechos fundamentales de las personas y las familias. El respeto por la autonomía familiar, por sus valores, prioridades y formas de vida debe ser el punto de partida de cualquier intervención.
+
+**Desde una perspectiva de eficacia**, la evidencia científica es contundente: los niños aprenden mejor en sus contextos naturales, a través de múltiples oportunidades de práctica integradas en rutinas significativas, con las personas que les motivan emocionalmente. Pretender que unas pocas horas semanales de intervención ambulatoria puedan compensar las miles de horas que el niño pasa en su entorno familiar es simplemente irreal. Tiene mucho más sentido invertir el esfuerzo profesional en capacitar a la familia para que genere un entorno rico en oportunidades de aprendizaje.
+
+**Desde una perspectiva de sostenibilidad**, un modelo que fortalece las competencias familiares crea capacidades que perdurarán toda la vida del niño, mucho más allá del periodo de intervención profesional. En contraste, un modelo basado en la dependencia del profesional crea resultados que se mantienen solo mientras dura la intervención directa.
+
+Sin embargo, es importante reconocer que la transición hacia este modelo no está exenta de dificultades. Requiere un cambio profundo en la cultura profesional, pasando de un rol de experto que diagnostica y trata, a un rol de facilitador que acompaña y capacita. Este cambio puede generar inseguridad en profesionales que han sido formados en el modelo tradicional. También requiere un cambio en las expectativas de algunas familias que esperan que "el profesional cure a mi hijo" y pueden sentirse inicialmente desconcertadas cuando se les propone un papel más activo.
+
+La clave está en comprender que **centrar la intervención en la familia no significa abandonar al niño**, sino precisamente lo contrario: es la forma más efectiva de asegurar que el niño reciba los apoyos que necesita en todos los momentos y contextos de su vida, no solo en las escasas horas de tratamiento ambulatorio.
+
+El modelo centrado en la familia tampoco significa que los profesionales pierdan su papel: se requiere alta especialización para evaluar adecuadamente en entornos naturales, para identificar oportunidades de aprendizaje en rutinas cotidianas, para capacitar adultos de forma efectiva y para construir relaciones de colaboración genuina. Es un rol diferente, pero no menos profesional ni menos exigente en términos de competencias.
+
+# Conclusiones
+
+El papel de la familia en la Atención Temprana ha evolucionado desde un rol pasivo y marginal en los orígenes de la disciplina, hacia un rol central y protagonista en el modelo actual centrado en la familia. Esta evolución no es casual, sino que responde a:
+
+1. **Evidencia neuropsicológica** sobre cómo aprenden los niños (en contextos naturales, con múltiples oportunidades de práctica, guiados por su motivación intrínseca).
+
+2. **Evidencia empírica** sobre la efectividad de las prácticas centradas en la familia para mejorar resultados del niño y de la familia [@dunst2007].
+
+3. **Principios éticos** de respeto a los derechos y autonomía de las familias.
+
+4. **Eficiencia** en el uso de recursos profesionales limitados.
+
+5. **Sostenibilidad** de los resultados mediante el fortalecimiento de capacidades familiares permanentes.
+
+La AT centrada en la familia es un enfoque que reconoce y potencia las fortalezas familiares, respeta sus prioridades, fortalece sus competencias y asegura que el niño reciba oportunidades de aprendizaje en todos sus contextos de vida, integradas en rutinas y actividades significativas. No se trata de convertir a los padres en terapeutas, sino de apoyarles para que ejerzan plenamente su rol parental, siendo los mejores facilitadores del desarrollo de su hijo.
+
+El cambio de paradigma que supone la transición hacia este modelo requiere transformaciones profundas en la formación profesional, la organización de servicios, la coordinación intersectorial y la cultura de la AT en España. Sin embargo, los beneficios documentados para niños, familias y servicios justifican plenamente este esfuerzo de transformación.
+
+Como profesionales de la educación y la orientación, debemos ser agentes activos de este cambio, cuestionando prácticas tradicionales que ya no se sostienen a la luz de la evidencia actual, y comprometiéndonos con el desarrollo de competencias que nos permitan acompañar efectivamente a las familias en el maravilloso y exigente proceso de apoyar el desarrollo de sus hijos.
+
+# Referencias
+
+::: {#refs}
+:::

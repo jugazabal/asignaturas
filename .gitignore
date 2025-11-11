@@ -1,0 +1,75 @@
+# Ignore Python scripts and .gitattributes
+ocr_pdf_to_text.py
+pdf_to_text.py
+.gitattributes
+# Ignore VS Code, vendor, and .gitpatches folders
+.vscode/
+vendor/
+.gitpatches/
+# Archivos temporales de Quarto
+/.quarto/
+_site/
+_book/
+_output/
+*.html
+# Permitir seguimiento de exportaciones HTML de Debates
+!Primer cuatrimestre/Politicas y sistemas/Foros/Debate 1/Debate1.html
+!Primer cuatrimestre/Politicas y sistemas/Foros/Debate 2/Debate2.html
+!Primer cuatrimestre/Politicas y sistemas/Foros/Debate 3/Debate3.html
+# Excluir PDFs generados (mantener fuentes .qmd / .md / .bib)
+*.pdf
+.Rproj.user
+
+# Archivos LaTeX temporales
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.tex
+*_files/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+
+# Archivos temporales de Office
+~$*
+*.tmp
+
+# Archivos de respaldo
+*_RESPALDO.*
+*_backup.*
+
+# Node modules (si usas herramientas npm)
+node_modules/
+
+# Entornos virtuales de Python (si usas)
+venv/
+env/
+.venv/
+
+# Cache
+__pycache__/
+*.pyc
+.cache/
+
+# Mantener explícitamente fuentes
+!*.qmd
+!*.md
+!*.bib
+!*.csl
+!*.py
+# Ignore all .conda environments
+*.conda
+# Ignore all Python scripts
+# (Restored to previous state: only ignores build artifacts, temp files, and system files. Tracks all scripts, configs, .qmd, .css, and outputs.)
+

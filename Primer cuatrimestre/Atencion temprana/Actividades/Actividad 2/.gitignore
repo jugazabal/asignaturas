@@ -1,0 +1,33 @@
+# Archivos excluidos de Git
+
+# Salidas de Quarto
+_output/
+*.html
+*.pdf
+*.tex
+*_files/
+
+# Archivos temporales
+.quarto/
+*.log
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+/.quarto/

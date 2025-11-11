@@ -1,0 +1,35 @@
+project:
+  type: default
+  # Activamos localización en español (requiere babel-spanish en LaTeX)
+lang: es
+
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 12pt
+    linestretch: 1.15
+    geometry:
+      - top=2.5cm
+      - bottom=2.5cm
+      - left=2.5cm
+      - right=2.5cm
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    highlight-style: github
+    keep-tex: true
+  
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    highlight-style: github
+    css: styles.css
+
+# Bibliografía y estilo centralizados en carpeta Actividades
+# Rutas absolutas para evitar problemas de resolución en Biber (Windows)
+# Bibliografía local (replicada desde archivo maestro para evitar fallo Biber en rutas ascendentes)
+bibliography: refs.bib
+csl: ../apa.csl

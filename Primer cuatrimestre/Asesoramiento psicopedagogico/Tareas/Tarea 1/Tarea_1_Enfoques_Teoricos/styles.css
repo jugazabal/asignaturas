@@ -1,0 +1,77 @@
+/* Estilos CSS personalizados para versión HTML */
+
+/* Estilos generales */
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Mejorar legibilidad de callouts */
+.callout {
+  border-left: 4px solid #007bff;
+  padding: 1rem;
+  margin: 1.5rem 0;
+}
+
+.callout-note {
+  background-color: #f8f9fa;
+  border-color: #17a2b8;
+}
+
+/* Mejorar tablas */
+table {
+  margin: 2rem auto;
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+}
+
+table th {
+  background-color: #343a40;
+  color: white;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+table tr:hover {
+  background-color: #f8f9fa;
+}
+
+/* Mejorar encabezados */
+h1, h2, h3, h4 {
+  color: #2c3e50;
+  margin-top: 2rem;
+}
+
+h1 {
+  border-bottom: 3px solid #007bff;
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  border-bottom: 2px solid #6c757d;
+  padding-bottom: 0.3rem;
+}
+
+/* Lista de referencias */
+#refs {
+  font-size: 0.95rem;
+}
+
+#refs div {
+  margin-bottom: 1rem;
+  text-indent: -2rem;
+  padding-left: 2rem;
+}
+
+/* Resaltar palabras clave */
+.unnumbered em {
+  color: #007bff;
+  font-weight: 600;
+}
