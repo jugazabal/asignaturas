@@ -12,15 +12,7 @@ editor: visual
 
 # Portada
 
-**Máster Universitario en Formación del Profesorado de ESO y Bachillerato, FP y Enseñanza de Idiomas**\\
-**Especialidad:** Orientación Educativa\\
-**Asignatura:** Practicum\\
-**Actividad 4:** Marcos de colaboración con las familias\\
-**Comunidad Autónoma de referencia:** Extremadura\\
-**Estudiante:** Juan Marcos García Aranzábal\\
-**Centro de prácticas:** IESO Quercus\\
-**Curso académico:** 2025-2026\\
-**Fecha de entrega:** 15/01/2026
+**Máster Universitario en Formación del Profesorado de ESO y Bachillerato, FP y Enseñanza de Idiomas**\\ **Especialidad:** Orientación Educativa\\ **Asignatura:** Practicum\\ **Actividad 4:** Marcos de colaboración con las familias\\ **Comunidad Autónoma de referencia:** Extremadura\\ **Estudiante:** Juan Marcos García Aranzábal\\ **Centro de prácticas:** IESO Quercus\\ **Curso académico:** 2025-2026\\ **Fecha de entrega:** 15/01/2026
 
 ::: callout-note
 Documento ajustado a máximo 8 folios equivalentes (≈2800–3200 palabras) en PDF (Times New Roman 12, interlineado 1,15, márgenes 2,5 cm).
@@ -37,7 +29,7 @@ El índice se genera automáticamente mediante TOC.
 ### Matriz sintética de modelos
 
 | Modelo | Conceptualización breve | Rol del centro | Rol familias | Nivel participación | Comunicación | Prácticas típicas |
-|--------|-------------------------|----------------|--------------|--------------------|--------------|-------------------|
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | Experto | Centro define necesidades y prescribe actuaciones (@knallinsky1999) | Directivo/tutor emite indicaciones | Receptor pasivo de pautas | Bajo (informativo) | Unidireccional descendente | Reuniones informativas, boletines |
 | Transplante | Se intenta "transferir" cultura educativa al hogar | Centro orienta adaptación familiar | Alineación con prácticas escolares | Bajo-medio | Predominantemente unidireccional con feedback puntual | Talleres de técnicas de estudio |
 | Usuario | Familias como "clientes" que demandan servicios | Proveedor de servicios educativos | Evaluador y demandante | Medio (consultivo) | Mixta (consultas, reclamaciones) | Encuestas satisfacción, buzón sugerencias |
@@ -51,64 +43,73 @@ El índice se genera automáticamente mediante TOC.
 ## 1.2. Descripción analítica por modelo
 
 ### Modelo Experto
-- **Definición:** El centro (orientador/profesorado) monopoliza el conocimiento y prescribe acciones a las familias.
-- **Fundamentos:** Enfoques tecnocráticos iniciales de orientación (años 70–80). 
-- **Roles:** Centro como emisor; familia como receptora.
-- **Prácticas:** Reuniones informativas, trípticos, pautas conductuales.
-- **Implicaciones:** Baja personalización contextual; riesgo de pasividad.
+
+-   **Definición:** El centro (orientador/profesorado) monopoliza el conocimiento y prescribe acciones a las familias.
+-   **Fundamentos:** Enfoques tecnocráticos iniciales de orientación (años 70–80).
+-   **Roles:** Centro como emisor; familia como receptora.
+-   **Prácticas:** Reuniones informativas, trípticos, pautas conductuales.
+-   **Implicaciones:** Baja personalización contextual; riesgo de pasividad.
 
 ### Modelo Transplante
-- **Definición:** Transferencia de prácticas escolares al hogar (técnicas estudio, rutinas).
-- **Fundamentos:** Extensión del tiempo de aprendizaje estructurado.
-- **Roles:** Centro orienta; familia aplica.
-- **Prácticas:** Talleres, guías de hábitos, checklists tarea.
-- **Implicaciones:** Mejora continuidad; riesgo de sobrecarga si no hay adaptación cultural.
+
+-   **Definición:** Transferencia de prácticas escolares al hogar (técnicas estudio, rutinas).
+-   **Fundamentos:** Extensión del tiempo de aprendizaje estructurado.
+-   **Roles:** Centro orienta; familia aplica.
+-   **Prácticas:** Talleres, guías de hábitos, checklists tarea.
+-   **Implicaciones:** Mejora continuidad; riesgo de sobrecarga si no hay adaptación cultural.
 
 ### Modelo Usuario
-- **Definición:** Familia como "cliente" que evalúa calidad y demanda servicios.
-- **Fundamentos:** Gestión orientada a satisfacción (inspiración en modelos de calidad total).
-- **Roles:** Centro provee; familia demanda y evalúa.
-- **Prácticas:** Encuestas satisfacción, ventanilla única.
-- **Implicaciones:** Puede incrementar transparencia; riesgo de mercantilización y tensión expectativas.
+
+-   **Definición:** Familia como "cliente" que evalúa calidad y demanda servicios.
+-   **Fundamentos:** Gestión orientada a satisfacción (inspiración en modelos de calidad total).
+-   **Roles:** Centro provee; familia demanda y evalúa.
+-   **Prácticas:** Encuestas satisfacción, ventanilla única.
+-   **Implicaciones:** Puede incrementar transparencia; riesgo de mercantilización y tensión expectativas.
 
 ### Modelo Negociación / Currículo Negociado
-- **Definición:** Decisiones centrales se discuten con representación familiar.
-- **Fundamentos:** Constructivismo social y participación deliberativa.
-- **Roles:** Centro facilita; familia co-decide.
-- **Prácticas:** Comisiones mixtas, acuerdos de aula, proyectos compartidos.
-- **Implicaciones:** Aumenta pertenencia; demanda tiempo, formación participativa.
+
+-   **Definición:** Decisiones centrales se discuten con representación familiar.
+-   **Fundamentos:** Constructivismo social y participación deliberativa.
+-   **Roles:** Centro facilita; familia co-decide.
+-   **Prácticas:** Comisiones mixtas, acuerdos de aula, proyectos compartidos.
+-   **Implicaciones:** Aumenta pertenencia; demanda tiempo, formación participativa.
 
 ### Participación Comunitaria
-- **Definición:** Integración escuela-familia-comunidad como ecosistema.
-- **Fundamentos:** Ecología del desarrollo humano y capital social.
-- **Roles:** Centro nodo; familias y agentes locales coejecutan.
-- **Prácticas:** Aprendizaje servicio, redes interinstitucionales.
-- **Implicaciones:** Relevancia contextual; exige coordinación sostenida.
+
+-   **Definición:** Integración escuela-familia-comunidad como ecosistema.
+-   **Fundamentos:** Ecología del desarrollo humano y capital social.
+-   **Roles:** Centro nodo; familias y agentes locales coejecutan.
+-   **Prácticas:** Aprendizaje servicio, redes interinstitucionales.
+-   **Implicaciones:** Relevancia contextual; exige coordinación sostenida.
 
 ### Escuelas Democráticas
-- **Definición:** Gobernanza con voz amplia y procesos deliberativos regulares.
-- **Fundamentos:** Educación para ciudadanía activa y democracia participativa.
-- **Roles:** Centro garante de procesos; familias miembros deliberativos.
-- **Prácticas:** Asambleas abiertas, presupuestos participativos educativos.
-- **Implicaciones:** Potencia agencia; riesgo de lentitud decisoria.
+
+-   **Definición:** Gobernanza con voz amplia y procesos deliberativos regulares.
+-   **Fundamentos:** Educación para ciudadanía activa y democracia participativa.
+-   **Roles:** Centro garante de procesos; familias miembros deliberativos.
+-   **Prácticas:** Asambleas abiertas, presupuestos participativos educativos.
+-   **Implicaciones:** Potencia agencia; riesgo de lentitud decisoria.
 
 ### Comunidades de Aprendizaje
-- **Definición:** Transformación dialógica con participación extensa en actividades de aula.
-- **Fundamentos:** Aprendizaje dialógico, inclusión y aceleración de aprendizajes.
-- **Roles:** Centro coordina; familias voluntarias co-tutoras.
-- **Prácticas:** Tertulias literarias dialógicas, grupos interactivos.
-- **Implicaciones:** Mejora clima y resultados; requiere formación inicial voluntariado.
+
+-   **Definición:** Transformación dialógica con participación extensa en actividades de aula.
+-   **Fundamentos:** Aprendizaje dialógico, inclusión y aceleración de aprendizajes.
+-   **Roles:** Centro coordina; familias voluntarias co-tutoras.
+-   **Prácticas:** Tertulias literarias dialógicas, grupos interactivos.
+-   **Implicaciones:** Mejora clima y resultados; requiere formación inicial voluntariado.
 
 ### Responsabilidad Compartida
-- **Definición:** Planificación conjunta de apoyos y seguimiento (planes individualizados).
-- **Fundamentos:** Enfoques de socio-educational partnership.
-- **Roles:** Centro diseña marco; familia aporta información contextual y seguimiento.
-- **Prácticas:** Reuniones de caso, hojas de objetivos compartidos.
-- **Implicaciones:** Favorece coherencia; riesgo de burocratización.
+
+-   **Definición:** Planificación conjunta de apoyos y seguimiento (planes individualizados).
+-   **Fundamentos:** Enfoques de socio-educational partnership.
+-   **Roles:** Centro diseña marco; familia aporta información contextual y seguimiento.
+-   **Prácticas:** Reuniones de caso, hojas de objetivos compartidos.
+-   **Implicaciones:** Favorece coherencia; riesgo de burocratización.
 
 ### Modelo Híbrido Propuesto
-- **Definición:** Combina negociación estratégica, participación comunitaria y corresponsabilidad escalonada.
-- **Justificación:** Equilibra eficiencia (experto), apropiación (negociación), inclusión (comunidad) y sostenibilidad (compartida).
+
+-   **Definición:** Combina negociación estratégica, participación comunitaria y corresponsabilidad escalonada.
+-   **Justificación:** Equilibra eficiencia (experto), apropiación (negociación), inclusión (comunidad) y sostenibilidad (compartida).
 
 ## 1.3. Elementos comunes de análisis
 
@@ -119,7 +120,7 @@ Para cada modelo se han considerado: conceptualización, roles, participación, 
 Se presenta una síntesis (DAFO abreviado) de los modelos principales.
 
 | Modelo | Fortalezas | Debilidades | Contextos favorables | Riesgos |
-|--------|------------|-------------|----------------------|---------|
+|-------------|-------------|-------------|--------------------|-------------|
 | Experto | Rapidez decisoria; claridad de pautas | Pasividad familiar; baja adaptación | Centros con alta demanda de intervención urgente | Desconexión cultural |
 | Transplante | Continuidad hogar-escuela; refuerzo hábitos | Posible invasión dinámicas familiares | Necesidad de apoyo estructural en hábitos | Sobrecarga tiempo familiar |
 | Usuario | Mejora transparencia y retroalimentación | Visión mercantil; desigual incidencia | Contextos competitivos urbanos | Expectativas irreales |
@@ -138,48 +139,54 @@ Se prioriza un modelo híbrido que: (a) garantiza derechos y equidad (marco LOML
 
 ## 3.2. Visión de relación ideal familia-escuela
 
-- Participación escalonada: información → consulta → coplanificación selectiva → evaluación compartida.
-- Comunicación multicanal con protocolos de claridad (resúmenes de acuerdo y próximos pasos).
-- Equilibrio autonomía docente y corresponsabilidad familiar mediante transparencia de criterios y evidencias de progreso.
+-   Participación escalonada: información → consulta → coplanificación selectiva → evaluación compartida.
+-   Comunicación multicanal con protocolos de claridad (resúmenes de acuerdo y próximos pasos).
+-   Equilibrio autonomía docente y corresponsabilidad familiar mediante transparencia de criterios y evidencias de progreso.
 
 ## 3.3. Experiencias (Practicum)
 
-[Incluir observaciones reales: modalidad de relación predominante, canales usados, barreras detectadas, ejemplos de entrevistas o reuniones.] 
+\[Incluir observaciones reales: modalidad de relación predominante, canales usados, barreras detectadas, ejemplos de entrevistas o reuniones.\]
 
 ## 3.4. Modelo de colaboración profesional propuesto
 
 ### Principios
-- Inclusión y equidad (artículos de participación y atención a diversidad @lomloe2020).
-- Transparencia comunicativa y lenguaje accesible.
-- Corresponsabilidad distribuida (roles explícitos por fase).
-- Respeto a diversidad cultural y horarios.
+
+-   Inclusión y equidad (artículos de participación y atención a diversidad @lomloe2020).
+-   Transparencia comunicativa y lenguaje accesible.
+-   Corresponsabilidad distribuida (roles explícitos por fase).
+-   Respeto a diversidad cultural y horarios.
 
 ### Objetivos
-- Aumentar participación efectiva (≥60% familias en al menos una actividad formativa anual).
-- Mejorar consistencia apoyos académico-emocionales (registro conjunto objetivos trimestrales).
-- Reducir incidencias de comunicación fragmentada (≥80% actas compartidas a 72h).
+
+-   Aumentar participación efectiva (≥60% familias en al menos una actividad formativa anual).
+-   Mejorar consistencia apoyos académico-emocionales (registro conjunto objetivos trimestrales).
+-   Reducir incidencias de comunicación fragmentada (≥80% actas compartidas a 72h).
 
 ### Fundamentos teóricos combinados
-- Tipología participativa (Epstein – seis tipos) [@epstein2001].
-- Modelos relacionales (Experto, Transplante, Usuario, Negociación – @knallinsky1999).
-- Capital social y comunidad educativa (@bolivar2006).
-- Enfoques de orientación familiar sistémica (@comer1988).
+
+-   Tipología participativa (Epstein – seis tipos) [@epstein2001].
+-   Modelos relacionales (Experto, Transplante, Usuario, Negociación – @knallinsky1999).
+-   Capital social y comunidad educativa (@bolivar2006).
+-   Enfoques de orientación familiar sistémica (@comer1988).
 
 ### Estrategias
-1. Comunicación: boletín mensual síntesis + plataforma digital (avisos, rúbricas). 
-2. Coordinación interna: microreunión quincenal tutor–orientador (≤15 min) seguimiento casos.
-3. Participación: círculos de aprendizaje temáticos (decisión limitada por consenso rápido).
-4. Formación: microtalleres 30 min (hábitos, regulación emocional, transición académica).
-5. Diversidad: intérprete/mediación cultural según demanda; materiales en lectura fácil.
+
+1.  Comunicación: boletín mensual síntesis + plataforma digital (avisos, rúbricas).
+2.  Coordinación interna: microreunión quincenal tutor–orientador (≤15 min) seguimiento casos.
+3.  Participación: círculos de aprendizaje temáticos (decisión limitada por consenso rápido).
+4.  Formación: microtalleres 30 min (hábitos, regulación emocional, transición académica).
+5.  Diversidad: intérprete/mediación cultural según demanda; materiales en lectura fácil.
 
 ### Rol del orientador/a
-- Directo: entrevistas, devolución informes, talleres familias.
-- Indirecto: asesoramiento a tutores en diseño de guías comunicativas.
-- Institucional: coordinación con servicios externos (salud, servicios sociales) y AMPA.
+
+-   Directo: entrevistas, devolución informes, talleres familias.
+-   Indirecto: asesoramiento a tutores en diseño de guías comunicativas.
+-   Institucional: coordinación con servicios externos (salud, servicios sociales) y AMPA.
 
 ### Planificación anual (bosquejo)
+
 | Periodo | Actuaciones clave |
-|---------|------------------|
+|-------------------------|------------------------------------------------|
 | Inicio (Sep-Oct) | Mapa necesidades, sesión bienvenida familias, acuerdos canales |
 | Trimestre 1 | Taller hábitos estudio, primera ronda entrevistas casos prioritarios |
 | Trimestre 2 | Taller orientación itinerarios, círculos participación temática |
@@ -187,15 +194,16 @@ Se prioriza un modelo híbrido que: (a) garantiza derechos y equidad (marco LOML
 | Cierre | Informe síntesis colaboración, propuestas mejora próxima anualidad |
 
 ### Atención a diversidad de familias
-- Franja dual de reuniones (tarde y mediodía). 
-- Materiales multiformato (PDF breve + infografía). 
-- Protocolos de derivación a apoyos comunitarios.
+
+-   Franja dual de reuniones (tarde y mediodía).
+-   Materiales multiformato (PDF breve + infografía).
+-   Protocolos de derivación a apoyos comunitarios.
 
 ## 3.5. Dificultades previstas
 
 | Dificultad | Barrera principal | Señal | Estrategia prevención | Intervención |
-|------------|------------------|-------|-----------------------|--------------|
-| Baja asistencia | Horarios laborales | <40% asistencia talleres | Encuesta disponibilidad previa | Grabación y envío síntesis |
+|--------------|--------------|--------------|------------------|--------------|
+| Baja asistencia | Horarios laborales | \<40% asistencia talleres | Encuesta disponibilidad previa | Grabación y envío síntesis |
 | Desconfianza | Experiencias negativas previas | Comentarios defensivos | Comunicación transparente evaluaciones | Reunión empática centrada en objetivos |
 | Resistencia docente | Percepción sobrecarga | Retrasos respuesta | Microformación + evidencia impacto | Ajustar carga tareas y simplificar plantillas |
 | Barreras idiomáticas | Lengua materna distinta | Solicitud aclaraciones frecuentes | Material visual bilingüe | Mediación cultural externa |
@@ -203,35 +211,40 @@ Se prioriza un modelo híbrido que: (a) garantiza derechos y equidad (marco LOML
 
 ## 3.6. Propuestas de mejora
 
-- Plantilla de acta estandarizada (5 campos clave) para reducir variabilidad.
-- Biblioteca interna de recursos para familias (normativa, guías, vídeos breves).
-- Indicadores trimestrales de participación pública en claustro y consejo escolar.
+-   Plantilla de acta estandarizada (5 campos clave) para reducir variabilidad.
+-   Biblioteca interna de recursos para familias (normativa, guías, vídeos breves).
+-   Indicadores trimestrales de participación pública en claustro y consejo escolar.
 
 ## 3.7. Aprendizajes del Practicum (a completar)
 
-- Observaciones: [pendiente completar].
-- Competencias desarrolladas: escucha activa, síntesis accesible, diseño de talleres breves.
-- Aspectos a reforzar: mediación cultural avanzada, evaluación impacto participación.
+-   Observaciones: \[pendiente completar\].
+-   Competencias desarrolladas: escucha activa, síntesis accesible, diseño de talleres breves.
+-   Aspectos a reforzar: mediación cultural avanzada, evaluación impacto participación.
 
 # Parte 4. Reflexión sobre dificultades y propuestas de mejora
 
 ## 4.1. Barreras del sistema
-- Tiempo y ratios: se priorizan microformatos (≤30 min) y automatización de recordatorios.
-- Recursos limitados: reutilización plantillas y centralización repositorio digital.
+
+-   Tiempo y ratios: se priorizan microformatos (≤30 min) y automatización de recordatorios.
+-   Recursos limitados: reutilización plantillas y centralización repositorio digital.
 
 ## 4.2. Barreras de las familias
-- Disponibilidad horaria: franja dual y materiales asincrónicos.
-- Desconfianza: enfoque de fortalezas en devoluciones (primero logros, luego necesidades).
+
+-   Disponibilidad horaria: franja dual y materiales asincrónicos.
+-   Desconfianza: enfoque de fortalezas en devoluciones (primero logros, luego necesidades).
 
 ## 4.3. Barreras del profesorado
-- Formación específica escasa: cápsulas formativas en reuniones de nivel (5 min).
+
+-   Formación específica escasa: cápsulas formativas en reuniones de nivel (5 min).
 
 ## 4.4. Barreras personales (orientador/a novel)
-- Inseguridad inicial: guía de entrevista estructurada + supervisión.
+
+-   Inseguridad inicial: guía de entrevista estructurada + supervisión.
 
 ## 4.5. Estrategias generales (Prevención / Intervención)
+
 | Tipo dificultad | Prevención | Intervención | Recursos |
-|-----------------|-----------|-------------|----------|
+|----------------------|-----------------|-----------------|-----------------|
 | Horarios | Encuesta y plan dual | Grabación sesión y resumen | Plataforma digital |
 | Idioma | Pictogramas / lectura fácil | Mediador / traducción puntual | Red comunitaria |
 | Desconfianza | Transparencia + acuerdos claros | Reunión restaurativa | Formación mediación |
@@ -240,7 +253,7 @@ Se prioriza un modelo híbrido que: (a) garantiza derechos y equidad (marco LOML
 # Recursos y programas (Extremadura)
 
 | Recurso / Programa | Tipo | Fuente | Contenido clave | Uso orientador |
-|--------------------|------|-------|-----------------|---------------|
+|------------------|--------------|--------------|---------------|--------------|
 | LOMLOE consolidada | Normativa estatal | BOE | Principios equidad, participación, orientación, atención diversidad | Marco legal y justificación de estrategias |
 | Decreto 228/2014 Extremadura | Normativa autonómica | DOE | Respuesta educativa a la diversidad y protocolos | Ajuste a medidas específicas y planes individualizados |
 | Instrucción nº 14/2024 | Organización anual | Junta Extremadura | Organización centros, tutoría, procedimientos | Calendario actuaciones y registros |
@@ -252,12 +265,12 @@ Se prioriza un modelo híbrido que: (a) garantiza derechos y equidad (marco LOML
 
 # Referencias (selección y placeholders nuevos)
 
-Las siguientes referencias normativas y de orientación ya existen en `refs.bib`: @lomloe2020; @decreto_228_2014_extremadura; @instruccion_14_2024_extremadura. 
+Las siguientes referencias normativas y de orientación ya existen en `refs.bib`: @lomloe2020; @decreto_228_2014_extremadura; @instruccion_14_2024_extremadura.
 
 Placeholder de nuevas referencias a añadir (si no están en `refs.bib`): @epstein2001; @comer1988; @henderson_mapp2002; @bolivar2006; @comellas2009; @knallinsky1999.
 
-[Agregar entradas BibTeX correspondientes en `refs.bib` antes de compilación final].
+\[Agregar entradas BibTeX correspondientes en `refs.bib` antes de compilación final\].
 
----
+------------------------------------------------------------------------
 
 Nota: Ajustar y completar secciones marcadas como pendiente tras incorporación de observaciones reales del Practicum y datos específicos de participación familiar.
