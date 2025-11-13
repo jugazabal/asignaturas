@@ -6,8 +6,13 @@ format:
   pdf:
     toc: true
     number-sections: true
+    number-depth: 2
     fontsize: 12pt
     papersize: a4
+    header-includes:
+      - \usepackage{tabularx}
+      - \usepackage{makecell}
+      - \usepackage{graphicx}
 lang: es
 bibliography: refs_pec1.bib
 csl: ../../../../Anuales/Practicum/Actividades/apa.csl
@@ -32,7 +37,7 @@ Este documento compila y analiza la evolución normativa y organizativa de la Or
 
 ---
 
-# 1. Objetivos
+# Objetivos
 
 1. Localizar y sistematizar las normas estatales y autonómicas relevantes sobre orientación y atención a la diversidad.
 2. Caracterizar el modelo de orientación vigente y sus transiciones (preventivo, compensador, inclusivo, ecosistémico, competencial).
@@ -43,13 +48,13 @@ Este documento compila y analiza la evolución normativa y organizativa de la Or
 
 ---
 
-# 2. Metodología y diseño
+# Metodología y diseño
 
-## 2.1 Enfoque
+## Enfoque
 
 Metodología documental descriptivo-comparativa con análisis temático. Fuentes: BOE, DOE, comunicados profesionales (COPOE), documentos técnicos y guías internacionales (UNESCO). Se emplea extracción de fragmentos clave (tutoría, consejo orientador, atención a la diversidad, evaluación psicopedagógica, estructura organizativa, inclusión) y su codificación en categorías.
 
-## 2.2 Procedimiento
+## Procedimiento
 
 1. Recolección normativa estatal (LOE, LOMCE, LOMLOE; RD 217/2022; RD 984/2021; otros reales decretos curriculares).  
 2. Recolección normativa autonómica (decretos organización, instrucciones evaluativas, planes de orientación, atención temprana, protocolos de dictamen).  
@@ -58,7 +63,7 @@ Metodología documental descriptivo-comparativa con análisis temático. Fuentes
 5. Identificación de brechas y riesgos.  
 6. Formulación de indicadores y recomendaciones.  
 
-## 2.3 Criterios de clasificación
+## Criterios de clasificación
 
 - Nivel normativo (Ley Orgánica, Real Decreto, Decreto autonómico, Instrucción).  
 - Dimensión funcional (prevención, intervención, compensación, inclusión, orientación vocacional).  
@@ -66,12 +71,16 @@ Metodología documental descriptivo-comparativa con análisis temático. Fuentes
 - Presencia de Atención Temprana y coordinación intersectorial.  
 - Mecanismos de evaluación y seguimiento (consejo orientador, informes psicopedagógicos, planes individuales).  
 
-## 2.4 Limitaciones y supuestos
+## Limitaciones y supuestos
 
 - Algunas referencias autonómicas se incluyen como placeholders pendientes de verificación exacta (ver notas en tabla).  
 - Se asume continuidad de equipos de orientación educativa y psicopedagógica aunque evolucionen denominaciones.  
 
-## 2.5 Sección específica de riesgos metodológicos
+## Sección específica de riesgos metodológicos
+
+<!-- Reduce font size in table for PDF/LaTeX output -->
+\begingroup
+\scriptsize
 
 | Riesgo | Descripción | Impacto | Probabilidad | Mitigación | Indicador de control |
 |--------|-------------|---------|-------------|------------|----------------------|
@@ -81,9 +90,10 @@ Metodología documental descriptivo-comparativa con análisis temático. Fuentes
 | Ambigüedad terminológica | Cambio de nomenclatura (NEE→NEAE) | Bajo | Alta | Glosario de equivalencias | Glosario presente (Sí/No) |
 | Falta de datos Atención Temprana | Escasa publicación de protocolos intersectoriales | Alto | Media | Placeholder + búsqueda ampliada | Nº documentos Atención Temprana incorporados |
 
----
+\endgroup
 
-# 3. Corpus normativo estatal (síntesis)
+
+# Corpus normativo estatal (síntesis)
 
 Se destacan fragmentos relevantes:
 
@@ -95,7 +105,7 @@ Se destacan fragmentos relevantes:
 
 ---
 
-# 4. Corpus normativo autonómico (Extremadura) – estado inicial
+# Corpus normativo autonómico (Extremadura) – estado inicial
 
 Normas clave (placeholders pendientes de completar datos precisos del DOE):
 
@@ -107,24 +117,43 @@ Acciones siguientes: completar fechas exactas y referencias DOE; añadir protoco
 
 ---
 
-# 5. Tabla de evolución normativa y modelo (2000–2025)
+# Tabla de evolución normativa y modelo (2000–2025)
 
-| Periodo / Año | Norma | Modelo Dominante | Estructura / Órganos | Funciones Clave | Evaluación y Calidad | Atención Temprana / NEE | Cambios Relevantes | Fuente |
-|---------------|-------|------------------|----------------------|-----------------|----------------------|-------------------------|--------------------|--------|
-| 2006 | LOE 2/2006 | Comprensivo / Integrador inicial | Departamentos orientación + EOEP | Apoyo psicopedagógico, acción tutorial | Evaluación criterios etapa | Inicio articulación (incipiente) | Marco base para posterior diversificación | BOE |
-| 2013 | LOMCE | Rendimiento / medición (transición) | Refuerzo evaluaciones externas | Orientación vinculada a itinerarios | Pruebas externas (después modificadas) | Limitado | Mayor énfasis en selección itinerarios | BOE |
-| 2020 | LOMLOE | Inclusivo / competencial | Tutoría reforzada, consejo orientador | Personalización, equidad, acompañamiento | Evaluación formativa y diagnóstica | Refuerzo principios inclusión | Recupera equilibrio Consejo Escolar / dirección | BOE |
-| 2021 | RD 984/2021 | Formativo / colegiado | Equipo docente colegiado | Decisión promoción integral | Consejo orientador formalizado | Adaptaciones sin penalización | Permanencia excepcional | BOE |
-| 2022 | RD 217/2022 | Inclusión + diversificación | Programas diversificación curricular | Acompañamiento en itinerarios | Perfil de salida, competencias | Medidas flexibles atención diversidad | Consejo orientador en ESO | BOE |
-| 2014 | Decreto 228/2014 (EX) | Contextual / territorial | Estructura autonómica orientación (placeholder) | Adaptación recursos, coordinación EOEP | (Pend.) indicadores regionales | (Pend.) protocolos Atención Temprana | Define organización regional | DOE (pend.) |
-| 2022 | Decreto 110/2022 (EX) | Inclusivo / ecosistémico | Reajuste de equipos y funciones (pend.) | Intervención multi-nivel | (Pend.) sistema seguimiento | (Pend.) integración en red temprana | Actualiza a LOMLOE | DOE (pend.) |
-| 2024 | Instrucción 14/2024 (EX) | Procedimental / calidad | Protocolos evaluación psicopedagógica | Estandariza dictámenes y flujos | Trazabilidad informes | Refuerzo detección precoz | Homogeneiza tiempos y formatos | DOE (pend.) |
+\begingroup
+% locally increase horizontal padding and row spacing for readability
+\setlength{\tabcolsep}{8pt}% increase horizontal padding so text doesn't touch vertical rules
+\renewcommand{\arraystretch}{1.2}% increase row height to add vertical breathing room
+\scriptsize
+\begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{1.2cm}|>{\raggedright\arraybackslash}p{2.2cm}|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|}
+\hline
+	extbf{Periodo / Año} & \textbf{Norma} & \textbf{Modelo Dominante} & \textbf{Estructura / Órganos} & \textbf{Funciones Clave} & \textbf{Evaluación y Calidad} & \textbf{Atención Temprana / NEE} & \textbf{Cambios Relevantes} \\
+\hline
+2006 & LOE 2/2006 & Comprensivo / Integrador inicial & Departamentos orientación + EOEP & Apoyo psicopedagógico, acción tutorial & Evaluación criterios etapa & Inicio articulación (incipiente) & Marco base para posterior diversificación \\
+\hline
+2013 & LOMCE & Rendimiento / medición (transición) & Refuerzo evaluaciones externas & Orientación vinculada a itinerarios & Pruebas externas (después modificadas) & Limitado & Mayor énfasis en selección itinerarios \\
+\hline
+2020 & LOMLOE & Inclusivo / competencial & Tutoría reforzada, consejo orientador & Personalización, equidad, acompañamiento & Evaluación formativa y diagnóstica & Refuerzo principios inclusión & Recupera equilibrio Consejo Escolar / dirección \\
+\hline
+2021 & RD 984/2021 & Formativo / colegiado & Equipo docente colegiado & Decisión promoción integral & Consejo orientador formalizado & Adaptaciones sin penalización & Permanencia excepcional \\
+\hline
+2022 & RD 217/2022 & Inclusión + diversificación & Programas diversificación curricular & Acompañamiento en itinerarios & Perfil de salida, competencias & Medidas flexibles atención diversidad & Consejo orientador en ESO \\
+\hline
+2014 & Decreto 228/2014 (EX) & Contextual / territorial & Estructura autonómica orientación (placeholder) & Adaptación recursos, coordinación EOEP & (Pend.) indicadores regionales & (Pend.) protocolos Atención Temprana & Define organización regional \\
+\hline
+2022 & Decreto 110/2022 (EX) & Inclusivo / ecosistémico & Reajuste de equipos y funciones (pend.) & Intervención multi-nivel & (Pend.) sistema seguimiento & (Pend.) integración en red temprana & Actualiza a LOMLOE \\
+\hline
+2024 & Instrucción 14/2024 (EX) & Procedimental / calidad & Protocolos evaluación psicopedagógica & Estandariza dictámenes y flujos & Trazabilidad informes & Refuerzo detección precoz & Homogeneiza tiempos y formatos \\
+\hline
+\end{tabularx}
+\endgroup
+
+
 
 Notas: filas autonómicas requieren verificación documental precisa.
 
 ---
 
-# 6. Análisis comparado
+# Análisis comparado
 
 - Convergencias: Consejo orientador, enfoque competencial, atención a la diversidad desde principios inclusivos; evaluación flexibilizada para evitar segregación.  
 - Divergencias: Nivel de formalización de protocolos psicopedagógicos (autonomía vs. homogeneización estatal mínima), ritmo de integración de Atención Temprana en circuitos educativos.  
@@ -132,7 +161,11 @@ Notas: filas autonómicas requieren verificación documental precisa.
 
 ---
 
-# 7. Indicadores propuestos
+# Indicadores propuestos
+
+<!-- Reduce font size in table for PDF/LaTeX output -->
+\begingroup
+\scriptsize
 
 | Dimensión | Indicador | Fórmula / Definición | Fuente | Frecuencia |
 |-----------|----------|----------------------|--------|------------|
@@ -142,21 +175,23 @@ Notas: filas autonómicas requieren verificación documental precisa.
 | Atención Temprana | Tiempo derivación intersectorial | Fecha detección – Fecha primera intervención | Coordinación sanitaria/educativa | Semestral |
 | Personalización | % consejos orientadores emitidos en plazo | (Consejos emitidos / Consejos previstos) * 100 | Documentación centro | Anual |
 
+\endgroup
+
 ---
 
-# 8. Riesgos y mitigaciones (síntesis)
+# Riesgos y mitigaciones (síntesis)
 
 Ver tabla metodología (2.5). Se añade seguimiento mediante auditoría interna anual y revisión de glosario terminológico.
 
 ---
 
-# 9. Conclusiones
+# Conclusiones
 
 La evolución normativa muestra un tránsito consistente hacia un modelo inclusivo y competencial que enfatiza acompañamiento y personalización (consejo orientador, evaluación formativa). El corpus estatal establece estándares mínimos mientras el autonómico necesita completar su explicitación pública en protocolos (placeholders). Prioridades: reducir tiempos de dictamen, ampliar coordinación Atención Temprana, consolidar indicadores comparables y reforzar dotaciones profesionales de orientación (alineado con demandas COPOE).
 
 ---
 
-# 10. Próximos pasos
+# Próximos pasos
 
 1. Verificar datos exactos de decretos e instrucción autonómica (referencias DOE).  
 2. Incorporar glosario de términos (NEE, NEAE, Atención Temprana, consejo orientador).  
@@ -166,6 +201,10 @@ La evolución normativa muestra un tránsito consistente hacia un modelo inclusi
 ---
 
 # Glosario terminológico
+
+<!-- Reduce font size in table for PDF/LaTeX output -->
+\begingroup
+\scriptsize
 
 | Término | Definición resumida | Observaciones / Evolución |
 |---------|---------------------|---------------------------|
@@ -178,6 +217,8 @@ La evolución normativa muestra un tránsito consistente hacia un modelo inclusi
 | Inclusión educativa | Principio que garantiza participación, aprendizaje y presencia de todo el alumnado en entornos ordinarios con apoyos adecuados. | Eje vertebrador LOMLOE; ligado a Diseño Universal para el Aprendizaje. |
 | Diseño Universal para el Aprendizaje (DUA) | Marco pedagógico que plantea múltiples formas de implicación, representación y acción/expresión. | Asociado a adaptación proactiva no reactiva. |
 | Altas capacidades | Perfil de alumnado con rendimiento o potencial excepcional que requiere enriquecimiento y estrategias de ampliación curricular. | Incluido en NEAE; demanda protocolos específicos de identificación. |
+
+\endgroup
 
 > El glosario mitiga ambigüedades terminológicas y apoya la interpretación homogénea de la tabla evolutiva y los indicadores.
 
