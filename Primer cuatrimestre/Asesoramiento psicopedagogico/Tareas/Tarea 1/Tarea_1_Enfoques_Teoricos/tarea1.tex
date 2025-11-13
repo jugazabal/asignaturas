@@ -1,0 +1,478 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  spanish,
+  11pt,
+  a4paper,
+]{article}
+\usepackage{xcolor}
+\usepackage[margin=2.5cm,margin=2cm]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{setspace}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+\usepackage[]{biblatex}
+\addbibresource{references.bib}
+
+
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Tabla de contenidos}
+\else
+  \newcommand\contentsname{Tabla de contenidos}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Listado de Figuras}
+\else
+  \newcommand\listfigurename{Listado de Figuras}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Listado de Tablas}
+\else
+  \newcommand\listtablename{Listado de Tablas}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figura}
+\else
+  \newcommand\figurename{Figura}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabla}
+\else
+  \newcommand\tablename{Tabla}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listado}
+\newcommand*\listoflistings{\listof{codelisting}{Listado de Listados}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Fichas Resumen de los Enfoques Teóricos de Asesoramiento Psicopedagógico},
+  pdfauthor={Juan Marcos García Aranzábal},
+  pdflang={es},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Fichas Resumen de los Enfoques Teóricos de Asesoramiento
+Psicopedagógico}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Tarea 1 - Asesoramiento Psicopedagógico}
+\author{Juan Marcos García Aranzábal}
+\date{24 de octubre de 2025}
+\begin{document}
+\maketitle
+
+
+\setstretch{1.15}
+\section{Resumen}\label{resumen}
+
+Este trabajo analiza las principales perspectivas teóricas del
+asesoramiento psicopedagógico como modelo de intervención indirecta
+basado en la colaboración multiprofesional. Se examinan los enfoques de
+las perspectivas social, pedagógica, psicológica y psicopedagógica,
+destacando fundamentos teóricos, objetivos, rol del asesor, ventajas y
+limitaciones. El análisis revela evolución desde modelos directivos
+hacia enfoques colaborativos centrados en el asesoramiento entre
+profesionales de igual estatus, destacando principios compartidos:
+inicio a demanda, orientación al cambio, reflexión dialéctica
+teoría-práctica, protagonismo organizacional y relación colaborativa
+\autocite{velaz2009}.
+
+\textbf{Palabras clave}: Asesoramiento psicopedagógico, perspectivas
+teóricas, colaboración profesional, intervención indirecta.
+
+\section{Introducción}\label{introducciuxf3n}
+
+El asesoramiento psicopedagógico constituye un modelo de intervención
+indirecta relevante desde los años setenta para abordar problemas
+educativos complejos \autocite{velaz2009}. Frente al modelo clínico
+tradicional (relación diádica profesional-cliente), el asesoramiento
+establece una relación triádica asesor-asesorado-cliente, donde
+profesionales especializados apoyan a otros profesionales e
+instituciones. Este enfoque responde a que ``nadie sabe más que todos
+juntos'', reconociendo la colaboración multiprofesional como
+indispensable. La función asesora se nutre de diversos campos (Trabajo
+Social, Pedagogía, Psicología, Orientación), configurando una identidad
+en construcción \autocite{velaz2009}. Este trabajo analiza las
+principales perspectivas que han conformado el asesoramiento actual.
+
+\section{Perspectiva Social: Enfoque
+Comunitario}\label{perspectiva-social-enfoque-comunitario}
+
+\textbf{Autores}: Frank (1936), Kadushin (1977), Lippitt \& Lippitt
+(1986), Vélaz de Medrano (2009).
+
+\textbf{Principios teóricos}: Surge en servicios sociales a mediados del
+siglo XX, partiendo de que muchos problemas son producto de modelos
+imperfectos de organización social. Fundamentada en intervención
+indirecta donde el asesor apoya a profesionales e instituciones para
+afrontar mejor problemas educativos complejos. Enfoque intersectorial
+que trasciende límites escolares, involucrando agentes sociales que
+influyen en el desarrollo del alumnado. Interdisciplinar, nutriéndose
+del Trabajo Social, Educación Social, Teoría organizaciones, Psicología,
+Pedagogía y Orientación \autocite{velaz2009}.
+
+\textbf{Objetivos}: Promover coordinación centro educativo-servicios
+comunitarios; facilitar colaboración multiprofesional; favorecer
+participación familias y comunidad; desarrollar programas preventivos
+intersectoriales; apoyar protección e inserción social menores en
+riesgo.
+
+\textbf{Rol del asesor}: Mediador y coordinador institución-comunidad;
+profesional apoyo interno/externo (equipos multiprofesionales, centros
+formación, servicios sociales); facilitador redes apoyo; agente
+consultor a profesionales; profesional con identidad en construcción
+\autocite{velaz2009}.
+
+\textbf{Ventajas}: Visión holística contextual; aprovechamiento recursos
+comunitarios; enfoque preventivo; multiplicación impacto al asesorar;
+sostenibilidad al empoderar profesionales entorno natural menor.
+
+\textbf{Limitaciones}: Alta complejidad organizativa; dependencia
+disponibilidad servicios comunitarios; considerable inversión tiempo
+coordinación; dificultades coordinación interinstitucional; formación
+específica trabajo comunitario no siempre presente; identidad
+profesional construcción.
+
+\textbf{Valoración crítica}: Imprescindible en contexto español para
+absentismo, protección menores, integración alumnado migrante. Los EOEPs
+ejemplifican este modelo, trabajando colaborativamente. Retos: falta
+tiempo coordinación, diferencias protocolos, escasez recursos zonas
+rurales. Necesario consolidar estructuras coordinación y formar
+profesionales en trabajo en red.
+
+\section{Perspectiva Pedagógica}\label{perspectiva-pedaguxf3gica}
+
+\textbf{Autores}: Rodríguez Romero (1996), Bolívar (2000), Nieto (2001).
+
+\textbf{Principios teóricos}: Centra atención en currículo y mejora
+práctica docente como elementos fundamentales enseñanza-aprendizaje.
+Asesor apoya desarrollo profesional profesorado e innovación educativa,
+promoviendo reflexión sobre práctica y desarrollo organizacional centros
+\autocite{velaz2009}.
+
+\textbf{Objetivos}: Mejorar diseño y desarrollo curricular; asesorar
+metodologías enseñanza; promover innovación educativa; apoyar evaluación
+proceso educativo; potenciar desarrollo profesional docente; facilitar
+reflexión colectiva sobre práctica.
+
+\textbf{Rol del asesor}: Experto diseño curricular; asesor metodológico
+profesorado; facilitador procesos innovación; agente cambio
+instituciones educativas; promotor reflexión dialéctica teoría-práctica
+\autocite{velaz2009}.
+
+\textbf{Ventajas}: Actúa sobre causas estructurales problemas; enfoque
+preventivo beneficiando todo alumnado; mejora directamente calidad
+enseñanza; potencia desarrollo profesional; favorece autonomía
+profesorado.
+
+\textbf{Limitaciones}: Requiere amplio conocimiento
+curricular-pedagógico; posible resistencia cambio profesorado; cambios
+curriculares demandan tiempo; puede generar tensiones si percibe como
+cuestionamiento práctica.
+
+\textbf{Valoración crítica}: Esencial en contexto LOMLOE y autonomía
+centros para diseño proyectos educativos contextualizados. Asesores
+Centros Formación Profesorado ejemplifican este rol. Requiere equilibrar
+papel experto-colaborador evitando relaciones asimétricas que dificulten
+colaboración efectiva.
+
+\section{Perspectiva Psicológica}\label{perspectiva-psicoluxf3gica}
+
+\textbf{Autores}: Aubrey (1990), West \& Idol (1987), Caplan (1970).
+
+\textbf{Principios teóricos}: Derivada ámbito clínico y psicología
+aplicada, centra en comprensión procesos psicológicos aprendizaje y
+desarrollo. Adopta modelo consulta entre profesionales igual estatus,
+aplicando conocimientos psicología aprendizaje, evolutiva y
+organizaciones para resolver problemas educativos \autocite{velaz2009}.
+
+\textbf{Objetivos}: Asesorar comprensión procesos psicológicos
+aprendizaje; apoyar identificación y atención necesidades educativas;
+facilitar estrategias basadas evidencia; promover ambientes aprendizaje
+saludables; potenciar desarrollo socioafectivo alumnado.
+
+\textbf{Rol del asesor}: Especialista procesos psicológicos aprendizaje;
+consultor relación igual estatus profesorado; facilitador estrategias
+resolución problemas; promotor reflexión factores psicológicos
+incidentes aprendizaje.
+
+\textbf{Ventajas}: Aporta fundamento científico investigación
+psicológica; proporciona herramientas específicas comprender
+dificultades; modelo consulta entre iguales respetando autonomía
+profesional; enfoque integrando corrientes (conductual, cognitiva,
+constructivista).
+
+\textbf{Limitaciones}: Riesgo centrarse excesivamente factores
+individuales desatendiendo contextuales-organizativos; puede derivar
+etiquetaje alumnado; requiere formación especializada psicología
+aplicada; posible dificultad integrar conocimiento psicológico con
+práctica educativa cotidiana.
+
+\textbf{Valoración crítica}: Aporta rigor científico al asesoramiento,
+valiosa para comprender atender dificultades específicas aprendizaje.
+Orientadores Departamentos Orientación aplican frecuentemente este
+enfoque. Debe evitarse enfoque excesivamente clínico situando problema
+únicamente alumno, integrándose con perspectivas
+contextuales-organizativas para intervención verdaderamente educativa y
+preventiva.
+
+\section{Perspectiva Psicopedagógica
+Integradora}\label{perspectiva-psicopedaguxf3gica-integradora}
+
+\textbf{Autores}: Síntesis perspectivas anteriores \autocite{velaz2009}.
+
+\textbf{Principios teóricos}: Integración perspectivas anteriores
+combinando elementos sociales, pedagógicos y psicológicos. Principios
+compartidos \autocite[47-48]{velaz2009}: inicio a demanda asesorados;
+orientación cambio-mejora; reflexión dialéctica conocimiento
+teórico-práctico en relación simétrica; metodología resolución problemas
+como aprendizaje colectivo; protagonismo organizaciones sobre
+individuos; asesoramiento actividad impregnada valores requiriendo
+reflexión; relación asesor-asesorados como acto aprendizaje y
+colaboración.
+
+\textbf{Objetivos}: Promover desarrollo integral alumnado (aspectos
+cognitivos, afectivos, sociales); facilitar procesos
+enseñanza-aprendizaje calidad con equidad; asesorar colaborativamente
+comunidad educativa; prevenir dificultades mediante intervención
+integral; potenciar capacidad instituciones resolver propios problemas;
+promover cambio educativo desde reflexión compartida.
+
+\textbf{Rol del asesor}: Profesional versátil integrando conocimientos
+diversos campos; colaborador relación simétrica profesores-familias;
+facilitador reflexión dialéctica teoría-práctica; agente cambio e
+innovación potenciando autonomía asesorados; promotor aprendizaje
+organizacional y desarrollo profesional docente.
+
+\textbf{Ventajas}: Visión integradora combinando lo mejor cada
+perspectiva; flexibilidad adaptándose contextos-necesidades; enfoque
+verdaderamente colaborativo entre iguales; promueve aprendizaje
+colectivo y desarrollo organizacional; respeta y potencia autonomía
+asesorados; fundamentada valores explícitos sujetos reflexión.
+
+\textbf{Limitaciones}: Requiere formación amplia multidisciplinar
+asesor; puede resultar menos definida teóricamente al integrar
+perspectivas; implementación compleja demandando condiciones
+institucionales adecuadas (tiempo, espacios coordinación, cultura
+colaborativa); necesita asesorados asumiendo papel activo-protagonista;
+inicio a demanda puede dificultar intervenciones necesarias sin
+conciencia problema.
+
+\textbf{Valoración crítica}: Perspectiva más coherente con principios
+educación inclusiva y orientación educativa en España. Colaboración
+multiprofesional, respeto autonomía profesorado, reflexión dialéctica
+teoría-práctica y protagonismo organizaciones son esenciales para
+orientación calidad. Departamentos Orientación trabajando
+colaborativamente con equipos docentes-familias reflejan esta
+perspectiva. Implementación real enfrenta obstáculos: culturas escolares
+poco colaborativas, falta tiempo trabajo conjunto, persistencia
+concepciones clínicas-directivas rol orientador. Desarrollo efectivo
+requiere cambios estructurales organización centros y formación
+inicial-permanente todos profesionales educativos, no solo orientadores.
+
+\section{Análisis Comparativo}\label{anuxe1lisis-comparativo}
+
+Las cuatro perspectivas comparten elementos fundamentales que configuran
+concepción predominante actual del asesoramiento \autocite{velaz2009}:
+(a) proceso iniciado a demanda asesorados; (b) orientación al
+cambio-mejora cuestionando lo existente; (c) reflexión dialéctica
+teoría-práctica entre profesionales formación complementaria, donde
+conocimiento teórico se reconstruye y genera desde práctica; (d)
+metodología resolución problemas como aprendizaje colectivo; (e)
+organizaciones como protagonistas-destinatarias preferentes más que
+individuos aislados; (f) actividad impregnada valores requiriendo
+formulación y reflexión; (g) relación colaboración potenciando
+capacidades y autonomía, no sustituyendo funciones.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.1884}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2754}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2464}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2899}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Perspectiva
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Enfoque principal
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Rol clave asesor
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Ámbito prioritario
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Social & Comunitario intersectorial & Mediador-coordinador recursos &
+Contexto social amplio \\
+Pedagógica & Curricular-metodológico & Experto currículo-innovación &
+Práctica docente \\
+Psicológica & Procesos aprendizaje & Consultor entre iguales & Factores
+psicológicos \\
+Psicopedagógica & Integrador colaborativo & Facilitador multidimensional
+& Desarrollo organizacional \\
+\end{longtable}
+
+\section{Conclusiones}\label{conclusiones}
+
+El análisis revela complementariedad esencial entre perspectivas. La
+perspectiva social aporta visión contextual comunitaria; la pedagógica
+centra atención en currículo-práctica docente; la psicológica
+proporciona fundamento científico procesos aprendizaje; la
+psicopedagógica ofrece marco integrador. Todas convergen en principios:
+colaboración multiprofesional, relación simétrica, protagonismo
+organizacional, reflexión teoría-práctica, orientación cambio-mejora.
+
+La práctica profesional actual requiere integración flexible estas
+perspectivas según contexto-necesidades. En sistema educativo español,
+estructuras como EOEPs, Departamentos Orientación y Centros Formación
+Profesorado reflejan aplicación diversas perspectivas. Retos
+principales: consolidar culturas colaborativas, garantizar
+tiempo-espacios coordinación, formar profesionales competencias trabajo
+red, superar concepciones excesivamente clínicas-directivas.
+
+El asesoramiento psicopedagógico, como proceso colaborativo entre
+profesionales igual estatus orientado a potenciar autonomía y
+capacidades organizaciones educativas, se configura como modelo
+fundamental para educación inclusiva de calidad. Su desarrollo pleno
+requiere compromiso institucional, formación adecuada y transformación
+culturas profesionales hacia colaboración y reflexión compartida.
+
+\section*{Referencias}\label{referencias}
+\addcontentsline{toc}{section}{Referencias}
+
+\printbibliography[heading=none]
+
+
+
+
+
+\end{document}

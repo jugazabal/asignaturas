@@ -1,0 +1,381 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  spanish,
+  12pt,
+  a4paper,
+]{article}
+\usepackage{xcolor}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{5}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{setspace}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+\usepackage[]{biblatex}
+\addbibresource{references.bib}
+
+
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Tabla de contenidos}
+\else
+  \newcommand\contentsname{Tabla de contenidos}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Listado de Figuras}
+\else
+  \newcommand\listfigurename{Listado de Figuras}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Listado de Tablas}
+\else
+  \newcommand\listtablename{Listado de Tablas}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figura}
+\else
+  \newcommand\figurename{Figura}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabla}
+\else
+  \newcommand\tablename{Tabla}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listado}
+\newcommand*\listoflistings{\listof{codelisting}{Listado de Listados}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Comentario Crítico: Montanero (2014)},
+  pdfauthor={Juan Marcos García Aranzábal},
+  pdflang={es},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Comentario Crítico: Montanero (2014)}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{La investigación sobre el asesoramiento educativo en España:
+una revisión de su metodología y resultados empíricos}
+\author{Juan Marcos García Aranzábal}
+\date{13 de noviembre de 2025}
+\begin{document}
+\maketitle
+
+
+\setstretch{1.5}
+\section{Resumen analítico}\label{resumen-analuxedtico}
+
+\subsection{Objetivo principal del
+artículo}\label{objetivo-principal-del-artuxedculo}
+
+El artículo de Montanero (2014) presenta una revisión sistemática de los
+trabajos empíricos publicados durante los últimos 20 años sobre el
+asesoramiento educativo en el contexto del sistema educativo español. Su
+propósito principal es analizar las metodologías empleadas en estas
+investigaciones, sintetizar sus principales resultados y señalar sus
+limitaciones metodológicas. El autor busca proporcionar una panorámica
+del estado de la cuestión sobre la investigación del asesoramiento
+psicopedagógico en España, identificando las principales tendencias,
+enfoques y perspectivas que han caracterizado este campo de estudio.
+
+\subsection{Principales hallazgos y
+conclusiones}\label{principales-hallazgos-y-conclusiones}
+
+Montanero identifica hallazgos convergentes en la investigación
+revisada: (1) \textbf{Predominio del enfoque interpretativo} sobre
+estudios experimentales de eficacia; (2) \textbf{Importancia y
+dificultad} del asesoramiento, percibida tanto por profesores como
+asesores; (3) \textbf{Discrepancia entre modelos}: los asesores aspiran
+a promover desarrollo de centros pero dedican más tiempo a tareas
+burocráticas; (4) \textbf{Documentación de estrategias} colaborativas
+mediante análisis del discurso; y (5) \textbf{Atención a la diversidad}
+como principal demanda de asesoramiento.
+
+\subsection{Tipos de metodologías
+revisadas}\label{tipos-de-metodologuxedas-revisadas}
+
+Montanero clasifica las investigaciones en dos enfoques:
+
+\textbf{1. Estudios centrados en explicar la eficacia} (relaciones
+causales entre asesoramiento y resultados):
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Diseños experimentales/cuasi-experimentales}: Grupos control,
+  pretest-postest, asignación aleatoria. Ejemplos: Sánchez y Rosales
+  (1996) sobre habilidades discursivas; Montanero et al.~(2008) sobre
+  explicaciones causales.
+\item
+  \emph{Serie temporal}: Múltiples mediciones durante el asesoramiento
+  (García y Sánchez, 2007).
+\item
+  \emph{Estudios retrospectivos}: Datos institucionales para estudiar
+  factores de eficacia escolar.
+\end{itemize}
+
+\textbf{2. Estudios centrados en comprender prácticas} (predominio
+cualitativo):
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Encuestas cerradas}: Cuestionarios Likert sobre opiniones y
+  percepciones (Marcelo, 1997; Boza, 2004).
+\item
+  \emph{Autoinformes cualitativos}: Grupos de discusión, entrevistas en
+  profundidad, diarios (Escudero y Moreno, 1992; Arencibia y Moreno,
+  2005).
+\item
+  \emph{Análisis del discurso}: Sistemas de categorización de sesiones
+  de asesoramiento. Destacan los trabajos de Sánchez et al.~(1994-2008)
+  analizando qué, cómo y para qué se comunica.
+\end{itemize}
+
+\section{Análisis metodológico}\label{anuxe1lisis-metodoluxf3gico}
+
+\subsection{Evaluación de los enfoques
+metodológicos}\label{evaluaciuxf3n-de-los-enfoques-metodoluxf3gicos}
+
+Los diseños experimentales establecen relaciones causales mediante
+medidas pre-post con grupos control e instrumentos validados, pero
+presentan validez externa limitada por contextos controlados. Los
+estudios interpretativos capturan la complejidad contextual y
+concepciones subyacentes, documentando la distancia teoría-práctica,
+aunque adolecen de escasa replicabilidad. Las principales limitaciones
+incluyen: escasez de diseños experimentales rigurosos en educación
+pre-universitaria; múltiples amenazas a la validez interna en estudios
+retrospectivos; sesgos de deseabilidad social en encuestas; y falta de
+triangulación metodológica en muchos estudios.
+
+\subsection{Discusión sobre validez y
+fiabilidad}\label{discusiuxf3n-sobre-validez-y-fiabilidad}
+
+La validez y fiabilidad varían según el diseño: los experimentales
+reportan fiabilidad aceptable (α = 0,89) y sistemas de categorías
+validados, pero con validez externa limitada por muestras pequeñas. Las
+encuestas establecen validez de constructo por expertos y pilotos,
+aunque las tasas de respuesta (37\%-83\%) afectan la representatividad.
+Los cualitativos emplean validación comunicativa y triangulación de
+fuentes, pero los sistemas inductivos carecen frecuentemente de
+fiabilidad inter-jueces, limitando la transferibilidad. Problemáticas
+generales: múltiples amenazas a validez interna en diseños
+retrospectivos, escasa replicabilidad cualitativa, y falta de estudios
+longitudinales sobre cambio a largo plazo.
+
+\subsection{Reflexión sobre métodos cualitativos
+vs.~cuantitativos}\label{reflexiuxf3n-sobre-muxe9todos-cualitativos-vs.-cuantitativos}
+
+El artículo evidencia predominio cualitativo/mixto sobre diseños
+experimentales puros. Los métodos cualitativos ofrecen riqueza
+contextual, acceso a concepciones implícitas, flexibilidad adaptativa y
+relevancia ecológica al capturar el cómo y porqué de procesos complejos.
+Sin embargo, presentan limitaciones: dificultad para establecer
+causalidad, problemas de generalización, alta inversión temporal, riesgo
+de sesgo interpretativo y menor consenso sobre rigor científico.
+
+Los métodos cuantitativos/experimentales permiten relaciones causales
+certeras, comparaciones sistemáticas, generalizabilidad y control de
+variables extrañas, pero enfrentan dificultades en asesoramiento:
+complejidad de manipular variables en contextos naturales, reduccionismo
+que obvia aspectos procesuales, dilemas éticos en asignación aleatoria y
+escasa viabilidad práctica.
+
+Esta predominancia cualitativa refleja la naturaleza compleja,
+contextualizada y colaborativa del asesoramiento español. Montanero
+sugiere implícitamente mayor equilibrio: se requieren más estudios
+experimentales que documenten eficacia, complementados con
+investigaciones cualitativas que comprendan procesos subyacentes.
+
+\section{Valoración crítica}\label{valoraciuxf3n-cruxedtica}
+
+\subsection{Aportaciones del
+artículo}\label{aportaciones-del-artuxedculo}
+
+El artículo de Montanero aporta: (1) Primera revisión sistemática
+comprehensiva de dos décadas de investigación española sobre
+asesoramiento; (2) Marco clasificatorio claro distinguiendo estudios
+orientados a explicar eficacia vs.~comprender prácticas; (3)
+Documentación del predominio interpretativo-cualitativo; (4) Síntesis de
+resultados empíricos convergentes sobre importancia/dificultad del
+asesoramiento, modelos predominantes y demandas frecuentes; (5)
+Visibilización de modelos metodológicamente rigurosos (ej. Sánchez et
+al.); (6) Reconocimiento de la idiosincrasia del sistema español y
+dificultades de transferir resultados internacionales; (7) Agenda
+implícita señalando lagunas y necesidades de investigación futura.
+
+\subsection{Limitaciones detectadas}\label{limitaciones-detectadas}
+
+\textbf{Identificadas por Montanero:} Escasez de estudios experimentales
+limita conclusiones sobre eficacia; amenazas a validez en diseños
+retrospectivos ex-post-facto; dificultad de generalización de estudios
+de caso idiográficos.
+
+\textbf{Otras limitaciones:} Ausencia de evaluación sistemática de
+calidad metodológica mediante criterios explícitos; falta de
+meta-análisis para estimar tamaños del efecto agregados; criterios de
+inclusión y bases de datos no explicitados, dificultando replicabilidad;
+ausencia de análisis evolutivo de metodologías y temáticas durante las
+dos décadas; limitada discusión de implicaciones prácticas
+profesionales; probable sesgo de publicación al excluir tesis y reportes
+institucionales no publicados.
+
+\subsection{Propuestas de mejora y líneas
+futuras}\label{propuestas-de-mejora-y-luxedneas-futuras}
+
+\textbf{Metodológicas:} (1) Diseños mixtos secuenciales combinando
+exploraciones cualitativas con evaluaciones experimentales; (2) Estudios
+longitudinales documentando procesos de cambio a medio-largo plazo; (3)
+Meta-análisis y revisiones sistemáticas con protocolos PRISMA; (4)
+Estudios multinivel analizando variables individuales, grupales y
+organizativas.
+
+\textbf{Temáticas:} (5) Asesoramiento mediado por tecnología
+virtual/híbrido post-COVID; (6) Competencias específicas del asesor
+eficaz; (7) Estrategias para contextos inclusivos y atención a la
+diversidad; (8) Modelos de formación inicial y continua de asesores; (9)
+Perspectiva del alumnado sobre cambios derivados del asesoramiento; (10)
+Estudios comparativos internacionales identificando elementos
+transferibles y específicos.
+
+\section{Referencias}\label{referencias}
+
+Montanero, M. (2014). La investigación sobre el asesoramiento educativo
+en España: una revisión de su metodología y resultados empíricos.
+\emph{Revista Española de Pedagogía}, 72(259), 525-542.
+https://reunir.unir.net/handle/123456789/3737
+
+
+\printbibliography
+
+
+
+\end{document}

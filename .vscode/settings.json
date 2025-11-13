@@ -1,0 +1,8 @@
+{
+  // Open previews (like Quarto Preview) in their own tabs instead of reusing the preview editor
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+
+  // Optional: ensure Markdown/Quarto preview opens to the side by default (you can change as needed)
+  "markdown.preview.openToTheSide": true
+}

@@ -1,0 +1,9 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'actividad3.blg'
+[110] biber-MSWIN64:342> INFO - === 
+[161] Biber.pm:421> INFO - Reading 'actividad3.bcf'
+[304] Biber.pm:1002> INFO - Found 5 citekeys in bib section 0
+[321] Biber.pm:4487> INFO - Processing section 0
+[332] Biber.pm:4678> INFO - Looking for bibtex file 'practicum\_references.bib' for section 0
+[657] Utils.pm:479> ERROR - Cannot find 'practicum\_references.bib'!
+[657] Biber.pm:137> INFO - ERRORS: 1
